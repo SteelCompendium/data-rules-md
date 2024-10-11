@@ -1,0 +1,13 @@
+---
+title_raw: Walk
+title: Walk
+name_raw: Walk
+name: Walk
+type: ..
+subtype: data-rules-md
+kind: movement
+---
+
+# Walk
+
+Walking is the most common movement type, whether it refers to ambulating on legs, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.
