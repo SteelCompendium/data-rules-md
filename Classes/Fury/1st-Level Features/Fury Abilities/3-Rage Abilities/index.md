@@ -18,4 +18,4 @@ Choose one [[Heroic Abilities|heroic ability]] from the following options, each 
 
 [[Rage|RAGE]]\[WHIRLWIND STRIKE (3 [[Rage|RAGE]])\](./[[Whirlwind]]%20Strike%20(3%20RAGE).md)
 
-[[Rage|RAGE]]\[YOUR ENTRAILS ARE YOUR EXTRAILS! (3 [[Rage|RAGE]])\](./Your%20Entrails%20Are%20Your%20EXTRAILS!%20(3%20RAGE).md)
+[[Rage|RAGE]]\[YOUR ENTRAILS ARE YOUR EXTRAILS! (3 [[Rage|RAGE]])\](./Your%20Entrails%20Are%20Your%20Extrails%20(3%20RAGE).md)

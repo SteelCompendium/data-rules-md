@@ -18,4 +18,4 @@ Your chosen doctrine grants you two features, as shown on the [[Tactical Doctrin
 
 [IMPOSING ATTITUDE](./Imposing%20Attitude.md)
 
-[I READ YOUR BOOK!](./I%20Read%20Your%20BOOK!.md)
+[I READ YOUR BOOK!](./I%20Read%20Your%20Book.md)

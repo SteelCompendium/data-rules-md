@@ -14,7 +14,7 @@ Your doctrine grants you a triggered action, as shown on the [[Tactician Trigger
 
 [TACTICIAN TRIGGERED ACTIONS](./%5B%5BTactician%5D%5D%20Triggered%20Actions.md)
 
-[FLANK THEM NOW!](./Flank%20Them%20NOW!.md)
+[FLANK THEM NOW!](./Flank%20Them%20Now.md)
 
 [PARRY](./%5B%5BParry%5D%5D.md)
 

@@ -14,9 +14,9 @@ With this stormwight kit, you channel your primordial [[Rage|rage]] into the for
 
 [ASPECT BENEFITS](./Aspect%20Benefits.md)
 
-[ANIMAL FORM: BEAR](./Animal%20FORM:%20Bear.md)
+[ANIMAL FORM: BEAR](./Animal%20Form%20Bear.md)
 
-[PRIMORDIAL STORM: BLIZZARD](./Primordial%20STORM:%20Blizzard.md)
+[PRIMORDIAL STORM: BLIZZARD](./Primordial%20Storm%20Blizzard.md)
 
 [KIT BONUSES](./Kit%20Bonuses.md)
 

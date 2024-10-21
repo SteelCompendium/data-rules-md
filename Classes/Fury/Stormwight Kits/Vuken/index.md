@@ -14,9 +14,9 @@ With this stormwight kit, you channel your primordial [[Rage|rage]] into the for
 
 [ASPECT BENEFITS](./Aspect%20Benefits.md)
 
-[ANIMAL FORM: WOLF](./Animal%20FORM:%20Wolf.md)
+[ANIMAL FORM: WOLF](./Animal%20Form%20Wolf.md)
 
-[PRIMORDIAL STORM: LIGHTNING STORM](./Primordial%20STORM:%20Lightning%20Storm.md)
+[PRIMORDIAL STORM: LIGHTNING STORM](./Primordial%20Storm%20Lightning%20Storm.md)
 
 [KIT BONUSES](./Kit%20Bonuses.md)
 

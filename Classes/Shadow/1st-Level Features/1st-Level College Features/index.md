@@ -18,6 +18,6 @@ Your choice of college grants you one or two features, as shown on the [[Shadow 
 
 [COAT THE BLADE](./Coat%20The%20Blade.md)
 
-[I'M ON YOUR SIDE](./I'M%20On%20Your%20Side.md)
+[I'M ON YOUR SIDE](./Im%20On%20Your%20Side.md)
 
 [SMOKE BOMB](./Smoke%20Bomb.md)

@@ -14,9 +14,9 @@ With this stormwight kit, you channel your primordial [[Rage|rage]] into the for
 
 [ASPECT BENEFITS](./Aspect%20Benefits.md)
 
-[ANIMAL FORM: RAT](./Animal%20FORM:%20Rat.md)
+[ANIMAL FORM: RAT](./Animal%20Form%20Rat.md)
 
-[PRIMORDIAL STORM: RAT FLOOD](./Primordial%20STORM:%20Rat%20Flood.md)
+[PRIMORDIAL STORM: RAT FLOOD](./Primordial%20Storm%20Rat%20Flood.md)
 
 [KIT BONUSES](./Kit%20Bonuses.md)
 

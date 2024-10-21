@@ -4538,11 +4538,11 @@ Your chosen doctrine grants you two features, as shown on the [[Tactical Doctrin
 
 ##### 1ST-LEVEL TACTICAL DOCTRINE FEATURES
 
-| Doctrine   | Feature                                  |
-| ---------- | ---------------------------------------- |
-| Vanguard   | [[Imposing Attitude]]                    |
-| Mastermind | [[I Read Your BOOK!\|I Read Your Book!]] |
-| Insurgent  | [[Covert Operations]]                    |
+| Doctrine   | Feature               |
+| ---------- | --------------------- |
+| Vanguard   | [[Imposing Attitude]] |
+| Mastermind | [[I Read Your Book]]! |
+| Insurgent  | [[Covert Operations]] |
 
 ##### COVERT OPERATIONS
 

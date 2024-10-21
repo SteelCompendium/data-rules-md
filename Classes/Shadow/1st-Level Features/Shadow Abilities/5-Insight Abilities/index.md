@@ -14,7 +14,7 @@ Choose one [[Heroic Abilities|heroic ability]] from the following options, each 
 
 [[Insight|INSIGHT]]\[ASSASSINATE (5 [[Insight|INSIGHT]])\](./[[Assassinate]]%20(5%20INSIGHT).md)
 
-[[Insight|INSIGHT]]\[GET IN, GET OUT (5 [[Insight|INSIGHT]])\](./Get%20IN,%20Get%20Out%20(5%20INSIGHT).md)
+[[Insight|INSIGHT]]\[GET IN, GET OUT (5 [[Insight|INSIGHT]])\](./Get%20In%20Get%20Out%20(5%20INSIGHT).md)
 
 [[Insight|INSIGHT]]\[IMPAIRING SHOT (5 [[Insight|INSIGHT]])\](./Impairing%20Shot%20(5%20INSIGHT).md)
 

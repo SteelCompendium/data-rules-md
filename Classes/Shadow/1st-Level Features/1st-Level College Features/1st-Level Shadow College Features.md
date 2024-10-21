@@ -14,4 +14,4 @@ kind: 1st-level features
 | --------------- | -------------------------------------------------- |
 | Black Ash       | [[Black Ash Teleport]]                             |
 | Caustic Alchemy | [[Coat The Blade\|Coat the Blade]], [[Smoke Bomb]] |
-| Harlequin Mask  | [[I'M On Your Side\|I'm On Your Side]]             |
+| Harlequin Mask  | I'm On Your Side                                   |

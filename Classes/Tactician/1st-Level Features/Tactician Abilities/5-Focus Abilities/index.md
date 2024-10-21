@@ -14,7 +14,7 @@ Choose one [[Heroic Abilities|heroic ability]] from the following options, each 
 
 [[Focus|FOCUS]]\[HAMMER AND ANVIL (5 [[Focus|FOCUS]])\](./Hammer%20And%20Anvil%20(5%20FOCUS).md)
 
-[[Focus|FOCUS]]\[NOW! (5 [[Focus|FOCUS]])\](./[[Now!|NOW!]]%20(5%20FOCUS).md)
+[[Focus|FOCUS]]\[NOW! (5 [[Focus|FOCUS]])\](./Now%20(5%20FOCUS).md)
 
 [[Focus|FOCUS]]\[THEIR WEAKNESS IS OUR STRENGTH (5 [[Focus|FOCUS]])\](./Their%20Weakness%20Is%20Our%20Strength%20(5%20FOCUS).md)
 

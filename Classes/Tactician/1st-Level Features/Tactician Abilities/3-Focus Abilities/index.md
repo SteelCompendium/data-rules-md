@@ -18,4 +18,4 @@ Choose one [[Heroic Abilities|heroic ability]] from the following options, each 
 
 [[Focus|FOCUS]]\[INSPIRING STRIKE (3 [[Focus|FOCUS]])\](./Inspiring%20Strike%20(3%20FOCUS).md)
 
-[[Focus|FOCUS]]\[PHALANX FORWARD! (3 [[Focus|FOCUS]])\](./Phalanx%20FORWARD!%20(3%20FOCUS).md)
+[[Focus|FOCUS]]\[PHALANX FORWARD! (3 [[Focus|FOCUS]])\](./Phalanx%20Forward%20(3%20FOCUS).md)

@@ -12,7 +12,7 @@ kind: 1st-level features
 
 Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 3 [[Essence|essence]] to use.
 
-[[Essence|ESSENCE]]\[BURN! (3 [[Essence|ESSENCE]])\](./[[Burn!|BURN!]]%20(3%20ESSENCE).md)
+[[Essence|ESSENCE]]\[BURN! (3 [[Essence|ESSENCE]])\](./Burn%20(3%20ESSENCE).md)
 
 [[Essence|ESSENCE]]\[INVIGORATING GROWTH (3 [[Essence|ESSENCE]])\](./Invigorating%20Growth%20(3%20ESSENCE).md)
 

@@ -14,9 +14,9 @@ With this stormwight kit, you channel your primordial [[Rage|rage]] into the for
 
 [ASPECT BENEFITS](./Aspect%20Benefits.md)
 
-[ANIMAL FORM: CROW](./Animal%20FORM:%20Crow.md)
+[ANIMAL FORM: CROW](./Animal%20Form%20Crow.md)
 
-[PRIMORDIAL STORM: KATABATIC WIND](./Primordial%20STORM:%20Katabatic%20Wind.md)
+[PRIMORDIAL STORM: KATABATIC WIND](./Primordial%20Storm%20Katabatic%20Wind.md)
 
 [KIT BONUSES](./Kit%20Bonuses.md)
 
