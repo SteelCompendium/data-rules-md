@@ -10,7 +10,7 @@ kind: 1st-level features
 
 # College Triggered Action
 
-Your college grants you a triggered action, as shown on the [[Shadow Triggered Actions]] table.
+Your college grants you a [[Triggered Action|triggered action]], as shown on the [[Shadow Triggered Actions]] table.
 
 [SHADOW TRIGGERED ACTIONS](./%5B%5BShadow%5D%5D%20Triggered%20Actions.md)
 

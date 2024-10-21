@@ -22,8 +22,8 @@ As an [[Elementalist|elementalist]], you gain the following features.
 
 [PRACTICAL MAGIC](./Practical%20Magic.md)
 
-[1ST-LEVEL SPECIALIZATION FEATURE](./1st-Level%20Specialization%20Feature/index.md)
+[1ST-LEVEL SPECIALIZATION FEATURE](./1st-Level%20Specialization%20Feature/1st-Level%20Specialization%20Feature.md)
 
-[SPECIALIZATION TRIGGERED ACTION](./Specialization%20Triggered%20Action/index.md)
+[SPECIALIZATION TRIGGERED ACTION](./Specialization%20Triggered%20Action/Specialization%20Triggered%20Action.md)
 
-[ELEMENTALIST ABILITIES](./%5B%5BElementalist%5D%5D%20Abilities/index.md)
+[ELEMENTALIST ABILITIES](./%5B%5BElementalist%5D%5D%20Abilities/%5B%5BElementalist%5D%5D%20Abilities.md)

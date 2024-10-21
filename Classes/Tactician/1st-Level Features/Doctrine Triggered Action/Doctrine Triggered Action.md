@@ -10,7 +10,7 @@ kind: 1st-level features
 
 # Doctrine Triggered Action
 
-Your doctrine grants you a triggered action, as shown on the [[Tactician Triggered Actions]] table.
+Your doctrine grants you a [[Triggered Action|triggered action]], as shown on the [[Tactician Triggered Actions]] table.
 
 [TACTICIAN TRIGGERED ACTIONS](./%5B%5BTactician%5D%5D%20Triggered%20Actions.md)
 

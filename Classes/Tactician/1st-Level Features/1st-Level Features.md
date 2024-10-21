@@ -20,10 +20,10 @@ As a [[Tactician|tactician]], you gain the following features.
 
 [SEIZE THE OPENING](./Seize%20The%20Opening.md)
 
-[1ST-LEVEL DOCTRINE FEATURES](./1st-Level%20Doctrine%20Features/index.md)
+[1ST-LEVEL DOCTRINE FEATURES](./1st-Level%20Doctrine%20Features/1st-Level%20Doctrine%20Features.md)
 
-[DOCTRINE TRIGGERED ACTION](./Doctrine%20Triggered%20Action/index.md)
+[DOCTRINE TRIGGERED ACTION](./Doctrine%20Triggered%20Action/Doctrine%20Triggered%20Action.md)
 
 [FIELD ARSENAL](./Field%20Arsenal.md)
 
-[TACTICIAN ABILITIES](./%5B%5BTactician%5D%5D%20Abilities/index.md)
+[TACTICIAN ABILITIES](./%5B%5BTactician%5D%5D%20Abilities/%5B%5BTactician%5D%5D%20Abilities.md)

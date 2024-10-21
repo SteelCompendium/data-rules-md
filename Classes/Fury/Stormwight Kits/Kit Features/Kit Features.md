@@ -10,7 +10,7 @@ kind: stormwight kits
 
 # Kit Features
 
-All stormwight kits have the following features in common.
+All [[Stormwight Kits|stormwight kits]] have the following features in common.
 
 [ASPECT BENEFITS](./Aspect%20Benefits.md)
 

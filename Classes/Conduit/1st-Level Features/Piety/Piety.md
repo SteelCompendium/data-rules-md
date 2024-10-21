@@ -18,4 +18,4 @@ When a combat encounter begins, you keep any piety you had outside of combat. At
 
 [PRAYER](./%5B%5BPrayer%5D%5D.md)
 
-[DOMAIN EFFECTS](./Domain%20Effects/index.md)
+[DOMAIN EFFECTS](./Domain%20Effects/Domain%20Effects.md)

@@ -20,10 +20,10 @@ As a [[Fury|fury]], you gain the following features.
 
 [MIGHTY LEAPS](./Mighty%20Leaps.md)
 
-[1ST-LEVEL ASPECT FEATURES](./1st-Level%20Aspect%20Features/index.md)
+[1ST-LEVEL ASPECT FEATURES](./1st-Level%20Aspect%20Features/1st-Level%20Aspect%20Features.md)
 
-[PRIMORDIAL SHAPE](./Primordial%20Shape/index.md)
+[PRIMORDIAL SHAPE](./Primordial%20Shape/Primordial%20Shape.md)
 
-[ASPECT TRIGGERED ACTION](./Aspect%20Triggered%20Action/index.md)
+[ASPECT TRIGGERED ACTION](./Aspect%20Triggered%20Action/Aspect%20Triggered%20Action.md)
 
-[FURY ABILITIES](./%5B%5BFury%5D%5D%20Abilities/index.md)
+[FURY ABILITIES](./%5B%5BFury%5D%5D%20Abilities/%5B%5BFury%5D%5D%20Abilities.md)

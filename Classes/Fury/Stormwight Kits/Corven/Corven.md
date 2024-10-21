@@ -10,7 +10,7 @@ kind: stormwight kits
 
 # Corven
 
-With this stormwight kit, you channel your primordial [[Rage|rage]] into the form of a crow. Corven are tied to the [[Mountain|mountain]] passes and the hot winds that flow through them. This aspect is associated with the katabatic wind.
+With this [[Stormwight Kits|stormwight kit]], you channel your primordial [[Rage|rage]] into the form of a crow. Corven are tied to the [[Mountain|mountain]] passes and the hot winds that flow through them. This aspect is associated with the katabatic wind.
 
 [ASPECT BENEFITS](./Aspect%20Benefits.md)
 
@@ -20,4 +20,4 @@ With this stormwight kit, you channel your primordial [[Rage|rage]] into the for
 
 [KIT BONUSES](./Kit%20Bonuses.md)
 
-[SIGNATURE ABILITY](./Signature%20Ability/index.md)
+[SIGNATURE ABILITY](./Signature%20Ability/Signature%20Ability.md)

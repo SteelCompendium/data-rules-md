@@ -10,7 +10,7 @@ kind: stormwight kits
 
 # Vuken
 
-With this stormwight kit, you channel your primordial [[Rage|rage]] into the form of a wolf. Vuken are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
+With this [[Stormwight Kits|stormwight kit]], you channel your primordial [[Rage|rage]] into the form of a wolf. Vuken are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
 
 [ASPECT BENEFITS](./Aspect%20Benefits.md)
 
@@ -20,4 +20,4 @@ With this stormwight kit, you channel your primordial [[Rage|rage]] into the for
 
 [KIT BONUSES](./Kit%20Bonuses.md)
 
-[SIGNATURE ABILITY](./Signature%20Ability/index.md)
+[SIGNATURE ABILITY](./Signature%20Ability/Signature%20Ability.md)

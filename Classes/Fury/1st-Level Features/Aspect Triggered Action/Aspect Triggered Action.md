@@ -10,7 +10,7 @@ kind: 1st-level features
 
 # Aspect Triggered Action
 
-Your [[Primordial Aspect|primordial aspect]] grants you a triggered action, as shown on the [[Fury Triggered Actions]] table.
+Your [[Primordial Aspect|primordial aspect]] grants you a [[Triggered Action|triggered action]], as shown on the [[Fury Triggered Actions]] table.
 
 [FURY TRIGGERED ACTIONS](./%5B%5BFury%5D%5D%20Triggered%20Actions.md)
 

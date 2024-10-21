@@ -14,4 +14,4 @@ Your chosen [[Primordial Aspect|primordial aspect]] grants you features as shown
 
 [[Primordial Aspect|PRIMORDIAL ASPECT]]\[1ST-LEVEL [[Primordial Aspect|PRIMORDIAL ASPECT]] FEATURES\](./1st-Level%20Primordial%20Aspect%20Features.md)
 
-[PRIMORDIAL CUNNING](./Primordial%20Cunning/index.md)
+[PRIMORDIAL CUNNING](./Primordial%20Cunning/Primordial%20Cunning.md)

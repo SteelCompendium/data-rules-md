@@ -14,10 +14,10 @@ Your [[Elementalist|elementalist]] specialization grants you a feature, as shown
 
 [[Elementalist|ELEMENTALIST]]\[1ST-LEVEL [[Elementalist|ELEMENTALIST]] SPECIALIZATION FEATURES\](./1st-Level%20Elementalist%20Specialization%20Features.md)
 
-[MANIPULATE EARTH](./Manipulate%20Earth/index.md)
+[MANIPULATE EARTH](./Manipulate%20Earth/Manipulate%20Earth.md)
 
-[MELT](./Melt/index.md)
+[MELT](./%5B%5BMelt%5D%5D/%5B%5BMelt%5D%5D.md)
 
 [SPEECH OF THE WILD](./Speech%20Of%20The%20Wild.md)
 
-[VOID SENSE](./Void%20Sense/index.md)
+[VOID SENSE](./Void%20Sense/Void%20Sense.md)
