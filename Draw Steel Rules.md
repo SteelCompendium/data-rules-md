@@ -6615,32 +6615,32 @@ Most languages have colloquial or casual names. For instance, many people in Ord
 
 ##### VASLORIA LANGUAGES BY ANCESTRY
 
-| **Ancestry**                                    | **Language**       | **Notes**                                                            |
-| ----------------------------------------------- | ------------------ | -------------------------------------------------------------------- |
-| Angulotls                                       | Filliaric          | Offshoot of Cyllinric                                                |
-| Demons                                          | Proto-Ctholl       |                                                                      |
-| [[Devil\|Devils]]                               | Anjal              | Language of contract law                                             |
-| [[Dwarf\|Dwarves]]                              | Zaliac             | Language of engineering                                              |
-| Dragons                                         | Xakalliac          |                                                                      |
-| Dragons, elder                                  | The First Language | Language of magic                                                    |
-| Elves, wode                                     | Yllyric            | Language of druids                                                   |
-| Elves, high                                     | Hyrallic           | Language of interspecies diplomacy, the common language of the elves |
-| Fae creatures                                   | Khelt              | Offshoot of Kheltivari                                               |
-| Giants                                          | Kuric              |                                                                      |
-| Gnolls                                          | Anjal              |                                                                      |
-| Gnomes                                          | Variac             |                                                                      |
-| Goblins                                         | Szetch             |                                                                      |
-| Kobolds                                         | Kethaic            | Patois of Xakalliac and Caelian                                      |
-| Lizardfolk                                      | Khamish            |                                                                      |
-| Ogres                                           | Kuric              |                                                                      |
-| Olothec                                         | Urollialic         |                                                                      |
-| [[Orc\|Orcs]]                                   | Kalliak            | Offshoot of Zaliac                                                   |
-| Overminds                                       | Za’hariax          |                                                                      |
-| [[Raider]]\[\[Time [[Raider]]\|Time raiders\]\] | Voll               |                                                                      |
-| Trolls                                          | Variac             | Common language of the World Below                                   |
-| Voiceless talkers                               | Variac             |                                                                      |
-|                                                 | Mindspeech         | A symbolic language shared among native telepaths.                   |
-| Everyone                                        | Caelian            | Common tongue                                                        |
+| **Ancestry**                  | **Language**       | **Notes**                                                            |
+| ----------------------------- | ------------------ | -------------------------------------------------------------------- |
+| Angulotls                     | Filliaric          | Offshoot of Cyllinric                                                |
+| Demons                        | Proto-Ctholl       |                                                                      |
+| [[Devil\|Devils]]             | Anjal              | Language of contract law                                             |
+| [[Dwarf\|Dwarves]]            | Zaliac             | Language of engineering                                              |
+| Dragons                       | Xakalliac          |                                                                      |
+| Dragons, elder                | The First Language | Language of magic                                                    |
+| Elves, wode                   | Yllyric            | Language of druids                                                   |
+| Elves, high                   | Hyrallic           | Language of interspecies diplomacy, the common language of the elves |
+| Fae creatures                 | Khelt              | Offshoot of Kheltivari                                               |
+| Giants                        | Kuric              |                                                                      |
+| Gnolls                        | Anjal              |                                                                      |
+| Gnomes                        | Variac             |                                                                      |
+| Goblins                       | Szetch             |                                                                      |
+| Kobolds                       | Kethaic            | Patois of Xakalliac and Caelian                                      |
+| Lizardfolk                    | Khamish            |                                                                      |
+| Ogres                         | Kuric              |                                                                      |
+| Olothec                       | Urollialic         |                                                                      |
+| [[Orc\|Orcs]]                 | Kalliak            | Offshoot of Zaliac                                                   |
+| Overminds                     | Za’hariax          |                                                                      |
+| [[Time Raider\|Time raiders]] | Voll               |                                                                      |
+| Trolls                        | Variac             | Common language of the World Below                                   |
+| Voiceless talkers             | Variac             |                                                                      |
+|                               | Mindspeech         | A symbolic language shared among native telepaths.                   |
+| Everyone                      | Caelian            | Common tongue                                                        |
 
 ##### VASLORIA HUMAN LANGUAGES
 
