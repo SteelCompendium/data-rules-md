@@ -304,10 +304,10 @@ effect.
 
 For example, a 1st-level conduit’s *Punishing Smite* ability has the following power roll outcomes:
 
-- **Power Roll + Intuition:**
-    - **11 or lower:** 3 holy damage; A1 prone
-    - **12-16:** 6 holy damage; A2 prone
-    - **17+:** 9 holy damage; A3 prone and can’t stand (save ends)
+**Power Roll + Intuition:**
+- **11 or lower:** 3 holy damage; A1 prone
+- **12-16:** 6 holy damage; A2 prone
+- **17+:** 9 holy damage; A3 prone and can’t stand (save ends)
 
 If the conduit uses this ability and targets a bandit with an Agility score of 1, then a tier 1 result would deal holy
 damage to the bandit but have no other effect. But a tier 2 result would deal damage and knock the bandit prone, while a
@@ -10951,10 +10951,11 @@ You have the following ability.
 - **Type:** Maneuver
 - **Distance:** 2 durst
 - **Target:** All enemies
-- **Power Roll + Presence:**
-    - **11 or lower:** push 2
-    - **12-16:** push 2; the target takes a bane on the next power roll they make before the start of your next turn
-    - **17+:** push 3; the target takes a bane on the next power roll they make before the start of your next turn
+
+**Power Roll + Presence:**
+- **11 or lower:** push 2
+- **12-16:** push 2; the target takes a bane on the next power roll they make before the start of your next turn
+- **17+:** push 3; the target takes a bane on the next power roll they make before the start of your next turn
 
 #### STAR POWER
 
@@ -11083,10 +11084,11 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Type:** Action
 - **Distance:** Melee 1
 - **Target:** 2 creatures or objects
-- **Power Roll + Agility:**
-    - **11 or lower:** 2 damage
-    - **12-16:** 3 damage
-    - **17+:** 5 damage
+
+**Power Roll + Agility:**
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 5 damage
 
 **Effect:** You shift 3 squares.
 
@@ -11100,10 +11102,11 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Type:** Action
 - **Distance:** Ranged 10
 - **Target:** 1 creature or object
-- **Power Roll + Presence:**
-    - **11 or lower:** 2 sonic damage; P [weak] bleeding (save ends)
-    - **12-16:** 4 damage; P [average] bleeding (save ends)
-    - **17+:** 5 damage; P [strong] bleeding (save ends)
+
+**Power Roll + Presence:**
+- **11 or lower:** 2 sonic damage; P [weak] bleeding (save ends)
+- **12-16:** 4 damage; P [average] bleeding (save ends)
+- **17+:** 5 damage; P [strong] bleeding (save ends)
 
 ##### INSTIGATOR
 
@@ -11113,10 +11116,11 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Type:** Action
 - **Distance:** Melee 1
 - **Target:** 1 creature
-- **Power Roll + Agility or Presence:**
-    - **11 or lower:** 2 damage
-    - **12-16:** 5 damage
-    - **17+:** 7 damage
+
+**Power Roll + Agility or Presence:**
+- **11 or lower:** 2 damage
+- **12-16:** 5 damage
+- **17+:** 7 damage
 
 **Effect:** The target is taunted (EoT) by you or a willing adjacent ally.
 
@@ -11128,10 +11132,11 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Type:** Action
 - **Distance:** Melee 1 or Ranged 5
 - **Target:** 1 creature
-- **Power Roll + Presence:**
-    - **11 or lower:** 1 psychic damage
-    - **12-16:** 2 psychic damage
-    - **17+:** 3 psychic damage
+
+**Power Roll + Presence:**
+- **11 or lower:** 1 psychic damage
+- **12-16:** 2 psychic damage
+- **17+:** 3 psychic damage
 
 **Effect:** An ally within 10 removes 1 condition or effect with a duration of EoT or save ends afflicting them.
 
@@ -11153,10 +11158,11 @@ Choose one heroic ability from the following options.
 - **Type:** Action
 - **Distance:** Melee 1 or Ranged 10
 - **Target:** 1 creature or object
-- **Power Roll + Presence:**
-    - **11 or lower:** 4 sonic damage; P [weak] weakened (save ends)
-    - **12-16:** 6 sonic damage; P [average] weakened (save ends)
-    - **17+:** 10 sonic damage; P [strong] weakened (save ends)
+
+**Power Roll + Presence:**
+- **11 or lower:** 4 sonic damage; P [weak] weakened (save ends)
+- **12-16:** 6 sonic damage; P [average] weakened (save ends)
+- **17+:** 10 sonic damage; P [strong] weakened (save ends)
 
 **Effect:** The effects of the next ability the target uses before the start of your next turn are suppressed. Any
   effects listed within a result tier other than damage don’t occur. This doesn’t apply to ability effects that always
@@ -11186,10 +11192,11 @@ Choose one heroic ability from the following options.
 - **Type:** Action
 - **Distance:** 3 Cube within 10
 - **Target:** All enemies
-- **Power Roll + Presence:**
-    - **11 or lower:** 2 damage; P [weak] slowed (save ends)
-    - **12-16:** 3 damage; P [average] slowed (save ends)
-    - **17+:** 4 damage; P [strong] restrained (save ends)
+
+**Power Roll + Presence:**
+- **11 or lower:** 2 damage; P [weak] slowed (save ends)
+- **12-16:** 3 damage; P [average] slowed (save ends)
+- **17+:** 4 damage; P [strong] restrained (save ends)
 
 **Effect:** The area becomes difficult terrain for your enemies.
 
@@ -11222,10 +11229,11 @@ Choose one heroic ability from the following options.
 - **Type:** Action
 - **Distance:** 3 Burst
 - **Target:** Self and all allies
-- **Power Roll + Presence:**
-    - **11 or lower:** shift 1; target can take a free strike
-    - **12-16:** shift 2; target can take a free strike with (SURGE)
-    - **17+:** shift 3; target can take a free strike with (SURGE) and spend 1 Recovery
+
+**Power Roll + Presence:**
+- **11 or lower:** shift 1; target can take a free strike
+- **12-16:** shift 2; target can take a free strike with (SURGE)
+- **17+:** shift 3; target can take a free strike with (SURGE) and spend 1 Recovery
 
 ###### FAKE YOUR DEATH (5 DRAMA)
 
@@ -11261,10 +11269,11 @@ Choose one heroic ability from the following options.
 - **Type:** Action
 - **Distance:** Melee 1
 - **Target:** 1 creature
-- **Power Roll + Agility or Presence:**
-    - **11 or lower:** 7 damage; P [weak] weakened (save ends)
-    - **12-16:** 11 damage; P [average] weakened (save ends)
-    - **17+:** 16 damage; P [strong] weakened (save ends)
+
+**Power Roll + Agility or Presence:**
+- **11 or lower:** 7 damage; P [weak] weakened (save ends)
+- **12-16:** 11 damage; P [average] weakened (save ends)
+- **17+:** 16 damage; P [strong] weakened (save ends)
 
 **Effect:** You can choose to be inflicted with bleeding (save ends) to deal an additional 5 corruption damage to the
   target.
@@ -11354,10 +11363,11 @@ Choose one of the following abilities.
 - **Type:** Action
 - **Distance:** Melee 1
 - **Target:** 1 creature
-- **Power Roll + Agility:**
-    - **11 or lower:** 7 damage; target can shift 3 and take a free strike against you
-    - **12-16:** 11 damage; target can shift 2 and take a free strike against you
-    - **17+:** 16 damage; target can shift 1
+
+**Power Roll + Agility:**
+- **11 or lower:** 7 damage; target can shift 3 and take a free strike against you
+- **12-16:** 11 damage; target can shift 2 and take a free strike against you
+- **17+:** 16 damage; target can shift 1
 
 **Effect:** If the target shifts or takes a free strike against you during this ability, you can shift 3 and take a
   melee free strike against the target. If the target deals damage to you during this ability, you have (SURGE) on your free
@@ -11501,10 +11511,11 @@ Choose a new heroic ability from the following options.
 - **Type:** Maneuver
 - **Distance:** 4 Burst
 - **Target:** All enemies
-- **Power Roll + Presence:**
-    - **11 or lower:** slide 3; P [weak] forced movement ignores stability
-    - **12-16:** slide 5; P [average] forced movement ignores stability
-    - **17+:** slide 7; P [strong] forced movement ignores stability
+
+**Power Roll + Presence:**
+- **11 or lower:** slide 3; P [weak] forced movement ignores stability
+- **12-16:** slide 5; P [average] forced movement ignores stability
+- **17+:** slide 7; P [strong] forced movement ignores stability
 
 **Effect:** You can’t slide targets into other creatures or objects using this ability. Instead of sliding a target,
   you can choose to swap their location with another target (provided each target can fit into the new space).
@@ -11517,10 +11528,11 @@ Choose a new heroic ability from the following options.
 - **Type:** Action
 - **Distance:** 3 Burst
 - **Target:** All enemies
-- **Power Roll + Agility or Presence:**
-    - **11 or lower:** 3 fire damage; A [weak] weakened (save ends)
-    - **12-16:** 5 fire damage; A [average] weakened (save ends)
-    - **17+:** 8 fire damage; A [strong] weakened (save ends)
+
+**Power Roll + Agility or Presence:**
+- **11 or lower:** 3 fire damage; A [weak] weakened (save ends)
+- **12-16:** 5 fire damage; A [average] weakened (save ends)
+- **17+:** 8 fire damage; A [strong] weakened (save ends)
 
 **Effect:** Each ally in range can shift 2.
 
@@ -11532,10 +11544,11 @@ Choose a new heroic ability from the following options.
 - **Type:** Action
 - **Distance:** Melee 1 or Ranged 10
 - **Target:** 1 creature or object
-- **Power Roll + Agility or Presence:**
-    - **11 or lower:** 9 damage
-    - **12-16:** 14 damage; push 3
-    - **17+:** 19 damage; push 5
+
+**Power Roll + Agility or Presence:**
+- **11 or lower:** 9 damage
+- **12-16:** 14 damage; push 3
+- **17+:** 19 damage; push 5
 
 **Effect:** You can choose to make the damage sonic damage. You can use this ability on the same target for the next
   two consecutive rounds without spending drama.
@@ -15019,10 +15032,10 @@ The Director can also decide that during the natural course of the negotiation, 
 
 If an NPC isn’t as forthcoming, or if the heroes want to learn one of the NPC’s pitfalls, a hero can make a **Reason**, **Intuition**, or **Presence** test while interacting with the NPC during the negotiation, based on the tactics used to draw out the NPC. The test has the following outcomes:
 
-- **Power Roll + Reason, Intuition, or Presence:**
-  - **11 or lower:** The hero learns no information regarding the NPC’s motivations or pitfalls, and the NPC realizes the hero is trying to read them and becomes annoyed. As a consequence, the NPC’s patience is reduced by 1.
-  - **12-16:** The hero learns no information regarding the NPC’s motivations or pitfalls.
-  - **17+:** The hero learns one of the NPC’s motivations or pitfalls (their choice).
+**Power Roll + Reason, Intuition, or Presence:**
+- **11 or lower:** The hero learns no information regarding the NPC’s motivations or pitfalls, and the NPC realizes the hero is trying to read them and becomes annoyed. As a consequence, the NPC’s patience is reduced by 1.
+- **12-16:** The hero learns no information regarding the NPC’s motivations or pitfalls.
+- **17+:** The hero learns one of the NPC’s motivations or pitfalls (their choice).
 
 After this test is made, the heroes can’t make another test to determine the same NPC’s motivations or pitfalls until they make an argument to the NPC or the negotiation ends.
 
@@ -15048,8 +15061,8 @@ This is a good topic for discussion before a group actually gets into a negotiat
 
 If an argument doesn’t include a pitfall and appeals to one of the NPC’s motivations that hasn’t already been appealed to, the hero making the argument can make an easy test to attempt to sway the NPC with the argument. Depending on the argument, this can be a **Reason**, **Intuition**, or **Presence** test using any applicable skill—most commonly a skill from the interpersonal skill group. The test has the following outcomes:
 
-- **Power Roll + Reason, Intuition, or Presence:**
-  - **11 or lower:** The NPC’s patience decreases by 1.
+**Power Roll + Reason, Intuition, or Presence:**
+- **11 or lower:** The NPC’s patience decreases by 1.
 - **12-16:** The NPC’s interest increases by 1, and their patience decreases by 1.
 - **17+:** The NPC’s interest increases by 1, and their patience doesn’t change.
 
@@ -15065,10 +15078,10 @@ If a hero makes an argument that appears to appeal to multiple motivations, the 
 
 If an argument doesn’t include one of the NPC’s motivations or pitfalls, the hero who makes the argument must make a more difficult test to appeal to the NPC. The test has the following outcomes:
 
-- **Power Roll + Reason, Intuition, or Presence:**
-  - **11 or lower:** The NPC’s patience decreases by 1, and their interest decreases by 1.
-  - **12-16:** The NPC’s patience decreases by 1.
-  - **17+:** The NPC’s interest increases by 1, and their patience decreases by 1. (On a natural 19 or 20, the NPC’s patience remains the same.)
+**Power Roll + Reason, Intuition, or Presence:**
+- **11 or lower:** The NPC’s patience decreases by 1, and their interest decreases by 1.
+- **12-16:** The NPC’s patience decreases by 1.
+- **17+:** The NPC’s interest increases by 1, and their patience decreases by 1. (On a natural 19 or 20, the NPC’s patience remains the same.)
 
 If the heroes try to use the same argument without a pitfall or motivation twice, the test automatically gets a tier 1 result.
 
@@ -15591,10 +15604,10 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 - **Damage Immunity II:** The damage immunity conveyed by the armor increases to 10.
 
 - **Dragon Soul:** When another creature causes you to be winded or dying, you can use a free triggered action to cause the soul of a dragon to emerge from this armor and hurtle toward the creature. Make the following power roll against the creature.
-  - **Power Roll + Highest Characteristic:**
-    - **11 or lower:** 8 damage; push 3
-    - **12-16:** 12 damage; push 4
-    - **17+:** 15 damage; push 5
+    - **Power Roll + Highest Characteristic:**
+        - **11 or lower:** 8 damage; push 3
+        - **12-16:** 12 damage; push 4
+        - **17+:** 15 damage; push 5
 
 - **Levitating:** On your turn, you can treat up to 5 consecutive squares of movement as flying movement. If you are still in midair at the end of your turn, you fall prone.
 

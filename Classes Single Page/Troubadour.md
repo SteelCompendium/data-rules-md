@@ -153,10 +153,7 @@ You have the following ability.
 
 *Your instrument rings true and your music blows everyone away.*
 
-- **Power Roll + Presence:**
-    - **11 or lower:** push 2
-    - **12-16:** push 2; the target takes a bane on the next power roll they make before the start of your next turn
-    - **17+:** push 3; the target takes a bane on the next power roll they make before the start of your next turn
+**Power Roll + Presence:** - **11 or lower:** push 2 - **12-16:** push 2; the target takes a bane on the next power roll they make before the start of your next turn - **17+:** push 3; the target takes a bane on the next power roll they make before the start of your next turn
 
 #### Star Power
 
@@ -238,10 +235,7 @@ Select one signature ability from the options below. Signature abilities can be 
 
 *And they said practicing fencing was a waste!*
 
-- **Power Roll + Agility:**
-    - **11 or lower:** 2 damage
-    - **12-16:** 3 damage
-    - **17+:** 5 damage
+**Power Roll + Agility:** - **11 or lower:** 2 damage - **12-16:** 3 damage - **17+:** 5 damage
 
 **Effect:** You shift 3 squares.
 
@@ -251,19 +245,13 @@ Select one signature ability from the options below. Signature abilities can be 
 
 *There you are, radiating your usual charisma.*
 
-- **Power Roll + Presence:**
-    - **11 or lower:** 2 sonic damage; P \[weak\] bleeding (save ends)
-    - **12-16:** 4 damage; P \[average\] bleeding (save ends)
-    - **17+:** 5 damage; P \[strong\] bleeding (save ends)
+**Power Roll + Presence:** - **11 or lower:** 2 sonic damage; P \[weak\] bleeding (save ends) - **12-16:** 4 damage; P \[average\] bleeding (save ends) - **17+:** 5 damage; P \[strong\] bleeding (save ends)
 
 ##### Instigator
 
 *I didn't do it! What?*
 
-- **Power Roll + Agility or Presence:**
-    - **11 or lower:** 2 damage
-    - **12-16:** 5 damage
-    - **17+:** 7 damage
+**Power Roll + Agility or Presence:** - **11 or lower:** 2 damage - **12-16:** 5 damage - **17+:** 7 damage
 
 **Effect:** The target is taunted (EoT) by you or a willing adjacent ally.
 
@@ -271,10 +259,7 @@ Select one signature ability from the options below. Signature abilities can be 
 
 *A lyrical (and physical) jab insulting an enemy and inspiring an ally.*
 
-- **Power Roll + Presence:**
-    - **11 or lower:** 1 psychic damage
-    - **12-16:** 2 psychic damage
-    - **17+:** 3 psychic damage
+**Power Roll + Presence:** - **11 or lower:** 1 psychic damage - **12-16:** 2 psychic damage - **17+:** 3 psychic damage
 
 **Effect:** An ally within 10 removes 1 condition or effect with a duration of EoT or save ends afflicting them.
 
@@ -292,10 +277,7 @@ Choose one heroic ability from the following options.
 
 *Just one bad review will ruin their day.*
 
-- **Power Roll + Presence:**
-    - **11 or lower:** 4 sonic damage; P \[weak\] weakened (save ends)
-    - **12-16:** 6 sonic damage; P \[average\] weakened (save ends)
-    - **17+:** 10 sonic damage; P \[strong\] weakened (save ends)
+**Power Roll + Presence:** - **11 or lower:** 4 sonic damage; P \[weak\] weakened (save ends) - **12-16:** 6 sonic damage; P \[average\] weakened (save ends) - **17+:** 10 sonic damage; P \[strong\] weakened (save ends)
 
 **Effect:** The effects of the next ability the target uses before the start of your next turn are suppressed. Any effects listed within a result tier other than damage don't occur. This doesn't apply to ability effects that always happen regardless of the power roll.
 
@@ -311,10 +293,7 @@ Choose one heroic ability from the following options.
 
 *You write something unforeseen into the scene and under the enemy's feet.*
 
-- **Power Roll + Presence:**
-    - **11 or lower:** 2 damage; P \[weak\] slowed (save ends)
-    - **12-16:** 3 damage; P \[average\] slowed (save ends)
-    - **17+:** 4 damage; P \[strong\] restrained (save ends)
+**Power Roll + Presence:** - **11 or lower:** 2 damage; P \[weak\] slowed (save ends) - **12-16:** 3 damage; P \[average\] slowed (save ends) - **17+:** 4 damage; P \[strong\] restrained (save ends)
 
 **Effect:** The area becomes difficult terrain for your enemies.
 
@@ -334,10 +313,7 @@ Choose one heroic ability from the following options.
 
 *Give the audience a surprise.*
 
-- **Power Roll + Presence:**
-    - **11 or lower:** shift 1; target can take a free strike
-    - **12-16:** shift 2; target can take a free strike with (SURGE)
-    - **17+:** shift 3; target can take a free strike with (SURGE) and spend 1 Recovery
+**Power Roll + Presence:** - **11 or lower:** shift 1; target can take a free strike - **12-16:** shift 2; target can take a free strike with (SURGE) - **17+:** shift 3; target can take a free strike with (SURGE) and spend 1 Recovery
 
 ###### Fake Your Death (5 Drama)
 
@@ -355,10 +331,7 @@ Choose one heroic ability from the following options.
 
 *They're so hurt by your performance, you sort of start to believe it yourself.*
 
-- **Power Roll + Agility or Presence:**
-    - **11 or lower:** 7 damage; P \[weak\] weakened (save ends)
-    - **12-16:** 11 damage; P \[average\] weakened (save ends)
-    - **17+:** 16 damage; P \[strong\] weakened (save ends)
+**Power Roll + Agility or Presence:** - **11 or lower:** 7 damage; P \[weak\] weakened (save ends) - **12-16:** 11 damage; P \[average\] weakened (save ends) - **17+:** 16 damage; P \[strong\] weakened (save ends)
 
 **Effect:** You can choose to be inflicted with bleeding (save ends) to deal an additional 5 corruption damage to the target.
 
@@ -422,10 +395,7 @@ Choose one of the following abilities.
 
 *Wait it'sâ¦Guard! Turn! Parry! Dodge! Spin! Thrust! Hah!*
 
-- **Power Roll + Agility:**
-    - **11 or lower:** 7 damage; target can shift 3 and take a free strike against you
-    - **12-16:** 11 damage; target can shift 2 and take a free strike against you
-    - **17+:** 16 damage; target can shift 1
+**Power Roll + Agility:** - **11 or lower:** 7 damage; target can shift 3 and take a free strike against you - **12-16:** 11 damage; target can shift 2 and take a free strike against you - **17+:** 16 damage; target can shift 1
 
 **Effect:** If the target shifts or takes a free strike against you during this ability, you can shift 3 and take a melee free strike against the target. If the target deals damage to you during this ability, you have (SURGE) on your free strike.
 
@@ -511,10 +481,7 @@ Choose a new heroic ability from the following options.
 
 *No this isn't right. That foe was over there!*
 
-- **Power Roll + Presence:**
-    - **11 or lower:** slide 3; P \[weak\] forced movement ignores stability
-    - **12-16:** slide 5; P \[average\] forced movement ignores stability
-    - **17+:** slide 7; P \[strong\] forced movement ignores stability
+**Power Roll + Presence:** - **11 or lower:** slide 3; P \[weak\] forced movement ignores stability - **12-16:** slide 5; P \[average\] forced movement ignores stability - **17+:** slide 7; P \[strong\] forced movement ignores stability
 
 **Effect:** You can't slide targets into other creatures or objects using this ability. Instead of sliding a target, you can choose to swap their location with another target (provided each target can fit into the new space).
 
@@ -522,10 +489,7 @@ Choose a new heroic ability from the following options.
 
 *A spicy performance that lights a fire under your allies' feet.*
 
-- **Power Roll + Agility or Presence:**
-    - **11 or lower:** 3 fire damage; A \[weak\] weakened (save ends)
-    - **12-16:** 5 fire damage; A \[average\] weakened (save ends)
-    - **17+:** 8 fire damage; A \[strong\] weakened (save ends)
+**Power Roll + Agility or Presence:** - **11 or lower:** 3 fire damage; A \[weak\] weakened (save ends) - **12-16:** 5 fire damage; A \[average\] weakened (save ends) - **17+:** 8 fire damage; A \[strong\] weakened (save ends)
 
 **Effect:** Each ally in range can shift 2.
 
@@ -533,10 +497,7 @@ Choose a new heroic ability from the following options.
 
 *Your performance travels and doesn't stop moving until your audience is completely rocked.*
 
-- **Power Roll + Agility or Presence:**
-    - **11 or lower:** 9 damage
-    - **12-16:** 14 damage; push 3
-    - **17+:** 19 damage; push 5
+**Power Roll + Agility or Presence:** - **11 or lower:** 9 damage - **12-16:** 14 damage; push 3 - **17+:** 19 damage; push 5
 
 **Effect:** You can choose to make the damage sonic damage. You can use this ability on the same target for the next two consecutive rounds without spending drama.
 
