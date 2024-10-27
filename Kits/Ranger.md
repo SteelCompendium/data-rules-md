@@ -44,6 +44,6 @@ A well-placed shot leaves your enemy struggling to move.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 3 damage; A \[weak\] [[Slowed|slowed]] (save ends)
-- 12–16: 4 damage; A \[average\] [[Slowed|slowed]] (save ends)
-- 17+: 5 damage; A \[strong\] [[Slowed|slowed]] (save ends)
+- **11 or lower:** 3 damage; A \[weak\] [[Slowed|slowed]] (save ends)
+- **12-16:** 4 damage; A \[average\] [[Slowed|slowed]] (save ends)
+- **17+:** 5 damage; A \[strong\] [[Slowed|slowed]] (save ends)

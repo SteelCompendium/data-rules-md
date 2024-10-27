@@ -42,6 +42,6 @@ When you draw your whip back after an attack, your enemy comes ever closer.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 3 damage; pull 1
-- 12–16: 6 damage; pull 2
-- 17+: 8 damage; pull 3
+- **11 or lower:** 3 damage; pull 1
+- **12-16:** 6 damage; pull 2
+- **17+:** 8 damage; pull 3

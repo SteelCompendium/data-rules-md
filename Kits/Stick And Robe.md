@@ -43,6 +43,6 @@ When your stick speaks, your enemy moves.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 4 damage
-- 12–16: 6 damage; slide 1
-- 17+: 8 damage; slide 3
+- **11 or lower:** 4 damage
+- **12-16:** 6 damage; slide 1
+- **17+:** 8 damage; slide 3

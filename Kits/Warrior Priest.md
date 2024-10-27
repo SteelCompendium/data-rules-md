@@ -43,8 +43,8 @@ The impact of your weapon brands your target for destruction.
 
 *Power Roll + Might, Reason, Intuition, or Presence:*
 
-- 11 or lower: 3 holy damage
-- 12–16: 5 holy damage
-- 17+: 8 holy damage
+- **11 or lower:** 3 holy damage
+- **12-16:** 5 holy damage
+- **17+:** 8 holy damage
 
 *Effect:* Attacks against the target deal (SURGE) (EoT).

@@ -43,6 +43,6 @@ Your weapon unleashes psionic energy that reduces your target's weight.
 
 *Power Roll + Might, Reason, Intuition, or Presence:*
 
-- 11 or lower: 5 damage; stability reduced by 1 (EoT)
-- 12–16: 7 damage; stability reduced by 2 (EoT)
-- 17+: 10 damage; stability reduced by 3 (EoT)
+- **11 or lower:** 5 damage; stability reduced by 1 (EoT)
+- **12-16:** 7 damage; stability reduced by 2 (EoT)
+- **17+:** 10 damage; stability reduced by 3 (EoT)

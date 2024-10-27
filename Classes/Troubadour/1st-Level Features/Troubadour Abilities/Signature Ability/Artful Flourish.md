@@ -26,9 +26,9 @@ target: 2 creatures or objects
 | **Distance:** Melee 1               | **Target:** 2 creatures or objects |
 
 - **Power Roll + Agility:**
-    - 11 or lower: 2 damage
-    - 12-16: 3 damage
-    - 17+: 5 damage
+    - **11 or lower:** 2 damage
+    - **12-16:** 3 damage
+    - **17+:** 5 damage
 
 **Effect:** You shift 3 squares.
 

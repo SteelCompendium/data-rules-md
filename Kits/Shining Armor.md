@@ -41,8 +41,8 @@ The strength of your assault makes it impossible for your foe to ignore you.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 4 damage
-- 12–16: 7 damage
-- 17+: 9 damage
+- **11 or lower:** 4 damage
+- **12-16:** 7 damage
+- **17+:** 9 damage
 
 *Effect:* The target is [[Taunted|taunted]] (EoT).

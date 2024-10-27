@@ -18,7 +18,7 @@ target: All enemies
 
 # Revelator (5 Judgment)
 
-- **You channel holy energy to harm the unbelievers and reveal those hidden from your judgment.**
+**You channel holy energy to harm the unbelievers and reveal those hidden from your judgment.**
 
 |                           |                         |
 | :------------------------ | :---------------------- |

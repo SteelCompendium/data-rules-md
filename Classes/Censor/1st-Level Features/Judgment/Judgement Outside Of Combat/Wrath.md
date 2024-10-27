@@ -17,7 +17,7 @@ target: 1 enemy
 
 # Wrath
 
-- **Fear my wrath!**
+**Fear my wrath!**
 
 |                             |                     |
 | :-------------------------- | :------------------ |

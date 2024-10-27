@@ -45,6 +45,6 @@ A stab, and a few quick, careful steps back.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 3 damage; you shift 1 square
-- 12–16: 4 damage; you shift up to 2 squares
-- 17+: 6 damage; you shift up to 3 squares
+- **11 or lower:** 3 damage; you shift 1 square
+- **12-16:** 4 damage; you shift up to 2 squares
+- **17+:** 6 damage; you shift up to 3 squares

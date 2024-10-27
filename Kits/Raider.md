@@ -45,8 +45,8 @@ You execute a brutal strike that leaves your foe reeling.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 3 damage
-- 12–16: 4 damage
-- 17+: 6 damage
+- **11 or lower:** 3 damage
+- **12-16:** 4 damage
+- **17+:** 6 damage
 
 *Effect:* The target has a bane on their next power roll.

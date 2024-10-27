@@ -42,8 +42,8 @@ Why strike once when you could do it twice?
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 4 damage
-- 12–16: 5 damage
-- 17+: 6 damage
+- **11 or lower:** 4 damage
+- **12-16:** 5 damage
+- **17+:** 6 damage
 
 *Effect:* If you use this ability on your turn, you can target one creature or object with it then use your maneuver and move action for that turn before targeting a second creature or object. You still use the same power roll for both targets.

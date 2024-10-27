@@ -42,6 +42,6 @@ In your hands, the haft is as good as the head.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 4 damage
-- 12–16: 5 damage
-- 17+: 7 damage
+- **11 or lower:** 4 damage
+- **12-16:** 5 damage
+- **17+:** 7 damage

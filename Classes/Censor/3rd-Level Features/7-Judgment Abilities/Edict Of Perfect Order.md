@@ -17,7 +17,7 @@ target: All enemies
 
 # Edict Of Perfect Order (7 Judgment)
 
-- **Use not the fell arts!**
+**Use not the fell arts!**
 
 |                      |                         |
 | :------------------- | :---------------------- |

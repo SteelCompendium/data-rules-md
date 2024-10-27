@@ -43,6 +43,6 @@ The well-thrown net that follows your main attack leaves your foes right where y
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 4 damage; A \[weak\] [[Slowed|slowed]] (EoT)
-- 12–16: 5 damage; A \[average\] [[Slowed|slowed]] (EoT)
-- 17+: 6 damage; A \[strong\] [[Restrained|restrained]] (EoT)
+- **11 or lower:** 4 damage; A \[weak\] [[Slowed|slowed]] (EoT)
+- **12-16:** 5 damage; A \[average\] [[Slowed|slowed]] (EoT)
+- **17+:** 6 damage; A \[strong\] [[Restrained|restrained]] (EoT)

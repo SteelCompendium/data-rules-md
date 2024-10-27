@@ -152,7 +152,7 @@ Your college grants you a triggered action, as shown on the Shadow Triggered Act
 
 You sow a moment of confusion in combat, to your enemy's peril.
 
-- **Trigger:** An enemy attacks you.
+**Trigger:** An enemy attacks you.
 
 **Effect:** You choose an enemy within distance of the attack. The attack targets that enemy instead.
 
@@ -160,7 +160,7 @@ You sow a moment of confusion in combat, to your enemy's peril.
 
 When an enemy attacks, you roll with the impact to reduce the harm.
 
-- **Trigger:** Another creature damages you.
+**Trigger:** Another creature damages you.
 
 **Effect:** You gain (SHIELD) against the triggering damage and then can shift up to 2 squares after the damage and its effects resolve. If you end this movement with concealment or cover, you can use the Hide maneuver even if you are observed.
 
@@ -170,7 +170,7 @@ When an enemy attacks, you roll with the impact to reduce the harm.
 
 You vanish in a plume of black smoke to avoid danger.
 
-- **Trigger:** You take damage.
+**Trigger:** You take damage.
 
 **Effect:** You gain (SHIELD) against the triggering damage and then can teleport up to 4 squares after the damage and its effects resolve.
 
@@ -184,7 +184,7 @@ You know how to seize the advantage in battle, working with your allies to find 
 
 Keep up the attack. Never give them a moment's grace.
 
-- **Trigger:** Another hero who didn't use this ability to start their turn ends their turn.
+**Trigger:** Another hero who didn't use this ability to start their turn ends their turn.
 
 **Effect:** You take your turn after the triggering hero.
 
@@ -206,9 +206,9 @@ Your precise strikes let your allies take advantage of a target's agony.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 2 damage
-- 12–16: 4 damage
-- 17+: 6 damage; I \[strong\] prone
+- **11 or lower:** 2 damage
+- **12-16:** 4 damage
+- **17+:** 6 damage; I \[strong\] prone
 
 **Effect:** The next ability that damages the target before the start of your next turn gains (SURGE).
 
@@ -218,9 +218,9 @@ It's better, just you and me. Isn't it?
 
 **Power Roll + Agility:**
 
-- 11 or lower: 2 damage
-- 12–16: 5 damage
-- 17+: 7 damage
+- **11 or lower:** 2 damage
+- **12-16:** 5 damage
+- **17+:** 7 damage
 
 **Effect:** If the target has no allies adjacent to them, you gain (SURGE) on the attack.
 
@@ -230,9 +230,9 @@ You fire a bolt at an enemy, distracting them long enough for an ally to stab th
 
 **Power Roll + Agility:**
 
-- 11 or lower: 3 damage
-- 12–16: 5 damage
-- 17+: 8 damage
+- **11 or lower:** 3 damage
+- **12-16:** 5 damage
+- **17+:** 8 damage
 
 **Effect:** If an ally is adjacent to the target, the target takes additional (SURGE) damage.
 
@@ -242,9 +242,9 @@ They can't watch both of you at once.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 3 damage
-- 12–16: 6 damage
-- 17+: 9 damage
+- **11 or lower:** 3 damage
+- **12-16:** 6 damage
+- **17+:** 9 damage
 
 **Effect:** If you are flanking the target when you make this attack, choose one ally who is flanking with you. That ally has (SURGE) on melee attacks against the target until the end of the ally's next turn, even if they are no longer flanking the target.
 
@@ -262,9 +262,9 @@ Your attack leaves them reeling, allowing you to follow up.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage; slide 2
-- 12–16: 6 damage; slide 3
-- 17+: 10 damage; slide 5
+- **11 or lower:** 4 damage; slide 2
+- **12-16:** 6 damage; slide 3
+- **17+:** 10 damage; slide 5
 
 **Effect:** You can shift into squares the target leaves behind when you force move them.
 
@@ -274,9 +274,9 @@ You leave your foe bleeding out after a devastating attack.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage; A \[weak\] bleeding (save ends)
-- 12–16: 6 damage; A \[average\] bleeding (save ends)
-- 17+: 10 damage; A \[strong\] bleeding (save ends)
+- **11 or lower:** 4 damage; A \[weak\] bleeding (save ends)
+- **12-16:** 6 damage; A \[average\] bleeding (save ends)
+- **17+:** 10 damage; A \[strong\] bleeding (save ends)
 
 ###### Get In, Get Out (3 Insight)
 
@@ -284,9 +284,9 @@ Move unexpectedly, strike fast, and be gone!
 
 **Power Roll + Agility:**
 
-- 11 or lower: 5 damage
-- 12–16: 8 damage
-- 17+: 11 damage
+- **11 or lower:** 5 damage
+- **12-16:** 8 damage
+- **17+:** 11 damage
 
 **Effect:** You can shift up to your speed. You can shift before or after your attack, or split your movement before and after your attack.
 
@@ -296,9 +296,9 @@ A bargain.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage
-- 12–16: 6 damage
-- 17+: 10 damage
+- **11 or lower:** 4 damage
+- **12-16:** 6 damage
+- **17+:** 10 damage
 
 ##### 5-insight Abilities
 
@@ -310,9 +310,9 @@ Your blade might be the last thing they see.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 1d6 + 7 damage
-- 12–16: 1d6 + 11 damage
-- 17+: 1d6 + 16 damage
+- **11 or lower:** 1d6 + 7 damage
+- **12-16:** 1d6 + 11 damage
+- **17+:** 1d6 + 16 damage
 
 ###### One Hundred Throats (5 Insight)
 
@@ -322,9 +322,9 @@ As you move across the battlefield, every foe within reach feels your wrath.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 3 damage
-- 12–16: 6 damage
-- 17+: 9 damage
+- **11 or lower:** 3 damage
+- **12-16:** 6 damage
+- **17+:** 9 damage
 
 ###### Set-up (5 Insight)
 
@@ -332,9 +332,9 @@ Your friends will thank you.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 6 damage; R \[weak\] When the target takes damage from an ability, the ability gains (SURGE) (save ends)
-- 12–16: 9 damage; R \[average\] When the target takes damage from an ability, the ability gains (SURGE)(SURGE) (save ends)
-- 17+: 13 damage; R \[strong\] When the target takes damage from an ability, the ability gains (SURGE)(SURGE)(SURGE) (save ends)
+- **11 or lower:** 6 damage; R \[weak\] When the target takes damage from an ability, the ability gains (SURGE) (save ends)
+- **12-16:** 9 damage; R \[average\] When the target takes damage from an ability, the ability gains (SURGE)(SURGE) (save ends)
+- **17+:** 13 damage; R \[strong\] When the target takes damage from an ability, the ability gains (SURGE)(SURGE)(SURGE) (save ends)
 
 ###### Shadowstrike (5 Insight)
 
@@ -394,15 +394,15 @@ You enchant a strike with your teleportation magic.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 6 damage; teleport target 1 square
-- 12-16: 10 damage; teleport target 3 squares
-- 17+: 14 damage; teleport target 5 squares
+- **11 or lower:** 6 damage; teleport target 1 square
+- **12-16:** 10 damage; teleport target 3 squares
+- **17+:** 14 damage; teleport target 5 squares
 
 ##### Too Slow (5 Insight)
 
 Your foe made a big mistake.
 
-- **Trigger:** You use In All This Confusion.
+**Trigger:** You use In All This Confusion.
 
 **Effect:** You gain an additional (SHIELD) against the triggering attack. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.
 
@@ -418,9 +418,9 @@ Explosives are best when they're attached to an enemy.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 fire damage
-- 12-16: 7 fire damage
-- 17+: 11 fire damage
+- **11 or lower:** 4 fire damage
+- **12-16:** 7 fire damage
+- **17+:** 11 fire damage
 
 ##### Stink Bomb (5 Insight)
 
@@ -428,9 +428,9 @@ Yellow, disgusting gas explodes from a bomb you toss.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 2 poison damage
-- 12-16: 5 poison damage
-- 17+: 7 poison damage
+- **11 or lower:** 2 poison damage
+- **12-16:** 5 poison damage
+- **17+:** 7 poison damage
 
 **Effect:** The gas remains in the area until the end of the encounter. A creature who starts their turn in the area is M \[average\] weakened (save ends).
 
@@ -444,9 +444,9 @@ Illusory sounds make your foes reposition themselves as they cower or investigat
 
 **Power Roll + Agility:**
 
-- 11 or lower: slide 4
-- 12-16: slide 5
-- 17+: slide 7
+- **11 or lower:** slide 4
+- **12-16:** slide 5
+- **17+:** slide 7
 
 **Effect:** This movement ignores Stability. Instead, the forced movement is reduced by a number equal to the target's Intuition score.
 
@@ -454,7 +454,7 @@ Illusory sounds make your foes reposition themselves as they cower or investigat
 
 When your enemy strikes, you reveal you were in a different place all along.
 
-- **Trigger:** You use Clever Trick.
+**Trigger:** You use Clever Trick.
 
 **Effect:** Clever Trick doesn't cost insight to use. The creature who attacked you actually just attacked an illusory image of you. You appear in an unoccupied space within 3 squares of that creature and can make a free strike against them and spend a Recovery.
 
@@ -482,9 +482,9 @@ Why are you looking at ME?!
 
 **Power Roll + Agility:**
 
-- 11 or lower: 9 damage
-- 12-16: 13 damage
-- 17+: 18 damage
+- **11 or lower:** 9 damage
+- **12-16:** 13 damage
+- **17+:** 18 damage
 
 **Effect:** The target is taunted by a willing ally of your choice within distance (EoT).
 
@@ -494,9 +494,9 @@ One missile—placed well and placed hard.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 8 damage; A \[weak\] restrained (save ends)
-- 12-16: 12 damage; A \[average\] restrained (save ends)
-- 17+: 16 damage; A \[strong\] restrained (save ends)
+- **11 or lower:** 8 damage; A \[weak\] restrained (save ends)
+- **12-16:** 12 damage; A \[average\] restrained (save ends)
+- **17+:** 16 damage; A \[strong\] restrained (save ends)
 
 #### Staggering Blow (7 Insight)
 
@@ -504,6 +504,6 @@ There's no recovering from this.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 7 damage; M \[weak\] slowed (save ends)
-- 12-16: 11 damage; M \[average\] prone and can't stand (save ends)
-- 17+: 16 damage; M \[strong\] prone and can't stand (save ends)
+- **11 or lower:** 7 damage; M \[weak\] slowed (save ends)
+- **12-16:** 11 damage; M \[average\] prone and can't stand (save ends)
+- **17+:** 16 damage; M \[strong\] prone and can't stand (save ends)

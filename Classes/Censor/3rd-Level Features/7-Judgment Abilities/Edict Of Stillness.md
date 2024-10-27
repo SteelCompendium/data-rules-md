@@ -17,7 +17,7 @@ target: All enemies
 
 # Edict Of Stillness (7 Judgment)
 
-- **Flee not from just punishment.**
+**Flee not from just punishment.**
 
 |                      |                         |
 | :------------------- | :---------------------- |

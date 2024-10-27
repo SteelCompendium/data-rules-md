@@ -17,7 +17,7 @@ target: All enemies
 
 # Edict Of Disruptive Isolation (7 Judgment)
 
-- **Gather not together in secret to conspire.**
+**Gather not together in secret to conspire.**
 
 |                      |                         |
 | :------------------- | :---------------------- |

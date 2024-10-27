@@ -18,7 +18,7 @@ target: Self and all allies
 
 # Blessing Of The Faithful (5 Judgment)
 
-- **The gods reward your faith.**
+**The gods reward your faith.**
 
 |                           |                                 |
 | :------------------------ | :------------------------------ |

@@ -42,8 +42,8 @@ The faster you move, the harder you hit.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 2 damage
-- 12–16: 5 damage
-- 17+: 10 damage
+- **11 or lower:** 2 damage
+- **12-16:** 5 damage
+- **17+:** 10 damage
 
 *Effect:* You can move up to 3 squares straight toward the target before this attack. You deal extra damage equal to the distance moved this way.

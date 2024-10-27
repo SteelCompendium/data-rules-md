@@ -41,8 +41,8 @@ An enemy who tagged you will pay for that.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 3 damage
-- 12–16: 5 damage
-- 17+: 11 damage
+- **11 or lower:** 3 damage
+- **12-16:** 5 damage
+- **17+:** 11 damage
 
 *Effect:* If the target dealt damage to you since the end of your last turn, this attack gains (SURGE).

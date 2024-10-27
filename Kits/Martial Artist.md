@@ -42,8 +42,8 @@ You feint to move your enemies into perfect position.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 4 damage
-- 12–16: 7 damage; you swap places with the target
-- 17+: 9 damage; you swap places with the target
+- **11 or lower:** 4 damage
+- **12-16:** 7 damage; you swap places with the target
+- **17+:** 9 damage; you swap places with the target
 
 *Effect:* If you roll a 12 or better and can't swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 1 extra damage.

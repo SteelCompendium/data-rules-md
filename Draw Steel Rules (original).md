@@ -305,9 +305,9 @@ effect.
 For example, a 1st-level conduit’s *Punishing Smite* ability has the following power roll outcomes:
 
 - **Power Roll + Intuition:**
-    - 11 or lower: 3 holy damage; A1 prone
-    - 12–16: 6 holy damage; A2 prone
-    - 17+: 9 holy damage; A3 prone and can’t stand (save ends)
+    - **11 or lower:** 3 holy damage; A1 prone
+    - **12-16:** 6 holy damage; A2 prone
+    - **17+:** 9 holy damage; A3 prone and can’t stand (save ends)
 
 If the conduit uses this ability and targets a bandit with an Agility score of 1, then a tier 1 result would deal holy
 damage to the bandit but have no other effect. But a tier 2 result would deal damage and knock the bandit prone, while a
@@ -1090,9 +1090,9 @@ axe and hurl it at a flying enemy staying annoyingly out of melee range as a fre
 
 **Power Roll + Might or Agility:**
 
-- 11 or lower: 2 damage
-- 12–16: 5 damage
-- 17+: 7 damage
+- **11 or lower:** 2 damage
+- **12-16:** 5 damage
+- **17+:** 7 damage
 
 #### RANGED WEAPON FREE STRIKE
 
@@ -1103,9 +1103,9 @@ axe and hurl it at a flying enemy staying annoyingly out of melee range as a fre
 
 **Power Roll + Might or Agility:**
 
-- 11 or lower: 2 damage
-- 12–16: 4 damage
-- 17+: 6 damage
+- **11 or lower:** 2 damage
+- **12-16:** 4 damage
+- **17+:** 6 damage
 
 See Free Strikes for more information on using free strikes, and see Abilities for information on the ability format.
 
@@ -1719,9 +1719,9 @@ You let loose a mighty roar to shake your foes’ spirits.
 
 **Power Roll + Might or Presence:**
 
-- 11 or lower: 2 damage
-- 12–16: 3 damage
-- 17+: 4 damage; I [strong] frightened (save ends)
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 4 damage; I [strong] frightened (save ends)
 
 ##### DRAGON WEAPON (COSTS 2 POINTS)
 
@@ -1738,10 +1738,9 @@ You expel energy to damage your foes.
 
 **Power Roll + Might or Presence:**
 
-- 11 or lower: 2 damage
-- 12–16: 3 damage
-- 17+: 4 damage
-
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 4 damage
 
 **Effect:** You choose the attack’s damage type from acid, cold, corruption, fire, lightning, or poison.
 
@@ -2040,9 +2039,9 @@ Thorny vines erupt into existence and attempt to bind your foe.
 
 **Power Roll + Might or Agility:**
 
-- 11 or lower: 1 damage; A [weak] slowed (save ends)
-- 12–16: 2 damage; A [average] slowed (save ends)
-- 17+: 3 damage; A [strong] restrained (save ends)
+- **11 or lower:** 1 damage; A [weak] slowed (save ends)
+- **12-16:** 2 damage; A [average] slowed (save ends)
+- **17+:** 3 damage; A [strong] restrained (save ends)
 
 ## ELF, HIGH
 
@@ -2967,7 +2966,6 @@ You gain the following ability:
 - **Distance:** Self
 - **Target:** Self
 
-
 **Effect:** You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any
 creature you have cover or concealment from, or who isn’t observing you. While in shadow form, you have full awareness
 of your surroundings, attacks against you and tests made to find you take a bane, and you can’t move or take actions or
@@ -3169,10 +3167,9 @@ A magical sigil you placed on a creature explodes with energy.
 
 **Power Roll + Reason, Intuition, or Presence:**
 
-- 11 or lower: 2 damage; slide 1
-- 12–16: 4 damage; slide 2
-- 17+: 6 damage; slide 3
-
+- **11 or lower:** 2 damage; slide 1
+- **12-16:** 4 damage; slide 2
+- **17+:** 6 damage; slide 3
 
 **Effect:** The sigil disappears from the creature.
 
@@ -3399,9 +3396,9 @@ You slam an invisible force down upon the target.
 
 **Power Roll + Reason, Intuition, or Presence:**
 
-- 11 or lower: 2 damage
-- 12–16: 3 damage; push 1
-- 17+: 5 damage; push 2; **M** [strong] prone
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage; push 1
+- **17+:** 5 damage; push 2; **M** [strong] prone
 
 ###### PSIONIC BOLT
 
@@ -3414,9 +3411,9 @@ You shoot forth a beam of psychic purple force that grips your target.
 
 **Power Roll + Reason, Intuition, or Presence:**
 
-- 11 or lower: 2 psychic damage; slide 1
-- 12–16: 3 psychic damage; slide 2
-- 17+: 5 psychic damage; slide 3
+- **11 or lower:** 2 psychic damage; slide 1
+- **12-16:** 3 psychic damage; slide 2
+- **17+:** 5 psychic damage; slide 3
 
 ###### MINOR ACCELERATION
 
@@ -3426,7 +3423,6 @@ You fill yourself or an ally with a burst of energy.
 - **Type:** Maneuver
 - **Distance:** Self or Melee 1
 - **Target:** Self or 1 ally
-
 
 **Effect:** The target’s speed increases by an amount equal to your Reason, Intuition, or Presence score (your choice)
 until the start of your next turn.
@@ -4337,13 +4333,12 @@ spent an amount of piety on it equal to your Victories.
 
 ##### WRATH
 
-- **Fear my wrath!**
+**Fear my wrath!**
 
 - **Keywords:** Magic, Ranged
 - **Type:** Maneuver
 - **Distance:** Ranged 10
 - **Target:** 1 enemy
-
 
 **Effect:** You bank 1 or more judgment on the target. While a creature has at least 1 judgment on it, any targets
   they attack gain (SHIELD).
@@ -4416,13 +4411,14 @@ You can channel your will to mend your wounds or the wounds of your allies. You 
 
 #### MY LIFE FOR YOURS
 
-- **The first principle of the oath:** defend the righteous.
+**The first principle of the oath:** defend the righteous.
 
 - **Keywords:** Magic, Ranged
 - **Type:** Triggered
 - **Distance:** Ranged 10
 - **Target:** Self or 1 ally
-- **Trigger:** The target starts their turn.
+
+**Trigger:** The target starts their turn.
 
 **Effect:** You spend a Recovery without regaining Stamina. Instead, the target regains Stamina equal to your Recovery value.
 
@@ -4495,13 +4491,12 @@ You gain the following ability:
 
 ##### GRAVE SPEECH
 
-- **You commune with the lingering soul of the recently dead.**
+**You commune with the lingering soul of the recently dead.**
 
 - **Keywords:** Magic
 - **Type:** Maneuver
 - **Distance:** Melee 1
 - **Target:** Special
-
 
 **Effect:** You can speak to the corpse or head of a creature who has died within the last 24 hours and who can speak
   a language you know. The target regards you as they would have in life, and you might need to make tests to influence
@@ -4514,13 +4509,12 @@ You gain the following ability:
 
 ##### HANDS OF THE MAKER
 
-- **Craft objects with the power of your mind!**
+**Craft objects with the power of your mind!**
 
 - **Keywords:** Magic
 - **Type:** Maneuver
 - **Distance:** Self
 - **Target:** Self
-
 
 **Effect:** You create a mundane object no larger than size 1S. You can maintain a number of objects created this way
   by you equal to your Presence score. You can destroy an object created this way by you with a thought, no matter how
@@ -4575,7 +4569,7 @@ Select one signature ability from the options below. Signature abilities can be 
 
 ##### BACK, BLASPHEMER!
 
-- **You channel the power of your god to repel unbelievers.**
+**You channel the power of your god to repel unbelievers.**
 
 - **Keywords:** Area, Magic, Weapon
 - **Type:** Action
@@ -4583,13 +4577,13 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Target:** All enemies
 
 **Power Roll + Presence:**
-- 11 or lower: 2 holy damage; push 1
-- 12-16: 3 holy damage; push 2
-- 17+: 4 holy damage; push 3
+- **11 or lower:** 2 holy damage; push 1
+- **12-16:** 3 holy damage; push 2
+- **17+:** 4 holy damage; push 3
 
 ##### EVERY STEP… DEATH!
 
-- **You show your foe a glimpse of their fate after death.**
+**You show your foe a glimpse of their fate after death.**
 
 - **Keywords:** Attack, Magic, Ranged
 - **Type:** Action
@@ -4597,17 +4591,16 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Target:** 1 creature
 
 **Power Roll + Presence:**
-- 11 or lower: 2 psychic damage
-- 12-16: 4 psychic damage
-- 17+: 6 psychic damage
-
+- **11 or lower:** 2 psychic damage
+- **12-16:** 4 psychic damage
+- **17+:** 6 psychic damage
 
 **Effect:** Until the end of the target’s next turn, they take (SURGE) psychic damage each time they willingly move closer
   to you.
 
 ##### HALT, MISCREANT!
 
-- **"Your race is run!"**
+**"Your race is run!"**
 
 - **Keywords:** Attack, Melee, Weapon
 - **Type:** Action
@@ -4615,13 +4608,13 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
-- 11 or lower: 2 holy damage; P [weak] slowed (save ends)
-- 12-16: 3 holy damage; P [average] slowed (save ends)
-- 17+: 5 holy damage; P [strong] slowed (save ends)
+- **11 or lower:** 2 holy damage; P [weak] slowed (save ends)
+- **12-16:** 3 holy damage; P [average] slowed (save ends)
+- **17+:** 5 holy damage; P [strong] slowed (save ends)
 
 ##### YOUR ALLIES CANNOT SAVE YOU!
 
-- **"See how they abandon you!"**
+**"See how they abandon you!"**
 
 - **Keywords:** Attack, Melee, Weapon
 - **Type:** Action
@@ -4629,10 +4622,9 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
-- 11 or lower: 2 holy damage
-- 12-16: 4 holy damage
-- 17+: 6 holy damage
-
+- **11 or lower:** 2 holy damage
+- **12-16:** 4 holy damage
+- **17+:** 6 holy damage
 
 **Effect:** All enemies adjacent to the target are pushed your Presence score away from the target.
 
@@ -4646,7 +4638,7 @@ Choose one heroic ability from the following options.
 
 ###### BEHOLD, A SHIELD OF FAITH! (3 JUDGMENT)
 
-- **"Allow me to intercede."**
+**"Allow me to intercede."**
 
 - **Keywords:** Attack, Melee, Weapon
 - **Type:** Action
@@ -4654,16 +4646,15 @@ Choose one heroic ability from the following options.
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
-- 11 or lower: 3 holy damage
-- 12-16: 6 holy damage
-- 17+: 9 holy damage
-
+- **11 or lower:** 3 holy damage
+- **12-16:** 6 holy damage
+- **17+:** 9 holy damage
 
 **Effect:** Until the beginning of your next turn, you and all adjacent allies have (SHIELD) against the target’s attacks.
 
 ###### DRIVING ASSAULT (3 JUDGMENT)
 
-- **You focus on pushing your enemy back with your weapon and use your faith to stay close.**
+**You focus on pushing your enemy back with your weapon and use your faith to stay close.**
 
 - **Keywords:** Attack, Melee, Weapon
 - **Type:** Action
@@ -4671,16 +4662,15 @@ Choose one heroic ability from the following options.
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
-- 11 or lower: 6 damage; push 1
-- 12-16: 6 damage; push 3
-- 17+: 9 damage; push 5
-
+- **11 or lower:** 6 damage; push 1
+- **12-16:** 6 damage; push 3
+- **17+:** 9 damage; push 5
 
 **Effect:** You can shift your speed as long as you end that shift within distance of the target.
 
 ###### THE GODS PUNISH AND DEFEND (3 JUDGMENT)
 
-- **You channel holy energy to smite a foe and to heal an ally.**
+**You channel holy energy to smite a foe and to heal an ally.**
 
 - **Keywords:** Attack, Melee, Weapon
 - **Type:** Action
@@ -4688,16 +4678,15 @@ Choose one heroic ability from the following options.
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
-- 11 or lower: 5 holy damage
-- 12-16: 8 holy damage
-- 17+: 11 holy damage
-
+- **11 or lower:** 5 holy damage
+- **12-16:** 8 holy damage
+- **17+:** 11 holy damage
 
 **Effect:** Spend a Recovery and you or an ally within 10 squares of you regain Stamina equal to your Recovery value.
 
 ###### REPENT! (3 JUDGMENT)
 
-- **You conjure memories of their sins.**
+**You conjure memories of their sins.**
 
 - **Keywords:** Attack, Magic, Ranged
 - **Type:** Action
@@ -4705,9 +4694,9 @@ Choose one heroic ability from the following options.
 - **Target:** 1 creature
 
 **Power Roll + Might:**
-- 11 or lower: 3 holy damage; I [weak] dazed (save ends)
-- 12-16: 6 holy damage; I [average] dazed (save ends)
-- 17+: 9 holy damage; I [strong] dazed (save ends)
+- **11 or lower:** 3 holy damage; I [weak] dazed (save ends)
+- **12-16:** 6 holy damage; I [average] dazed (save ends)
+- **17+:** 9 holy damage; I [strong] dazed (save ends)
 
 ##### 5-JUDGMENT ABILITIES
 
@@ -4715,7 +4704,7 @@ Choose one heroic ability from the following options.
 
 ###### ARREST (5 JUDGMENT)
 
-- **"I got you, you son of a bitch."**
+**"I got you, you son of a bitch."**
 
 - **Keywords:** Attack, Magic, Weapon
 - **Type:** Action
@@ -4723,10 +4712,9 @@ Choose one heroic ability from the following options.
 - **Target:** 1 judged creature
 
 **Power Roll + Might:**
-- 11 or lower: 5 holy damage; grabbed
-- 12-16: 9 holy damage; grabbed
-- 17+: 12 holy damage; grabbed
-
+- **11 or lower:** 5 holy damage; grabbed
+- **12-16:** 9 holy damage; grabbed
+- **17+:** 12 holy damage; grabbed
 
 **Effect:** If the target makes an attack while grabbed by you, they take (SURGE) holy damage. When the target makes an
   attack while grabbed by you, you can spend 3 judgment to change the target of the attack to another target within the
@@ -4734,7 +4722,7 @@ Choose one heroic ability from the following options.
 
 ###### BEHOLD THE FACE OF EVIL! (5 JUDGMENT)
 
-- **You show your enemies a vision of the true nature of one of their companions.**
+**You show your enemies a vision of the true nature of one of their companions.**
 
 - **Keywords:** Attack, Magic, Weapon
 - **Type:** Action
@@ -4742,10 +4730,9 @@ Choose one heroic ability from the following options.
 - **Target:** 1 judged creature
 
 **Power Roll + Might:**
-- 11 or lower: 3 holy damage; each enemy within 2 of the target is P [weak] frightened (save ends)
-- 12-16: 5 holy damage; each enemy within 2 of the target is P [weak] frightened (save ends)
-- 17+: 8 holy damage; each enemy within 2 of the target is P [weak] frightened (save ends)
-
+- **11 or lower:** 3 holy damage; each enemy within 2 of the target is P [weak] frightened (save ends)
+- **12-16:** 5 holy damage; each enemy within 2 of the target is P [weak] frightened (save ends)
+- **17+:** 8 holy damage; each enemy within 2 of the target is P [weak] frightened (save ends)
 
 **Effect:** Each enemy frightened by this ability is pushed 2 away from the target and takes (SURGE) psychic damage.
 
@@ -4759,16 +4746,15 @@ Choose one heroic ability from the following options.
 - **Target:** 1 judged creature
 
 **Power Roll + Might:**
-- 11 or lower: 2 holy damage
-- 12-16: 3 holy damage
-- 17+: 5 holy damage
-
+- **11 or lower:** 2 holy damage
+- **12-16:** 3 holy damage
+- **17+:** 5 holy damage
 
 **Effect:** If a non-boss or non-solo creature is winded after damage is resolved, they die.
 
 ###### PURIFYING FIRE (5 JUDGMENT)
 
-- **The gods judge, fire cleanses.**
+**The gods judge, fire cleanses.**
 
 - **Keywords:** Attack, Magic, Weapon
 - **Type:** Action
@@ -4776,10 +4762,9 @@ Choose one heroic ability from the following options.
 - **Target:** 1 judged creature
 
 **Power Roll + Might:**
-- 11 or lower: 5 holy damage; M [weak] fire weakness 3 (save ends)
-- 12-16: 9 holy damage; M [average] fire weakness 5 (save ends)
-- 17+: 12 holy damage; M [strong] fire weakness 7 (save ends)
-
+- **11 or lower:** 5 holy damage; M [weak] fire weakness 3 (save ends)
+- **12-16:** 9 holy damage; M [average] fire weakness 5 (save ends)
+- **17+:** 12 holy damage; M [strong] fire weakness 7 (save ends)
 
 **Effect:** While the target has fire weakness from this ability, you can choose to do fire damage instead of holy
   damage to them when you use an ability.
@@ -4844,7 +4829,7 @@ Choose one of the following abilities.
 
 ##### IT IS JUSTICE YOU FEAR (5 JUDGMENT)
 
-- **I am but a vessel. Your own deeds weigh upon you.**
+**I am but a vessel. Your own deeds weigh upon you.**
 
 - **Keywords:** Attack, Magic, Ranged
 - **Type:** Action
@@ -4852,23 +4837,21 @@ Choose one of the following abilities.
 - **Target:** 1 judged creature
 
 **Power Roll + Might:**
-- 11 or lower: 5 holy damage; P [weak] frightened (save ends)
-- 12-16: 9 holy damage; P [average] frightened (save ends)
-- 17+: 12 holy damage; P [strong] frightened (save ends)
-
+- **11 or lower:** 5 holy damage; P [weak] frightened (save ends)
+- **12-16:** 9 holy damage; P [average] frightened (save ends)
+- **17+:** 12 holy damage; P [strong] frightened (save ends)
 
 **Effect:** If the target is already frightened of you or another creature when you use this ability, they take (SURGE)(SURGE)
   psychic damage.
 
 ##### REVELATOR (5 JUDGMENT)
 
-- **You channel holy energy to harm the unbelievers and reveal those hidden from your judgment.**
+**You channel holy energy to harm the unbelievers and reveal those hidden from your judgment.**
 
 - **Keywords:** Area, Magic
 - **Type:** Maneuver
 - **Distance:** 3 Burst
 - **Target:** All enemies
-
 
 **Effect:** Each target takes (SURGE) holy damage. Any hidden enemies are automatically revealed and cannot hide again until
   the beginning of your next turn.
@@ -4879,27 +4862,26 @@ Choose one of the following abilities.
 
 ##### PRESCIENT GRACE (5 JUDGMENT)
 
-- **"Hah! I see your plan. It will not work!"**
+**"Hah! I see your plan. It will not work!"**
 
 - **Keywords:** Magic, Ranged
 - **Type:** Triggered
 - **Distance:** Ranged 10
 - **Target:** Self or 1 ally
-- **Trigger:** An enemy within 10 starts their turn.
 
+**Trigger:** An enemy within 10 starts their turn.
 
 **Effect:** You spend a Recovery without regaining Stamina. Instead, the target regains Stamina equal to your Recovery
   value. The target takes their turn immediately before the triggering enemy.
 
 ##### WITH MY BLESSING (5 JUDGMENT)
 
-- **A word in prayer, and the gods show the way.**
+**A word in prayer, and the gods show the way.**
 
 - **Keywords:** Magic, Ranged
 - **Type:** Action
 - **Distance:** Ranged 10
 - **Target:** Self or 1 ally
-
 
 **Effect:** The target can make a signature or heroic attack with a double edge as a free triggered action. They must
   still pay any Heroic Resources required.
@@ -4910,19 +4892,18 @@ Choose one of the following abilities.
 
 ##### BLESSING OF THE FAITHFUL (5 JUDGMENT)
 
-- **The gods reward your faith.**
+**The gods reward your faith.**
 
 - **Keywords:** Area, Magic
 - **Type:** Maneuver
 - **Distance:** 3 Aura
 - **Target:** Self and all allies
 
-
 **Effect:** Until the end of the encounter or you become dying, each target in the aura gains (SURGE) on attacks.
 
 ##### SENTENCED (5 JUDGMENT)
 
-- **I am the law!**
+**I am the law!**
 
 - **Keywords:** Attack, Magic, Weapon
 - **Type:** Action
@@ -4930,10 +4911,9 @@ Choose one of the following abilities.
 - **Target:** 1 creature
 
 **Power Roll + Presence:**
-- 11 or lower: 5 damage; P [weak] restrained (save ends)
-- 12-16: 9 damage; P [average] restrained (save ends)
-- 17+: 12 damage; P [strong] restrained (save ends)
-
+- **11 or lower:** 5 damage; P [weak] restrained (save ends)
+- **12-16:** 9 damage; P [average] restrained (save ends)
+- **17+:** 12 damage; P [strong] restrained (save ends)
 
 **Effect:** Your forced movement abilities can still move the target while they are restrained this way.
 
@@ -4952,13 +4932,12 @@ Choose one heroic ability from the following options.
 
 #### EDICT OF DISRUPTIVE ISOLATION (7 JUDGMENT)
 
-- **Gather not together in secret to conspire.**
+**Gather not together in secret to conspire.**
 
 - **Keywords:** –
 - **Type:** Maneuver
 - **Distance:** 2 Aura
 - **Target:** All enemies
-
 
 **Effect:** Until the end of the encounter or you are dying, when you begin your turn, each target takes (SURGE) holy damage
   and (SURGE) additional holy damage if they are adjacent to another enemy. If a target is judged by you, they take an
@@ -4966,39 +4945,36 @@ Choose one heroic ability from the following options.
 
 #### EDICT OF PERFECT ORDER (7 JUDGMENT)
 
-- **Use not the fell arts!**
+**Use not the fell arts!**
 
 - **Keywords:** –
 - **Type:** Maneuver
 - **Distance:** 2 Aura
 - **Target:** All enemies
-
 
 **Effect:** Until the end of the encounter or you are dying, when a target uses an ability with the Magic keyword,
   they take (SURGE)(SURGE) holy damage. If a target is judged by you, they take an additional 2d6 holy damage.
 
 #### EDICT OF PURIFYING PACIFISM (7 JUDGMENT)
 
-- **Shed not the blood of innocents!**
+**Shed not the blood of innocents!**
 
 - **Keywords:** –
 - **Type:** Maneuver
 - **Distance:** 2 Aura
 - **Target:** All enemies
-
 
 **Effect:** Until the end of the encounter or you are dying, when a target uses an ability with the Weapon keyword,
   they take (SURGE)(SURGE) holy damage. If a target is judged by you, they take an additional 2d6 holy damage.
 
 #### EDICT OF STILLNESS (7 JUDGMENT)
 
-- **Flee not from just punishment.**
+**Flee not from just punishment.**
 
 - **Keywords:** –
 - **Type:** Maneuver
 - **Distance:** 2 Aura
 - **Target:** All enemies
-
 
 **Effect:** Until the end of the encounter or you are dying, when a target is force moved they take (SURGE) holy damage. If
   the target moves on their own, they take (SURGE)(SURGE) holy damage. If a target is judged by you, they take an additional 1d6
@@ -5328,9 +5304,8 @@ You unleash a blast of holy light upon your foe.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 damage
-- **12–16:** 4 damage
+- **12-16:** 4 damage
 - **17+:** 6 damage
-
 
 **Effect:** The damage this ability deals can be holy damage.
 
@@ -5346,7 +5321,8 @@ You invigorate an attacking ally with divine energy.
 - **Type:** Triggered
 - **Distance:** Ranged 10
 - **Target:** 1 ally
-- **Trigger:** The target deals damage to another creature or object.
+
+**Trigger:** The target deals damage to another creature or object.
 
 **Effect:** The damage gains **+1**. You gain **1 piety**.
 
@@ -5360,7 +5336,8 @@ Your holy word saps an attacking enemy’s strength.
 - **Type:** Triggered
 - **Distance:** Ranged 10
 - **Target:** 1 ally
-- **Trigger:** The target takes damage.
+
+**Trigger:** The target takes damage.
 
 **Effect:** The target gains **+2** against the damage. You gain **1 piety**.
 
@@ -5373,8 +5350,7 @@ your prayer along with your ward (see Conduit Ward) by praying to your god as a 
 
 #### PRAYER OF DESTRUCTION
 
-Your god infuses wrath within your being. When you deal damage with a Magic ability, the damage dealt increases by **1
-**.
+Your god infuses wrath within your being. When you deal damage with a Magic ability, the damage dealt increases by **1**.
 
 #### PRAYER OF DISTANCE
 
@@ -5383,8 +5359,7 @@ the **Ranged** and **Magic** keywords increases by **5**.
 
 #### PRAYER OF SPEED
 
-Your god blesses your flesh and infuses it with divine quickness. Your speed increases by **1**, and when you take the *
-*Disengage** move action, you can shift **1 extra square**.
+Your god blesses your flesh and infuses it with divine quickness. Your speed increases by **1**, and when you take the **Disengage** move action, you can shift **1 extra square**.
 
 #### PRAYER OF SOLDIER’S SKILL
 
@@ -5395,8 +5370,7 @@ medium armor and light weapon treasures. If you have a kit, you can’t take thi
 
 #### PRAYER OF STEEL
 
-Your god fills your body with the light of creation, making you harder to hurt and move. Your Stamina increases by **3
-**, and stability increases by **1**.
+Your god fills your body with the light of creation, making you harder to hurt and move. Your Stamina increases by **3**, and stability increases by **1**.
 
 ### CONDUIT WARD
 
@@ -5459,9 +5433,8 @@ You drain the energy from your target and revitalize yourself or an ally.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 corruption damage
-- **12–16:** 3 corruption damage
+- **12-16:** 3 corruption damage
 - **17+:** 5 corruption damage
-
 
 **Effect:** You or an ally within distance can spend a Recovery.
 
@@ -5477,7 +5450,7 @@ A tendril of divine energy shoots forth to draw in your foe.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 holy damage; pull 2
-- **12–16:** 4 holy damage; pull 3
+- **12-16:** 4 holy damage; pull 3
 - **17+:** 6 holy damage; pull 4
 
 ##### LIGHTFALL
@@ -5492,9 +5465,8 @@ A rain of holy light scours your enemies and repositions your allies.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 1 holy damage
-- **12–16:** 2 holy damage
+- **12-16:** 2 holy damage
 - **17+:** 3 holy damage
-
 
 **Effect:** You can teleport each ally in the area and yourself if you’re in the area to any unoccupied space within
   the area.
@@ -5511,9 +5483,8 @@ Divine magic tears at your foe and defends a nearby friend.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 corruption damage
-- **12–16:** 3 corruption damage
+- **12-16:** 3 corruption damage
 - **17+:** 4 corruption damage
-
 
 **Effect:** You or an ally within distance gains **+2** against the next attack until the start of your next turn.
 
@@ -5529,7 +5500,7 @@ A blast of judgment disorients your foe.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 holy damage; slide 1
-- **12–16:** 4 holy damage; slide 2
+- **12-16:** 4 holy damage; slide 2
 - **17+:** 6 holy damage; slide 3
 
 ##### WARRIOR’S PRAYER
@@ -5544,9 +5515,8 @@ You utter a quick prayer that projects aggressive divine energy around a friend 
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 holy damage
-- **12–16:** 5 holy damage
+- **12-16:** 5 holy damage
 - **17+:** 7 holy damage
-
 
 **Effect:** You or an ally within distance gains Temporary Stamina equal to your **Intuition score**. This Temporary
   Stamina disappears at the end of the encounter.
@@ -5563,7 +5533,7 @@ A bolt of holy energy saps the life from a foe.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 corruption damage; [weak] the target takes a bane on their next power roll
-- **12–16:** 4 corruption damage; [average] the target takes a bane on their next power roll
+- **12-16:** 4 corruption damage; [average] the target takes a bane on their next power roll
 - **17+:** 6 corruption damage; [strong] the target takes a bane on their next power roll
 
 #### HEROIC ABILITIES
@@ -5586,9 +5556,8 @@ You ask your saint for thunder and your prayer is answered.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 sonic damage; push 1
-- **12–16:** 3 sonic damage; push 2
+- **12-16:** 3 sonic damage; push 2
 - **17+:** 5 sonic damage; push 3
-
 
 **Effect:** You can also push each willing ally in the area, and their stability doesn’t count against this forced
   movement.
@@ -5601,7 +5570,6 @@ A brilliant column of holy light appears on the battlefield, striking out at nea
 - **Type:** Action
 - **Distance:** Ranged 10
 - **Target:** Special
-
 
 **Effect:** You summon a spirit of **size 2** who can’t be harmed, and who appears in an unoccupied space within
   distance. The spirit lasts until the end of your next turn. You and your allies can move through the spirit’s space,
@@ -5620,7 +5588,7 @@ Your divine fury is a hammer that crashes down upon the unrighteous.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 3 holy damage; [weak] prone
-- **12–16:** 6 holy damage; [average] prone
+- **12-16:** 6 holy damage; [average] prone
 - **17+:** 9 holy damage; [strong] prone and can’t stand (save ends)
 
 ###### VIOLENCE WILL NOT AID THEE (3 PIETY)
@@ -5635,9 +5603,8 @@ A brilliant column of holy light appears on the battlefield, striking out at nea
 **Power Roll + Intuition:**
 
 - **11 or lower:** 3 lightning damage
-- **12–16:** 6 lightning damage
+- **12-16:** 6 lightning damage
 - **17+:** 9 lightning damage
-
 
 **Effect:** If the target deals damage to another creature, the target of this ability takes another **1d10 lightning
   damage** (save ends).
@@ -5659,7 +5626,7 @@ Cursed by you, your enemy takes more damage from your allies.
 
 - **11 or lower:** 3 corruption damage; [weak] when the target takes damage from an ability, the ability deals **+1** (
   save ends)
-- **12–16:** 6 corruption damage; [average] when the target takes damage from an ability, the ability deals **+2** (save
+- **12-16:** 6 corruption damage; [average] when the target takes damage from an ability, the ability deals **+2** (save
   ends)
 - **17+:** 9 corruption damage; [strong] when the target takes damage from an ability, the ability deals **+3** (save
   ends)
@@ -5676,7 +5643,7 @@ Fear of divine judgment overwhelms your foe.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 6 holy damage; [weak] frightened (save ends)
-- **12–16:** 9 holy damage; [average] frightened (save ends)
+- **12-16:** 9 holy damage; [average] frightened (save ends)
 - **17+:** 13 holy damage; [strong] frightened (save ends)
 
 ###### FAITH IS OUR ARMOR (5 PIETY)
@@ -5691,9 +5658,8 @@ The heroes' armor glows with golden light, granting divine protection.
 **Power Roll + Intuition:**
 
 - **11 or lower:** Gain 5 temporary Stamina
-- **12–16:** Gain 10 temporary Stamina
+- **12-16:** Gain 10 temporary Stamina
 - **17+:** Gain 15 temporary Stamina
-
 
 **Effect:** This temporary Stamina disappears at the end of the encounter.
 
@@ -5705,7 +5671,6 @@ You inspire your allies with tales of your saint's great deeds.
 - **Type:** Action
 - **Distance:** 3 burst
 - **Target:** All allies
-
 
 **Effect:** Each target can spend a Recovery, end one effect that is ended by a saving throw or that ends at the end
   of their turn, or use the Stand Up maneuver as a free triggered action.
@@ -5761,7 +5726,6 @@ Your enemies suffer their fate; your allies, their destiny!
 - **Distance:** 2 aura
 - **Target:** Special
 
-
 **Effect:** Choose one effect that lasts until the end of the encounter or you start dying:
     - Whenever you or an ally in the aura makes a power roll, they can roll three dice and choose which two to use.
     - Whenever an enemy in the aura makes a power roll, they must roll three dice and use the lowest two.
@@ -5775,7 +5739,6 @@ The gods grant insight revealing where best to strike your enemies.
 - **Distance:** Self and 3 Aura
 - **Target:** Self and all allies
 
-
 **Effect:** Until the end of the encounter or you start dying, each target in the aura gains **+1** on their
   abilities.
 
@@ -5787,7 +5750,6 @@ You may swap places.
 - **Type:** Maneuver
 - **Distance:** 5 burst
 - **Target:** All allies
-
 
 **Effect:** Each target can choose another creature within **5 squares** of them. They swap places with that creature.
   The creature they choose must be able to fit into the space they leave and vice versa.
@@ -5805,7 +5767,7 @@ You speak with the voice of your saint, commanding your enemies.
 
 - **11 or lower:** 4 holy damage; [weak] before taking damage, the target makes a free strike against a target you
   choose
-- **12–16:** 7 holy damage; [average] before taking damage, the target uses an action of your choice and you choose any
+- **12-16:** 7 holy damage; [average] before taking damage, the target uses an action of your choice and you choose any
   targets
 - **17+:** 11 holy damage; [strong] before taking damage, the target can shift their speed and uses an action of your
   choice, and you choose any targets
@@ -5822,9 +5784,8 @@ Light shines at your command, burning your foes and blessing your allies.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 4 fire damage
-- **12–16:** 6 fire damage
+- **12-16:** 6 fire damage
 - **17+:** 10 fire damage
-
 
 **Effect:** Each ally in the area deals **+1 fire damage** with their next attack made before the end of their next
   turn.
@@ -5841,7 +5802,7 @@ Mystical thorned vines appear and bind your foes.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 damage; [weak] restrained (save ends)
-- **12–16:** 3 damage; [average] restrained (save ends)
+- **12-16:** 3 damage; [average] restrained (save ends)
 - **17+:** 7 damage; [strong] restrained (save ends)
 
 #### OUR HEARTS, YOUR STRENGTH (5 PIETY)
@@ -5852,7 +5813,6 @@ An ally gains strength from their friends.
 - **Type:** Maneuver
 - **Distance:** Self or Ranged 10
 - **Target:** 2 allies, including self
-
 
 **Effect:** Until the end of the encounter or the target starts dying, whenever the target starts their turn, they
   gain a bonus to speed and damage equal to the number of allies within **10 squares** of them that lasts until the
@@ -5867,7 +5827,6 @@ The gods reward those who smite their foes.
 - **Distance:** Ranged 10
 - **Target:** All allies
 
-
 **Effect:** Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to **5 +
   your Intuition score**.
 
@@ -5879,7 +5838,6 @@ You forge a divine connection between two creatures.
 - **Type:** Maneuver
 - **Distance:** Self or Ranged 10
 - **Target:** 2 allies, including self
-
 
 **Effect:** Until the end of the encounter, whenever one target takes damage, the other can choose to take it instead
   as a free triggered action. The original target still suffers any effects associated with the damage. Additionally,
@@ -5897,7 +5855,7 @@ A raging storm appears, striking your foes with lightning and throwing them arou
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 lightning damage; vertical slide 1
-- **12–16:** 5 lightning damage; vertical slide 2
+- **12-16:** 5 lightning damage; vertical slide 2
 - **17+:** 7 lightning damage; vertical slide 3
 
 #### STATUE OF POWER (5 PIETY)
@@ -5908,7 +5866,6 @@ A marble statue of your patron rises from the earth.
 - **Type:** Maneuver
 - **Distance:** Ranged 10
 - **Target:** Special
-
 
 **Effect:** A **size 2** statue rises out of the ground in an unoccupied space within distance and lasts until the end
   of the encounter. You and each ally within **3 squares** of the statue gain **+1** on their abilities. The statue is
@@ -5922,7 +5879,6 @@ A holy light emits from your body, healing your allies.
 - **Type:** Action
 - **Distance:** 3 Aura
 - **Target:** All allies
-
 
 **Effect:** Until the end of the encounter or you start dying, whenever a target starts their turn within the aura,
   they can spend a Recovery as no action.
@@ -5958,9 +5914,8 @@ Your divine magic makes a creature appear as what your enemies fear most.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 6 psychic damage; [weak] frightened (save ends)
-- **12–16:** 9 psychic damage; [average] frightened (save ends)
+- **12-16:** 9 psychic damage; [average] frightened (save ends)
 - **17+:** 13 psychic damage; [strong] frightened (save ends)
-
 
 **Effect:** You choose a creature within 10 squares who the targets are frightened of.
 
@@ -5972,7 +5927,6 @@ An ally becomes the wearer of an empowered golden cloak.
 - **Type:** Maneuver
 - **Distance:** Ranged 10
 - **Target:** 1 ally
-
 
 **Effect:** The ally gains **+2** against attacks and **+1** on abilities until the end of the encounter.
 
@@ -5988,9 +5942,8 @@ A beam of energy connects a foe to a friend, draining life from one to heal the 
 **Power Roll + Intuition:**
 
 - **11 or lower:** 7 corruption damage
-- **12–16:** 10 corruption damage
+- **12-16:** 10 corruption damage
 - **17+:** 15 corruption damage
-
 
 **Effect:** One ally within distance can spend any number of Recoveries.
 
@@ -6006,9 +5959,8 @@ Your saint grants your enemies a vision of whatever they most fear.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 holy damage
-- **12–16:** 5 holy damage
+- **12-16:** 5 holy damage
 - **17+:** 7 holy damage
-
 
 **Effect:** Each ally in the area can spend a Recovery.
 
@@ -6132,10 +6084,9 @@ You gain the following ability, which can be used as a ranged free strike:
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage
-- 12–16: 4 damage
-- 17+: 6 damage
-
+- **11 or lower:** 2 damage
+- **12-16:** 4 damage
+- **17+:** 6 damage
 
 **Effect:** When you make this attack, choose the damage type from one of the following options: acid, cold, corruption,
 fire, lightning, poison, or sonic.
@@ -6168,7 +6119,6 @@ You have the following ability:
 - **Type:** Maneuver
 - **Distance:** Self
 - **Target:** Self
-
 
 **Effect:** Choose one of the following effects:
 
@@ -6210,7 +6160,6 @@ You also gain the following ability.
 - **Distance:** Ranged 10
 - **Target:** Special
 
-
 **Effect:** For each Victory you have, you can target 1 creature. That creature gains the benefit of your *A Beyonding
 of Vision* feature until the end of your next turn, but doesn’t gain the use of *A Shared Revealing*.
 
@@ -6237,7 +6186,6 @@ You gain the following ability:
 - **Distance:** Melee 1
 - **Target:** Special
 
-
 **Effect:** You touch a square containing mundane dirt, stone, or metal and create a 5-square wall of the same material,
 which rises up out of the ground and must include the square you touched.
 
@@ -6259,7 +6207,6 @@ You gain the following ability:
 - **Type:** Action
 - **Distance:** Melee 1
 - **Target:** 1 mundane object
-
 
 **Effect:** You heat the target and cause it to combust and melt. If the object is larger than 1 square, then only the
 square of the object that you touch is destroyed.
@@ -6285,8 +6232,8 @@ Your specialization grants you a triggered action, as shown on the Elementalist 
 - **Type:** Triggered
 - **Distance:** Ranged 10
 - **Target:** Self or 1 ally
-- **Trigger:** The target starts their turn.
 
+**Trigger:** The target starts their turn.
 
 **Effect:** The target can spend a Recovery. You gain 1 essence.
 
@@ -6298,12 +6245,11 @@ Your specialization grants you a triggered action, as shown on the Elementalist 
 - **Type:** Triggered
 - **Distance:** Ranged 10
 - **Target:** Self or 1 ally
-- **Trigger:** The target force moves a creature or object.
 
+**Trigger:** The target force moves a creature or object.
 
 **Effect:** The distance of the forced movement is increased by a number of squares equal to your Reason score. You gain
 1 essence.
-
 
 **Spend 1 Essence:** The distance of the forced movement is increased by a number of squares equal to twice your Reason
 score instead. You gain no essence from using this triggered action.
@@ -6316,11 +6262,10 @@ score instead. You gain no essence from using this triggered action.
 - **Type:** Triggered
 - **Distance:** Self or Ranged 10
 - **Target:** Self or 1 ally
-- **Trigger:** The target makes a melee attack.
 
+**Trigger:** The target makes a melee attack.
 
 **Effect:** The attack gains 1 surge. You gain 1 essence.
-
 
 **Spend 1 Essence:** The attack also pushes the target a number of squares equal to your Reason score after all its
 other effects are resolved. You gain no essence from using this triggered action.
@@ -6333,12 +6278,11 @@ other effects are resolved. You gain no essence from using this triggered action
 - **Type:** Triggered
 - **Distance:** Self or Ranged 10
 - **Target:** Self or 1 ally
-- **Trigger:** The target starts their turn or moves.
 
+**Trigger:** The target starts their turn or moves.
 
 **Effect:** At any point during the move, you teleport the target a number of squares equal to your Reason. You gain 1
 essence.
-
 
 **Spend 1 Essence:** You teleport the target a number of squares equal to twice your Reason score instead. You gain no
 essence from using this triggered action.
@@ -6437,10 +6381,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 corruption damage
-- 12–16: 3 corruption damage
-- 17+: 4 corruption damage
-
+- **11 or lower:** 2 corruption damage
+- **12-16:** 3 corruption damage
+- **17+:** 4 corruption damage
 
 **Effect:** You or an ally within distance can end one effect that is ended by a saving throw or that ends at the end of
 their turn.
@@ -6456,9 +6399,9 @@ their turn.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 fire damage
-- 12–16: 3 fire damage
-- 17+: 4 fire damage
+- **11 or lower:** 2 fire damage
+- **12-16:** 3 fire damage
+- **17+:** 4 fire damage
 
 ##### GRASP OF BEYOND
 
@@ -6471,10 +6414,9 @@ their turn.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 corruption damage
-- 12–16: 5 corruption damage
-- 17+: 8 corruption damage
-
+- **11 or lower:** 3 corruption damage
+- **12-16:** 5 corruption damage
+- **17+:** 8 corruption damage
 
 **Effect:** You can teleport a number of squares equal to your Reason score.
 
@@ -6489,10 +6431,9 @@ their turn.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage
-- 12–16: 3 damage
-- 17+: 5 damage
-
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 5 damage
 
 **Effect:** You slide a creature within 10 squares of the target up to 2 squares. If the creature is a willing ally, the
 forced movement ignores stability.
@@ -6508,9 +6449,9 @@ forced movement ignores stability.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage; push 2
-- 12–16: 4 damage; push 3
-- 17+: 6 damage; push 4
+- **11 or lower:** 2 damage; push 2
+- **12-16:** 4 damage; push 3
+- **17+:** 6 damage; push 4
 
 ##### RAY OF AGONIZING SELF REFLECTION
 
@@ -6523,9 +6464,9 @@ forced movement ignores stability.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 corruption damage; R [weak] slowed (save ends)
-- 12–16: 3 corruption damage; R [average] slowed (save ends)
-- 17+: 4 corruption damage; R [strong] slowed (save ends)
+- **11 or lower:** 2 corruption damage; R [weak] slowed (save ends)
+- **12-16:** 3 corruption damage; R [average] slowed (save ends)
+- **17+:** 4 corruption damage; R [strong] slowed (save ends)
 
 ##### UNQUIET GROUND
 
@@ -6538,10 +6479,9 @@ forced movement ignores stability.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage
-- 12–16: 3 damage
-- 17+: 5 damage
-
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 5 damage
 
 **Effect:** The ground beneath the area becomes difficult terrain for your enemies.
 
@@ -6556,9 +6496,9 @@ forced movement ignores stability.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 fire damage; push 2
-- 12–16: 3 fire damage; push 3
-- 17+: 5 fire damage; push 4
+- **11 or lower:** 2 fire damage; push 2
+- **12-16:** 3 fire damage; push 3
+- **17+:** 5 fire damage; push 4
 
 #### HEROIC ABILITIES
 
@@ -6579,10 +6519,9 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 psychic damage
-- 12–16: 4 psychic damage
-- 17+: 6 psychic damage
-
+- **11 or lower:** 2 psychic damage
+- **12-16:** 4 psychic damage
+- **17+:** 6 psychic damage
 
 **Persistent 1:** At the start of your turn, you can use your maneuver to use this ability again without spending
 essence.
@@ -6598,10 +6537,9 @@ essence.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 5 fire damage
-- 12–16: 8 fire damage
-- 17+: 11 fire damage
-
+- **11 or lower:** 5 fire damage
+- **12-16:** 8 fire damage
+- **17+:** 11 fire damage
 
 **Persistent 1:** If the target is within distance at the start of your turn, make a power roll for this ability again.
 
@@ -6616,10 +6554,9 @@ essence.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 4 poison damage
-- 12–16: 7 poison damage
-- 17+: 11 poison damage
-
+- **11 or lower:** 4 poison damage
+- **12-16:** 7 poison damage
+- **17+:** 11 poison damage
 
 **Effect:** The mushrooms can be removed by the target or by an adjacent creature as an action. While the mushrooms are
 on the target, each of your allies adjacent to the target gains 1 surge on attacks.
@@ -6635,10 +6572,9 @@ on the target, each of your allies adjacent to the target gains 1 surge on attac
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 damage
-- 12–16: 5 damage
-- 17+: 8 damage; M [strong] prone
-
+- **11 or lower:** 3 damage
+- **12-16:** 5 damage
+- **17+:** 8 damage; M [strong] prone
 
 **Effect:** You must be touching the ground or floor to use this ability. The surface beneath the area becomes difficult
 terrain for your enemies.
@@ -6658,10 +6594,9 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 **Power Roll + Reason:**
 
-- 11 or lower: 4 fire damage
-- 12–16: 6 fire damage
-- 17+: 10 fire damage
-
+- **11 or lower:** 4 fire damage
+- **12-16:** 6 fire damage
+- **17+:** 10 fire damage
 
 **Persistent 2:** At the start of your turn, you can use your maneuver to use this ability again without spending
 essence.
@@ -6675,7 +6610,6 @@ essence.
 - **Distance:** Ranged 10
 - **Target:** Special
 
-
 **Effect:** You open two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane
 surface within distance. You can place these holes next to each other to create fewer holes with wider openings. Make a
 separate power roll for each creature standing above a hole when it opens and small enough to fall in. (You can’t get a
@@ -6683,11 +6617,10 @@ critical hit with this power because it uses a maneuver).
 
 **Power Roll + Reason:**
 
-- 11 or lower: The target can shift up to 1 square from the edge of the hole to the nearest unoccupied space of their
+- **11 or lower:** The target can shift up to 1 square from the edge of the hole to the nearest unoccupied space of their
   choice.
-- 12–16: The target falls into the hole.
-- 17+: The target falls into the hole and can’t reduce the height of the fall.
-
+- **12-16:** The target falls into the hole.
+- **17+:** The target falls into the hole and can’t reduce the height of the fall.
 
 **Persistent 1:** At the start of your turn, you open another hole.
 
@@ -6700,11 +6633,9 @@ critical hit with this power because it uses a maneuver).
 - **Distance:** Self or Ranged 10
 - **Target:** Self or 1 ally
 
-
 **Effect:** Until the start of your next turn, the target has insubstantiality and can move through solid matter and
 ignores difficult terrain. If the target ends their turn inside solid matter, they are shunted out into the space where
 they entered it and this effect ends.
-
 
 **Persistent 1:** The effect lasts until the start of your next turn.
 
@@ -6719,10 +6650,9 @@ they entered it and this effect ends.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 4 acid damage
-- 12–16: 6 acid damage
-- 17+: 10 acid damage
-
+- **11 or lower:** 4 acid damage
+- **12-16:** 6 acid damage
+- **17+:** 10 acid damage
 
 **Effect:** You and each ally within distance can end one effect that is ended by a saving throw or that ends at the end
 of their turn.
@@ -6804,13 +6734,11 @@ You gain the following ability:
 - **Distance:** Ranged 10
 - **Target:** Special
 
-
 **Effect:** You open two size-1 portals in unoccupied spaces that last until the start of your next turn. Each portal
 must be placed at a height of no more than 1 square above ground. When you or an ally touches a portal, the creature can
 choose to be instantly teleported to an unoccupied space of their choice within 1 square of the other portal. If an
 enemy is forced moved into the portal, their forced movement ends and they emerge from the other portal in an unoccupied
 space of your choice.
-
 
 **Persistent 0:** If the portals are within distance at the start of your next turn, they remain open until the start of
 your next turn. Additionally, you can open another portal that is connected to the others. When three or more portals
@@ -6862,7 +6790,6 @@ Revitalizing plants and jagged stones grow, helping allies and hindering foes.
 - The area is difficult terrain for your enemies.
 - When an enemy enters the area for the first time on a turn or starts their turn there, they take (SURGE) damage.
 
-
 **Persistent 1:** The area remains until the start of your next turn. You can move the area up to 5 squares as a
 maneuver. This ability ends if you lose line of effect to its area.
 
@@ -6879,9 +6806,9 @@ Burrow into their brains and take control!
 
 **Power Roll + Reason:**
 
-- 11 or lower: 5 poison damage
-- 12-16: 9 poison damage
-- 17+: 12 poison damage
+- **11 or lower:** 5 poison damage
+- **12-16:** 9 poison damage
+- **17+:** 12 poison damage
 
 #### TRANSLATED THROUGH FLAME (5 ESSENCE)
 
@@ -6897,9 +6824,9 @@ adjacent to the target’s new space.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 fire damage
-- 12-16: 5 fire damage
-- 17+: 8 fire damage
+- **11 or lower:** 3 fire damage
+- **12-16:** 5 fire damage
+- **17+:** 8 fire damage
 
 #### VOLCANO’S EMBRACE (5 ESSENCE)
 
@@ -6912,9 +6839,9 @@ Wrap them up in fire and melting stone.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 5 fire damage; A [weak] restrained (save ends)
-- 12-16: 9 fire damage; A [average] restrained (save ends)
-- 17+: 12 fire damage; A [strong] restrained (save ends)
+- **11 or lower:** 5 fire damage; A [weak] restrained (save ends)
+- **12-16:** 9 fire damage; A [average] restrained (save ends)
+- **17+:** 12 fire damage; A [strong] restrained (save ends)
 
 ## 3RD-LEVEL FEATURES
 
@@ -6958,7 +6885,6 @@ You can slip into the stone.
 - **Distance:** Self  
 - **Target:** Self
 
-
 **Effect:** Step into a mundane dirt, stone, or metal wall or object that is as large as you or larger. You can remain
 inside the wall or object for as long as you like. While inside the wall or object, you can observe events and speak to
 creatures outside of it, but you don’t have line of effect to anything outside the wall and vice versa. You can travel
@@ -6978,7 +6904,6 @@ You stir any wood's memory and learn what it has seen.
 - **Distance:** Melee 1  
 - **Target:** 1 mundane object made of wood
 
-
 **Effect:** You see and hear any events that have occurred within 10 squares of the object within the last 12 hours,
 perceiving those events from the object’s perspective.
 
@@ -6995,7 +6920,6 @@ With a flick of the wrist, you phase creatures out of existence.
 - **Distance:** Ranged 10  
 - **Target:** Special
 
-
 **Effect:** Each target begins to fade from existence (save ends). While fading from existence, a target has bane on all
 power rolls. At the end of their first turn suffering this effect, they have a double bane on all power rolls. At the
 end of their second turn suffering this effect, they fade from existence for 1 hour, then return to the spot where they
@@ -7003,9 +6927,9 @@ left. You can target a number of creatures with this ability equal to your power
 
 **Power Roll + Reason:**
 
-- 11 or lower: 1 creature
-- 12-16: 2 creatures
-- 17+: 3 creatures
+- **11 or lower:** 1 creature
+- **12-16:** 2 creatures
+- **17+:** 3 creatures
 
 #### FIST OF EARTH (7 ESSENCE)
 
@@ -7018,10 +6942,9 @@ An enormous fist rises from the ground to crush your foes.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 5 damage; M [weak] restrained (save ends)
-- 12-16: 9 damage; M [average] restrained (save ends)
-- 17+: 12 damage; M [strong] restrained (save ends)
-
+- **11 or lower:** 5 damage; M [weak] restrained (save ends)
+- **12-16:** 9 damage; M [average] restrained (save ends)
+- **17+:** 12 damage; M [strong] restrained (save ends)
 
 **Effect:** While the target is restrained, they take (SURGE)(SURGE) damage at the start of their turn.
 
@@ -7036,14 +6959,12 @@ Guardian animal spirits surround you.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 damage
-- 12-16: 6 damage
-- 17+: 9 damage
-
+- **11 or lower:** 3 damage
+- **12-16:** 6 damage
+- **17+:** 9 damage
 
 **Effect:** Until the end of your next turn, each ally in your aura has an edge on resistance rolls and +1 on saving
 throws.
-
 
 **Persistent 1:** You can roll power against each enemy in your aura by making one power roll total, and the effect
 lasts until the start of your next turn.
@@ -7057,11 +6978,9 @@ A blazing, beautifully organized inferno.
 - **Distance:** 10 wall within 10  
 - **Target:** Special
 
-
 **Effect:** You can place this wall in occupied squares. The wall lasts until the start of your next turn. Creatures can
 enter and pass through this wall. When an enemy enters the wall for the first time on a turn or starts their turn there,
 they take (SURGE)(SURGE) fire damage.
-
 
 **Persistent 1:** The effect lasts until the start of your next turn, and you can add a number of squares to the wall
 equal to your Reason score.
@@ -7219,7 +7138,8 @@ In your anger, you revert to a more bestial form.
 - **Type:** Triggered  
 - **Distance:** Self  
 - **Target:** Self  
-- **Trigger:** You lose Stamina and are not dying.  
+
+**Trigger:** You lose Stamina and are not dying.  
 
 **Effect:** After damage is resolved, if your rage is high enough, you can enter your animal or hybrid form as a free
 triggered action. You gain temporary Stamina equal to your Might.  
@@ -7234,7 +7154,8 @@ You redirect the energy of motion.
 - **Type:** Triggered  
 - **Distance:** Self or Melee 1  
 - **Target:** Self or 1 creature  
-- **Trigger:** The target is force moved.  
+
+**Trigger:** The target is force moved.  
 
 **Effect:** You can select a new target of the same size or smaller within distance to be force moved instead and change
 the direction of that forced movement. Additionally, you can increase the forced move distance by a number of squares
@@ -7251,7 +7172,8 @@ Elusive as a hummingbird.
 - **Type:** Triggered  
 - **Distance:** Melee 1  
 - **Target:** Self  
-- **Trigger:** You are targeted by a damaging area of effect.  
+
+**Trigger:** You are targeted by a damaging area of effect.  
 
 **Effect:** You shift up to 2 squares. If that moves you out of the area of effect, you ignore the attack. Otherwise,
 you take half damage.  
@@ -7289,9 +7211,9 @@ The heavy impact of your weapon attacks drives your foes ever backward.
 
 **Power Roll + Might:**
 
-- 11 or lower: 2 damage; push 1
-- 12–16: 5 damage; push 2
-- 17+: 7 damage; push 4
+- **11 or lower:** 2 damage; push 1
+- **12-16:** 5 damage; push 2
+- **17+:** 7 damage; push 4
 
 ##### HIT AND RUN
 
@@ -7304,10 +7226,9 @@ Keeping in constant motion helps you slip out of reach after a brutal assault.
 
 **Power Roll + Might:**
 
-- 11 or lower: 2 damage
-- 12–16: 3 damage
-- 17+: 5 damage; A [strong] slowed (save ends)  
-
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 5 damage; A [strong] slowed (save ends)  
 
 **Effect:** You can shift 1 square after the attack is resolved.
 
@@ -7322,9 +7243,9 @@ You plunge your weapon into your enemy like a boar upon a spit.
 
 **Power Roll + Might:**
 
-- 11 or lower: 2 damage; M [weak] grabbed
-- 12–16: 3 damage; M [average] grabbed
-- 17+: 5 damage; M [strong] grabbed
+- **11 or lower:** 2 damage; M [weak] grabbed
+- **12-16:** 3 damage; M [average] grabbed
+- **17+:** 5 damage; M [strong] grabbed
 
 ##### TO THE DEATH!
 
@@ -7337,10 +7258,9 @@ Your reckless assault leaves you tactically vulnerable.
 
 **Power Roll + Might:**
 
-- 11 or lower: 3 damage
-- 12–16: 6 damage
-- 17+: 9 damage  
-
+- **11 or lower:** 3 damage
+- **12-16:** 6 damage
+- **17+:** 9 damage  
 
 **Effect:** You can choose to do (SURGE) to the target. If you do, the target gains (SURGE) on their next attack against you.
 
@@ -7363,9 +7283,9 @@ Surrounded? The fools!
 
 **Power Roll + Might:**
 
-- 11 or lower: 5 damage
-- 12–16: 8 damage; push 1
-- 17+: 11 damage; push 3
+- **11 or lower:** 5 damage
+- **12-16:** 8 damage; push 1
+- **17+:** 11 damage; push 3
 
 ###### OUT OF THE WAY! (3 RAGE)
 
@@ -7378,10 +7298,9 @@ Your enemies will get out of your way—whether they want to or not.
 
 **Power Roll + Might:**
 
-- 11 or lower: 3 damage; slide 2
-- 12–16: 5 damage; slide 3
-- 17+: 8 damage; slide 5
-
+- **11 or lower:** 3 damage; slide 2
+- **12-16:** 5 damage; slide 3
+- **17+:** 8 damage; slide 5
 
 **Effect:** When you force move the target, you can move into any square they leave. If you take damage from an
 opportunity attack by moving this way, the target takes the same amount and type of damage.
@@ -7401,10 +7320,9 @@ roll against every enemy you moved through.
 
 **Power Roll + Might:**
 
-- 11 or lower: 2 damage
-- 12–16: 3 damage
-- 17+: 5 damage  
-
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 5 damage  
 
 **Effect:** The target takes an extra (SURGE) for every free strike you triggered from your move.
 
@@ -7419,10 +7337,9 @@ Hard for them to fight when they're busy holding in their giblets.
 
 **Power Roll + Might:**
 
-- 11 or lower: 3 damage; M [weak] bleeding (save ends)
-- 12–16: 5 damage; M [average] bleeding (save ends)
-- 17+: 8 damage; M [average] bleeding (save ends)  
-
+- **11 or lower:** 3 damage; M [weak] bleeding (save ends)
+- **12-16:** 5 damage; M [average] bleeding (save ends)
+- **17+:** 8 damage; M [average] bleeding (save ends)  
 
 **Effect:** The target takes (SURGE) whenever they fail a save for bleeding.
 
@@ -7441,10 +7358,9 @@ A mighty strike leaves your foe reeling.
 
 **Power Roll + Might:**
 
-- 11 or lower: 4 damage; M [weak] bleeding and weakened (save ends)
-- 12–16: 6 damage; M [average] bleeding and weakened (save ends)
-- 17+: 10 damage; M [strong] bleeding and weakened (save ends)  
-
+- **11 or lower:** 4 damage; M [weak] bleeding and weakened (save ends)
+- **12-16:** 6 damage; M [average] bleeding and weakened (save ends)
+- **17+:** 10 damage; M [strong] bleeding and weakened (save ends)  
 
 **Effect:** You can choose to deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
 
@@ -7470,10 +7386,9 @@ A howl erupts from you that hurls your enemies back.
 
 **Power Roll + Might:**
 
-- 11 or lower: 6 damage; push 2
-- 12–16: 9 damage; push 4
-- 17+: 13 damage; push 6  
-
+- **11 or lower:** 6 damage; push 2
+- **12-16:** 9 damage; push 4
+- **17+:** 13 damage; push 6  
 
 **Effect:** Targets are pushed one at a time, starting with the target closest to you.
 
@@ -7488,10 +7403,9 @@ You spend your life force to ensure their death.
 
 **Power Roll + Might:**
 
-- 11 or lower: 7 damage
-- 12–16: 11 damage
-- 17+: 16 damage  
-
+- **11 or lower:** 7 damage
+- **12-16:** 11 damage
+- **17+:** 16 damage  
 
 **Spend 1 or More Additional Rage:** If you are winded, you can add 1d6 damage for each rage spent. If you are dying,
   you can add 1d10 damage for each rage spent. In either case, you then lose 1d6 Stamina.
@@ -7569,9 +7483,9 @@ square of difficult terrain. Make a power roll against every enemy you move past
 
 **Power Roll + Might:**
 
-- 11 or lower: push 1
-- 12–16: push 2
-- 17+: push 3
+- **11 or lower:** push 1
+- **12-16:** push 2
+- **17+:** push 3
 
 #### 2ND-LEVEL REAVER ABILITIES
 
@@ -7591,9 +7505,9 @@ move.
 
 **Power Roll + Might:**
 
-- 11 or lower: 1 damage; A [weak] dazed (save ends)
-- 12–16: 2 damage; A [average] dazed (save ends)
-- 17+: 3 damage; A [strong] dazed (save ends)
+- **11 or lower:** 1 damage; A [weak] dazed (save ends)
+- **12-16:** 2 damage; A [average] dazed (save ends)
+- **17+:** 3 damage; A [strong] dazed (save ends)
 
 ##### RRRAAAGHH! (5 RAGE)
 
@@ -7606,9 +7520,9 @@ Death! Deeaaath!!
 
 **Power Roll + Might:**
 
-- 11 or lower: 3 damage; P [weak] dazed and frightened (save ends)
-- 12–16: 5 damage; P [average] dazed and frightened (save ends)
-- 17+: 8 damage; P [strong] dazed and frightened (save ends)
+- **11 or lower:** 3 damage; P [weak] dazed and frightened (save ends)
+- **12-16:** 5 damage; P [average] dazed and frightened (save ends)
+- **17+:** 8 damage; P [strong] dazed and frightened (save ends)
 
 #### 2ND-LEVEL STORMWIGHT ABILITIES
 
@@ -7625,10 +7539,9 @@ I will hunt you down.
 
 **Power Roll + Might:**
 
-- 11 or lower: 4 damage; I [weak] slowed (save ends)
-- 12–16: 6 damage; I [average] slowed (save ends)
-- 17+: 10 damage; I [strong] slowed (save ends)  
-
+- **11 or lower:** 4 damage; I [weak] slowed (save ends)
+- **12-16:** 6 damage; I [average] slowed (save ends)
+- **17+:** 10 damage; I [strong] slowed (save ends)  
 
 **Effect:** The target can’t be hidden from you for 24 hours. For the rest of the encounter, whenever the target
   moves, you can move as a free triggered action.
@@ -7644,9 +7557,9 @@ The sound of the storm within you terrifies your opponents.
 
 **Power Roll + Might:**
 
-- 11 or lower: 2 damage of your Primordial Storm type; push 1; M [weak] dazed (save ends)
-- 12–16: 5 damage of your Primordial Storm type; push 2; M [average] dazed (save ends)
-- 17+: 7 damage of your Primordial Storm type; push 3; M [strong] dazed (save ends)
+- **11 or lower:** 2 damage of your Primordial Storm type; push 1; M [weak] dazed (save ends)
+- **12-16:** 5 damage of your Primordial Storm type; push 2; M [average] dazed (save ends)
+- **17+:** 7 damage of your Primordial Storm type; push 3; M [strong] dazed (save ends)
 
 ## 3RD-LEVEL FEATURES
 
@@ -7829,9 +7742,9 @@ Attacks with your sharp and deadly claws send your foes staggering back.
 
 **Power Roll + Might:**
 
-- 11 or lower: 2 damage; M [weak] grabbed
-- 12–16: 3 damage; M [average] grabbed
-- 17+: 8 damage; M [strong] grabbed
+- **11 or lower:** 2 damage; M [weak] grabbed
+- **12-16:** 3 damage; M [average] grabbed
+- **17+:** 8 damage; M [strong] grabbed
 
 #### BEAR GROWING RAGE
 
@@ -7885,10 +7798,9 @@ Foes who try to close around you do so at their peril.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage
-- 12–16: 5 damage
-- 17+: 6 damage  
-
+- **11 or lower:** 4 damage
+- **12-16:** 5 damage
+- **17+:** 6 damage  
 
 **Effect:** You can shift 2 before or after the attack.
 
@@ -7947,10 +7859,9 @@ Your enemies try in vain to fall back from your pouncing attack.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage
-- 12–16: 5 damage; push 1
-- 17+: 7 damage; push 2  
-
+- **11 or lower:** 4 damage
+- **12-16:** 5 damage; push 1
+- **17+:** 7 damage; push 2  
 
 **Effect:** You can shift the same number of squares that you pushed the target.
 
@@ -8005,9 +7916,9 @@ A savage assault forces your foes back.
 
 **Power Roll + Might:**
 
-- 11 or lower: 4 damage; A [weak] prone
-- 12–16: 5 damage; A [average] prone
-- 17+: 7 damage; A [strong] prone
+- **11 or lower:** 4 damage; A [weak] prone
+- **12-16:** 5 damage; A [average] prone
+- **17+:** 7 damage; A [strong] prone
 
 #### WOLF GROWING RAGE
 
@@ -8112,7 +8023,6 @@ supernatural abilities that attempt to harm you and any allies within.
 - **Distance:** 1 aura  
 - **Target:** Self and all creatures
 
-
 **Effect:** Until you are dying, attacks with the Magic or Psionic keyword take a bane if they target a target within the
 aura or are made by an enemy within the aura. Resistance rolls against abilities with the Magic or Psionic keyword have
 an edge if they target a target within the aura or are used by an enemy within the aura. These effects increase to a
@@ -8130,7 +8040,8 @@ Your body has been trained to predict when attacks will happen before they happe
 - **Type:** Triggered  
 - **Distance:** Self  
 - **Target:** Self  
-- **Trigger:** You take damage.  
+
+**Trigger:** You take damage.  
 
 **Effect:** You gain (SHIELD) for the attack and reduce any potency of effects associated with the damage by 1.
 
@@ -8271,10 +8182,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Agility:**
 
-- 11 or lower: 3 damage
-- 12-16: 4 damage
-- 17+: 5 damage
-
+- **11 or lower:** 3 damage
+- **12-16:** 4 damage
+- **17+:** 5 damage
 
 **Effect:** You can slide one adjacent enemy your Intuition score in squares.
 
@@ -8289,10 +8199,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Agility:**
 
-- 11 or lower: 3 damage
-- 12-16: 4 damage
-- 17+: 5 damage
-
+- **11 or lower:** 3 damage
+- **12-16:** 4 damage
+- **17+:** 5 damage
 
 **Effect:** You deal (SURGE) damage to an adjacent creature or object.
 
@@ -8307,9 +8216,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage; A [weak] grabbed
-- 12-16: 5 damage; A [average] grabbed
-- 17+: 7 damage; A [strong] grabbed
+- **11 or lower:** 4 damage; A [weak] grabbed
+- **12-16:** 5 damage; A [average] grabbed
+- **17+:** 7 damage; A [strong] grabbed
 
 ##### KINETIC STRIKE
 
@@ -8322,9 +8231,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage; taunted (EoT)
-- 12-16: 5 damage; taunted (EoT); slide 1
-- 17+: 6 damage; taunted (EoT); slide 2
+- **11 or lower:** 4 damage; taunted (EoT)
+- **12-16:** 5 damage; taunted (EoT); slide 1
+- **17+:** 6 damage; taunted (EoT); slide 2
 
 ##### MAGNETIC STRIKE
 
@@ -8337,9 +8246,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 psychic damage; pull 1
-- 12-16: 7 psychic damage; pull 2
-- 17+: 9 psychic damage; pull 3
+- **11 or lower:** 4 psychic damage; pull 1
+- **12-16:** 7 psychic damage; pull 2
+- **17+:** 9 psychic damage; pull 3
 
 ##### PRESSURE POINTS
 
@@ -8352,9 +8261,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage; A [weak] weakened (save ends)
-- 12-16: 5 damage; A [average] weakened (save ends)
-- 17+: 7 damage; A [strong] weakened (save ends)
+- **11 or lower:** 4 damage; A [weak] weakened (save ends)
+- **12-16:** 5 damage; A [average] weakened (save ends)
+- **17+:** 7 damage; A [strong] weakened (save ends)
 
 #### HEROIC ABILITIES
 
@@ -8375,10 +8284,9 @@ Choose one heroic ability from the following options.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 7 damage
-- 12-16: 10 damage
-- 17+: 13 damage
-
+- **11 or lower:** 7 damage
+- **12-16:** 10 damage
+- **17+:** 13 damage
 
 **Effect:** You can shift half your speed, before or after you make the attack. You can use this ability instead of a
 free strike or a signature ability whenever an effect gives you one, though you still must pay its Discipline cost.
@@ -8391,7 +8299,6 @@ free strike or a signature ability whenever an effect gives you one, though you 
 - **Type:** Maneuver  
 - **Distance:** 2 burst  
 - **Target:** All enemies
-
 
 **Effect:** Each target takes (SURGE)(SURGE) psychic damage. Until the beginning of your next turn, your Null Field distance
 increases by 1, and each enemy that starts their turn in the aura takes your (SURGE) psychic damage.
@@ -8407,10 +8314,9 @@ increases by 1, and each enemy that starts their turn in the aura takes your (SU
 
 **Power Roll + Agility:**
 
-- 11 or lower: 6 damage
-- 12-16: 8 damage
-- 17+: 12 damage
-
+- **11 or lower:** 6 damage
+- **12-16:** 8 damage
+- **17+:** 12 damage
 
 **Effect:** Until the beginning of your next turn, whenever the target moves, you can shift up to your speed as a free
 triggered action, as long as you end that shift adjacent to the target.
@@ -8426,9 +8332,9 @@ triggered action, as long as you end that shift adjacent to the target.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage; I [weak] slowed (save ends); I [weak] dazed (save ends)
-- 12-16: 5 damage; I [average] slowed (save ends); I [average] dazed (save ends)
-- 17+: 7 damage; I [strong] slowed (save ends); I [strong] dazed (save ends)
+- **11 or lower:** 4 damage; I [weak] slowed (save ends); I [weak] dazed (save ends)
+- **12-16:** 5 damage; I [average] slowed (save ends); I [average] dazed (save ends)
+- **17+:** 7 damage; I [strong] slowed (save ends); I [strong] dazed (save ends)
 
 ##### 5-DISCIPLINE ABILITIES
 
@@ -8445,10 +8351,9 @@ Choose one heroic ability from the following options.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 8 psychic damage; M [weak] weakened (save ends)
-- 12-16: 12 psychic damage; M [average] weakened (save ends)
-- 17+: 16 psychic damage; M [strong] weakened (save ends)
-
+- **11 or lower:** 8 psychic damage; M [weak] weakened (save ends)
+- **12-16:** 12 psychic damage; M [average] weakened (save ends)
+- **17+:** 16 psychic damage; M [strong] weakened (save ends)
 
 **Effect:** While weakened, the target takes (SURGE) psychic damage whenever they use an ability with the Magic keyword.
 
@@ -8463,10 +8368,9 @@ Choose one heroic ability from the following options.
 
 **Power Roll + Intuition:**
 
-- 11 or lower: push 3
-- 12-16: push 5
-- 17+: push 7
-
+- **11 or lower:** push 3
+- **12-16:** push 5
+- **17+:** push 7
 
 **Effect:** You have an edge on this attack. The target takes 1 psychic damage for each square they move through.
 
@@ -8481,10 +8385,9 @@ Choose one heroic ability from the following options.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 3 psychic damage; I [weak] suffer effect and slowed (save ends) when returned
-- 12-16: 4 psychic damage; I [average] suffer effect and slowed (save ends) when returned
-- 17+: 6 psychic damage; I [strong] suffer effect and slowed (save ends) when returned
-
+- **11 or lower:** 3 psychic damage; I [weak] suffer effect and slowed (save ends) when returned
+- **12-16:** 4 psychic damage; I [average] suffer effect and slowed (save ends) when returned
+- **17+:** 6 psychic damage; I [strong] suffer effect and slowed (save ends) when returned
 
 **Effect:** The target is removed from the encounter until the end of their next turn, appearing where they were removed
 or in the closest available space of the Director’s choice.
@@ -8500,10 +8403,9 @@ or in the closest available space of the Director’s choice.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 6 damage
-- 12-16: 9 damage
-- 17+: 13 damage
-
+- **11 or lower:** 6 damage
+- **12-16:** 9 damage
+- **17+:** 13 damage
 
 **Effect:** You can take the Disengage move action as a free triggered action before or after you make this attack.
 
@@ -8566,7 +8468,6 @@ Choose one of the following abilities.
 - **Distance:** Self  
 - **Target:** Self
 
-
 **Effect:** You can use a signature or heroic ability with an attack action as a free triggered action. You have an edge
 on attack rolls with this action.
 
@@ -8581,9 +8482,9 @@ on attack rolls with this action.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 8 damage; slide 1
-- 12-16: 12 damage; slide 3
-- 17+: 16 damage; slide 5
+- **11 or lower:** 8 damage; slide 1
+- **12-16:** 12 damage; slide 3
+- **17+:** 16 damage; slide 5
 
 Draw Steel © 2024 MCDM Productions, LLC
 
@@ -8602,9 +8503,9 @@ Choose one of the following abilities.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 6 cold damage; A [weak] slowed (save ends)
-- 12-16: 9 cold damage; A [average] slowed (save ends)
-- 17+: 13 cold damage; A [strong] slowed (save ends)
+- **11 or lower:** 6 cold damage; A [weak] slowed (save ends)
+- **12-16:** 9 cold damage; A [average] slowed (save ends)
+- **17+:** 13 cold damage; A [strong] slowed (save ends)
 
 ##### HEAT SINK (5 DISCIPLINE)
 
@@ -8614,7 +8515,6 @@ Choose one of the following abilities.
 - **Type:** Maneuver  
 - **Distance:** Self  
 - **Target:** Self
-
 
 **Effect:** Until the beginning of your next turn, your nullification aura distance increases by 1. Enemies treat the
 aura as difficult terrain, you and your allies benefit from concealment while in the aura, and enemies take (SURGE) cold
@@ -8635,9 +8535,9 @@ Choose one of the following abilities.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 8 psychic damage; pull 3
-- 12-16: 12 psychic damage; pull 5
-- 17+: 16 psychic damage; pull 7
+- **11 or lower:** 8 psychic damage; pull 3
+- **12-16:** 12 psychic damage; pull 5
+- **17+:** 16 psychic damage; pull 7
 
 ##### KINETIC SHIELD (5 DISCIPLINE)
 
@@ -8650,10 +8550,9 @@ Choose one of the following abilities.
 
 **Power Roll + Intuition:**
 
-- 11 or lower: gain 10 Temporary Stamina
-- 12-16: gain 15 Temporary Stamina
-- 17+: gain 20 Temporary Stamina
-
+- **11 or lower:** gain 10 Temporary Stamina
+- **12-16:** gain 15 Temporary Stamina
+- **17+:** gain 20 Temporary Stamina
 
 **Effect:** While you have Temporary Stamina, you are immune to the negative effects of bleeding. This Temporary Stamina
 disappears at the end of the encounter.
@@ -8680,7 +8579,6 @@ Choose one heroic ability from the following options.
 - **Distance:** Self  
 - **Target:** Self
 
-
 **Effect:** Until the end of the encounter, the area of your null field increases to 2 aura, adds a bane to all enemy
 attacks in the aura, and you and all allies gain (SHIELD) while in the aura.
 
@@ -8692,7 +8590,6 @@ attacks in the aura, and you and all allies gain (SHIELD) while in the aura.
 - **Type:** Maneuver  
 - **Distance:** Self  
 - **Target:** Self
-
 
 **Effect:** Until the end of the encounter, the area of your null field increases to 2 aura. Enemies that enter your
 null field or begin their turn in it suffer I [average] bleeding (save ends). Allies that enter your null field or begin
@@ -8708,7 +8605,6 @@ encounter.
 - **Distance:** Self  
 - **Target:** Self
 
-
 **Effect:** Until the end of the encounter, the area of your null field increases to 2 aura. While affected by this
 aura, you and your allies ignore difficult terrain, reduce potency of enemy effects that target them by 1, and remove a
 condition or effect that is affecting them as a free triggered action at the beginning of their turns.
@@ -8721,7 +8617,6 @@ condition or effect that is affecting them as a free triggered action at the beg
 - **Type:** Maneuver  
 - **Distance:** Self  
 - **Target:** Self
-
 
 **Effect:** Until the end of the encounter, the area of your null field increases to 2 aura. Any attacks against enemies
 in the aura do (SURGE)(SURGE) psychic damage.
@@ -8836,11 +8731,9 @@ In a swirl of black ash, you step from one place to another.
 - **Distance:** Self  
 - **Target:** Self
 
-
 **Effect:** You teleport up to 5 squares. If you end this movement in concealment or cover, you can use the Hide
 maneuver even if you are observed. If you attack another creature while hidden from this ability or on the same turn
 after using this ability, the attack gains (SURGE).
-
 
 **Spend Insight:** You teleport 1 additional square for each insight spent.
 
@@ -8857,11 +8750,9 @@ Just a little poison goes a long way.
 - **Distance:** Self  
 - **Target:** Self
 
-
 **Effect:** You coat one of your weapons with a harmful poison. The next creature you damage with an ability that uses
 that weapon takes (SURGE) poison damage. The poison loses its potency after you damage the creature or at the end of the
 encounter.
-
 
 **Spend Insight:** For each insight you spend, add (SURGE) to the effect.
 
@@ -8877,7 +8768,6 @@ Taking on the illusory countenance of another creature gives you an advantage on
 - **Type:** Maneuver  
 - **Distance:** Self  
 - **Target:** Self
-
 
 **Effect:** Choose a creature whose size is no more than 1 greater than yours, and who is within 10 squares of you. Your
 body is covered in an illusion that makes you appear to be that creature. This illusion covers your entire body,
@@ -8914,7 +8804,7 @@ You sow a moment of confusion in combat, to your enemy’s peril.
 - **Distance:** Self  
 - **Target:** Self
 
-- **Trigger:** An enemy attacks you.  
+**Trigger:** An enemy attacks you.  
 
 **Effect:** You choose an enemy within distance of the attack. The attack targets that enemy instead.
 
@@ -8927,12 +8817,11 @@ When an enemy attacks, you roll with the impact to reduce the harm.
 - **Distance:** Self  
 - **Target:** Self
 
-- **Trigger:** Another creature damages you.  
+**Trigger:** Another creature damages you.  
 
 **Effect:** You gain (SHIELD) against the triggering damage and then can shift up to 2 squares after the damage and its
 effects resolve. If you end this movement with concealment or cover, you can use the Hide maneuver even if you are
 observed.
-
 
 **Spend 1 Insight:** You gain (SHIELD)(SHIELD) against the triggering damage instead.
 
@@ -8945,11 +8834,10 @@ You vanish in a plume of black smoke to avoid danger.
 - **Distance:** Self  
 - **Target:** Self
 
-- **Trigger:** You take damage.  
+**Trigger:** You take damage.  
 
 **Effect:** You gain (SHIELD) against the triggering damage and then can teleport up to 4 squares after the damage and its
 effects resolve.
-
 
 **Spend Insight:** You teleport 1 additional square for each insight spent.
 
@@ -8967,7 +8855,7 @@ Keep up the attack. Never give them a moment's grace.
 - **Distance:** Self  
 - **Target:** Self
 
-- **Trigger:** Another hero who didn’t use this ability to start their turn ends their turn.  
+**Trigger:** Another hero who didn’t use this ability to start their turn ends their turn.  
 
 **Effect:** You take your turn after the triggering hero.
 
@@ -8995,10 +8883,9 @@ Your precise strikes let your allies take advantage of a target’s agony.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 2 damage
-- 12–16: 4 damage
-- 17+: 6 damage; I [strong] prone
-
+- **11 or lower:** 2 damage
+- **12-16:** 4 damage
+- **17+:** 6 damage; I [strong] prone
 
 **Effect:** The next ability that damages the target before the start of your next turn gains (SURGE).
 
@@ -9013,10 +8900,9 @@ It's better, just you and me. Isn't it?
 
 **Power Roll + Agility:**
 
-- 11 or lower: 2 damage
-- 12–16: 5 damage
-- 17+: 7 damage
-
+- **11 or lower:** 2 damage
+- **12-16:** 5 damage
+- **17+:** 7 damage
 
 **Effect:** If the target has no allies adjacent to them, you gain (SURGE) on the attack.
 
@@ -9031,10 +8917,9 @@ You fire a bolt at an enemy, distracting them long enough for an ally to stab th
 
 **Power Roll + Agility:**
 
-- 11 or lower: 3 damage
-- 12–16: 5 damage
-- 17+: 8 damage
-
+- **11 or lower:** 3 damage
+- **12-16:** 5 damage
+- **17+:** 8 damage
 
 **Effect:** If an ally is adjacent to the target, the target takes additional (SURGE) damage.
 
@@ -9049,10 +8934,9 @@ They can't watch both of you at once.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 3 damage
-- 12–16: 6 damage
-- 17+: 9 damage
-
+- **11 or lower:** 3 damage
+- **12-16:** 6 damage
+- **17+:** 9 damage
 
 **Effect:** If you are flanking the target when you make this attack, choose one ally who is flanking with you. That
 ally has (SURGE) on melee attacks against the target until the end of the ally’s next turn, even if they are no longer
@@ -9077,10 +8961,9 @@ Your attack leaves them reeling, allowing you to follow up.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage; slide 2
-- 12–16: 6 damage; slide 3
-- 17+: 10 damage; slide 5
-
+- **11 or lower:** 4 damage; slide 2
+- **12-16:** 6 damage; slide 3
+- **17+:** 10 damage; slide 5
 
 **Effect:** You can shift into squares the target leaves behind when you force move them.
 
@@ -9095,9 +8978,9 @@ You leave your foe bleeding out after a devastating attack.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage; A [weak] bleeding (save ends)
-- 12–16: 6 damage; A [average] bleeding (save ends)
-- 17+: 10 damage; A [strong] bleeding (save ends)
+- **11 or lower:** 4 damage; A [weak] bleeding (save ends)
+- **12-16:** 6 damage; A [average] bleeding (save ends)
+- **17+:** 10 damage; A [strong] bleeding (save ends)
 
 ###### GET IN, GET OUT (3 INSIGHT)
 
@@ -9110,10 +8993,9 @@ Move unexpectedly, strike fast, and be gone!
 
 **Power Roll + Agility:**
 
-- 11 or lower: 5 damage
-- 12–16: 8 damage
-- 17+: 11 damage
-
+- **11 or lower:** 5 damage
+- **12-16:** 8 damage
+- **17+:** 11 damage
 
 **Effect:** You can shift up to your speed. You can shift before or after your attack, or split your movement before and
 after your attack.
@@ -9129,9 +9011,9 @@ A bargain.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage
-- 12–16: 6 damage
-- 17+: 10 damage
+- **11 or lower:** 4 damage
+- **12-16:** 6 damage
+- **17+:** 10 damage
 
 ##### 5-INSIGHT ABILITIES
 
@@ -9148,9 +9030,9 @@ Your blade might be the last thing they see.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 1d6 + 7 damage
-- 12–16: 1d6 + 11 damage
-- 17+: 1d6 + 16 damage
+- **11 or lower:** 1d6 + 7 damage
+- **12-16:** 1d6 + 11 damage
+- **17+:** 1d6 + 16 damage
 
 ###### ONE HUNDRED THROATS (5 INSIGHT)
 
@@ -9161,15 +9043,14 @@ As you move across the battlefield, every foe within reach feels your wrath.
 - **Distance:** Self  
 - **Target:** Self
 
-
 **Effect:** You move up to your speed, and that movement doesn’t provoke opportunity attacks. You make one power roll
 that targets each enemy who becomes adjacent to you during the move.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 3 damage
-- 12–16: 6 damage
-- 17+: 9 damage
+- **11 or lower:** 3 damage
+- **12-16:** 6 damage
+- **17+:** 9 damage
 
 ###### SET-UP (5 INSIGHT)
 
@@ -9182,9 +9063,9 @@ Your friends will thank you.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 6 damage; R [weak] When the target takes damage from an ability, the ability gains (SURGE) (save ends)
-- 12–16: 9 damage; R [average] When the target takes damage from an ability, the ability gains (SURGE)(SURGE) (save ends)
-- 17+: 13 damage; R [strong] When the target takes damage from an ability, the ability gains (SURGE)(SURGE)(SURGE) (save ends)
+- **11 or lower:** 6 damage; R [weak] When the target takes damage from an ability, the ability gains (SURGE) (save ends)
+- **12-16:** 9 damage; R [average] When the target takes damage from an ability, the ability gains (SURGE)(SURGE) (save ends)
+- **17+:** 13 damage; R [strong] When the target takes damage from an ability, the ability gains (SURGE)(SURGE)(SURGE) (save ends)
 
 ###### SHADOWSTRIKE (5 INSIGHT)
 
@@ -9194,7 +9075,6 @@ They have no idea what the college taught you.
 - **Type:** Action  
 - **Distance:** Self  
 - **Target:** Self
-
 
 **Effect:** You make two signature attacks and each gains (SURGE).
 
@@ -9256,9 +9136,9 @@ You enchant a strike with your teleportation magic.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 6 damage; teleport target 1 square
-- 12-16: 10 damage; teleport target 3 squares
-- 17+: 14 damage; teleport target 5 squares
+- **11 or lower:** 6 damage; teleport target 1 square
+- **12-16:** 10 damage; teleport target 3 squares
+- **17+:** 14 damage; teleport target 5 squares
 
 ##### TOO SLOW (5 INSIGHT)
 
@@ -9269,7 +9149,7 @@ Your foe made a big mistake.
 - **Distance:** Self  
 - **Target:** Special
 
-- **Trigger:** You use In All This Confusion.  
+**Trigger:** You use In All This Confusion.  
 
 **Effect:** You gain an additional (SHIELD) against the triggering attack. Before you teleport, you can make a free strike
 against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.
@@ -9287,7 +9167,6 @@ Explosives are best when they’re attached to an enemy.
 - **Distance:** Ranged 10  
 - **Target:** 1 creature
 
-
 **Effect:** You attach a small bomb to a creature. If you are hidden from the creature, they don’t notice it and you
 remain hidden. If they notice the bomb, the creature can remove it as an action. At the end of your next turn, the bomb
 detonates. You can detonate it earlier as no action. When it detonates, make one power roll targeting each enemy within
@@ -9295,9 +9174,9 @@ detonates. You can detonate it earlier as no action. When it detonates, make one
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 fire damage
-- 12-16: 7 fire damage
-- 17+: 11 fire damage
+- **11 or lower:** 4 fire damage
+- **12-16:** 7 fire damage
+- **17+:** 11 fire damage
 
 ##### STINK BOMB (5 INSIGHT)
 
@@ -9310,10 +9189,9 @@ Yellow, disgusting gas explodes from a bomb you toss.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 2 poison damage
-- 12-16: 5 poison damage
-- 17+: 7 poison damage
-
+- **11 or lower:** 2 poison damage
+- **12-16:** 5 poison damage
+- **17+:** 7 poison damage
 
 **Effect:** The gas remains in the area until the end of the encounter. A creature who starts their turn in the area is
 M [average] weakened (save ends).
@@ -9333,10 +9211,9 @@ Illusory sounds make your foes reposition themselves as they cower or investigat
 
 **Power Roll + Agility:**
 
-- 11 or lower: slide 4
-- 12-16: slide 5
-- 17+: slide 7
-
+- **11 or lower:** slide 4
+- **12-16:** slide 5
+- **17+:** slide 7
 
 **Effect:** This movement ignores Stability. Instead, the forced movement is reduced by a number equal to the target’s
 Intuition score.
@@ -9348,7 +9225,7 @@ When your enemy strikes, you reveal you were in a different place all along.
 - **Keywords:** Attack, Melee, Ranged, Magic, Weapon  
 - **Type:** Free Triggered Action
 
-- **Trigger:** You use Clever Trick.  
+**Trigger:** You use Clever Trick.  
 
 **Effect:** Clever Trick doesn’t cost insight to use. The creature who attacked you actually just attacked an illusory
 image of you. You appear in an unoccupied space within 3 squares of that creature and can make a free strike against
@@ -9379,7 +9256,6 @@ You enter a flow state that makes you nearly impossible to pin down.
 - **Distance:** Self  
 - **Target:** Self
 
-
 **Effect:** Until the end of the encounter, whenever an enemy moves to a space adjacent to you or damages you, you can
 take the Disengage action as a free triggered action.
 
@@ -9394,10 +9270,9 @@ Why are you looking at ME?!
 
 **Power Roll + Agility:**
 
-- 11 or lower: 9 damage
-- 12-16: 13 damage
-- 17+: 18 damage
-
+- **11 or lower:** 9 damage
+- **12-16:** 13 damage
+- **17+:** 18 damage
 
 **Effect:** The target is taunted by a willing ally of your choice within distance (EoT).
 
@@ -9412,9 +9287,9 @@ One missile—placed well and placed hard.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 8 damage; A [weak] restrained (save ends)
-- 12-16: 12 damage; A [average] restrained (save ends)
-- 17+: 16 damage; A [strong] restrained (save ends)
+- **11 or lower:** 8 damage; A [weak] restrained (save ends)
+- **12-16:** 12 damage; A [average] restrained (save ends)
+- **17+:** 16 damage; A [strong] restrained (save ends)
 
 #### STAGGERING BLOW (7 INSIGHT)
 
@@ -9427,9 +9302,9 @@ There’s no recovering from this.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 7 damage; M [weak] slowed (save ends)
-- 12-16: 11 damage; M [average] prone and can’t stand (save ends)
-- 17+: 16 damage; M [strong] prone and can’t stand (save ends)
+- **11 or lower:** 7 damage; M [weak] slowed (save ends)
+- **12-16:** 11 damage; M [average] prone and can’t stand (save ends)
+- **17+:** 16 damage; M [strong] prone and can’t stand (save ends)
 
 # TACTICIAN
 
@@ -9546,15 +9421,15 @@ one clue or rumor regarding the encounter, you can make a Reason test as a Respi
 apply:
 
 - **Combat Encounter:**
-    - 11 or lower: The Director tells you the number of creatures in the encounter.
-    - 12-16: The Director tells you the number and level of the creatures in the encounter.
-    - 17+: As 12-16, and when the encounter begins, all enemies are surprised.
+    - **11 or lower:** The Director tells you the number of creatures in the encounter.
+    - **12-16:** The Director tells you the number and level of the creatures in the encounter.
+    - **17+:** As 12-16, and when the encounter begins, all enemies are surprised.
 
 - **Negotiation:**
-    - 11 or lower: The Director tells you three different motivations, one of which is one of the NPC’s motivations, and
+    - **11 or lower:** The Director tells you three different motivations, one of which is one of the NPC’s motivations, and
       the other two are not.
-    - 12-16: The Director tells you one of the NPC’s motivations.
-    - 17+: As 12-16, and you and your allies gain an edge on tests made to influence NPCs during the negotiation.
+    - **12-16:** The Director tells you one of the NPC’s motivations.
+    - **17+:** As 12-16, and you and your allies gain an edge on tests made to influence NPCs during the negotiation.
 
 You can only make this test once for each encounter and negotiation.
 
@@ -9576,7 +9451,8 @@ Your leadership thwarts an enemy or aids an ally.
 - **Type:** Triggered  
 - **Distance:** Ranged 10  
 - **Target:** Any creature  
-- **Trigger:** The target makes an attack against another creature.  
+
+**Trigger:** The target makes an attack against another creature.  
 
 **Effect:** Add or subtract (SURGE) to the attack.  
 
@@ -9590,7 +9466,8 @@ Your quick reflexes cost an enemy the precision they seek.
 - **Type:** Triggered  
 - **Distance:** Self or Melee 1  
 - **Target:** Self or 1 ally  
-- **Trigger:** A creature makes a Weapon attack against the target.  
+
+**Trigger:** A creature makes a Weapon attack against the target.  
 
 **Effect:** The attack’s damage is reduced (SHIELD)(SHIELD).  
 
@@ -9604,7 +9481,8 @@ Under your direction, an ally waits for just the right moment to strike.
 - **Type:** Triggered  
 - **Distance:** Ranged 10  
 - **Target:** 1 enemy  
-- **Trigger:** The target moves.  
+
+**Trigger:** The target moves.  
 
 **Effect:** At any point during the target’s movement, one ally can make a free strike against the target.  
 
@@ -9744,9 +9622,9 @@ You shout a phrase that galvanizes your team.
 
 **Power Roll + Reason:**
 
-- 11 or lower: The target’s next attack has (SURGE)
-- 12–16: The target’s next attack has (SURGE)
-- 17+: The target’s next attack has (SURGE)(SURGE)
+- **11 or lower:** The target’s next attack has (SURGE)
+- **12-16:** The target’s next attack has (SURGE)
+- **17+:** The target’s next attack has (SURGE)(SURGE)
 
 ###### CONCUSSIVE STRIKE (3 FOCUS)
 
@@ -9759,9 +9637,9 @@ Your precise strike leaves your foe struggling to respond.
 
 **Power Roll + Might:**
 
-- 11 or lower: 3 damage; M [weak] dazed (save ends)
-- 12–16: 5 damage; M [average] dazed (save ends)
-- 17+: 8 damage; M [strong] dazed (save ends)
+- **11 or lower:** 3 damage; M [weak] dazed (save ends)
+- **12-16:** 5 damage; M [average] dazed (save ends)
+- **17+:** 8 damage; M [strong] dazed (save ends)
 
 ###### INSPIRING STRIKE (3 FOCUS)
 
@@ -9774,9 +9652,9 @@ Your attack gives an ally hope.
 
 **Power Roll + Might:**
 
-- 11 or lower: 3 damage; you or an ally within 10 can spend a Recovery
-- 12–16: 5 damage; you or an ally within 10 can spend a Recovery
-- 17+: 8 damage; you or an ally within 10 can spend a Recovery, and each of you gains an edge on the next attack they
+- **11 or lower:** 3 damage; you or an ally within 10 can spend a Recovery
+- **12-16:** 5 damage; you or an ally within 10 can spend a Recovery
+- **17+:** 8 damage; you or an ally within 10 can spend a Recovery, and each of you gains an edge on the next attack they
   make this encounter
 
 ###### SQUAD! FORWARD! (3 FOCUS)
@@ -9805,12 +9683,11 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 
 **Power Roll + Might:**
 
-- 11 or lower: 5 damage; an ally within 10 can make a signature attack against the target as a free triggered action
-- 12–16: 9 damage; an ally within 10 can make a signature attack with an edge against the target as a free triggered
+- **11 or lower:** 5 damage; an ally within 10 can make a signature attack against the target as a free triggered action
+- **12-16:** 9 damage; an ally within 10 can make a signature attack with an edge against the target as a free triggered
   action
-- 17+: 12 damage; two allies within 10 can each make a signature attack with an edge against the target as a free
+- **17+:** 12 damage; two allies within 10 can each make a signature attack with an edge against the target as a free
   triggered action
-
 
 **Effect:** If an attack is left to be resolved and the target was reduced to 0 Stamina, the attacker can pick a
 different target.
@@ -9828,10 +9705,9 @@ Your attack demoralizes your foe. Your allies begin to think you can win.
 
 **Power Roll + Might:**
 
-- 11 or lower: 4 damage; R [weak] weakened (save ends)
-- 12–16: 6 damage; R [average] weakened (save ends)
-- 17+: 10 damage; R [strong] weakened (save ends)
-
+- **11 or lower:** 4 damage; R [weak] weakened (save ends)
+- **12-16:** 6 damage; R [average] weakened (save ends)
+- **17+:** 10 damage; R [strong] weakened (save ends)
 
 **Effect:** Each of your allies can spend a Recovery the first time they attack any target you’ve marked before the
 start of your next turn.
@@ -9930,9 +9806,9 @@ provided you can fit into each other’s spaces. The ally can spend a Recovery a
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage; R [weak] frightened of you (save ends)
-- 12–16: 3 damage; R [average] frightened of you (save ends)
-- 17+: 4 damage; R [strong] frightened of you (save ends)
+- **11 or lower:** 2 damage; R [weak] frightened of you (save ends)
+- **12-16:** 3 damage; R [average] frightened of you (save ends)
+- **17+:** 4 damage; R [strong] frightened of you (save ends)
 
 #### 2ND-LEVEL MASTERMIND ABILITIES
 
@@ -9949,10 +9825,9 @@ Your enemy will think twice about attacking your friend.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage; R [weak] frightened of an adjacent ally (save ends)
-- 12–16: 3 damage; R [average] frightened of an adjacent ally (save ends)
-- 17+: 5 damage; R [strong] frightened of an adjacent ally (save ends)
-
+- **11 or lower:** 2 damage; R [weak] frightened of an adjacent ally (save ends)
+- **12-16:** 3 damage; R [average] frightened of an adjacent ally (save ends)
+- **17+:** 5 damage; R [strong] frightened of an adjacent ally (save ends)
 
 **Effect:** An ally adjacent to the target can spend a Recovery.
 
@@ -9980,7 +9855,8 @@ You prioritize saving an ally over your own safety.
 - **Type:** Triggered  
 - **Distance:** Ranged 5  
 - **Target:** 1 enemy  
-- **Trigger:** The target attacks an ally.  
+
+**Trigger:** The target attacks an ally.  
 
 **Effect:** You move toward the target, ending your move in the nearest square that puts the target adjacent to you if
 you can. The ally can spend a Recovery and an additional Recovery for each enemy you move past while moving to the
@@ -9988,9 +9864,9 @@ target. Then make the following power roll against the target.
 
 **Power Roll + Might:**
 
-- 11 or lower: R [weak] frightened of the triggering ally (save ends)
-- 12–16: R [average] frightened of the triggering ally (save ends)
-- 17+: R [strong] frightened of the triggering ally (save ends)
+- **11 or lower:** R [weak] frightened of the triggering ally (save ends)
+- **12-16:** R [average] frightened of the triggering ally (save ends)
+- **17+:** R [strong] frightened of the triggering ally (save ends)
 
 ##### SQUAD! ON ME! (5 FOCUS)
 
@@ -10180,9 +10056,9 @@ as a ranged free strike:
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 psychic damage
-- 12-16: 4 psychic damage
-- 17+: 6 psychic damage
+- **11 or lower:** 2 psychic damage
+- **12-16:** 4 psychic damage
+- **17+:** 6 psychic damage
 
 **Strained:** The attack deals an extra 2 psychic damage to the target and yourself. This damage ignores your
 immunities.
@@ -10218,7 +10094,6 @@ You gain access to the following maneuver:
 - **Distance:** Self or Ranged 10  
 - **Target:** Self or 1 creature
 
-
 **Effect:** The target can immediately shift a number of squares up to your Reason.  
 
 **Spend 3 Clarity:** The target can also take a maneuver.
@@ -10235,9 +10110,9 @@ You gain access to the following triggered action:
 - **Type:** Triggered  
 - **Distance:** Self or Ranged 10  
 - **Target:** Self or 1 creature  
-- **Trigger:** The target makes an attack. You can use this ability after seeing the result of the roll. You gain 1
-clarity.
 
+**Trigger:** The target makes an attack. You can use this ability after seeing the result of the roll. You gain 1
+clarity.
 
 **Effect:** You force the target to reroll the power roll and use the new result, even if the original result was a
 critical hit.
@@ -10254,8 +10129,8 @@ You gain access to the following triggered action:
 - **Type:** Triggered  
 - **Distance:** Ranged 10  
 - **Target:** 1 creature  
-- **Trigger:** The target deals damage to an ally.
 
+**Trigger:** The target deals damage to an ally.
 
 **Effect:** The target takes half the damage they dealt in psychic damage. You gain 1 clarity.
 
@@ -10271,7 +10146,6 @@ You gain access to the following maneuver:
 - **Type:** Maneuver  
 - **Distance:** Self or Ranged 10  
 - **Target:** Self or a size 1 creature or object
-
 
 **Effect:** You slide the target a number of squares equal to your Reason score.  
 
@@ -10292,7 +10166,6 @@ You gain access to the following maneuver:
 - **Distance:** Ranged 10  
 - **Target:** 1 creature or object
 
-
 **Effect:** You use the Aid Attack maneuver on the target.  
 
 **Spend 3 Clarity:** You target 1 additional creature or object.
@@ -10309,8 +10182,8 @@ You gain access to the following triggered action:
 - **Type:** Triggered  
 - **Distance:** Self or Ranged 10  
 - **Target:** Self or 1 ally  
-- **Trigger:** The target takes damage or is force moved.
 
+**Trigger:** The target takes damage or is force moved.
 
 **Effect:** The target gains (SHIELD) against the damage, or the force movement distance is reduced by an amount equal to
 your Reason score. If they were both damaged and force moved, you choose which is affected. If any forced movement was
@@ -10392,10 +10265,9 @@ Select two signature abilities. Signature abilities can be used at will.
 
 **Power Roll + Presence:**
 
-- 11 or lower: 1 corruption damage; P [weak] slowed (save ends)
-- 12-16: 2 corruption damage; P [average] slowed (save ends)
-- 17+: 3 corruption damage; P [strong] slowed (save ends)
-
+- **11 or lower:** 1 corruption damage; P [weak] slowed (save ends)
+- **12-16:** 2 corruption damage; P [average] slowed (save ends)
+- **17+:** 3 corruption damage; P [strong] slowed (save ends)
 
 **Effect:** The target takes 1 extra corruption damage for each time they are targeted by this ability within a single
 encounter.  
@@ -10412,10 +10284,9 @@ encounter.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 fire damage
-- 12-16: 3 fire damage
-- 17+: 4 fire damage
-
+- **11 or lower:** 2 fire damage
+- **12-16:** 3 fire damage
+- **17+:** 4 fire damage
 
 **Effect:** The column of fire lingers until the start of your next turn. A creature or object that enters or starts
 their turn in the affected area takes 2 fire damage.  
@@ -10432,10 +10303,9 @@ their turn in the affected area takes 2 fire damage.
 
 **Power Roll + Reason:**
 
-- 11 or lower: push 2
-- 12-16: push 4
-- 17+: push 6; prone
-
+- **11 or lower:** push 2
+- **12-16:** push 4
+- **17+:** push 6; prone
 
 **Effect:** You can choose to slide the target 2 before making the power roll.  
 **Strained:** You can’t use this ability’s additional effect, but the push can be vertical.
@@ -10451,9 +10321,9 @@ their turn in the affected area takes 2 fire damage.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 psychic damage
-- 12-16: 3 psychic damage; push 1
-- 17+: 5 psychic damage; push 2
+- **11 or lower:** 2 psychic damage
+- **12-16:** 3 psychic damage; push 1
+- **17+:** 5 psychic damage; push 2
 
 **Strained:** The burst area increases by 2 and you become bleeding until the start of your next turn.
 
@@ -10468,10 +10338,9 @@ their turn in the affected area takes 2 fire damage.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage; M [weak] prone
-- 12-16: 3 damage; M [average] prone
-- 17+: 4 damage; M [strong] prone
-
+- **11 or lower:** 2 damage; M [weak] prone
+- **12-16:** 3 damage; M [average] prone
+- **17+:** 4 damage; M [strong] prone
 
 **Effect:** When targeting an object with a solid reflective surface, such as a mirror, a shield, or metal armor, you
 can choose an additional target within 3 of the reflective surface.  
@@ -10489,10 +10358,9 @@ turn.
 
 **Power Roll + Presence:**
 
-- 11 or lower: 2 damage
-- 12-16: 5 damage
-- 17+: 7 damage
-
+- **11 or lower:** 2 damage
+- **12-16:** 5 damage
+- **17+:** 7 damage
 
 **Effect:** The next attack against the target has a (SURGE).  
 **Strained:** The attack deals an extra 3 damage to the target and yourself. This damage ignores your immunities.
@@ -10514,15 +10382,14 @@ Choose one heroic ability from the following options:
 - **Distance:** Ranged 10  
 - **Target:** 1 ally or enemy
 
-
 **Effect:** An ally targeted by this ability gains Temporary Stamina equal to twice your Presence and ends one (EoT)
 or (save ends) effect affecting them. If you target an enemy, you make the following attack.
 
 **Power Roll + Presence:**
 
-- 11 or lower: 3 psychic damage; I [weak] frightened of you (save ends)
-- 12-16: 6 psychic damage; I [average] frightened of you (save ends)
-- 17+: 9 psychic damage; I [strong] frightened of you (save ends)
+- **11 or lower:** 3 psychic damage; I [weak] frightened of you (save ends)
+- **12-16:** 6 psychic damage; I [average] frightened of you (save ends)
+- **17+:** 9 psychic damage; I [strong] frightened of you (save ends)
 
 ###### NOTHING EXCEEDS MY GRASP (3 CLARITY)
 
@@ -10535,10 +10402,9 @@ or (save ends) effect affecting them. If you target an enemy, you make the follo
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 damage; M [weak] slowed (save ends)
-- 12-16: 5 damage; M [average] slowed (save ends)
-- 17+: 8 damage; M [strong] restrained (save ends)
-
+- **11 or lower:** 3 damage; M [weak] slowed (save ends)
+- **12-16:** 5 damage; M [average] slowed (save ends)
+- **17+:** 8 damage; M [strong] restrained (save ends)
 
 **Effect:** You can pull the target up to 2 squares. You can force move a target restrained by this ability, ignoring
 stability.
@@ -10551,7 +10417,6 @@ stability.
 - **Type:** Action  
 - **Distance:** Self or Melee 2  
 - **Target:** Self or 1 ally
-
 
 **Effect:** The target has (SHIELD) until the start of your next turn. Whenever the target takes damage while they have this
 effect, they can take a free strike against the source of the damage.
@@ -10567,10 +10432,9 @@ effect, they can take a free strike against the source of the damage.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 special damage; R [weak] target has special weakness 5 (save ends)
-- 12-16: 6 special damage; R [average] target has special weakness 5 (save ends)
-- 17+: 9 special damage; R [strong] target has special weakness equal to 5 + your Reason (save ends)
-
+- **11 or lower:** 3 special damage; R [weak] target has special weakness 5 (save ends)
+- **12-16:** 6 special damage; R [average] target has special weakness 5 (save ends)
+- **17+:** 9 special damage; R [strong] target has special weakness equal to 5 + your Reason (save ends)
 
 **Effect:** The target takes damage before receiving any special weakness effects. The weakness and damage type of this
 ability must be chosen from one of the following damage types: acid, corruption, or fire.
@@ -10588,7 +10452,6 @@ Choose one heroic ability from the following options:
 - **Distance:** Self or Ranged 10  
 - **Target:** Self or 1 ally
 
-
 **Effect:** The target uses an ability they’ve previously used this round without spending any heroic resources.  
 **Strained:** You take 1d6 damage and you are slowed (save ends).
 
@@ -10600,7 +10463,6 @@ Choose one heroic ability from the following options:
 - **Type:** Maneuver  
 - **Distance:** Self or Ranged 10  
 - **Target:** Self or 1 ally
-
 
 **Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next
 turn. When the target moves into a square while they have this effect, they can push one adjacent creature 2 squares.  
@@ -10616,7 +10478,6 @@ distance you are force moved (save ends).
 - **Distance:** Self or Ranged 10  
 - **Target:** Self or 1 ally
 
-
 **Effect:** The target’s stability increases by 5, and they have (SHIELD) and a (SURGE) on weapon attacks until the start of your
 next turn.  
 **Strained:** You cannot use maneuvers (save ends).
@@ -10629,7 +10490,6 @@ next turn.
 - **Type:** Maneuver  
 - **Distance:** Self or Ranged 10  
 - **Target:** Self or 1 ally
-
 
 **Effect:** The target’s speed increases by 3, and they have a double edge on their next power roll made before the
 start of your next turn. If the target gets a tier-3 result on the roll, you gain 1 clarity.  
@@ -10697,10 +10557,9 @@ Choose one of the following abilities:
 
 **Power Roll + Presence:**
 
-- 11 or lower: Target 2 creatures, one of which can be you
-- 12-16: Target 3 creatures, one of which can be you
-- 17+: Target 4 creatures, one of which can be you
-
+- **11 or lower:** Target 2 creatures, one of which can be you
+- **12-16:** Target 3 creatures, one of which can be you
+- **17+:** Target 4 creatures, one of which can be you
 
 **Effect:** Each target’s speed increases by 5 and they gain the use of an additional maneuver during their turn until
 the start of your next turn.  
@@ -10717,10 +10576,9 @@ the start of your next turn.
 
 **Power Roll + Presence:**
 
-- 11 or lower: Speed is halved; P [weak] slowed (save ends)
-- 12-16: Slowed (save ends); P [average] speed is 0 (save ends)
-- 17+: Slowed (save ends); P [strong] speed is 0 (save ends)
-
+- **11 or lower:** Speed is halved; P [weak] slowed (save ends)
+- **12-16:** Slowed (save ends); P [average] speed is 0 (save ends)
+- **17+:** Slowed (save ends); P [strong] speed is 0 (save ends)
 
 **Effect:** Each target can’t use triggered actions while they are slowed by this ability.  
 **Strained:** The potency of this ability increases by 1. You take 1d6 damage. At the start of each round while a target
@@ -10742,9 +10600,9 @@ Choose one of the following abilities:
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 damage; vertical push 2
-- 12-16: 6 damage; vertical push 4
-- 17+: 9 damage; vertical push 6
+- **11 or lower:** 3 damage; vertical push 2
+- **12-16:** 6 damage; vertical push 4
+- **17+:** 9 damage; vertical push 6
 
 **Strained:** The burst area increases by 1 and you are weakened (EoT).
 
@@ -10759,10 +10617,9 @@ Choose one of the following abilities:
 
 **Power Roll + Reason:**
 
-- 11 or lower: 6 damage; M [weak] prone
-- 12-16: 10 damage; M [average] prone
-- 17+: 14 damage; M [strong] prone can’t stand (save ends)
-
+- **11 or lower:** 6 damage; M [weak] prone
+- **12-16:** 10 damage; M [average] prone
+- **17+:** 14 damage; M [strong] prone can’t stand (save ends)
 
 **Effect:** A target made prone by this ability is lifted 2 squares into the air before falling immediately to the
 ground.  
@@ -10783,9 +10640,9 @@ Choose one of the following abilities:
 
 **Power Roll + Reason:**
 
-- 11 or lower: 6 psychic damage; I [weak] slowed (save ends)
-- 12-16: 10 psychic damage; I [average] weakened (save ends)
-- 17+: 14 psychic damage; I [strong] dazed (save ends)
+- **11 or lower:** 6 psychic damage; I [weak] slowed (save ends)
+- **12-16:** 10 psychic damage; I [average] weakened (save ends)
+- **17+:** 14 psychic damage; I [strong] dazed (save ends)
 
 **Strained:** You start crying. You can’t take triggered actions or take free strikes until the end of the target’s next
 turn.
@@ -10801,10 +10658,9 @@ turn.
 
 **Power Roll + Reason:**
 
-- 11 or lower: Target takes a free strike on an enemy of your choice
-- 12-16: Target shifts up to their speed and uses their signature ability against targets of your choice
-- 17+: Target moves up to their speed and uses their signature ability against targets of your choice
-
+- **11 or lower:** Target takes a free strike on an enemy of your choice
+- **12-16:** Target shifts up to their speed and uses their signature ability against targets of your choice
+- **17+:** Target moves up to their speed and uses their signature ability against targets of your choice
 
 **Effect:** You control the target’s movement. You can’t move the target in a way that puts them in harm’s way, such as
 off a cliff. However, you can move them in a way that provokes opportunity attacks.  
@@ -10835,10 +10691,9 @@ Choose one heroic ability from the following options:
 
 **Power Roll + Presence:**
 
-- 11 or lower: 3 corruption damage; P [weak] weakened (save ends)
-- 12-16: 5 corruption damage; removed from encounter (EoT); P [average] weakened (save ends)
-- 17+: 8 corruption damage; removed from encounter (EoT); P [strong] weakened (save ends)
-
+- **11 or lower:** 3 corruption damage; P [weak] weakened (save ends)
+- **12-16:** 5 corruption damage; removed from encounter (EoT); P [average] weakened (save ends)
+- **17+:** 8 corruption damage; removed from encounter (EoT); P [strong] weakened (save ends)
 
 **Effect:** When a target removed from the encounter returns, they appear where they were removed or in the closest
 available space of the Director’s choice.  
@@ -10854,7 +10709,6 @@ tier-3 result.
 - **Distance:** Self  
 - **Target:** Self
 
-
 **Effect:** You create three size 1T orb objects that orbit your body. You have a (SHIELD) for each orb you have active.
 Whenever you take damage, you lose 1 orb.  
 You can use a free maneuver to fire an orb at a creature or object within 5 as a ranged attack on each of your turns,
@@ -10862,9 +10716,9 @@ losing the orb after the attack.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage
-- 12-16: 3 damage
-- 17+: 5 damage
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 5 damage
 
 **Strained:** You create five orbs. You are weakened while you have orbs active.
 
@@ -10876,7 +10730,6 @@ losing the orb after the attack.
 - **Type:** Action  
 - **Distance:** 3 Aura  
 - **Target:** Self
-
 
 **Effect:** The aura lasts until the start of your next turn. Whenever an enemy targets an ally within the aura with a
 ranged ability, the ability is negated on the ally and reflected back at the enemy, dealing half damage and negating any
@@ -10895,10 +10748,9 @@ forget a memory.
 
 **Power Roll + Presence:**
 
-- 11 or lower: 4 damage; P [weak] dazed (save ends)
-- 12-16: 7 damage; P [average] dazed (save ends)
-- 17+: 11 damage; P [strong] dazed (save ends)
-
+- **11 or lower:** 4 damage; P [weak] dazed (save ends)
+- **12-16:** 7 damage; P [average] dazed (save ends)
+- **17+:** 11 damage; P [strong] dazed (save ends)
 
 **Effect:** After resolving the power roll, attacks and abilities used against the target have a (SURGE), and the target has a
 bane on presence tests until the end of the encounter.  
@@ -11100,9 +10952,9 @@ You have the following ability.
 - **Distance:** 2 durst
 - **Target:** All enemies
 - **Power Roll + Presence:**
-    - 11 or lower: push 2
-    - 12-16: push 2; the target takes a bane on the next power roll they make before the start of your next turn
-    - 17+: push 3; the target takes a bane on the next power roll they make before the start of your next turn
+    - **11 or lower:** push 2
+    - **12-16:** push 2; the target takes a bane on the next power roll they make before the start of your next turn
+    - **17+:** push 3; the target takes a bane on the next power roll they make before the start of your next turn
 
 #### STAR POWER
 
@@ -11138,9 +10990,9 @@ You have access to the following routines to use with Curtain Call.
   same creature twice with this effect.
 
 **Power Roll + Presence:**
-- 11 or lower: Lightning damage equal to your level
-- 12-16: Lightning damage equal to 5 + your level
-- 17+: Lightning damage equal to 10 + your level; A [strong] prone
+- **11 or lower:** Lightning damage equal to your level
+- **12-16:** Lightning damage equal to 5 + your level
+- **17+:** Lightning damage equal to 10 + your level; A [strong] prone
 
 ##### "BALLAD OF THE BEAST"
 
@@ -11174,7 +11026,8 @@ Your class act grants you one of the following triggered actions as shown on the
 - **Type:** Triggered
 - **Distance:** Ranged 5
 - **Target:** 1 ally
-- **Trigger:** The target uses a non-area ability that targets an enemy.
+
+**Trigger:** The target uses a non-area ability that targets an enemy.
 
 **Effect:** The target chooses an additional target within Distance. They use the same power roll for all additional
   targets. Any damage dealt to additional targets is now sonic damage.
@@ -11188,7 +11041,8 @@ Your class act grants you one of the following triggered actions as shown on the
 - **Type:** Triggered
 - **Distance:** Melee 1
 - **Target:** Self or 1 ally
-- **Trigger:** The target takes damage from a melee attack.
+
+**Trigger:** The target takes damage from a melee attack.
 
 **Effect:** The target takes a free strike against the attacker.
     - **Spend 2 Drama:** The target can use a signature attack in place of the free strike.
@@ -11201,7 +11055,8 @@ Your class act grants you one of the following triggered actions as shown on the
 - **Type:** Triggered
 - **Distance:** Ranged 10
 - **Target:** 1 creature
-- **Trigger:** The target makes an attack with at least one edge or a bane.
+
+**Trigger:** The target makes an attack with at least one edge or a bane.
 
 **Effect:** One of the attack’s edges becomes a bane or vice versa.
     - **Spend 3 Drama:** One of the target’s attack’s edges becomes a double bane, or one of the attack’s banes becomes
@@ -11229,9 +11084,9 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Distance:** Melee 1
 - **Target:** 2 creatures or objects
 - **Power Roll + Agility:**
-    - 11 or lower: 2 damage
-    - 12-16: 3 damage
-    - 17+: 5 damage
+    - **11 or lower:** 2 damage
+    - **12-16:** 3 damage
+    - **17+:** 5 damage
 
 **Effect:** You shift 3 squares.
 
@@ -11246,9 +11101,9 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Distance:** Ranged 10
 - **Target:** 1 creature or object
 - **Power Roll + Presence:**
-    - 11 or lower: 2 sonic damage; P [weak] bleeding (save ends)
-    - 12-16: 4 damage; P [average] bleeding (save ends)
-    - 17+: 5 damage; P [strong] bleeding (save ends)
+    - **11 or lower:** 2 sonic damage; P [weak] bleeding (save ends)
+    - **12-16:** 4 damage; P [average] bleeding (save ends)
+    - **17+:** 5 damage; P [strong] bleeding (save ends)
 
 ##### INSTIGATOR
 
@@ -11259,9 +11114,9 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Distance:** Melee 1
 - **Target:** 1 creature
 - **Power Roll + Agility or Presence:**
-    - 11 or lower: 2 damage
-    - 12-16: 5 damage
-    - 17+: 7 damage
+    - **11 or lower:** 2 damage
+    - **12-16:** 5 damage
+    - **17+:** 7 damage
 
 **Effect:** The target is taunted (EoT) by you or a willing adjacent ally.
 
@@ -11274,9 +11129,9 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Distance:** Melee 1 or Ranged 5
 - **Target:** 1 creature
 - **Power Roll + Presence:**
-    - 11 or lower: 1 psychic damage
-    - 12-16: 2 psychic damage
-    - 17+: 3 psychic damage
+    - **11 or lower:** 1 psychic damage
+    - **12-16:** 2 psychic damage
+    - **17+:** 3 psychic damage
 
 **Effect:** An ally within 10 removes 1 condition or effect with a duration of EoT or save ends afflicting them.
 
@@ -11299,9 +11154,9 @@ Choose one heroic ability from the following options.
 - **Distance:** Melee 1 or Ranged 10
 - **Target:** 1 creature or object
 - **Power Roll + Presence:**
-    - 11 or lower: 4 sonic damage; P [weak] weakened (save ends)
-    - 12-16: 6 sonic damage; P [average] weakened (save ends)
-    - 17+: 10 sonic damage; P [strong] weakened (save ends)
+    - **11 or lower:** 4 sonic damage; P [weak] weakened (save ends)
+    - **12-16:** 6 sonic damage; P [average] weakened (save ends)
+    - **17+:** 10 sonic damage; P [strong] weakened (save ends)
 
 **Effect:** The effects of the next ability the target uses before the start of your next turn are suppressed. Any
   effects listed within a result tier other than damage don’t occur. This doesn’t apply to ability effects that always
@@ -11317,9 +11172,9 @@ Choose one heroic ability from the following options.
 - **Target:** All enemies
 
 **Power Roll + Presence:**
-- 11 or lower: slide 1; I [weak] dazed (save ends)
-- 12-16: slide 1; I [average] dazed (save ends)
-- 17+: slide 2; I [strong] dazed (save ends)
+- **11 or lower:** slide 1; I [weak] dazed (save ends)
+- **12-16:** slide 1; I [average] dazed (save ends)
+- **17+:** slide 2; I [strong] dazed (save ends)
 
 **Spend 2+ Drama:** The burst size is increased by 1 for every 2 drama you spend.
 
@@ -11332,9 +11187,9 @@ Choose one heroic ability from the following options.
 - **Distance:** 3 Cube within 10
 - **Target:** All enemies
 - **Power Roll + Presence:**
-    - 11 or lower: 2 damage; P [weak] slowed (save ends)
-    - 12-16: 3 damage; P [average] slowed (save ends)
-    - 17+: 4 damage; P [strong] restrained (save ends)
+    - **11 or lower:** 2 damage; P [weak] slowed (save ends)
+    - **12-16:** 3 damage; P [average] slowed (save ends)
+    - **17+:** 4 damage; P [strong] restrained (save ends)
 
 **Effect:** The area becomes difficult terrain for your enemies.
 
@@ -11351,9 +11206,9 @@ Choose one heroic ability from the following options.
   during the move.
 
 **Power Roll + Agility or Presence:**
-- 11 or lower: taunted (EoT); A [weak] prone
-- 12–16: taunted (EoT); A [average] prone
-- 17+: taunted (EoT); A [strong] prone can’t stand (EoT)
+- **11 or lower:** taunted (EoT); A [weak] prone
+- **12-16:** taunted (EoT); A [average] prone
+- **17+:** taunted (EoT); A [strong] prone can’t stand (EoT)
 
 ##### 5-DRAMA ABILITIES
 
@@ -11368,9 +11223,9 @@ Choose one heroic ability from the following options.
 - **Distance:** 3 Burst
 - **Target:** Self and all allies
 - **Power Roll + Presence:**
-    - 11 or lower: shift 1; target can take a free strike
-    - 12-16: shift 2; target can take a free strike with (SURGE)
-    - 17+: shift 3; target can take a free strike with (SURGE) and spend 1 Recovery
+    - **11 or lower:** shift 1; target can take a free strike
+    - **12-16:** shift 2; target can take a free strike with (SURGE)
+    - **17+:** shift 3; target can take a free strike with (SURGE) and spend 1 Recovery
 
 ###### FAKE YOUR DEATH (5 DRAMA)
 
@@ -11407,9 +11262,9 @@ Choose one heroic ability from the following options.
 - **Distance:** Melee 1
 - **Target:** 1 creature
 - **Power Roll + Agility or Presence:**
-    - 11 or lower: 7 damage; P [weak] weakened (save ends)
-    - 12-16: 11 damage; P [average] weakened (save ends)
-    - 17+: 16 damage; P [strong] weakened (save ends)
+    - **11 or lower:** 7 damage; P [weak] weakened (save ends)
+    - **12-16:** 11 damage; P [average] weakened (save ends)
+    - **17+:** 16 damage; P [strong] weakened (save ends)
 
 **Effect:** You can choose to be inflicted with bleeding (save ends) to deal an additional 5 corruption damage to the
   target.
@@ -11500,9 +11355,9 @@ Choose one of the following abilities.
 - **Distance:** Melee 1
 - **Target:** 1 creature
 - **Power Roll + Agility:**
-    - 11 or lower: 7 damage; target can shift 3 and take a free strike against you
-    - 12-16: 11 damage; target can shift 2 and take a free strike against you
-    - 17+: 16 damage; target can shift 1
+    - **11 or lower:** 7 damage; target can shift 3 and take a free strike against you
+    - **12-16:** 11 damage; target can shift 2 and take a free strike against you
+    - **17+:** 16 damage; target can shift 1
 
 **Effect:** If the target shifts or takes a free strike against you during this ability, you can shift 3 and take a
   melee free strike against the target. If the target deals damage to you during this ability, you have (SURGE) on your free
@@ -11539,10 +11394,10 @@ Choose one of the following abilities.
   occupying a square of the area with the following power roll.
 
 **Power Roll + Presence:**
-- 11 or lower: 5 corruption damage; M [weak] pull 1 towards center of square
-- 12-16: 9 corruption damage; M [average] pull 1 towards center of square and can’t establish line of effect outside of
+- **11 or lower:** 5 corruption damage; M [weak] pull 1 towards center of square
+- **12-16:** 9 corruption damage; M [average] pull 1 towards center of square and can’t establish line of effect outside of
 affected area (EoT)
-- 17+: 12 corruption damage; M [strong] pull 3 towards center of square and can’t establish line of effect outside of
+- **17+:** 12 corruption damage; M [strong] pull 3 towards center of square and can’t establish line of effect outside of
 affected area (EoT)
 
 #### SKALD ABILITIES
@@ -11647,9 +11502,9 @@ Choose a new heroic ability from the following options.
 - **Distance:** 4 Burst
 - **Target:** All enemies
 - **Power Roll + Presence:**
-    - 11 or lower: slide 3; P [weak] forced movement ignores stability
-    - 12-16: slide 5; P [average] forced movement ignores stability
-    - 17+: slide 7; P [strong] forced movement ignores stability
+    - **11 or lower:** slide 3; P [weak] forced movement ignores stability
+    - **12-16:** slide 5; P [average] forced movement ignores stability
+    - **17+:** slide 7; P [strong] forced movement ignores stability
 
 **Effect:** You can’t slide targets into other creatures or objects using this ability. Instead of sliding a target,
   you can choose to swap their location with another target (provided each target can fit into the new space).
@@ -11663,9 +11518,9 @@ Choose a new heroic ability from the following options.
 - **Distance:** 3 Burst
 - **Target:** All enemies
 - **Power Roll + Agility or Presence:**
-    - 11 or lower: 3 fire damage; A [weak] weakened (save ends)
-    - 12-16: 5 fire damage; A [average] weakened (save ends)
-    - 17+: 8 fire damage; A [strong] weakened (save ends)
+    - **11 or lower:** 3 fire damage; A [weak] weakened (save ends)
+    - **12-16:** 5 fire damage; A [average] weakened (save ends)
+    - **17+:** 8 fire damage; A [strong] weakened (save ends)
 
 **Effect:** Each ally in range can shift 2.
 
@@ -11678,9 +11533,9 @@ Choose a new heroic ability from the following options.
 - **Distance:** Melee 1 or Ranged 10
 - **Target:** 1 creature or object
 - **Power Roll + Agility or Presence:**
-    - 11 or lower: 9 damage
-    - 12-16: 14 damage; push 3
-    - 17+: 19 damage; push 5
+    - **11 or lower:** 9 damage
+    - **12-16:** 14 damage; push 3
+    - **17+:** 19 damage; push 5
 
 **Effect:** You can choose to make the damage sonic damage. You can use this ability on the same target for the next
   two consecutive rounds without spending drama.
@@ -11937,9 +11792,9 @@ Your ammunition explodes with magical energy.
 
 *Power Roll + Agility, Reason, Intuition, or Presence:*
 
-- 11 or lower: 4 damage
-- 12–16: 6 damage
-- 17+: 8 damage
+- **11 or lower:** 4 damage
+- **12-16:** 6 damage
+- **17+:** 8 damage
 
 *Effect:* A creature or object within 2 squares of your target takes (SURGE) damage.
 
@@ -11972,9 +11827,9 @@ Your weapon unleashes psionic energy that reduces your target’s weight.
 
 *Power Roll + Might, Reason, Intuition, or Presence:*
 
-- 11 or lower: 5 damage; stability reduced by 1 (EoT)
-- 12–16: 7 damage; stability reduced by 2 (EoT)
-- 17+: 10 damage; stability reduced by 3 (EoT)
+- **11 or lower:** 5 damage; stability reduced by 1 (EoT)
+- **12-16:** 7 damage; stability reduced by 2 (EoT)
+- **17+:** 10 damage; stability reduced by 3 (EoT)
 
 ### CLOAK AND DAGGER
 
@@ -12009,9 +11864,9 @@ A stab, and a few quick, careful steps back.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 3 damage; you shift 1 square
-- 12–16: 4 damage; you shift up to 2 squares
-- 17+: 6 damage; you shift up to 3 squares
+- **11 or lower:** 3 damage; you shift 1 square
+- **12-16:** 4 damage; you shift up to 2 squares
+- **17+:** 6 damage; you shift up to 3 squares
 
 ### DUAL WIELDER
 
@@ -12042,9 +11897,9 @@ Why strike once when you could do it twice?
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 4 damage
-- 12–16: 5 damage
-- 17+: 6 damage
+- **11 or lower:** 4 damage
+- **12-16:** 5 damage
+- **17+:** 6 damage
 
 *Effect:* If you use this ability on your turn, you can target one creature or object with it then use your maneuver and
 move action for that turn before targeting a second creature or object. You still use the same power roll for both
@@ -12079,9 +11934,9 @@ In your hands, the haft is as good as the head.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 4 damage
-- 12–16: 5 damage
-- 17+: 7 damage
+- **11 or lower:** 4 damage
+- **12-16:** 5 damage
+- **17+:** 7 damage
 
 ### MARTIAL ARTIST
 
@@ -12112,9 +11967,9 @@ You feint to move your enemies into perfect position.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 4 damage
-- 12–16: 7 damage; you swap places with the target
-- 17+: 9 damage; you swap places with the target
+- **11 or lower:** 4 damage
+- **12-16:** 7 damage; you swap places with the target
+- **17+:** 9 damage; you swap places with the target
 
 *Effect:* If you roll a 12 or better and can’t swap places with the target because one or both of you is too big to fit
 into the swapped space, you both remain in your original spaces and the target takes 1 extra damage.
@@ -12147,9 +12002,9 @@ An enemy who tagged you will pay for that.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 3 damage
-- 12–16: 5 damage
-- 17+: 11 damage
+- **11 or lower:** 3 damage
+- **12-16:** 5 damage
+- **17+:** 11 damage
 
 *Effect:* If the target dealt damage to you since the end of your last turn, this attack gains (SURGE).
 
@@ -12183,9 +12038,9 @@ The faster you move, the harder you hit.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 2 damage
-- 12–16: 5 damage
-- 17+: 10 damage
+- **11 or lower:** 2 damage
+- **12-16:** 5 damage
+- **17+:** 10 damage
 
 *Effect:* You can move up to 3 squares straight toward the target before this attack. You deal extra damage equal to the
 distance moved this way.
@@ -12220,9 +12075,9 @@ Keeping your enemies stumbling around the battlefield is second nature to you.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 3 damage
-- 12–16: 4 damage; slide 1
-- 17+: 6 damage; slide 2
+- **11 or lower:** 3 damage
+- **12-16:** 4 damage; slide 1
+- **17+:** 6 damage; slide 2
 
 *Effect:* You can shift into any square your target leaves after you slide them.
 
@@ -12257,9 +12112,9 @@ You execute a brutal strike that leaves your foe reeling.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 3 damage
-- 12–16: 4 damage
-- 17+: 6 damage
+- **11 or lower:** 3 damage
+- **12-16:** 4 damage
+- **17+:** 6 damage
 
 *Effect:* The target has a bane on their next power roll.
 
@@ -12295,9 +12150,9 @@ A well-placed shot leaves your enemy struggling to move.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 3 damage; A [weak] slowed (save ends)
-- 12–16: 4 damage; A [average] slowed (save ends)
-- 17+: 5 damage; A [strong] slowed (save ends)
+- **11 or lower:** 3 damage; A [weak] slowed (save ends)
+- **12-16:** 4 damage; A [average] slowed (save ends)
+- **17+:** 5 damage; A [strong] slowed (save ends)
 
 ### RAPID-FIRE
 
@@ -12329,9 +12184,9 @@ When you fire two arrows back to back, both hit their mark.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 4 damage
-- 12–16: 5 damage
-- 17+: 6 damage
+- **11 or lower:** 4 damage
+- **12-16:** 5 damage
+- **17+:** 6 damage
 
 ### RETIARIUS
 
@@ -12364,9 +12219,9 @@ The well-thrown net that follows your main attack leaves your foes right where y
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 4 damage; A [weak] slowed (EoT)
-- 12–16: 5 damage; A [average] slowed (EoT)
-- 17+: 6 damage; A [strong] restrained (EoT)
+- **11 or lower:** 4 damage; A [weak] slowed (EoT)
+- **12-16:** 5 damage; A [average] slowed (EoT)
+- **17+:** 6 damage; A [strong] restrained (EoT)
 
 ### SHINING ARMOR
 
@@ -12396,9 +12251,9 @@ The strength of your assault makes it impossible for your foe to ignore you.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 4 damage
-- 12–16: 7 damage
-- 17+: 9 damage
+- **11 or lower:** 4 damage
+- **12-16:** 7 damage
+- **17+:** 9 damage
 
 *Effect:* The target is taunted (EoT).
 
@@ -12431,9 +12286,9 @@ Breathe … aim … wait… then strike!
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 3 damage
-- 12–16: 5 damage
-- 17+: 11 damage
+- **11 or lower:** 3 damage
+- **12-16:** 5 damage
+- **17+:** 11 damage
 
 *Effect:* If you don’t take a move action this turn, you gain (SURGE) on this attack.
 
@@ -12466,9 +12321,9 @@ Lightning jumps from your weapon as you strike to harm a nearby foe.
 
 *Power Roll + Might, Reason, Intuition, or Presence:*
 
-- 11 or lower: 4 lightning damage
-- 12–16: 7 lightning damage
-- 17+: 9 lightning damage
+- **11 or lower:** 4 lightning damage
+- **12-16:** 7 lightning damage
+- **17+:** 9 lightning damage
 
 *Effect:* A creature or object within 2 squares of your target takes (SURGE) lightning damage.
 
@@ -12502,9 +12357,9 @@ When your stick speaks, your enemy moves.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 4 damage
-- 12–16: 6 damage; slide 1
-- 17+: 8 damage; slide 3
+- **11 or lower:** 4 damage
+- **12-16:** 6 damage; slide 1
+- **17+:** 8 damage; slide 3
 
 ### SWASHBUCKLER
 
@@ -12535,9 +12390,9 @@ All combat is a dance—and you’ll be the one leading.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 4 damage
-- 12–16: 6 damage; push 1
-- 17+: 8 damage; push 2
+- **11 or lower:** 4 damage
+- **12-16:** 6 damage; push 1
+- **17+:** 8 damage; push 2
 
 *Effect:* You can shift into any square your target leaves after you force move them with this ability.
 
@@ -12570,9 +12425,9 @@ In your hands, a shield isn’t just for protection.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 4 damage; push 1
-- 12–16: 5 damage; push 2
-- 17+: 7 damage; push 3; M [strong] prone
+- **11 or lower:** 4 damage; push 1
+- **12-16:** 5 damage; push 2
+- **17+:** 7 damage; push 3; M [strong] prone
 
 ### WARRIOR PRIEST
 
@@ -12603,9 +12458,9 @@ The impact of your weapon brands your target for destruction.
 
 *Power Roll + Might, Reason, Intuition, or Presence:*
 
-- 11 or lower: 3 holy damage
-- 12–16: 5 holy damage
-- 17+: 8 holy damage
+- **11 or lower:** 3 holy damage
+- **12-16:** 5 holy damage
+- **17+:** 8 holy damage
 
 *Effect:* Attacks against the target deal (SURGE) (EoT).
 
@@ -12638,9 +12493,9 @@ When you draw your whip back after an attack, your enemy comes ever closer.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 3 damage; pull 1
-- 12–16: 6 damage; pull 2
-- 17+: 8 damage; pull 3
+- **11 or lower:** 3 damage; pull 1
+- **12-16:** 6 damage; pull 2
+- **17+:** 8 damage; pull 3
 
 ### MARTIAL KITS
 
@@ -12667,23 +12522,6 @@ When you draw your whip back after an attack, your enemy comes ever closer.
 | Swashbuckler     | Light          | Medium             | +3      | +3    | —         | +2/+2/+2     | —             | —               | —              | +1        |
 | Warrior Priest   | Heavy          | Light              | +9      | +1    | +1        | +1/+1/+1     | —             | —               | —              | —         |
 | Whirlwind        | None           | Whip               | —       | +3    | —         | +1/+1/+1     | —             | —               | +1             | +1        |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # COMPLICATIONS
 
@@ -13313,25 +13151,25 @@ The **Test Difficulty Outcomes** table shows all the possible results of the dif
 
 An easy test has some risk of failure, but most heroes will likely overcome it. The power roll you make for an easy test determines the outcome (see Test Outcomes):
 
-- 11 or lower: You succeed on the task and incur a consequence.
-- 12–16: You succeed on the task.
-- 17+: You succeed on the task with a reward.
+- **11 or lower:** You succeed on the task and incur a consequence.
+- **12-16:** You succeed on the task.
+- **17+:** You succeed on the task with a reward.
 
 #### MEDIUM TESTS
 
 A medium test has some risk of failure that most heroes will likely overcome—but with a cost. The power roll you make for a medium test determines the outcome:
 
-- 11 or lower: You fail the task.
-- 12–16: You succeed on the task and incur a consequence.
-- 17+: You succeed on the task.
+- **11 or lower:** You fail the task.
+- **12-16:** You succeed on the task and incur a consequence.
+- **17+:** You succeed on the task.
 
 #### HARD TESTS
 
 A hard test has a greater risk of failure, and most heroes are likely to suffer some hardship while trying to overcome the intended task. The power roll you make for a hard test determines the outcome:
 
-- 11 or lower: You fail the task and incur a consequence.
-- 12–16: You fail the task.
-- 17+: You succeed on the task.
+- **11 or lower:** You fail the task and incur a consequence.
+- **12-16:** You fail the task.
+- **17+:** You succeed on the task.
 
 #### NATURAL 19 OR 20: SUCCESS WITH A REWARD
 
@@ -13439,9 +13277,9 @@ Unless the rules state otherwise, heroes make tests and NPCs do not. Heroes are 
 
 To quickly assess the difficulty of a task and the test made to attempt it, the Director can use the following guidelines (though these are not hard and fast rules):
 
-- **Easy Test**: A test is easy if only one creature opposes the hero, and that opposed creature would have a lower bonus to their test roll for the task than the hero does. If a hero with an Agility score of 2 attempts to sneak by a guard with an Intuition score of 0, the test is easy.
-- **Moderate Test**: A test is moderate if multiple creatures oppose the hero and those creatures would have lower bonuses to their test rolls than the hero, or if only one creature opposes the hero and has the same test bonus as the hero.
-- **Hard Test**: A test is hard if an opposed creature would have a higher bonus to their test roll than the hero, or if multiple creatures with the same test bonus as the hero oppose the hero.
+- **Easy Test:** A test is easy if only one creature opposes the hero, and that opposed creature would have a lower bonus to their test roll for the task than the hero does. If a hero with an Agility score of 2 attempts to sneak by a guard with an Intuition score of 0, the test is easy.
+- **Moderate Test:** A test is moderate if multiple creatures oppose the hero and those creatures would have lower bonuses to their test rolls than the hero, or if only one creature opposes the hero and has the same test bonus as the hero.
+- **Hard Test:** A test is hard if an opposed creature would have a higher bonus to their test roll than the hero, or if multiple creatures with the same test bonus as the hero oppose the hero.
 
 The failure consequences of opposed actions are some of the easiest to create on the fly. Fail to hide from someone, and they see you. Fail to lie to someone, and they catch your duplicity. Fail to arm wrestle someone for a free ale, and you’re picking up the tab. The consequence is that the opposition bests the hero.
 
@@ -13473,10 +13311,10 @@ At certain times when a hero isn’t engaged in overcoming a task, the Director 
 
 Reactive tests are typically made in the following circumstances, though the Director can call for them in any appropriate scenario:
 
-- **Hidden Environmental Features**: The Director asks for an Intuition test to notice a secret door, a hidden trap, or some other disguised environmental feature.
-- **Hidden Monsters**: The Director calls for an Intuition test to notice a hidden monster (or they could use the rules in **NPCs Roll for Deceptive Tasks**).
-- **Hidden Motives**: The Director can ask for an Intuition test during a conversation to gauge how well a hero can read an NPC, judging whether they’re lying, withholding information, or concealing an emotional response. (The Director could also use the rules in **NPCs Roll for Deceptive Tasks**.)
-- **Recall Lore**: The Director might ask a hero to make a Reason test when dealing with a new object, a piece of information, or an event to see what history or details the hero might already know about it.
+- **Hidden Environmental Features:** The Director asks for an Intuition test to notice a secret door, a hidden trap, or some other disguised environmental feature.
+- **Hidden Monsters:** The Director calls for an Intuition test to notice a hidden monster (or they could use the rules in **NPCs Roll for Deceptive Tasks**).
+- **Hidden Motives:** The Director can ask for an Intuition test during a conversation to gauge how well a hero can read an NPC, judging whether they’re lying, withholding information, or concealing an emotional response. (The Director could also use the rules in **NPCs Roll for Deceptive Tasks**.)
+- **Recall Lore:** The Director might ask a hero to make a Reason test when dealing with a new object, a piece of information, or an event to see what history or details the hero might already know about it.
 
 ### DIRECTOR’S OPTION: SECRET REACTIVE TESTS
 
@@ -13653,81 +13491,81 @@ If you’re worried about whether a skill you’d like to take will be useful, d
 
 Jorn, a tactician played by Alyssa, Val, a conduit played by Grace, and Korvo, a shadow played by James, want to scale the 40-foot-high walls surrounding the Star Chamber to see if they can covertly obtain information about their enemy, Lady Morgant.
 
-**Director**: The towering walls that surround the Star Chamber stand before you, the only iron gate closed and locked with a platoon of armed guards outside.
+**Director:** The towering walls that surround the Star Chamber stand before you, the only iron gate closed and locked with a platoon of armed guards outside.
 
-**James**: Let’s move to the side of the wall opposite the gate and make our ascent there.
+**James:** Let’s move to the side of the wall opposite the gate and make our ascent there.
 
-**Grace**: Agreed.
+**Grace:** Agreed.
 
-**Director**: Okay. It’ll be a **Might** test to get up to the top of the wall.
+**Director:** Okay. It’ll be a **Might** test to get up to the top of the wall.
 
-**Alyssa**: Let me go first. I’ve got good **Might** and can throw you down a rope once I’m up there.
+**Alyssa:** Let me go first. I’ve got good **Might** and can throw you down a rope once I’m up there.
 
-**Grace**: Sounds good.
+**Grace:** Sounds good.
 
-**Director**: Okay then. Does Jorn have any skills that apply here?
+**Director:** Okay then. Does Jorn have any skills that apply here?
 
-**Alyssa**: How about **Climb**?
+**Alyssa:** How about **Climb**?
 
-**Director**: For sure. Okay roll it up.
+**Director:** For sure. Okay roll it up.
 
 The Director knows the walls of the castle of the Star Chamber are smooth and hard to climb, specifically to repel invaders. The test’s difficulty is hard, but they keep it a secret for now.
 
 Alyssa rolls 2d10 and gets a 13. She then adds her **Might** score of 2 to the roll and her +2 bonus for having an applicable skill, for a total of 17.
 
-**Alyssa**: 17! That’s tier 3, baby!
+**Alyssa:** 17! That’s tier 3, baby!
 
 The Director looks at the **Test Difficulty Outcomes** table and realizes that tier 3 is a success on a hard test.
 
-**Director**: Okay. You’re on top of the wall. You can see a few guards patrolling on the opposite side of the wall in the distance, but they’re looking out at the city right now.
+**Director:** Okay. You’re on top of the wall. You can see a few guards patrolling on the opposite side of the wall in the distance, but they’re looking out at the city right now.
 
-**Alyssa**: Great! I toss down a rope. Korvo, you’re next.
+**Alyssa:** Great! I toss down a rope. Korvo, you’re next.
 
-**Grace**: So it’s a **Might** test. Would you let me use **Endurance** too? It’s a lot of physical exertion to climb.
+**Grace:** So it’s a **Might** test. Would you let me use **Endurance** too? It’s a lot of physical exertion to climb.
 
-**Director**: It’s not a climb that would take you hours, so I don’t think **Endurance** applies here. But hey, the rope does make this an easier test.
+**Director:** It’s not a climb that would take you hours, so I don’t think **Endurance** applies here. But hey, the rope does make this an easier test.
 
-**Grace**: Fair. Okay, dice. Let’s do this.
+**Grace:** Fair. Okay, dice. Let’s do this.
 
 Given the rope, the Director decides that this is an easy test. Grace rolls 2d10 and gets an 11! With her **Might** score of 2, that’s a 13.
 
-**Grace**: 13! That’s a tier 2 result for Val.
+**Grace:** 13! That’s a tier 2 result for Val.
 
 The Director looks at the **Test Difficulty Outcomes** table and realizes that tier 2 is a success on an easy test.
 
-**Director**: Good news! You make it to the top of the wall.
+**Director:** Good news! You make it to the top of the wall.
 
-**James**: Ah, crap. I have a **Might** of -1 and no applicable skills to use. Unless I could **Intimidate** the rope into carrying me up?
+**James:** Ah, crap. I have a **Might** of -1 and no applicable skills to use. Unless I could **Intimidate** the rope into carrying me up?
 
-**Director**: Wishful thinking.
+**Director:** Wishful thinking.
 
-**Alyssa**: What if Korvo hangs onto the rope and I lift him up while he just hangs on for a ride?
+**Alyssa:** What if Korvo hangs onto the rope and I lift him up while he just hangs on for a ride?
 
-**Director**: Sure. That’d be a **Might** test, if Korvo’s down for it.
+**Director:** Sure. That’d be a **Might** test, if Korvo’s down for it.
 
-**James**: Nothing risked, nothing saved. Let’s do it. Just be careful, any loud noises could attract those guards.
+**James:** Nothing risked, nothing saved. Let’s do it. Just be careful, any loud noises could attract those guards.
 
-**Alyssa**: Please, I’m a pro. Since I’m lifting this polder off the ground, does the **Lift** skill apply?
+**Alyssa:** Please, I’m a pro. Since I’m lifting this polder off the ground, does the **Lift** skill apply?
 
-**Director**: Yes it does. Roll it up.
+**Director:** Yes it does. Roll it up.
 
 The Director decides that lifting the polder is a medium difficulty test. Alyssa rolls 2d10 and gets a 2. With her **Might** score and **Lift** skill bonus of +2, it’s a 6.
 
-**Alyssa**: 6. Oof. That’s tier 1.
+**Alyssa:** 6. Oof. That’s tier 1.
 
-**Director**: Which is a failure without consequence. You just can’t lift Korvo off the ground without making a lot of noise.
+**Director:** Which is a failure without consequence. You just can’t lift Korvo off the ground without making a lot of noise.
 
 The Director realizes they can bring in an optional rule here, allowing the players to decide if they get a failure without consequence or success with a consequence.
 
-**Director**: I’ll give you a choice here. You can leave Korvo on the ground or pull him up and suffer the consequence of making some noise while doing so.
+**Director:** I’ll give you a choice here. You can leave Korvo on the ground or pull him up and suffer the consequence of making some noise while doing so.
 
-**Grace**: Ah, pull the polder up.
+**Grace:** Ah, pull the polder up.
 
-**Alyssa**: Yeah. We have to face these guards sometime.
+**Alyssa:** Yeah. We have to face these guards sometime.
 
-**James**: Thanks for not leaving me behind!
+**James:** Thanks for not leaving me behind!
 
-**Director**: As you yank Korvo off the ground and pull him up onto the wall, a guard turns a bullseye lantern your way, calling out, “Who goes there?”
+**Director:** As you yank Korvo off the ground and pull him up onto the wall, a guard turns a bullseye lantern your way, calling out, “Who goes there?”
 
 ## ASSIST A TEST
 
@@ -13735,9 +13573,9 @@ You can attempt to assist another creature with a test they make, provided you h
 
 When you attempt to assist another creature, make a test using the skill you choose, with a characteristic chosen by the Director based on the action you take to help. The outcome of that test determines the bonus applied to the test you’re assisting:
 
-- **11 or lower**: You get in the way or make things worse. The creature takes a bane on their test.
-- **12–16**: Your help grants the other creature an edge on their test.
-- **17+**: Your help gives the other creature a double edge on their test.
+- **11 or lower:** You get in the way or make things worse. The creature takes a bane on their test.
+- **12-16:** Your help grants the other creature an edge on their test.
+- **17+:** Your help gives the other creature a double edge on their test.
 
 For example, if you want to use the **Flirt** skill to help another hero pick a jailor’s pocket, the Director might ask you to make a **Presence** test using **Flirt**. The outcome of that test determines the bonus you provide to the other hero’s **Agility** test to pick the pocket.
 
@@ -13831,8 +13669,8 @@ In general, the higher the success limit, the harder and more complicated it is 
 
 For larger or smaller groups, you can make the following adjustments to keep montage tests achievable but challenging:
 
-- **Four or fewer heroes**: Decrease the success limit and failure limits by 1 (to a minimum of 2) for every hero fewer than five. For example, if your group has only three heroes, an easy montage test has a success and failure limit of 3.
-- **Six or more heroes**: Increase the success and failure limits by 1 for every hero more than five.
+- **Four or fewer heroes:** Decrease the success limit and failure limits by 1 (to a minimum of 2) for every hero fewer than five. For example, if your group has only three heroes, an easy montage test has a success and failure limit of 3.
+- **Six or more heroes:** Increase the success and failure limits by 1 for every hero more than five.
 
 ### MONTAGE TEST OUTCOMES
 
@@ -13897,9 +13735,9 @@ Resistance rolls are special power rolls made to avoid harmful effects from trap
 For example, a hero who activates a fire trap might need to make the following resistance roll:
 
 - **Resistance + Agility:**
-  - 11 or lower: 9 fire damage
-  - 12–16: 6 fire damage
-  - 17+: 2 fire damage
+  - **11 or lower:** 9 fire damage
+  - **12-16:** 6 fire damage
+  - **17+:** 2 fire damage
 
 ## ADJACENT
 
@@ -13939,9 +13777,9 @@ You are no longer hidden from a creature if you don’t have cover or concealmen
 
 You can search for creatures who are hidden from you as long as those creatures are within 10 squares of you and you have **line of effect** to them. To do so, you make an **Intuition** test as a maneuver and assess the result:
 
-- **11 or lower**: You find any hidden creatures with an **Agility** of 0 or lower and who don’t have the **Hide** skill.
-- **12–16**: You find any hidden creatures who don’t have the **Hide** skill.
-- **17 or more**: You find all hidden creatures.
+- **11 or lower:** You find any hidden creatures with an **Agility** of 0 or lower and who don’t have the **Hide** skill.
+- **12-16:** You find any hidden creatures who don’t have the **Hide** skill.
+- **17 or more:** You find all hidden creatures.
 
 As part of this maneuver, you can point out any creatures you find to allies within 10 squares of you, making those creatures no longer hidden from those allies. If a creature is hidden from your allies but not from you, you can use a maneuver without making a test to point them out to your allies.
 
@@ -14108,7 +13946,7 @@ If an ability requires a power roll, it has a “Power Roll” entry that tells 
 Unlike power rolls made as tests, ability rolls always do something useful when you make them. You’re just rolling to see the impact of the ability, including damage and any effects based on the tier result of the power roll. For instance, the fury’s Brutal Slam ability is a melee attack that targets a creature within 1 square and has the following effects:
 
 - **Tier 1 (11 or lower):** The attack deals 3 damage and pushes the target back 1 square.
-- **Tier 2 (12–16):** The attack deals 8 damage and pushes the target back 2 squares.
+- **Tier 2 (12-16):** The attack deals 8 damage and pushes the target back 2 squares.
 - **Tier 3 (17 or more):** The attack deals 12 damage and pushes the target back 4 squares.
 
 ### ABILITIES WITH DAMAGE AND EFFECTS
@@ -14118,9 +13956,9 @@ Both attacks and area abilities deal damage and often have an additional effect 
 To keep things quick and easy to read at the table, damage and effects are separated in a power roll entry with a semicolon, with effects abbreviated whenever possible. An effect determined by the power roll result always applies to the target unless otherwise specified. For instance, the Brutal Slam ability described above has the following power roll setup:
 
 **Power Roll + Might:**
-- 11 or lower: 3 damage; push 1
-- 12–16: 8 damage; push 2
-- 17+: 12 damage; push 4
+- **11 or lower:** 3 damage; push 1
+- **12-16:** 8 damage; push 2
+- **17+:** 12 damage; push 4
 
 Unless otherwise indicated, any effects that are determined by a power roll result occur after the power roll’s damage has been dealt to all targets.
 
@@ -14146,9 +13984,9 @@ For example, if you target three creatures with an attack ability and your resul
 Some abilities that are used by the heroes’ foes have the target of the ability make a resistance roll instead of the creature using the ability making a power roll. These abilities have the Resistance keyword, indicating that the target rolls to see how well they can resist the ability. For instance, the dwarf trapper’s Steam Powered Snare ability forces a target to make an Intuition resistance roll:
 
 - **Target Resists + Might:**
-- 11 or lower: 4 damage; restrained (EoT)
-- 12–16: 3 damage; slowed (EoT)
-- 17+: No effect
+- **11 or lower:** 4 damage; restrained (EoT)
+- **12-16:** 3 damage; slowed (EoT)
+- **17+:** No effect
 
 Because a resistance roll measures how well a target shakes off an ability’s damage and effects, the higher the tier result of the roll, the weaker the ability’s damage and effects.
 
@@ -14407,14 +14245,14 @@ You can attempt to climb a creature whose size is greater than yours. If the cre
 
 **Power Roll + Might or Agility:**
 - **11 or lower:** You fail to climb the creature, and they can make a free strike against you.
-- **12–16:** You fail to climb the creature.
+- **12-16:** You fail to climb the creature.
 - **17+:** You climb the creature.
 
 While you climb or ride a creature, you gain an edge to melee attacks against them. The creature can use a maneuver to attempt to knock you off. If you are knocked off a creature, you must make the following test:
 
 **Power Roll + Might or Agility:**
 - **11 or lower:** You fall off the creature into an unoccupied adjacent space of your choice, taking falling damage and landing prone as usual (see *Falling* in *Adventuring*).
-- **12–16:** You slide down the creature into an unoccupied adjacent space of your choice and don’t land prone.
+- **12-16:** You slide down the creature into an unoccupied adjacent space of your choice and don’t land prone.
 - **17+:** You continue to hold on to the creature.
 
 If you are knocked prone while climbing or riding a creature, you fall and land prone in an adjacent space of your choice, taking damage as usual from the fall.
@@ -14559,7 +14397,7 @@ While you are grabbed by another creature (see *Grab* below), you can attempt to
 
 **Power Roll + Might or Agility:**
 - **11 or lower:** You fail to escape the grab.
-- **12–16:** You can escape the grab, but if you do, the creature grabbing you can make a melee free strike against you before you are no longer grabbed.
+- **12-16:** You can escape the grab, but if you do, the creature grabbing you can make a melee free strike against you before you are no longer grabbed.
 - **17+:** You are no longer grabbed.
 
 ### GRAB
@@ -14575,9 +14413,8 @@ You attempt to grab a creature using the following ability:
 
 **Power Roll + Might:**
 - **11 or lower:** No effect
-- **12–16:** You can grab the target, but if you do, they can make a melee free strike against you right before they become grabbed by you.
+- **12-16:** You can grab the target, but if you do, they can make a melee free strike against you right before they become grabbed by you.
 - **17+:** The target is grabbed by you.
-
 
 **Effect:** You gain an edge on the power roll if the creature’s size is smaller than yours. You can grab only one creature at a time this way.
 
@@ -14598,9 +14435,8 @@ You attempt to shove an adjacent creature using the following ability:
 
 **Power Roll + Might:**
 - **11 or lower:** Push 1
-- **12–16:** Push 2
+- **12-16:** Push 2
 - **17+:** Push 3
-
 
 **Effect:** You gain an edge on the power roll if the creature’s size is smaller than yours.
 
@@ -14677,7 +14513,7 @@ A melee weapon free strike is a melee attack made with an unarmed strike or an i
 
 **Power Roll + Might or Agility:**
 - **11 or lower:** 2 damage
-- **12–16:** 5 damage
+- **12-16:** 5 damage
 - **17+:** 7 damage
 
 #### RANGED WEAPON FREE STRIKE
@@ -14689,7 +14525,7 @@ A melee weapon free strike is a melee attack made with an unarmed strike or an i
 
 **Power Roll + Might or Agility:**
 - **11 or lower:** 2 damage
-- **12–16:** 4 damage
+- **12-16:** 4 damage
 - **17+:** 6 damage
 
 ## FLANKING
@@ -15185,7 +15021,7 @@ If an NPC isn’t as forthcoming, or if the heroes want to learn one of the NPC�
 
 - **Power Roll + Reason, Intuition, or Presence:**
   - **11 or lower:** The hero learns no information regarding the NPC’s motivations or pitfalls, and the NPC realizes the hero is trying to read them and becomes annoyed. As a consequence, the NPC’s patience is reduced by 1.
-  - **12–16:** The hero learns no information regarding the NPC’s motivations or pitfalls.
+  - **12-16:** The hero learns no information regarding the NPC’s motivations or pitfalls.
   - **17+:** The hero learns one of the NPC’s motivations or pitfalls (their choice).
 
 After this test is made, the heroes can’t make another test to determine the same NPC’s motivations or pitfalls until they make an argument to the NPC or the negotiation ends.
@@ -15214,7 +15050,7 @@ If an argument doesn’t include a pitfall and appeals to one of the NPC’s mot
 
 - **Power Roll + Reason, Intuition, or Presence:**
   - **11 or lower:** The NPC’s patience decreases by 1.
-- **12–16:** The NPC’s interest increases by 1, and their patience decreases by 1.
+- **12-16:** The NPC’s interest increases by 1, and their patience decreases by 1.
 - **17+:** The NPC’s interest increases by 1, and their patience doesn’t change.
 
 At the Director’s discretion, a particularly well-roleplayed or well-reasoned argument automatically counts as a tier 3 result without a test. Good roleplaying should be rewarded!
@@ -15231,7 +15067,7 @@ If an argument doesn’t include one of the NPC’s motivations or pitfalls, the
 
 - **Power Roll + Reason, Intuition, or Presence:**
   - **11 or lower:** The NPC’s patience decreases by 1, and their interest decreases by 1.
-  - **12–16:** The NPC’s patience decreases by 1.
+  - **12-16:** The NPC’s patience decreases by 1.
   - **17+:** The NPC’s interest increases by 1, and their patience decreases by 1. (On a natural 19 or 20, the NPC’s patience remains the same.)
 
 If the heroes try to use the same argument without a pitfall or motivation twice, the test automatically gets a tier 1 result.
@@ -15756,9 +15592,9 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 - **Dragon Soul:** When another creature causes you to be winded or dying, you can use a free triggered action to cause the soul of a dragon to emerge from this armor and hurtle toward the creature. Make the following power roll against the creature.
   - **Power Roll + Highest Characteristic:**
-    - 11 or lower: 8 damage; push 3
-    - 12–16: 12 damage; push 4
-    - 17+: 15 damage; push 5
+    - **11 or lower:** 8 damage; push 3
+    - **12-16:** 12 damage; push 4
+    - **17+:** 15 damage; push 5
 
 - **Levitating:** On your turn, you can treat up to 5 consecutive squares of movement as flying movement. If you are still in midair at the end of your turn, you fall prone.
 
@@ -15807,9 +15643,9 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
     - **Distance:** 5 × 1 line within 1
     - **Target:** Each enemy in the line
     - **Power Roll + Highest Characteristic:**
-      - 11 or lower: 5 fire damage
-      - 12–16: 8 fire damage
-      - 17+: 11 fire damage
+      - **11 or lower:** 5 fire damage
+      - **12-16:** 8 fire damage
+      - **17+:** 11 fire damage
 
 - **Invulnerable:** You gain an edge on resistance rolls. Additionally, when a power roll made against you has a result of 11 or lower, you can ignore its damage and effects.
 
@@ -16029,7 +15865,8 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 - **Type:** Free Triggered Action
 - **Distance:** Melee 1
 - **Target:** 1 enemy
-- **Trigger:** The target moves into a space adjacent to you.
+
+**Trigger:** The target moves into a space adjacent to you.
 
 **Effect:** The target takes 1d6 damage.
 
@@ -16096,9 +15933,9 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
   - **Distance:** 3 burst
   - **Target:** All enemies
   - **Power Roll + Highest Characteristic:**
-    - 11 or lower: 7 fire damage
-    - 12–16: 11 fire damage
-    - 17+: 16 fire damage
+    - **11 or lower:** 7 fire damage
+    - **12-16:** 11 fire damage
+    - **17+:** 16 fire damage
 
 - **Terrifying III:** Whenever you damage a creature using this weapon and obtain a tier 3 result on the power roll, that creature takes 3d6 psionic psychic damage and is frightened (save ends).
 
@@ -16365,10 +16202,10 @@ When you finish rolling, you can spend the points you earned on a reward from th
 | Reward         | Cost  | Effect                                                                                                                                         |
 |----------------|-------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | Hearty Meal (1 serving) | 50   | A serving of this meal gives the eater 1 additional Recovery that lasts until their next respite. A creature can only benefit from 1 serving of this meal or another (like from the Learn a New Recipe project) at a time.  |
-| Better Tackle  | 120   | You gain the following title: **Angler**: You have an edge on all Fishing project rolls.                                                        |
+| Better Tackle  | 120   | You gain the following title: **Angler:** You have an edge on all Fishing project rolls.                                                        |
 | Great Meal (1 serving) | 100  | A serving of this meal gives the eater 1 additional Recovery and 10 Temporary Stamina that lasts until their next respite. A creature can only benefit from 1 serving of this meal or another (like from the Learn a New Recipe project) at a time.  |
 | Fishing Event  | 500   | You invoke a fishing event as if you got a breakthrough.                                                                                       |
-| Legendary Fisher | 1,000 | You gain the following title: **Goldenrod**: While undertaking the Fishing project, you can ignore the results of one project roll.           |
+| Legendary Fisher | 1,000 | You gain the following title: **Goldenrod:** While undertaking the Fishing project, you can ignore the results of one project roll.           |
 
 #### FISHING EVENTS
 
@@ -16378,7 +16215,7 @@ When you finish rolling, you can spend the points you earned on a reward from th
 4. While fishing, the hero reels in an **angulotl daybringer**. They’re insulted by the hero catching them and threaten to summon heavy thunderstorms and drown the region in a flood. However, they can be negotiated with and might provide the hero with 1 serving of an amazing meal if they end things on good terms. A serving of this meal gives the eater 1 additional Recovery and 25 temporary Stamina that lasts until their next respite. A creature can only benefit from 1 serving of this meal or another (like from the Learn a New Recipe project) at a time.
 5. While fishing, the hero reels in half of a mysterious ancient treasure of the Director’s choice. If the other half is found, the treasure magically melds together again.
 6. While fishing, the hero has fond memories of their life up until now, energizing them. They have an edge on all Presence tests until the end of their next respite.
-7. The hero manages to reach a new fishing milestone. They gain the following title: **Master of Reels**: When you deal damage to a creature or object that is 2 or more squares away from you that doesn’t force-move the creature, you can choose to pull the target a number of squares equal to your Agility, Reason, or Presence score (your choice).
+7. The hero manages to reach a new fishing milestone. They gain the following title: **Master of Reels:** When you deal damage to a creature or object that is 2 or more squares away from you that doesn’t force-move the creature, you can choose to pull the target a number of squares equal to your Agility, Reason, or Presence score (your choice).
 8. It’s a relaxing, meditative exercise! While fishing, the hero has a breakthrough either on another project they’re working on, or they can give the breakthrough to another hero’s project.
 9. While fishing, the hero is pulled by an ancient fish. The hero must succeed on a hard Might test in order to reel in a humongous fish worth 100 points, or fail and end the respite with 1 Recovery fewer than their maximum. On a success with complication result, the hero gets the fish and loses the Recovery.
 10. While fishing, the hero catches their line on what appears to be an underwater cavern. Inside the cavern is a treasure of the Director’s choice being guarded by a revenant knight fulfilling their duty until their captain returns.
@@ -16467,9 +16304,9 @@ A diamond-shaped dart holds a shimmering black vial at its core.
 - **Project Goal:** 45 (yields 1d3 darts, or 3 darts if crafted by a shadow)
 
 **Effect:** As a maneuver, you can make a ranged free strike using a black ash dart. The attack deals an extra 1 damage and adds the following effects to the tier results of the power roll:
-  - 11 or lower: You can teleport the target up to 2 squares.
-  - 12–16: You can teleport the target up to 4 squares.
-  - 17+: You can teleport the target up to 6 squares.
+  - **11 or lower:** You can teleport the target up to 2 squares.
+  - **12-16:** You can teleport the target up to 4 squares.
+  - **17+:** You can teleport the target up to 6 squares.
 
 #### BLOOD ESSENCE VIAL
 
@@ -16554,9 +16391,9 @@ A thumb-sized serrated tooth seems to scratch your flesh in some way whenever it
 - **Project Goal:** 45 (yields 1d3 teeth)
 
 **Effect:** As a maneuver, you attach a lachomp tooth to a weapon, allowing that weapon to supernaturally flicker in and out of reality. Your next attack using this weapon can tear through multiple targets in a line (for an attack at range) or surrounding you (for an attack within reach). The attack also adds the following effects to the tier results of the power roll:
-  - 11 or lower: You can affect one additional target with this attack.
-  - 12–16: You can affect up to three additional targets with this attack.
-  - 17+: You can affect up to seven additional targets with this attack.
+  - **11 or lower:** You can affect one additional target with this attack.
+  - **12-16:** You can affect up to three additional targets with this attack.
+  - **17+:** You can affect up to seven additional targets with this attack.
 
 #### MIRROR TOKEN
 
@@ -16804,7 +16641,7 @@ Your connection with leveled treasures doesn’t just make them useful; it also 
 It’s fine to own or possess more than three leveled treasures, as long as the extras are stored away or in the possession of other creatures. But if you carry more than three leveled treasures, you must make a Presence test during each respite:
 
 - **11 or lower:** One of your leveled treasures (chosen by the Director) grabs hold of your psyche. It forces you to sleepwalk or otherwise enter an active fugue state and discard the rest of your leveled treasures someplace that you can’t remember. If you want those items back, you’d better get looking before someone else finds them.
-- **12–16:** Your items work together to prevent you from moving until you pick three items and leave the rest behind.
+- **12-16:** Your items work together to prevent you from moving until you pick three items and leave the rest behind.
 - **17+:** Nothing happens.
 
 ### LEVELED ARMOR TREASURES
@@ -17609,7 +17446,6 @@ Choose one of the following benefits:
 - **Type:** Action  
 - **Type:** 3 burst  
 - **Target:** All enemies 
-
 
 **Effect:** Each undead creature in the area takes (SURGE) holy damage and is P [strong] frightened (save ends).  
 

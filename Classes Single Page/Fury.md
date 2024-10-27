@@ -216,7 +216,7 @@ In your anger, you revert to a more bestial form.
 | **Keywords:** Animal, Attack, Melee, Weapon | **Type:** Action                 |
 | **Distance:** Reach                         | **Target:** 1 creature or object |
 
-- **Trigger:** You lose Stamina and are not dying.
+**Trigger:** You lose Stamina and are not dying.
 
 **Effect:** After damage is resolved, if your rage is high enough, you can enter your animal or hybrid form as a free triggered action. You gain temporary Stamina equal to your Might.
 
@@ -226,7 +226,7 @@ In your anger, you revert to a more bestial form.
 
 You redirect the energy of motion.
 
-- **Trigger:** The target is force moved.
+**Trigger:** The target is force moved.
 
 **Effect:** You can select a new target of the same size or smaller within distance to be force moved instead and change the direction of that forced movement. Additionally, you can increase the forced move distance by a number of squares equal to your Might score.
 
@@ -236,7 +236,7 @@ You redirect the energy of motion.
 
 Elusive as a hummingbird.
 
-- **Trigger:** You are targeted by a damaging area of effect.
+**Trigger:** You are targeted by a damaging area of effect.
 
 **Effect:** You shift up to 2 squares. If that moves you out of the area of effect, you ignore the attack. Otherwise, you take half damage.
 
@@ -264,9 +264,9 @@ The heavy impact of your weapon attacks drives your foes ever backward.
 
 **Power Roll + Might:**
 
-- 11 or lower: 2 damage; push 1
-- 12–16: 5 damage; push 2
-- 17+: 7 damage; push 4
+- **11 or lower:** 2 damage; push 1
+- **12-16:** 5 damage; push 2
+- **17+:** 7 damage; push 4
 
 ##### Hit And Run
 
@@ -274,9 +274,9 @@ Keeping in constant motion helps you slip out of reach after a brutal assault.
 
 **Power Roll + Might:**
 
-- 11 or lower: 2 damage
-- 12–16: 3 damage
-- 17+: 5 damage; A \[strong\] slowed (save ends)
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 5 damage; A \[strong\] slowed (save ends)
 
 **Effect:** You can shift 1 square after the attack is resolved.
 
@@ -286,9 +286,9 @@ You plunge your weapon into your enemy like a boar upon a spit.
 
 **Power Roll + Might:**
 
-- 11 or lower: 2 damage; M \[weak\] grabbed
-- 12–16: 3 damage; M \[average\] grabbed
-- 17+: 5 damage; M \[strong\] grabbed
+- **11 or lower:** 2 damage; M \[weak\] grabbed
+- **12-16:** 3 damage; M \[average\] grabbed
+- **17+:** 5 damage; M \[strong\] grabbed
 
 ##### To The Death!
 
@@ -296,9 +296,9 @@ Your reckless assault leaves you tactically vulnerable.
 
 **Power Roll + Might:**
 
-- 11 or lower: 3 damage
-- 12–16: 6 damage
-- 17+: 9 damage
+- **11 or lower:** 3 damage
+- **12-16:** 6 damage
+- **17+:** 9 damage
 
 **Effect:** You can choose to do (SURGE) to the target. If you do, the target gains (SURGE) on their next attack against you.
 
@@ -316,9 +316,9 @@ Surrounded? The fools!
 
 **Power Roll + Might:**
 
-- 11 or lower: 5 damage
-- 12–16: 8 damage; push 1
-- 17+: 11 damage; push 3
+- **11 or lower:** 5 damage
+- **12-16:** 8 damage; push 1
+- **17+:** 11 damage; push 3
 
 ###### Out Of The Way! (3 Rage)
 
@@ -326,9 +326,9 @@ Your enemies will get out of your way—whether they want to or not.
 
 **Power Roll + Might:**
 
-- 11 or lower: 3 damage; slide 2
-- 12–16: 5 damage; slide 3
-- 17+: 8 damage; slide 5
+- **11 or lower:** 3 damage; slide 2
+- **12-16:** 5 damage; slide 3
+- **17+:** 8 damage; slide 5
 
 **Effect:** When you force move the target, you can move into any square they leave. If you take damage from an opportunity attack by moving this way, the target takes the same amount and type of damage.
 
@@ -340,9 +340,9 @@ Teach them the folly of lining up for you.
 
 **Power Roll + Might:**
 
-- 11 or lower: 2 damage
-- 12–16: 3 damage
-- 17+: 5 damage
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 5 damage
 
 **Effect:** The target takes an extra (SURGE) for every free strike you triggered from your move.
 
@@ -352,9 +352,9 @@ Hard for them to fight when they're busy holding in their giblets.
 
 **Power Roll + Might:**
 
-- 11 or lower: 3 damage; M \[weak\] bleeding (save ends)
-- 12–16: 5 damage; M \[average\] bleeding (save ends)
-- 17+: 8 damage; M \[average\] bleeding (save ends)
+- **11 or lower:** 3 damage; M \[weak\] bleeding (save ends)
+- **12-16:** 5 damage; M \[average\] bleeding (save ends)
+- **17+:** 8 damage; M \[average\] bleeding (save ends)
 
 **Effect:** The target takes (SURGE) whenever they fail a save for bleeding.
 
@@ -368,9 +368,9 @@ A mighty strike leaves your foe reeling.
 
 **Power Roll + Might:**
 
-- 11 or lower: 4 damage; M \[weak\] bleeding and weakened (save ends)
-- 12–16: 6 damage; M \[average\] bleeding and weakened (save ends)
-- 17+: 10 damage; M \[strong\] bleeding and weakened (save ends)
+- **11 or lower:** 4 damage; M \[weak\] bleeding and weakened (save ends)
+- **12-16:** 6 damage; M \[average\] bleeding and weakened (save ends)
+- **17+:** 10 damage; M \[strong\] bleeding and weakened (save ends)
 
 **Effect:** You can choose to deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
 
@@ -386,9 +386,9 @@ A howl erupts from you that hurls your enemies back.
 
 **Power Roll + Might:**
 
-- 11 or lower: 6 damage; push 2
-- 12–16: 9 damage; push 4
-- 17+: 13 damage; push 6
+- **11 or lower:** 6 damage; push 2
+- **12-16:** 9 damage; push 4
+- **17+:** 13 damage; push 6
 
 **Effect:** Targets are pushed one at a time, starting with the target closest to you.
 
@@ -398,9 +398,9 @@ You spend your life force to ensure their death.
 
 **Power Roll + Might:**
 
-- 11 or lower: 7 damage
-- 12–16: 11 damage
-- 17+: 16 damage
+- **11 or lower:** 7 damage
+- **12-16:** 11 damage
+- **17+:** 16 damage
 
 **Spend 1 or More Additional Rage:** If you are winded, you can add 1d6 damage for each rage spent. If you are dying, you can add 1d10 damage for each rage spent. In either case, you then lose 1d6 Stamina.
 
@@ -462,9 +462,9 @@ It is easier to destroy than to create. Much easier, in fact!
 
 **Power Roll + Might:**
 
-- 11 or lower: push 1
-- 12–16: push 2
-- 17+: push 3
+- **11 or lower:** push 1
+- **12-16:** push 2
+- **17+:** push 3
 
 #### 2nd-level Reaver Abilities
 
@@ -478,9 +478,9 @@ Organizing your forces like feckless creatures of Law. Pitiful.
 
 **Power Roll + Might:**
 
-- 11 or lower: 1 damage; A \[weak\] dazed (save ends)
-- 12–16: 2 damage; A \[average\] dazed (save ends)
-- 17+: 3 damage; A \[strong\] dazed (save ends)
+- **11 or lower:** 1 damage; A \[weak\] dazed (save ends)
+- **12-16:** 2 damage; A \[average\] dazed (save ends)
+- **17+:** 3 damage; A \[strong\] dazed (save ends)
 
 ##### Rrraaaghh! (5 Rage)
 
@@ -488,9 +488,9 @@ Death! Deeaaath!!
 
 **Power Roll + Might:**
 
-- 11 or lower: 3 damage; P \[weak\] dazed and frightened (save ends)
-- 12–16: 5 damage; P \[average\] dazed and frightened (save ends)
-- 17+: 8 damage; P \[strong\] dazed and frightened (save ends)
+- **11 or lower:** 3 damage; P \[weak\] dazed and frightened (save ends)
+- **12-16:** 5 damage; P \[average\] dazed and frightened (save ends)
+- **17+:** 8 damage; P \[strong\] dazed and frightened (save ends)
 
 #### 2nd-level Stormwight Abilities
 
@@ -502,9 +502,9 @@ I will hunt you down.
 
 **Power Roll + Might:**
 
-- 11 or lower: 4 damage; I \[weak\] slowed (save ends)
-- 12–16: 6 damage; I \[average\] slowed (save ends)
-- 17+: 10 damage; I \[strong\] slowed (save ends)
+- **11 or lower:** 4 damage; I \[weak\] slowed (save ends)
+- **12-16:** 6 damage; I \[average\] slowed (save ends)
+- **17+:** 10 damage; I \[strong\] slowed (save ends)
 
 **Effect:** The target can't be hidden from you for 24 hours. For the rest of the encounter, whenever the target moves, you can move as a free triggered action.
 
@@ -514,9 +514,9 @@ The sound of the storm within you terrifies your opponents.
 
 **Power Roll + Might:**
 
-- 11 or lower: 2 damage of your Primordial Storm type; push 1; M \[weak\] dazed (save ends)
-- 12–16: 5 damage of your Primordial Storm type; push 2; M \[average\] dazed (save ends)
-- 17+: 7 damage of your Primordial Storm type; push 3; M \[strong\] dazed (save ends)
+- **11 or lower:** 2 damage of your Primordial Storm type; push 1; M \[weak\] dazed (save ends)
+- **12-16:** 5 damage of your Primordial Storm type; push 2; M \[average\] dazed (save ends)
+- **17+:** 7 damage of your Primordial Storm type; push 3; M \[strong\] dazed (save ends)
 
 ## 3rd-level Features
 
@@ -648,9 +648,9 @@ Attacks with your sharp and deadly claws send your foes staggering back.
 
 **Power Roll + Might:**
 
-- 11 or lower: 2 damage; M \[weak\] grabbed
-- 12–16: 3 damage; M \[average\] grabbed
-- 17+: 8 damage; M \[strong\] grabbed
+- **11 or lower:** 2 damage; M \[weak\] grabbed
+- **12-16:** 3 damage; M \[average\] grabbed
+- **17+:** 8 damage; M \[strong\] grabbed
 
 #### Bear Growing Rage
 
@@ -730,9 +730,9 @@ Foes who try to close around you do so at their peril.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage
-- 12–16: 5 damage
-- 17+: 6 damage
+- **11 or lower:** 4 damage
+- **12-16:** 5 damage
+- **17+:** 6 damage
 
 **Effect:** You can shift 2 before or after the attack.
 
@@ -816,9 +816,9 @@ Your enemies try in vain to fall back from your pouncing attack.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage
-- 12–16: 5 damage; push 1
-- 17+: 7 damage; push 2
+- **11 or lower:** 4 damage
+- **12-16:** 5 damage; push 1
+- **17+:** 7 damage; push 2
 
 **Effect:** You can shift the same number of squares that you pushed the target.
 
@@ -900,9 +900,9 @@ A savage assault forces your foes back.
 
 **Power Roll + Might:**
 
-- 11 or lower: 4 damage; A \[weak\] prone
-- 12–16: 5 damage; A \[average\] prone
-- 17+: 7 damage; A \[strong\] prone
+- **11 or lower:** 4 damage; A \[weak\] prone
+- **12-16:** 5 damage; A \[average\] prone
+- **17+:** 7 damage; A \[strong\] prone
 
 #### Wolf Growing Rage
 

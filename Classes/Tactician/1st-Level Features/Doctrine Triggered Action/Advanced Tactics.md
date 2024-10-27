@@ -24,7 +24,7 @@ Your leadership thwarts an enemy or aids an ally.
 | **Keywords:** Ranged    | **Type:** Triggered      |
 | **Distance:** Ranged 10 | **Target:** Any creature |
 
-- **Trigger:** The target makes an attack against another creature.
+**Trigger:** The target makes an attack against another creature.
 
 **Effect:** Add or subtract (SURGE) to the attack.
 

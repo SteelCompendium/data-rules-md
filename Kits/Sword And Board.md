@@ -42,6 +42,6 @@ In your hands, a shield isn't just for protection.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 4 damage; push 1
-- 12–16: 5 damage; push 2
-- 17+: 7 damage; push 3; M \[strong\] [[Prone|prone]]
+- **11 or lower:** 4 damage; push 1
+- **12-16:** 5 damage; push 2
+- **17+:** 7 damage; push 3; M \[strong\] [[Prone|prone]]

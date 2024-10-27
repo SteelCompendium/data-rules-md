@@ -42,8 +42,8 @@ All combat is a dance—and you'll be the one leading.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 4 damage
-- 12–16: 6 damage; push 1
-- 17+: 8 damage; push 2
+- **11 or lower:** 4 damage
+- **12-16:** 6 damage; push 1
+- **17+:** 8 damage; push 2
 
 *Effect:* You can shift into any square your target leaves after you force move them with this ability.

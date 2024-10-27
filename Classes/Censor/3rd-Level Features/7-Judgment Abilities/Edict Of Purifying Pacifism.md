@@ -17,7 +17,7 @@ target: All enemies
 
 # Edict Of Purifying Pacifism (7 Judgment)
 
-- **Shed not the blood of innocents!**
+**Shed not the blood of innocents!**
 
 |                      |                         |
 | :------------------- | :---------------------- |

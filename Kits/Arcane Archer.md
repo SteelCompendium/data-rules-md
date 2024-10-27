@@ -43,8 +43,8 @@ Your ammunition explodes with magical energy.
 
 *Power Roll + Agility, Reason, Intuition, or Presence:*
 
-- 11 or lower: 4 damage
-- 12–16: 6 damage
-- 17+: 8 damage
+- **11 or lower:** 4 damage
+- **12-16:** 6 damage
+- **17+:** 8 damage
 
 *Effect:* A creature or object within 2 squares of your target takes (SURGE) damage.

@@ -42,8 +42,8 @@ Keeping your enemies stumbling around the battlefield is second nature to you.
 
 *Power Roll + Might or Agility:*
 
-- 11 or lower: 3 damage
-- 12–16: 4 damage; slide 1
-- 17+: 6 damage; slide 2
+- **11 or lower:** 3 damage
+- **12-16:** 4 damage; slide 1
+- **17+:** 6 damage; slide 2
 
 *Effect:* You can shift into any square your target leaves after you slide them.

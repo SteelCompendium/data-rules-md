@@ -32,8 +32,8 @@ You can use a free maneuver to fire an orb at a creature or object within 5 as a
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage
-- 12-16: 3 damage
-- 17+: 5 damage
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 5 damage
 
 **Strained:** You create five orbs. You are weakened while you have orbs active.

@@ -43,8 +43,8 @@ Lightning [[Jump|jumps]] from your weapon as you strike to harm a nearby foe.
 
 *Power Roll + Might, Reason, Intuition, or Presence:*
 
-- 11 or lower: 4 lightning damage
-- 12–16: 7 lightning damage
-- 17+: 9 lightning damage
+- **11 or lower:** 4 lightning damage
+- **12-16:** 7 lightning damage
+- **17+:** 9 lightning damage
 
 *Effect:* A creature or object within 2 squares of your target takes (SURGE) lightning damage.
