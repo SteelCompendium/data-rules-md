@@ -120,11 +120,11 @@ You are never surprised. Additionally, whenever you would push a target with for
 <tr class="odd">
 <td>3</td>
 <td>- You gain an edge on Agility tests and resistance rolls.<br />
-- Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal (SURGE).</td>
+- Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal <code>(SURGE)</code>.</td>
 </tr>
 <tr class="even">
 <td>6</td>
-<td>Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal (SURGE)(SURGE).</td>
+<td>Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal <code>(SURGE)(SURGE)</code>.</td>
 </tr>
 <tr class="odd">
 <td>9</td>
@@ -140,7 +140,7 @@ You are never surprised. Additionally, whenever you would push a target with for
 </tr>
 <tr class="even">
 <td>18 (Level 10)</td>
-<td>- Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal (SURGE)(SURGE)(SURGE)(SURGE).<br />
+<td>- Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal <code>(SURGE)(SURGE)(SURGE)(SURGE)</code>.<br />
 - Once per turn, as a free maneuver, you can remove an effect or condition affecting you. You can choose to apply the removed effect or condition to an adjacent enemy, who is affected by it until the End of the Encounter.</td>
 </tr>
 </tbody>
@@ -148,7 +148,7 @@ You are never surprised. Additionally, whenever you would push a target with for
 
 #### Primordial Strength
 
-When you damage an object with a weapon attack, it takes an (SURGE). Additionally, whenever you push another creature into an object, they take (SURGE). As your rage grows, your primordial strength intensifies.
+When you damage an object with a weapon attack, it takes an `(SURGE)`. Additionally, whenever you push another creature into an object, they take `(SURGE)`. As your rage grows, your primordial strength intensifies.
 
 ##### Primordial Strength Growing Rage
 
@@ -167,11 +167,11 @@ When you damage an object with a weapon attack, it takes an (SURGE). Additionall
 <tr class="odd">
 <td>3</td>
 <td>- You gain an edge on Might tests and resistance rolls.<br />
-- You deal (SURGE) if you are at least 2 squares from where you started your turn when you attack.</td>
+- You deal <code>(SURGE)</code> if you are at least 2 squares from where you started your turn when you attack.</td>
 </tr>
 <tr class="even">
 <td>6</td>
-<td>You deal (SURGE)(SURGE) if you are at least two squares from where you started your turn when you attack.</td>
+<td>You deal <code>(SURGE)(SURGE)</code> if you are at least two squares from where you started your turn when you attack.</td>
 </tr>
 <tr class="odd">
 <td>9</td>
@@ -179,7 +179,7 @@ When you damage an object with a weapon attack, it takes an (SURGE). Additionall
 </tr>
 <tr class="even">
 <td>12 (Level 4)</td>
-<td>You deal (SURGE)(SURGE)(SURGE) if you are at least two squares from where you started your turn when you attack.</td>
+<td>You deal <code>(SURGE)(SURGE)(SURGE)</code> if you are at least two squares from where you started your turn when you attack.</td>
 </tr>
 <tr class="odd">
 <td>15 (Level 7)</td>
@@ -187,7 +187,7 @@ When you damage an object with a weapon attack, it takes an (SURGE). Additionall
 </tr>
 <tr class="even">
 <td>18 (Level 10)</td>
-<td>- You deal (SURGE)(SURGE)(SURGE)(SURGE) if you are at least two squares from where you started your turn when you attack.<br />
+<td>- You deal <code>(SURGE)(SURGE)(SURGE)(SURGE)</code> if you are at least two squares from where you started your turn when you attack.<br />
 - You become size 2 and the reach of your melee weapon abilities increases by 1.</td>
 </tr>
 </tbody>
@@ -300,7 +300,7 @@ Your reckless assault leaves you tactically vulnerable.
 - **12-16:** 6 damage
 - **17+:** 9 damage
 
-**Effect:** You can choose to do (SURGE) to the target. If you do, the target gains (SURGE) on their next attack against you.
+**Effect:** You can choose to do `(SURGE)` to the target. If you do, the target gains `(SURGE)` on their next attack against you.
 
 #### Heroic Abilities
 
@@ -344,7 +344,7 @@ Teach them the folly of lining up for you.
 - **12-16:** 3 damage
 - **17+:** 5 damage
 
-**Effect:** The target takes an extra (SURGE) for every free strike you triggered from your move.
+**Effect:** The target takes an extra `(SURGE)` for every free strike you triggered from your move.
 
 ###### Your Entrails Are Your Extrails! (3 Rage)
 
@@ -356,7 +356,7 @@ Hard for them to fight when they're busy holding in their giblets.
 - **12-16:** 5 damage; M \[average\] bleeding (save ends)
 - **17+:** 8 damage; M \[average\] bleeding (save ends)
 
-**Effect:** The target takes (SURGE) whenever they fail a save for bleeding.
+**Effect:** The target takes `(SURGE)` whenever they fail a save for bleeding.
 
 ##### 5-rage Abilities
 
@@ -378,7 +378,7 @@ A mighty strike leaves your foe reeling.
 
 Anger is an energy.
 
-**Effect:** The next attack you make this turn automatically achieves a tier 3 result and gains (SURGE).
+**Effect:** The next attack you make this turn automatically achieves a tier 3 result and gains `(SURGE)`.
 
 ###### Thunder Roar (5 Rage)
 
@@ -410,7 +410,7 @@ As a 2nd-level fury, you gain the following features.
 
 ### Extra Surge
 
-Your (SURGE) limit increases by 1, for a maximum of (SURGE)(SURGE)(SURGE)(SURGE).
+Your `(SURGE)` limit increases by 1, for a maximum of `(SURGE)(SURGE)(SURGE)(SURGE)`.
 
 ### 2nd-level Aspect Feature
 
@@ -430,7 +430,7 @@ Your speed increases by your Agility score. You ignore difficult terrain.
 
 #### Tooth And Claw
 
-Any enemy within Reach takes (SURGE) at the start of their turns.
+Any enemy within Reach takes `(SURGE)` at the start of their turns.
 
 #### Unstoppable Force
 
@@ -452,7 +452,7 @@ Choose one of the following abilities.
 
 You ready?
 
-**Effect:** You vertically push 4 the target. The target can decline to use their Stability. At the end of the push, the target can make a free strike with (SURGE). You force move the target carefully enough that they do not take damage from the move.
+**Effect:** You vertically push 4 the target. The target can decline to use their Stability. At the end of the push, the target can make a free strike with `(SURGE)`. You force move the target carefully enough that they do not take damage from the move.
 
 ##### Wrecking Ball (5 Rage)
 
@@ -560,19 +560,19 @@ Foes tremble at the sight of you.
 
 Fight or flight? FIGHT!!
 
-**Effect:** Until the end of the encounter or you are dying, any creature you make a melee attack against is P \[average\] taunted (EoT). You do (SURGE)(SURGE) extra damage and increase effect potency by 1 against any taunted enemy.
+**Effect:** Until the end of the encounter or you are dying, any creature you make a melee attack against is P \[average\] taunted (EoT). You do `(SURGE)(SURGE)` extra damage and increase effect potency by 1 against any taunted enemy.
 
 #### Steelbreaker (7 Rage)
 
 See how useless their weapons are!
 
-**Effect:** Until the end of the encounter you have (SHIELD)(SHIELD).
+**Effect:** Until the end of the encounter you have `(SHIELD)(SHIELD)`.
 
 #### You Are Already Dead (7 Rage)
 
 Slash. Walk away.
 
-**Effect:** If the target is not a boss or solo creature, they die at the end of their next turn. If the target is a boss or solo creature, the next attack against them gains (SHIELD).
+**Effect:** If the target is not a boss or solo creature, they die at the end of their next turn. If the target is a boss or solo creature, the next attack against them gains `(SHIELD)`.
 
 ## Stormwight Kits
 
@@ -669,11 +669,11 @@ Attacks with your sharp and deadly claws send your foes staggering back.
 <tr class="odd">
 <td>3</td>
 <td>- You gain an edge on Might tests, resistance rolls, and power rolls made to grab.<br />
-- While in bear form, your attacks do (SURGE), and any target you have grabbed at the start of your turn takes (SURGE).</td>
+- While in bear form, your attacks do <code>(SURGE)</code>, and any target you have grabbed at the start of your turn takes <code>(SURGE)</code>.</td>
 </tr>
 <tr class="even">
 <td>6</td>
-<td>While in bear form, your attacks do (SURGE)(SURGE), and any target you have grabbed at the start of your turn takes (SURGE)(SURGE).</td>
+<td>While in bear form, your attacks do <code>(SURGE)(SURGE)</code>, and any target you have grabbed at the start of your turn takes <code>(SURGE)(SURGE)</code>.</td>
 </tr>
 <tr class="odd">
 <td>9</td>
@@ -681,7 +681,7 @@ Attacks with your sharp and deadly claws send your foes staggering back.
 </tr>
 <tr class="even">
 <td>12 (Level 4)</td>
-<td>While in bear form, your attacks do (SURGE)(SURGE)(SURGE), and any target you have grabbed at the start of your turn takes (SURGE)(SURGE)(SURGE).</td>
+<td>While in bear form, your attacks do <code>(SURGE)(SURGE)(SURGE)</code>, and any target you have grabbed at the start of your turn takes <code>(SURGE)(SURGE)(SURGE)</code>.</td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -693,7 +693,7 @@ Attacks with your sharp and deadly claws send your foes staggering back.
 </tr>
 <tr class="odd">
 <td>18 (Level 10)</td>
-<td>- While in bear form, your attacks do (SURGE)(SURGE)(SURGE)(SURGE), and any target you have grabbed at the start of your turn takes (SURGE)(SURGE)(SURGE)(SURGE).<br />
+<td>- While in bear form, your attacks do <code>(SURGE)(SURGE)(SURGE)(SURGE)</code>, and any target you have grabbed at the start of your turn takes <code>(SURGE)(SURGE)(SURGE)(SURGE)</code>.<br />
 - Your size increases by 1 and you gain 20 Temporary Stamina the first time you grow to this size in the encounter.</td>
 </tr>
 </tbody>
@@ -753,13 +753,13 @@ Foes who try to close around you do so at their peril.
 <tr class="odd">
 <td>3</td>
 <td>- You can shift 1 square as a free maneuver once per turn.<br />
-- While in crow form, your attacks do (SURGE).<br />
+- While in crow form, your attacks do <code>(SURGE)</code>.<br />
 - Once per turn while in crow form, when you move away from an enemy, that enemy takes damage equal to your Agility score.</td>
 </tr>
 <tr class="even">
 <td>6</td>
-<td>- While in crow or hybrid crow form, you can use all your abilities, and your attacks do (SURGE)(SURGE).<br />
-- Once per turn while in crow or hybrid crow form, when you move away from an enemy, that enemy takes (SURGE)(SURGE).</td>
+<td>- While in crow or hybrid crow form, you can use all your abilities, and your attacks do <code>(SURGE)(SURGE)</code>.<br />
+- Once per turn while in crow or hybrid crow form, when you move away from an enemy, that enemy takes <code>(SURGE)(SURGE)</code>.</td>
 </tr>
 <tr class="odd">
 <td>9</td>
@@ -767,8 +767,8 @@ Foes who try to close around you do so at their peril.
 </tr>
 <tr class="even">
 <td>12 (Level 4)</td>
-<td>- While in crow or hybrid crow form, you can use all your abilities, and your attacks do (SURGE)(SURGE)(SURGE).<br />
-- Once per turn while in crow or hybrid crow form, when you move away from an enemy, that enemy takes (SURGE)(SURGE)(SURGE).</td>
+<td>- While in crow or hybrid crow form, you can use all your abilities, and your attacks do <code>(SURGE)(SURGE)(SURGE)</code>.<br />
+- Once per turn while in crow or hybrid crow form, when you move away from an enemy, that enemy takes <code>(SURGE)(SURGE)(SURGE)</code>.</td>
 </tr>
 <tr class="odd">
 <td>15 (Level 7)</td>
@@ -776,8 +776,8 @@ Foes who try to close around you do so at their peril.
 </tr>
 <tr class="even">
 <td>18 (Level 10)</td>
-<td>- While in crow or hybrid crow form, you can use all your abilities, and your attacks do (SURGE)(SURGE)(SURGE)(SURGE).<br />
-- Once per turn while in crow or hybrid crow form, when you move away from an enemy, that enemy takes (SURGE)(SURGE)(SURGE)(SURGE).<br />
+<td>- While in crow or hybrid crow form, you can use all your abilities, and your attacks do <code>(SURGE)(SURGE)(SURGE)(SURGE)</code>.<br />
+- Once per turn while in crow or hybrid crow form, when you move away from an enemy, that enemy takes <code>(SURGE)(SURGE)(SURGE)(SURGE)</code>.<br />
 - Your size increases by 1 and you gain 20 Temporary Stamina the first time you grow to this size in the encounter.</td>
 </tr>
 </tbody>
@@ -839,30 +839,30 @@ Your enemies try in vain to fall back from your pouncing attack.
 <tr class="odd">
 <td>3</td>
 <td>- You have Weapon immunity 2.<br />
-- While in rat form, your attacks do (SURGE).<br />
+- While in rat form, your attacks do <code>(SURGE)</code>.<br />
 - While in rat form, if you attack a creature you are climbing, that creature is bleeding (EoT).</td>
 </tr>
 <tr class="even">
 <td>6</td>
-<td>- While in rat or hybrid rat form, you can use all your abilities, and your attacks do (SURGE)(SURGE).<br />
+<td>- While in rat or hybrid rat form, you can use all your abilities, and your attacks do <code>(SURGE)(SURGE)</code>.<br />
 - While in rat or hybrid form, if you attack a creature you are climbing, that creature is bleeding (EoT).</td>
 </tr>
 <tr class="odd">
 <td>9</td>
-<td>You have (SHIELD). Any damage you ignore because of this is dealt to each enemy adjacent to you as (SURGE).</td>
+<td>You have <code>(SHIELD)</code>. Any damage you ignore because of this is dealt to each enemy adjacent to you as <code>(SURGE)</code>.</td>
 </tr>
 <tr class="even">
 <td>12 (Level 4)</td>
-<td>- While in rat or hybrid rat form, you can use all your abilities, and your attacks do (SURGE)(SURGE)(SURGE).<br />
+<td>- While in rat or hybrid rat form, you can use all your abilities, and your attacks do <code>(SURGE)(SURGE)(SURGE)</code>.<br />
 - While in rat or hybrid form, if you attack a creature you are climbing, that creature is bleeding (EoT).</td>
 </tr>
 <tr class="odd">
 <td>15 (Level 7)</td>
-<td>You have (SHIELD)(SHIELD). Any damage you ignore because of this immunity is dealt to each enemy adjacent to you as (SURGE)(SURGE).</td>
+<td>You have <code>(SHIELD)(SHIELD)</code>. Any damage you ignore because of this immunity is dealt to each enemy adjacent to you as <code>(SURGE)(SURGE)</code>.</td>
 </tr>
 <tr class="even">
 <td>18 (Level 10)</td>
-<td>- While in rat or hybrid rat form, you can use all your abilities, and your attacks do (SURGE)(SURGE)(SURGE)(SURGE).<br />
+<td>- While in rat or hybrid rat form, you can use all your abilities, and your attacks do <code>(SURGE)(SURGE)(SURGE)(SURGE)</code>.<br />
 - While in rat or hybrid rat form, if you attack a creature you are climbing, that creature is bleeding (EoT).<br />
 - Your size increases by 1 and you gain 20 Temporary Stamina the first time you grow to this size in the encounter.</td>
 </tr>
@@ -921,13 +921,13 @@ A savage assault forces your foes back.
 <tr class="odd">
 <td>3</td>
 <td>- You gain an edge on Agility tests and resistance rolls.<br />
-- While in wolf form, your attacks do (SURGE).<br />
-- When you attack a target while in wolf form, the next ally to damage that target before the start of your next turn has (SURGE) against the target.</td>
+- While in wolf form, your attacks do <code>(SURGE)</code>.<br />
+- When you attack a target while in wolf form, the next ally to damage that target before the start of your next turn has <code>(SURGE)</code> against the target.</td>
 </tr>
 <tr class="even">
 <td>6</td>
-<td>- While in wolf or hybrid wolf form, you can use all your abilities, and your attacks do (SURGE)(SURGE)(SURGE).<br />
-- When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn has (SURGE)(SURGE) against the target.</td>
+<td>- While in wolf or hybrid wolf form, you can use all your abilities, and your attacks do <code>(SURGE)(SURGE)(SURGE)</code>.<br />
+- When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn has <code>(SURGE)(SURGE)</code> against the target.</td>
 </tr>
 <tr class="odd">
 <td>9</td>
@@ -935,8 +935,8 @@ A savage assault forces your foes back.
 </tr>
 <tr class="even">
 <td>12 (Level 4)</td>
-<td>- While in wolf or hybrid wolf form, you can use all your abilities, and your attacks do (SURGE)(SURGE)(SURGE).<br />
-- When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn has (SURGE)(SURGE)(SURGE) against the target.</td>
+<td>- While in wolf or hybrid wolf form, you can use all your abilities, and your attacks do <code>(SURGE)(SURGE)(SURGE)</code>.<br />
+- When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn has <code>(SURGE)(SURGE)(SURGE)</code> against the target.</td>
 </tr>
 <tr class="odd">
 <td>15 (Level 7)</td>
@@ -945,7 +945,7 @@ A savage assault forces your foes back.
 <tr class="even">
 <td>18 (Level 10)</td>
 <td>- While in wolf or hybrid wolf form, you can use all your abilities, and your attacks deal extra damage equal to quadruple your Agility score.<br />
-- When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn has (SHIELD)(SHIELD)(SHIELD)(SHIELD) against the target.<br />
+- When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn has <code>(SHIELD)(SHIELD)(SHIELD)(SHIELD)</code> against the target.<br />
 - Your size increases by 1 and you gain 20 Temporary Stamina the first time you grow to this size in the encounter.</td>
 </tr>
 </tbody>
