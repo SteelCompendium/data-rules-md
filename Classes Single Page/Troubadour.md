@@ -4,9 +4,9 @@ title: Troubadour
 name_raw: Troubadour
 name: Troubadour
 type: classes single page
-keywords: "â\x80\x94"
+keywords: '-'
 keyword_list:
-  - "â\x80\x94"
+  - '-'
 ability_type: Maneuver
 distance: Line of effect
 target: 1 creature
@@ -27,12 +27,16 @@ And beyond the mundane, there are insurmountable dangers that cause many a hero 
 - 1, 1, -1
 - 1, 0, 0
 
-**Weak Potency:** Presence score â 1\
-**Average Potency:** Presence score\
+**Weak Potency:** Presence score - 1
+
+**Average Potency:** Presence score
+
 **Strong Potency:** Presence score + 1
 
-**Starting Stamina at 1st Level:** 18\
-**Stamina Gained at 2nd and greater levels:** 9\
+**Starting Stamina at 1st Level:** 18
+
+**Stamina Gained at 2nd and greater levels:** 9
+
 **Recoveries:** 8
 
 **Skills:** You have Read Person and choose two skills from the interpersonal group and one skill from the intrigue or lore groups.
@@ -98,7 +102,7 @@ You have access to the following **Choreography** routine. Your Class Act determ
 
 |                              |                        |
 | :--------------------------- | :--------------------- |
-| **Keywords:** â                              | **Type:** Maneuver     |
+| **Keywords:** -              | **Type:** Maneuver     |
 | **Distance:** Line of effect | **Target:** 1 creature |
 
 **Effect:** Each target that starts their turn within the aura has their speed increased by 2 until the end of their turn.

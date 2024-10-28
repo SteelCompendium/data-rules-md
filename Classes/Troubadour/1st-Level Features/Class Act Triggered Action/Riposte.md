@@ -6,9 +6,9 @@ name: Riposte
 type: classes
 subtype: troubadour
 kind: 1st-level features
-keywords: —
+keywords: '-'
 keyword_list:
-  - —
+  - '-'
 ability_type: Triggered
 distance: Melee 1
 target: Self or 1 ally
@@ -21,7 +21,7 @@ trigger: The target takes damage from a melee attack.
 
 |                       |                            |
 | :-------------------- | :------------------------- |
-| **Keywords:** —       | **Type:** Triggered        |
+| **Keywords:** -       | **Type:** Triggered        |
 | **Distance:** Melee 1 | **Target:** Self or 1 ally |
 
 **Trigger:** The target takes damage from a melee attack.

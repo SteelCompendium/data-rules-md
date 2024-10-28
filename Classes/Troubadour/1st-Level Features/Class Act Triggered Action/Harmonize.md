@@ -7,9 +7,9 @@ cost: 3 Drama
 type: classes
 subtype: troubadour
 kind: 1st-level features
-keywords: —
+keywords: '-'
 keyword_list:
-  - —
+  - '-'
 ability_type: Triggered
 distance: Ranged 5
 target: 1 ally
@@ -22,7 +22,7 @@ trigger: The target uses a non-area ability that targets an enemy.
 
 |                        |                     |
 | :--------------------- | :------------------ |
-| **Keywords:** —        | **Type:** Triggered |
+| **Keywords:** -        | **Type:** Triggered |
 | **Distance:** Ranged 5 | **Target:** 1 ally  |
 
 **Trigger:** The target uses a non-area ability that targets an enemy.
