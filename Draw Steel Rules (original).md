@@ -305,6 +305,7 @@ effect.
 For example, a 1st-level conduit's *Punishing Smite* ability has the following power roll outcomes:
 
 **Power Roll + Intuition:**
+
 - **11 or lower:** 3 holy damage; A1 prone
 - **12-16:** 6 holy damage; A2 prone
 - **17+:** 9 holy damage; A3 prone and can't stand (save ends)
@@ -4613,6 +4614,7 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Target:** All enemies
 
 **Power Roll + Presence:**
+
 - **11 or lower:** 2 holy damage; push 1
 - **12-16:** 3 holy damage; push 2
 - **17+:** 4 holy damage; push 3
@@ -4627,6 +4629,7 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Target:** 1 creature
 
 **Power Roll + Presence:**
+
 - **11 or lower:** 2 psychic damage
 - **12-16:** 4 psychic damage
 - **17+:** 6 psychic damage
@@ -4644,6 +4647,7 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
+
 - **11 or lower:** 2 holy damage; P [weak] slowed (save ends)
 - **12-16:** 3 holy damage; P [average] slowed (save ends)
 - **17+:** 5 holy damage; P [strong] slowed (save ends)
@@ -4658,6 +4662,7 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
+
 - **11 or lower:** 2 holy damage
 - **12-16:** 4 holy damage
 - **17+:** 6 holy damage
@@ -4682,6 +4687,7 @@ Choose one heroic ability from the following options.
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
+
 - **11 or lower:** 3 holy damage
 - **12-16:** 6 holy damage
 - **17+:** 9 holy damage
@@ -4698,6 +4704,7 @@ Choose one heroic ability from the following options.
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
+
 - **11 or lower:** 6 damage; push 1
 - **12-16:** 6 damage; push 3
 - **17+:** 9 damage; push 5
@@ -4714,6 +4721,7 @@ Choose one heroic ability from the following options.
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
+
 - **11 or lower:** 5 holy damage
 - **12-16:** 8 holy damage
 - **17+:** 11 holy damage
@@ -4730,6 +4738,7 @@ Choose one heroic ability from the following options.
 - **Target:** 1 creature
 
 **Power Roll + Might:**
+
 - **11 or lower:** 3 holy damage; I [weak] dazed (save ends)
 - **12-16:** 6 holy damage; I [average] dazed (save ends)
 - **17+:** 9 holy damage; I [strong] dazed (save ends)
@@ -4748,6 +4757,7 @@ Choose one heroic ability from the following options.
 - **Target:** 1 judged creature
 
 **Power Roll + Might:**
+
 - **11 or lower:** 5 holy damage; grabbed
 - **12-16:** 9 holy damage; grabbed
 - **17+:** 12 holy damage; grabbed
@@ -4766,6 +4776,7 @@ Choose one heroic ability from the following options.
 - **Target:** 1 judged creature
 
 **Power Roll + Might:**
+
 - **11 or lower:** 3 holy damage; each enemy within 2 of the target is P [weak] frightened (save ends)
 - **12-16:** 5 holy damage; each enemy within 2 of the target is P [weak] frightened (save ends)
 - **17+:** 8 holy damage; each enemy within 2 of the target is P [weak] frightened (save ends)
@@ -4782,6 +4793,7 @@ Choose one heroic ability from the following options.
 - **Target:** 1 judged creature
 
 **Power Roll + Might:**
+
 - **11 or lower:** 2 holy damage
 - **12-16:** 3 holy damage
 - **17+:** 5 holy damage
@@ -4798,6 +4810,7 @@ Choose one heroic ability from the following options.
 - **Target:** 1 judged creature
 
 **Power Roll + Might:**
+
 - **11 or lower:** 5 holy damage; M [weak] fire weakness 3 (save ends)
 - **12-16:** 9 holy damage; M [average] fire weakness 5 (save ends)
 - **17+:** 12 holy damage; M [strong] fire weakness 7 (save ends)
@@ -4873,6 +4886,7 @@ Choose one of the following abilities.
 - **Target:** 1 judged creature
 
 **Power Roll + Might:**
+
 - **11 or lower:** 5 holy damage; P [weak] frightened (save ends)
 - **12-16:** 9 holy damage; P [average] frightened (save ends)
 - **17+:** 12 holy damage; P [strong] frightened (save ends)
@@ -4947,6 +4961,7 @@ Choose one of the following abilities.
 - **Target:** 1 creature
 
 **Power Roll + Presence:**
+
 - **11 or lower:** 5 damage; P [weak] restrained (save ends)
 - **12-16:** 9 damage; P [average] restrained (save ends)
 - **17+:** 12 damage; P [strong] restrained (save ends)
@@ -11050,6 +11065,7 @@ You have the following ability.
 - **Target:** All enemies
 
 **Power Roll + Presence:**
+
 - **11 or lower:** push 2
 - **12-16:** push 2; the target takes a bane on the next power roll they make before the start of your next turn
 - **17+:** push 3; the target takes a bane on the next power roll they make before the start of your next turn
@@ -11089,6 +11105,7 @@ You have access to the following routines to use with Curtain Call.
   same creature twice with this effect.
 
 **Power Roll + Presence:**
+
 - **11 or lower:** Lightning damage equal to your level
 - **12-16:** Lightning damage equal to 5 + your level
 - **17+:** Lightning damage equal to 10 + your level; A [strong] prone
@@ -11186,6 +11203,7 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Target:** 2 creatures or objects
 
 **Power Roll + Agility:**
+
 - **11 or lower:** 2 damage
 - **12-16:** 3 damage
 - **17+:** 5 damage
@@ -11204,6 +11222,7 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Target:** 1 creature or object
 
 **Power Roll + Presence:**
+
 - **11 or lower:** 2 sonic damage; P [weak] bleeding (save ends)
 - **12-16:** 4 damage; P [average] bleeding (save ends)
 - **17+:** 5 damage; P [strong] bleeding (save ends)
@@ -11218,6 +11237,7 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Target:** 1 creature
 
 **Power Roll + Agility or Presence:**
+
 - **11 or lower:** 2 damage
 - **12-16:** 5 damage
 - **17+:** 7 damage
@@ -11234,6 +11254,7 @@ Select one signature ability from the options below. Signature abilities can be 
 - **Target:** 1 creature
 
 **Power Roll + Presence:**
+
 - **11 or lower:** 1 psychic damage
 - **12-16:** 2 psychic damage
 - **17+:** 3 psychic damage
@@ -11260,6 +11281,7 @@ Choose one heroic ability from the following options.
 - **Target:** 1 creature or object
 
 **Power Roll + Presence:**
+
 - **11 or lower:** 4 sonic damage; P [weak] weakened (save ends)
 - **12-16:** 6 sonic damage; P [average] weakened (save ends)
 - **17+:** 10 sonic damage; P [strong] weakened (save ends)
@@ -11278,6 +11300,7 @@ Choose one heroic ability from the following options.
 - **Target:** All enemies
 
 **Power Roll + Presence:**
+
 - **11 or lower:** slide 1; I [weak] dazed (save ends)
 - **12-16:** slide 1; I [average] dazed (save ends)
 - **17+:** slide 2; I [strong] dazed (save ends)
@@ -11294,6 +11317,7 @@ Choose one heroic ability from the following options.
 - **Target:** All enemies
 
 **Power Roll + Presence:**
+
 - **11 or lower:** 2 damage; P [weak] slowed (save ends)
 - **12-16:** 3 damage; P [average] slowed (save ends)
 - **17+:** 4 damage; P [strong] restrained (save ends)
@@ -11313,6 +11337,7 @@ Choose one heroic ability from the following options.
   during the move.
 
 **Power Roll + Agility or Presence:**
+
 - **11 or lower:** taunted (EoT); A [weak] prone
 - **12-16:** taunted (EoT); A [average] prone
 - **17+:** taunted (EoT); A [strong] prone can't stand (EoT)
@@ -11331,6 +11356,7 @@ Choose one heroic ability from the following options.
 - **Target:** Self and all allies
 
 **Power Roll + Presence:**
+
 - **11 or lower:** shift 1; target can take a free strike
 - **12-16:** shift 2; target can take a free strike with `(SURGE)`
 - **17+:** shift 3; target can take a free strike with `(SURGE)` and spend 1 Recovery
@@ -11371,6 +11397,7 @@ Choose one heroic ability from the following options.
 - **Target:** 1 creature
 
 **Power Roll + Agility or Presence:**
+
 - **11 or lower:** 7 damage; P [weak] weakened (save ends)
 - **12-16:** 11 damage; P [average] weakened (save ends)
 - **17+:** 16 damage; P [strong] weakened (save ends)
@@ -11465,6 +11492,7 @@ Choose one of the following abilities.
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
+
 - **11 or lower:** 7 damage; target can shift 3 and take a free strike against you
 - **12-16:** 11 damage; target can shift 2 and take a free strike against you
 - **17+:** 16 damage; target can shift 1
@@ -11504,6 +11532,7 @@ Choose one of the following abilities.
   occupying a square of the area with the following power roll.
 
 **Power Roll + Presence:**
+
 - **11 or lower:** 5 corruption damage; M [weak] pull 1 towards center of square
 - **12-16:** 9 corruption damage; M [average] pull 1 towards center of square and can't establish line of effect outside of
 affected area (EoT)
@@ -11613,6 +11642,7 @@ Choose a new heroic ability from the following options.
 - **Target:** All enemies
 
 **Power Roll + Presence:**
+
 - **11 or lower:** slide 3; P [weak] forced movement ignores stability
 - **12-16:** slide 5; P [average] forced movement ignores stability
 - **17+:** slide 7; P [strong] forced movement ignores stability
@@ -11630,6 +11660,7 @@ Choose a new heroic ability from the following options.
 - **Target:** All enemies
 
 **Power Roll + Agility or Presence:**
+
 - **11 or lower:** 3 fire damage; A [weak] weakened (save ends)
 - **12-16:** 5 fire damage; A [average] weakened (save ends)
 - **17+:** 8 fire damage; A [strong] weakened (save ends)
@@ -11646,6 +11677,7 @@ Choose a new heroic ability from the following options.
 - **Target:** 1 creature or object
 
 **Power Roll + Agility or Presence:**
+
 - **11 or lower:** 9 damage
 - **12-16:** 14 damage; push 3
 - **17+:** 19 damage; push 5
@@ -14076,6 +14108,7 @@ Both attacks and area abilities deal damage and often have an additional effect 
 To keep things quick and easy to read at the table, damage and effects are separated in a power roll entry with a semicolon, with effects abbreviated whenever possible. An effect determined by the power roll result always applies to the target unless otherwise specified. For instance, the Brutal Slam ability described above has the following power roll setup:
 
 **Power Roll + Might:**
+
 - **11 or lower:** 3 damage; push 1
 - **12-16:** 8 damage; push 2
 - **17+:** 12 damage; push 4
@@ -14104,7 +14137,8 @@ For example, if you target three creatures with an attack ability and your resul
 
 Some abilities that are used by the heroes' foes have the target of the ability make a resistance roll instead of the creature using the ability making a power roll. These abilities have the Resistance keyword, indicating that the target rolls to see how well they can resist the ability. For instance, the dwarf trapper's Steam Powered Snare ability forces a target to make an Intuition resistance roll:
 
-- **Target Resists + Might:**
+**Target Resists + Might:**
+
 - **11 or lower:** 4 damage; restrained (EoT)
 - **12-16:** 3 damage; slowed (EoT)
 - **17+:** No effect
@@ -14375,6 +14409,7 @@ Creatures without those types of movement can still climb or swim when a rule al
 You can attempt to climb a creature whose size is greater than yours. If the creature is willing, you can climb them without any trouble. If the creature is unwilling, you make the following test:
 
 **Power Roll + Might or Agility:**
+
 - **11 or lower:** You fail to climb the creature, and they can make a free strike against you.
 - **12-16:** You fail to climb the creature.
 - **17+:** You climb the creature.
@@ -14382,6 +14417,7 @@ You can attempt to climb a creature whose size is greater than yours. If the cre
 While you climb or ride a creature, you gain an edge to melee attacks against them. The creature can use a maneuver to attempt to knock you off. If you are knocked off a creature, you must make the following test:
 
 **Power Roll + Might or Agility:**
+
 - **11 or lower:** You fall off the creature into an unoccupied adjacent space of your choice, taking falling damage and landing prone as usual (see *Falling* in *Adventuring*).
 - **12-16:** You slide down the creature into an unoccupied adjacent space of your choice and don't land prone.
 - **17+:** You continue to hold on to the creature.
@@ -14527,6 +14563,7 @@ Choose an enemy adjacent to you. The next attack an ally makes against that crea
 While you are grabbed by another creature (see *Grab* below), you can attempt to escape by making a resistance roll. You take a bane on the roll if the creature's size is larger than yours.
 
 **Power Roll + Might or Agility:**
+
 - **11 or lower:** You fail to escape the grab.
 - **12-16:** You can escape the grab, but if you do, the creature grabbing you can make a melee free strike against you before you are no longer grabbed.
 - **17+:** You are no longer grabbed.
@@ -14543,6 +14580,7 @@ You attempt to grab a creature using the following ability:
 - **Target:** 1 creature no more than 1 size larger than you
 
 **Power Roll + Might:**
+
 - **11 or lower:** No effect
 - **12-16:** You can grab the target, but if you do, they can make a melee free strike against you right before they become grabbed by you.
 - **17+:** The target is grabbed by you.
@@ -14565,6 +14603,7 @@ You attempt to shove an adjacent creature using the following ability:
 - **Target:** 1 creature no more than 1 size larger than you
 
 **Power Roll + Might:**
+
 - **11 or lower:** Push 1
 - **12-16:** Push 2
 - **17+:** Push 3
@@ -14643,6 +14682,7 @@ A melee weapon free strike is a melee attack made with an unarmed strike or an i
 - **Target:** 1 creature or object
 
 **Power Roll + Might or Agility:**
+
 - **11 or lower:** 2 damage
 - **12-16:** 5 damage
 - **17+:** 7 damage
@@ -14655,6 +14695,7 @@ A melee weapon free strike is a melee attack made with an unarmed strike or an i
 - **Target:** 1 creature or object
 
 **Power Roll + Might or Agility:**
+
 - **11 or lower:** 2 damage
 - **12-16:** 4 damage
 - **17+:** 6 damage
@@ -15151,6 +15192,7 @@ The Director can also decide that during the natural course of the negotiation, 
 If an NPC isn't as forthcoming, or if the heroes want to learn one of the NPC's pitfalls, a hero can make a **Reason**, **Intuition**, or **Presence** test while interacting with the NPC during the negotiation, based on the tactics used to draw out the NPC. The test has the following outcomes:
 
 **Power Roll + Reason, Intuition, or Presence:**
+
 - **11 or lower:** The hero learns no information regarding the NPC's motivations or pitfalls, and the NPC realizes the hero is trying to read them and becomes annoyed. As a consequence, the NPC's patience is reduced by 1.
 - **12-16:** The hero learns no information regarding the NPC's motivations or pitfalls.
 - **17+:** The hero learns one of the NPC's motivations or pitfalls (their choice).
@@ -15180,6 +15222,7 @@ This is a good topic for discussion before a group actually gets into a negotiat
 If an argument doesn't include a pitfall and appeals to one of the NPC's motivations that hasn't already been appealed to, the hero making the argument can make an easy test to attempt to sway the NPC with the argument. Depending on the argument, this can be a **Reason**, **Intuition**, or **Presence** test using any applicable skill-most commonly a skill from the interpersonal skill group. The test has the following outcomes:
 
 **Power Roll + Reason, Intuition, or Presence:**
+
 - **11 or lower:** The NPC's patience decreases by 1.
 - **12-16:** The NPC's interest increases by 1, and their patience decreases by 1.
 - **17+:** The NPC's interest increases by 1, and their patience doesn't change.
@@ -15197,6 +15240,7 @@ If a hero makes an argument that appears to appeal to multiple motivations, the 
 If an argument doesn't include one of the NPC's motivations or pitfalls, the hero who makes the argument must make a more difficult test to appeal to the NPC. The test has the following outcomes:
 
 **Power Roll + Reason, Intuition, or Presence:**
+
 - **11 or lower:** The NPC's patience decreases by 1, and their interest decreases by 1.
 - **12-16:** The NPC's patience decreases by 1.
 - **17+:** The NPC's interest increases by 1, and their patience decreases by 1. (On a natural 19 or 20, the NPC's patience remains the same.)

@@ -14165,7 +14165,8 @@ For example, if you target three creatures with an attack ability and your resul
 
 Some abilities that are used by the heroes' foes have the target of the ability make a resistance roll instead of the creature using the ability making a power roll. These abilities have the Resistance keyword, indicating that the target rolls to see how well they can resist the ability. For instance, the dwarf trapper's Steam Powered Snare ability forces a target to make an Intuition resistance roll:
 
-- **Target Resists + Might:**
+**Target Resists + Might:**
+
 - **11 or lower:** 4 damage; restrained (EoT)
 - **12-16:** 3 damage; slowed (EoT)
 - **17+:** No effect
