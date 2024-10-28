@@ -16,13 +16,20 @@ target: 1 creature
 
 # Elf, Wode
 
-> See you the wood so dark and deep,\
-> Where runs the fox and hare?\
-> You know now why your mother weeps.\
-> Your father's bones lie there.\
-> See you the river clear and sweet\
-> So beautiful and fair?\
-> Follow it in and you may meet\
+> See you the wood so dark and deep,
+>
+> Where runs the fox and hare?
+>
+> You know now why your mother weeps.
+>
+> Your father's bones lie there.
+>
+> See you the river clear and sweet
+>
+> So beautiful and fair?
+>
+> Follow it in and you may meet
+>
 > The Queen of Dark and Air
 
 Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among [[Human|humans]] for snatching children who wander too far into the woods. [[Human|Humans]] should fear the trees.

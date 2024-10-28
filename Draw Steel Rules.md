@@ -1703,15 +1703,24 @@ guard against the blow, reducing any damage from the attack by an amount equal t
 As a maneuver, you can recite the following oath. If you do, you succeed on saving throws when you roll a 4 or higher
 until the start of your next turn:
 
-> *Even should the sun stop in the sky*\
-> *Even should the night last a thousand years*\
-> *I will stand forever*\
-> *I shall not yield*\
-> *Those who suffer and yearn for justice*\
-> *I am your sword and shield*\
-> *I will yield no ground*\
-> *I will speak no lies*\
-> *I will stand against all tyrants*\
+> *Even should the sun stop in the sky*
+>
+> *Even should the night last a thousand years*
+>
+> *I will stand forever*
+>
+> *I shall not yield*
+>
+> *Those who suffer and yearn for justice*
+>
+> *I am your sword and shield*
+>
+> *I will yield no ground*
+>
+> *I will speak no lies*
+>
+> *I will stand against all tyrants*
+>
 > *Until the last villain dies*
 
 ##### Draconian Pride (Costs 2 points)
@@ -1764,10 +1773,11 @@ wings to fly, you can stay aloft for a number of rounds equal to your Might (min
 
 ## DWARF
 
-"Remember, we are dwarves. Our strength is the strength of the earth. The strength of the marble column that rises to
-the heavens. The strength of the granite foundation that reaches deep into the ground. But what is the value of strength
-if it is not used in service of justice?"\
--Zarok the Lawgiver, Hero, Dwarves 232
+> "Remember, we are dwarves. Our strength is the strength of the earth. The strength of the marble column that rises to
+> the heavens. The strength of the granite foundation that reaches deep into the ground. But what is the value of strength
+> if it is not used in service of justice?"
+>
+> -Zarok the Lawgiver, Hero, Dwarves 232
 
 Possessed of a strength that belies their size, dwarves have flesh infused with stone-a silico-organic hybrid making
 them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists
@@ -1885,13 +1895,20 @@ additional 3 each time you gain a new level.
 
 ## ELF, WODE
 
-> See you the wood so dark and deep,\
-> Where runs the fox and hare?\
-> You know now why your mother weeps.\
-> Your father's bones lie there.\
-> See you the river clear and sweet\
-> So beautiful and fair?\
-> Follow it in and you may meet\
+> See you the wood so dark and deep,
+>
+> Where runs the fox and hare?
+>
+> You know now why your mother weeps.
+>
+> Your father's bones lie there.
+>
+> See you the river clear and sweet
+>
+> So beautiful and fair?
+>
+> Follow it in and you may meet
+>
 > The Queen of Dark and Air
 
 Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as
@@ -3187,7 +3204,8 @@ A magical sigil you placed on a creature explodes with energy.
 
 ## TIME RAIDER
 
-> "I fear no living thing, but the time raiders."\
+> "I fear no living thing, but the time raiders."
+>
 > -Chief Executive Admiral Lithiri Aswandala, Commander of the HOV First Get Behind Them Memonek
 
 The original servitor species of the synliiroi-evil psions with near god-like power-the kuran'zoi liberated themselves
@@ -10990,8 +11008,7 @@ select from.
 - **Distance:** 5 aura
 - **Target:** Self and all allies
 
-**Effect:** Each target that starts their turn within the aura has their speed increased by 2 until the end of their
-turn.
+**Effect:** Each target that starts their turn within the aura has their speed increased by 2 until the end of their turn.
 
 ### CLASS ACT FEATURES
 
@@ -11059,7 +11076,8 @@ the start of your next turn.
 start of your next turn.
 \- You insult the enemy where they're most vulnerable. The next attack made against an enemy within distance has `(SURGE)`
 until the start of your next turn.
-\- **Spend 3 Drama:** You can have 2 targets for any of these effects instead of 1.
+
+**Spend 3 Drama:** You can have 2 targets for any of these effects instead of 1.
 
 #### POWER CHORD
 
@@ -11095,7 +11113,8 @@ You have the following ability.
 
 **Effect:** Your speed increases by 2 until the end of your turn. The next power roll you make this turn can't be
 lower than tier-2.
-\- **Spend 2 Drama:** Your speed, instead, increases by 4.
+
+**Spend 2 Drama:** Your speed, instead, increases by 4.
 
 #### VIRTUOSO ROUTINES
 
@@ -11156,7 +11175,8 @@ Your class act grants you one of the following triggered actions as shown on the
 
 **Effect:** The target chooses an additional target within Distance. They use the same power roll for all additional
 targets. Any damage dealt to additional targets is now sonic damage.
-\- **Spend 2 Drama:** The target chooses two additional targets instead of one.
+
+**Spend 2 Drama:** The target chooses two additional targets instead of one.
 
 #### RIPOSTE
 
@@ -11170,7 +11190,8 @@ targets. Any damage dealt to additional targets is now sonic damage.
 **Trigger:** The target takes damage from a melee attack.
 
 **Effect:** The target takes a free strike against the attacker.
-\- **Spend 2 Drama:** The target can use a signature attack in place of the free strike.
+
+**Spend 2 Drama:** The target can use a signature attack in place of the free strike.
 
 #### TURNABOUT IS FAIR PLAY
 
@@ -11184,8 +11205,8 @@ targets. Any damage dealt to additional targets is now sonic damage.
 **Trigger:** The target makes an attack with at least one edge or a bane.
 
 **Effect:** One of the attack's edges becomes a bane or vice versa.
-\- **Spend 3 Drama:** One of the target's attack's edges becomes a double bane, or one of the attack's banes becomes
-a double edge.
+
+**Spend 3 Drama:** One of the target's attack's edges becomes a double bane, or one of the attack's banes becomes a double edge.
 
 ### KIT
 

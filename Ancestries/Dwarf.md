@@ -8,8 +8,9 @@ type: ancestries
 
 # Dwarf
 
-“Remember, we are dwarves. Our strength is the strength of the earth. The strength of the marble column that rises to the heavens. The strength of the granite foundation that reaches deep into the ground. But what is the value of strength if it is not used in service of justice?”\
--Zarok the Lawgiver, Hero, Dwarves 232
+> “Remember, we are dwarves. Our strength is the strength of the earth. The strength of the marble column that rises to the heavens. The strength of the granite foundation that reaches deep into the ground. But what is the value of strength if it is not used in service of justice?”
+>
+> -Zarok the Lawgiver, Hero, Dwarves 232
 
 Possessed of a strength that belies their size, dwarves have flesh infused with stone-a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel dwarves.
 

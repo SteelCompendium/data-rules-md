@@ -1484,37 +1484,37 @@ an NPC's motivations and pitfalls during negotiations (see Negotiation).
 
 You have 3 ancestry points to spend on the following traits.
 
-##### Barbed Tail (Costs 1 point)  
-  
+##### Barbed Tail (Costs 1 point)
+
 Your pointy tail allows you to punctuate all your actions. Once per round, you can deal 1 extra damage on a melee
 attack or free strike.
 
-##### Beast Legs (Costs 1 point)  
+##### Beast Legs (Costs 1 point)
 
 Your powerful legs improve your speed. Your speed becomes 6.
 
-##### Glowing Eyes (Costs 1 point)  
+##### Glowing Eyes (Costs 1 point)
 
 Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a
 creature, you can use a triggered action to curse that creature for daring to do you harm. The creature takes `(SURGE)`
 psychic damage.
 
-##### Hellsight (Costs 1 point)  
-  
+##### Hellsight (Costs 1 point)
+
 Your eyes let you see through the dark, fog, and other types of concealment. You don't take a bane on attacks against
 concealed, unhidden creatures.
 
-##### Otherworldly Horns (Costs 2 points)  
-  
+##### Otherworldly Horns (Costs 2 points)
+
 Your cherished horns are larger than the average devil and a hardened representation of your force of will, allowing
 you to succeed on a roll of 5 or higher with saving throws.
 
-##### Prehensile Tail (Costs 2 points)  
-  
+##### Prehensile Tail (Costs 2 points)
+
 Your prehensile tail allows you to challenge foes on all sides. You can't be flanked.
 
-##### Wings (Costs 2 points)  
-  
+##### Wings (Costs 2 points)
+
 You possess wings powerful enough to take you airborne. As a maneuver, you can switch between walking and flying when
 you are touching the ground, or vice versa when you are within 1 square of the ground. While flying, your stability
 drops to 0 and you have damage weakness 5. While using your wings to fly, you can stay aloft for a number of rounds
@@ -1685,38 +1685,47 @@ corruption, fire, lightning, or poison. You can change your damage immunity type
 
 You have 3 ancestry points to spend on the following traits.
 
-##### Draconian Guard (Costs 1 point)  
+##### Draconian Guard (Costs 1 point)
 
 When you or a creature adjacent to you is attacked, you can use a triggered action to swing your wings around and
 guard against the blow, reducing any damage from the attack by an amount equal to your level.
 
-##### Remember Your Oath (Costs 1 point)  
+##### Remember Your Oath (Costs 1 point)
 
 As a maneuver, you can recite the following oath. If you do, you succeed on saving throws when you roll a 4 or higher
 until the start of your next turn:
 
-> *Even should the sun stop in the sky*  
-> *Even should the night last a thousand years*  
-> *I will stand forever*  
-> *I shall not yield*  
-> *Those who suffer and yearn for justice*  
-> *I am your sword and shield*  
-> *I will yield no ground*  
-> *I will speak no lies*  
-> *I will stand against all tyrants*  
+> *Even should the sun stop in the sky*
+>
+> *Even should the night last a thousand years*
+>
+> *I will stand forever*
+>
+> *I shall not yield*
+>
+> *Those who suffer and yearn for justice*
+>
+> *I am your sword and shield*
+>
+> *I will yield no ground*
+>
+> *I will speak no lies*
+>
+> *I will stand against all tyrants*
+>
 > *Until the last villain dies*
 
-##### Draconian Pride (Costs 2 points)  
+##### Draconian Pride (Costs 2 points)
 
-  You can use the following ability:
+You can use the following ability:
 
 ###### DRACONIAN PRIDE
 
-You let loose a mighty roar to shake your foes' spirits.  
+You let loose a mighty roar to shake your foes' spirits.
 
-- **Keywords:** Area, Magic  
-- **Type:** Action  
-- **Distance:** 1 burst  
+- **Keywords:** Area, Magic
+- **Type:** Action
+- **Distance:** 1 burst
 - **Target:** All enemies
 
 **Power Roll + Might or Presence:**
@@ -1731,11 +1740,11 @@ You can use the following ability:
 
 ###### DRAGON BREATH
 
-You expel energy to damage your foes.  
+You expel energy to damage your foes.
 
-- **Keywords:** Area, Magic  
-- **Type:** Action  
-- **Distance:** 3 cube within 1  
+- **Keywords:** Area, Magic
+- **Type:** Action
+- **Distance:** 3 cube within 1
 - **Target:** All enemies
 
 **Power Roll + Might or Presence:**
@@ -1756,10 +1765,11 @@ wings to fly, you can stay aloft for a number of rounds equal to your Might (min
 
 ## DWARF
 
-"Remember, we are dwarves. Our strength is the strength of the earth. The strength of the marble column that rises to
+> "Remember, we are dwarves. Our strength is the strength of the earth. The strength of the marble column that rises to
 the heavens. The strength of the granite foundation that reaches deep into the ground. But what is the value of strength
-if it is not used in service of justice?"  
--Zarok the Lawgiver, Hero, Dwarves 232
+if it is not used in service of justice?"
+>
+> -Zarok the Lawgiver, Hero, Dwarves 232
 
 Possessed of a strength that belies their size, dwarves have flesh infused with stone-a silico-organic hybrid making
 them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists
@@ -1851,40 +1861,48 @@ remove this rune with 10 minutes of work while not engaged in combat.
 
 You have 3 ancestry points to spend on the following traits.
 
-##### Grounded (Costs 1 point)  
+##### Grounded (Costs 1 point)
 
-  Your heavy stone body and connection to the earth makes it difficult for others to move you. Your stability increases
-  by 1.
+Your heavy stone body and connection to the earth makes it difficult for others to move you. Your stability increases
+by 1.
 
-##### Stand Tough (Costs 1 point)  
+##### Stand Tough (Costs 1 point)
 
-  Your body is made to withstand the blows of your enemies. Your Might counts as 1 higher for resisting potencies.
+Your body is made to withstand the blows of your enemies. Your Might counts as 1 higher for resisting potencies.
 
-##### Stone Singer (Costs 1 point)  
+##### Stone Singer (Costs 1 point)
 
-  You have a magic connection to the earth. You can spend 1 uninterrupted hour singing and reshape any unworked, mundane
-  stone within 3 squares of you. You can't destroy this stone, but you can move each square of it anywhere within 3
-  squares of you, piling it off to one side to dig a hole or building it all up to create a wall.
+You have a magic connection to the earth. You can spend 1 uninterrupted hour singing and reshape any unworked, mundane
+stone within 3 squares of you. You can't destroy this stone, but you can move each square of it anywhere within 3
+squares of you, piling it off to one side to dig a hole or building it all up to create a wall.
 
-##### Great Fortitude (Costs 2 points)  
+##### Great Fortitude (Costs 2 points)
 
-  Your hearty constitution prevents you from losing strength. You can't be weakened.
+Your hearty constitution prevents you from losing strength. You can't be weakened.
 
-##### Spark Off Your Skin (Costs 2 points)  
+##### Spark Off Your Skin (Costs 2 points)
 
-  Your stone skin affords you potent protection. Your Stamina increases by 6 at 1st level, then increases by an
-  additional 3 each time you gain a new level.
+Your stone skin affords you potent protection. Your Stamina increases by 6 at 1st level, then increases by an
+additional 3 each time you gain a new level.
 
 ## ELF, WODE
 
-> See you the wood so dark and deep,  
-> Where runs the fox and hare?  
-> You know now why your mother weeps.  
-> Your father's bones lie there.  
-> See you the river clear and sweet  
-> So beautiful and fair?  
-> Follow it in and you may meet  
+> See you the wood so dark and deep,
+> 
+> Where runs the fox and hare?
+> 
+> You know now why your mother weeps.
+> 
+> Your father's bones lie there.
+> 
+> See you the river clear and sweet
+> 
+> So beautiful and fair?
+> 
+> Follow it in and you may meet
+> 
 > The Queen of Dark and Air
+> 
 
 Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as
 their domain by birthright. They know and enjoy their reputation among humans for snatching children who wander too far
@@ -2012,33 +2030,33 @@ made to hide and sneak, and tests made to find you while you are hidden take a b
 
 You have 3 ancestry points to spend on the following traits.
 
-##### Forest Feet (Costs 1 point)  
+##### Forest Feet (Costs 1 point)
 
-  You can shift into difficult terrain.
+You can shift into difficult terrain.
 
-##### Perfect Memory (Costs 1 point)  
+##### Perfect Memory (Costs 1 point)
 
-  Accessing memories is as easy as living in the present for you. You have an edge on all tests made to recall lore.
+Accessing memories is as easy as living in the present for you. You have an edge on all tests made to recall lore.
 
-##### Swift (Costs 1 point)  
+##### Swift (Costs 1 point)
 
-  Your speed is 6.
+Your speed is 6.
 
 ##### Otherworldly Grace (Costs 2 points)
 
-  Your elven body and mind can't be contained for long. You succeed on saving throws when you get a 5 or higher.
+Your elven body and mind can't be contained for long. You succeed on saving throws when you get a 5 or higher.
 
-##### Vine Cage (Costs 2 points)  
+##### Vine Cage (Costs 2 points)
 
-  You have the following ability:
+You have the following ability:
 
 ###### VINE CAGE
 
-Thorny vines erupt into existence and attempt to bind your foe.  
+Thorny vines erupt into existence and attempt to bind your foe.
 
-- **Keywords:** Attack, Magic, Ranged  
-- **Type:** Action  
-- **Distance:** Ranged 10  
+- **Keywords:** Attack, Magic, Ranged
+- **Type:** Action
+- **Distance:** Ranged 10
 - **Target:** 1 creature
 
 **Power Roll + Might or Agility:**
@@ -2181,23 +2199,23 @@ You have 3 ancestry points to spend on the following traits.
 
 ##### Graceful Retreat (Costs 1 point) 
 
-  When you take the Disengage maneuver, you can shift 1 additional square as part of the maneuver.
+When you take the Disengage maneuver, you can shift 1 additional square as part of the maneuver.
 
-##### High Senses (Costs 1 point)  
+##### High Senses (Costs 1 point)
 
-  You have senses that are keen and perceptive. You have an edge on Intuition tests that use the Awareness skill.
+You have senses that are keen and perceptive. You have an edge on Intuition tests that use the Awareness skill.
 
-##### Perfect Memory (Costs 1 point)  
+##### Perfect Memory (Costs 1 point)
 
-  Accessing memories is as easy as living in the present for you. You have an edge on all tests made to recall lore.
+Accessing memories is as easy as living in the present for you. You have an edge on all tests made to recall lore.
 
-##### Otherworldly Grace (Costs 2 points)  
+##### Otherworldly Grace (Costs 2 points)
 
-  Your elven body and mind can't be contained for long. You succeed on saving throws when you get a 5 or higher.
+Your elven body and mind can't be contained for long. You succeed on saving throws when you get a 5 or higher.
 
-##### Unstoppable Mind (Costs 2 points)  
+##### Unstoppable Mind (Costs 2 points)
 
-  Your mind allows you to maintain your focus in any situation. You can't be dazed.
+Your mind allows you to maintain your focus in any situation. You can't be dazed.
 
 ## HAKAAN
 
@@ -2354,23 +2372,23 @@ Your body is made to withstand the blows of your enemies. Your Might score count
 ##### Great Fortitude (Costs 2 Points)
 
 Your hearty constitution prevents you from losing strength. You can't be weakened.
-  
+
 ##### Doomsight (Costs 2 Points) 
 
 Working with your Director, you can predetermine an encounter in which you will die.
 
-  When that encounter begins, you become doomed. While doomed, you lose the Undaunted benefit from this ancestry, you
-  automatically get tier 3 results on tests and resistance rolls, and you don't die no matter how low your Stamina
-  falls. You then die immediately at the end of the encounter.
+When that encounter begins, you become doomed. While doomed, you lose the Undaunted benefit from this ancestry, you
+automatically get tier 3 results on tests and resistance rolls, and you don't die no matter how low your Stamina
+falls. You then die immediately at the end of the encounter.
 
-  If you don't predetermine your death encounter, you can choose to become doomed while you are dying with the
-  Director's approval (no action required). Doing so should be reserved for encounters in which you are dying as a
-  result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences
-  of your actions have finally caught up to you-not because you're playing a one-shot and have nothing to lose, Hacaarl.
+If you don't predetermine your death encounter, you can choose to become doomed while you are dying with the
+Director's approval (no action required). Doing so should be reserved for encounters in which you are dying as a
+result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences
+of your actions have finally caught up to you-not because you're playing a one-shot and have nothing to lose, Hacaarl.
 
-  Additionally, when your Stamina equals the negative of your winded value and you are not doomed, you turn to rubble
-  instead of experiencing death. You are unaware of your surroundings in this state. After 12 hours, you regain Stamina
-  equal to your Recovery value.
+Additionally, when your Stamina equals the negative of your winded value and you are not doomed, you turn to rubble
+instead of experiencing death. You are unaware of your surroundings in this state. After 12 hours, you regain Stamina
+equal to your Recovery value.
 
 ## HUMAN
 
@@ -2461,8 +2479,8 @@ You have 3 ancestry points to spend on the following traits:
 
 Your connection to the natural world allows you to resist supernatural effects.
 
-  You ignore difficult terrain (but not other effects) created by magic and psionic abilities. Additionally, when you
-  are force moved by a magic or psionic ability, you reduce the forced movement by 1.
+You ignore difficult terrain (but not other effects) created by magic and psionic abilities. Additionally, when you
+are force moved by a magic or psionic ability, you reduce the forced movement by 1.
 
 ##### Perseverance (Costs 1 Point)
 
@@ -3179,7 +3197,8 @@ A magical sigil you placed on a creature explodes with energy.
 
 ## TIME RAIDER
 
-> "I fear no living thing, but the time raiders."  
+> "I fear no living thing, but the time raiders."
+> 
 > -Chief Executive Admiral Lithiri Aswandala, Commander of the HOV First Get Behind Them Memonek
 
 The original servitor species of the synliiroi-evil psions with near god-like power-the kuran'zoi liberated themselves
@@ -6811,10 +6830,10 @@ Choose a new heroic ability from one of the following options.
 Revitalizing plants and jagged stones grow, helping allies and hindering foes.
 
 
-- **Keywords:** Area, Earth, Green, Magic, Ranged  
-- **Type:** Maneuver  
-- **Distance:** 3 Cube within 10  
-- **Target:** Special  
+- **Keywords:** Area, Earth, Green, Magic, Ranged
+- **Type:** Maneuver
+- **Distance:** 3 Cube within 10
+- **Target:** Special
 - 
 
 **Effect:** Until the start of your next turn, the area gains the following effects:
@@ -6828,12 +6847,12 @@ maneuver. This ability ends if you lose line of effect to its area.
 
 #### SUBVERT THE GREEN WITHIN (5 ESSENCE)
 
-Burrow into their brains and take control!  
+Burrow into their brains and take control!
 
-- **Keywords:** Green, Magic, Ranged, Void  
-- **Type:** Action  
-- **Distance:** Ranged 10  
-- **Target:** 1 creature  
+- **Keywords:** Green, Magic, Ranged, Void
+- **Type:** Action
+- **Distance:** Ranged 10
+- **Target:** 1 creature
 
 **Effect:** The target uses their signature ability, and you choose the target. Then roll power against the target.
 
@@ -6847,10 +6866,10 @@ Burrow into their brains and take control!
 
 Your ally disappears, then reappears in a burst of fire! 
 
-- **Keywords:** Area, Fire, Magic, Ranged, Void  
-- **Type:** Action  
-- **Distance:** Self or Ranged 10  
-- **Target:** Self or 1 ally  
+- **Keywords:** Area, Fire, Magic, Ranged, Void
+- **Type:** Action
+- **Distance:** Self or Ranged 10
+- **Target:** Self or 1 ally
 
 **Effect:** The target is teleported to another space within distance. Make one total power roll against each enemy
 adjacent to the target's new space.
@@ -6865,9 +6884,9 @@ adjacent to the target's new space.
 
 Wrap them up in fire and melting stone. 
 
-- **Keywords:** Earth, Fire, Magic, Ranged  
-- **Type:** Action  
-- **Distance:** Ranged 10  
+- **Keywords:** Earth, Fire, Magic, Ranged
+- **Type:** Action
+- **Distance:** Ranged 10
 - **Target:** 1 creature
 
 **Power Roll + Reason:**
@@ -6913,9 +6932,9 @@ You gain the following ability:
 
 You can slip into the stone.
 
-- **Keywords:** Earth, Magic  
-- **Type:** Action  
-- **Distance:** Self  
+- **Keywords:** Earth, Magic
+- **Type:** Action
+- **Distance:** Self
 - **Target:** Self
 
 **Effect:** Step into a mundane dirt, stone, or metal wall or object that is as large as you or larger. You can remain
@@ -6932,9 +6951,9 @@ You gain the following ability:
 
 You stir any wood's memory and learn what it has seen.
 
-- **Keywords:** Green, Magic, Melee  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Green, Magic, Melee
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 mundane object made of wood
 
 **Effect:** You see and hear any events that have occurred within 10 squares of the object within the last 12 hours,
@@ -6948,9 +6967,9 @@ Choose a new heroic ability from the following options.
 
 With a flick of the wrist, you phase creatures out of existence. 
 
-- **Keywords:** Attack, Magic, Ranged, Void  
-- **Type:** Action  
-- **Distance:** Ranged 10  
+- **Keywords:** Attack, Magic, Ranged, Void
+- **Type:** Action
+- **Distance:** Ranged 10
 - **Target:** Special
 
 **Effect:** Each target begins to fade from existence (save ends). While fading from existence, a target has bane on all
@@ -6968,9 +6987,9 @@ left. You can target a number of creatures with this ability equal to your power
 
 An enormous fist rises from the ground to crush your foes.
 
-- **Keywords:** Attack, Earth, Magic, Ranged  
-- **Type:** Action  
-- **Distance:** Ranged 10  
+- **Keywords:** Attack, Earth, Magic, Ranged
+- **Type:** Action
+- **Distance:** Ranged 10
 - **Target:** 1 creature or object
 
 **Power Roll + Reason:**
@@ -6985,9 +7004,9 @@ An enormous fist rises from the ground to crush your foes.
 
 Guardian animal spirits surround you.
 
-- **Keywords:** Area, Green, Magic  
-- **Type:** Action  
-- **Distance:** 3 Aura  
+- **Keywords:** Area, Green, Magic
+- **Type:** Action
+- **Distance:** 3 Aura
 - **Target:** All enemies
 
 **Power Roll + Reason:**
@@ -7006,9 +7025,9 @@ lasts until the start of your next turn.
 
 A blazing, beautifully organized inferno.
 
-- **Keywords:** Area, Fire, Magic, Persistent, Ranged  
-- **Type:** Action  
-- **Distance:** 10 wall within 10  
+- **Keywords:** Area, Fire, Magic, Persistent, Ranged
+- **Type:** Action
+- **Distance:** 10 wall within 10
 - **Target:** Special
 
 **Effect:** You can place this wall in occupied squares. The wall lasts until the start of your next turn. Creatures can
@@ -7172,15 +7191,15 @@ Your primordial aspect grants you a triggered action, as shown on the Fury Trigg
 
 In your anger, you revert to a more bestial form.
 
-- **Keywords:** Melee  
-- **Type:** Triggered  
-- **Distance:** Self  
-- **Target:** Self  
+- **Keywords:** Melee
+- **Type:** Triggered
+- **Distance:** Self
+- **Target:** Self
 
-**Trigger:** You lose Stamina and are not dying.  
+**Trigger:** You lose Stamina and are not dying.
 
 **Effect:** After damage is resolved, if your rage is high enough, you can enter your animal or hybrid form as a free
-triggered action. You gain temporary Stamina equal to your Might.  
+triggered action. You gain temporary Stamina equal to your Might.
 
 **Spend 3 Rage:** If you are not dying, you can spend a Recovery.
 
@@ -7188,16 +7207,16 @@ triggered action. You gain temporary Stamina equal to your Might.
 
 You redirect the energy of motion.
 
-- **Keywords:** Magic, Melee  
-- **Type:** Triggered  
-- **Distance:** Self or Melee 1  
-- **Target:** Self or 1 creature  
+- **Keywords:** Magic, Melee
+- **Type:** Triggered
+- **Distance:** Self or Melee 1
+- **Target:** Self or 1 creature
 
-**Trigger:** The target is force moved.  
+**Trigger:** The target is force moved.
 
 **Effect:** You can select a new target of the same size or smaller within distance to be force moved instead and change
 the direction of that forced movement. Additionally, you can increase the forced move distance by a number of squares
-equal to your Might score.  
+equal to your Might score.
 
 **Spend 1 Rage:** You can increase the forced move distance by a number of squares equal to twice your Might score
 instead.
@@ -7206,15 +7225,15 @@ instead.
 
 Elusive as a hummingbird. 
 
-- **Keywords:** Melee  
-- **Type:** Triggered  
-- **Distance:** Melee 1  
-- **Target:** Self  
+- **Keywords:** Melee
+- **Type:** Triggered
+- **Distance:** Melee 1
+- **Target:** Self
 
-**Trigger:** You are targeted by a damaging area of effect.  
+**Trigger:** You are targeted by a damaging area of effect.
 
 **Effect:** You shift up to 2 squares. If that moves you out of the area of effect, you ignore the attack. Otherwise,
-you take half damage.  
+you take half damage.
 
 **Spend 3 Rage:** You move a willing adjacent ally affected by the attack with you, applying the same outcome to them.
 
@@ -7242,9 +7261,9 @@ Select one signature ability from the options below. Signature abilities can be 
 
 The heavy impact of your weapon attacks drives your foes ever backward.
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
@@ -7257,16 +7276,16 @@ The heavy impact of your weapon attacks drives your foes ever backward.
 
 Keeping in constant motion helps you slip out of reach after a brutal assault.
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
 
 - **11 or lower:** 2 damage
 - **12-16:** 3 damage
-- **17+:** 5 damage; A [strong] slowed (save ends)  
+- **17+:** 5 damage; A [strong] slowed (save ends)
 
 **Effect:** You can shift 1 square after the attack is resolved.
 
@@ -7274,9 +7293,9 @@ Keeping in constant motion helps you slip out of reach after a brutal assault.
 
 You plunge your weapon into your enemy like a boar upon a spit.
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature of your size or smaller
 
 **Power Roll + Might:**
@@ -7289,16 +7308,16 @@ You plunge your weapon into your enemy like a boar upon a spit.
 
 Your reckless assault leaves you tactically vulnerable.
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Reach  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Reach
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
 
 - **11 or lower:** 3 damage
 - **12-16:** 6 damage
-- **17+:** 9 damage  
+- **17+:** 9 damage
 
 **Effect:** You can choose to do `(SURGE)` to the target. If you do, the target gains `(SURGE)` on their next attack against you.
 
@@ -7314,9 +7333,9 @@ Choose one heroic ability from the following options, each of which costs 3 rage
 
 Surrounded? The fools!
 
-- **Keywords:** Area, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** 1 burst  
+- **Keywords:** Area, Melee, Weapon
+- **Type:** Action
+- **Distance:** 1 burst
 - **Target:** All enemies
 
 **Power Roll + Might:**
@@ -7329,9 +7348,9 @@ Surrounded? The fools!
 
 Your enemies will get out of your way-whether they want to or not.
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature
 
 **Power Roll + Might:**
@@ -7347,10 +7366,10 @@ opportunity attack by moving this way, the target takes the same amount and type
 
 Teach them the folly of lining up for you. 
 
-- **Keywords:** Area, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Self  
-- **Target:** Self  
+- **Keywords:** Area, Melee, Weapon
+- **Type:** Action
+- **Distance:** Self
+- **Target:** Self
 
 **Effect:** You move your speed in a straight line. You don't treat enemy squares as difficult terrain for this move.
 You can end this move in a creature's square and then move them to an adjacent unoccupied space. Make one total power
@@ -7360,7 +7379,7 @@ roll against every enemy you moved through.
 
 - **11 or lower:** 2 damage
 - **12-16:** 3 damage
-- **17+:** 5 damage  
+- **17+:** 5 damage
 
 **Effect:** The target takes an extra `(SURGE)` for every free strike you triggered from your move.
 
@@ -7368,16 +7387,16 @@ roll against every enemy you moved through.
 
 Hard for them to fight when they're busy holding in their giblets. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
 
 - **11 or lower:** 3 damage; M [weak] bleeding (save ends)
 - **12-16:** 5 damage; M [average] bleeding (save ends)
-- **17+:** 8 damage; M [average] bleeding (save ends)  
+- **17+:** 8 damage; M [average] bleeding (save ends)
 
 **Effect:** The target takes `(SURGE)` whenever they fail a save for bleeding.
 
@@ -7389,16 +7408,16 @@ Choose one heroic ability from the following options, each of which costs 5 rage
 
 A mighty strike leaves your foe reeling. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
 
 - **11 or lower:** 4 damage; M [weak] bleeding and weakened (save ends)
 - **12-16:** 6 damage; M [average] bleeding and weakened (save ends)
-- **17+:** 10 damage; M [strong] bleeding and weakened (save ends)  
+- **17+:** 10 damage; M [strong] bleeding and weakened (save ends)
 
 **Effect:** You can choose to deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
 
@@ -7406,10 +7425,10 @@ A mighty strike leaves your foe reeling.
 
 Anger is an energy. 
 
-- **Keywords:** -  
-- **Type:** Free maneuver  
-- **Distance:** Self  
-- **Target:** Self  
+- **Keywords:** -
+- **Type:** Free maneuver
+- **Distance:** Self
+- **Target:** Self
 
 **Effect:** The next attack you make this turn automatically achieves a tier 3 result and gains `(SURGE)`.
 
@@ -7417,16 +7436,16 @@ Anger is an energy.
 
 A howl erupts from you that hurls your enemies back. 
 
-- **Keywords:** Area, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** 5 × 1 line within 1  
+- **Keywords:** Area, Melee, Weapon
+- **Type:** Action
+- **Distance:** 5 × 1 line within 1
 - **Target:** All enemies
 
 **Power Roll + Might:**
 
 - **11 or lower:** 6 damage; push 2
 - **12-16:** 9 damage; push 4
-- **17+:** 13 damage; push 6  
+- **17+:** 13 damage; push 6
 
 **Effect:** Targets are pushed one at a time, starting with the target closest to you.
 
@@ -7434,16 +7453,16 @@ A howl erupts from you that hurls your enemies back.
 
 You spend your life force to ensure their death. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature
 
 **Power Roll + Might:**
 
 - **11 or lower:** 7 damage
 - **12-16:** 11 damage
-- **17+:** 16 damage  
+- **17+:** 16 damage
 
 **Spend 1 or More Additional Rage:** If you are winded, you can add 1d6 damage for each rage spent. If you are dying,
   you can add 1d10 damage for each rage spent. In either case, you then lose 1d6 Stamina.
@@ -7497,10 +7516,10 @@ Choose one of the following abilities.
 
 You ready? 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Maneuver  
-- **Distance:** Melee 1  
-- **Target:** 1 willing ally  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Maneuver
+- **Distance:** Melee 1
+- **Target:** 1 willing ally
 
 **Effect:** You vertically push 4 the target. The target can decline to use their Stability. At the end of the push, the
 target can make a free strike with `(SURGE)`. You force move the target carefully enough that they do not take damage from the
@@ -7510,10 +7529,10 @@ move.
 
 It is easier to destroy than to create. Much easier, in fact! 
 
-- **Keywords:** Area, Melee, Weapon  
-- **Type:** Maneuver  
-- **Distance:** Self  
-- **Target:** Self  
+- **Keywords:** Area, Melee, Weapon
+- **Type:** Maneuver
+- **Distance:** Self
+- **Target:** Self
 
 **Effect:** You move up to your full speed in a straight line. You can move through mundane walls or other structures
 with each square counting as difficult terrain. Destroy each square of structure you move through and leave behind a
@@ -7533,10 +7552,10 @@ Choose one of the following abilities.
 
 Organizing your forces like feckless creatures of Law. Pitiful. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Self  
-- **Target:** Self  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Self
+- **Target:** Self
 
 **Effect:** Shift up to your speed. You can roll power once, targeting each enemy who you come adjacent to during the
 move.
@@ -7551,9 +7570,9 @@ move.
 
 Death! Deeaaath!! 
 
-- **Keywords:** Attack, Melee, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature
 
 **Power Roll + Might:**
@@ -7570,16 +7589,16 @@ Choose one of the following abilities.
 
 I will hunt you down.
 
-- **Keywords:** Animal, Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Reach  
+- **Keywords:** Animal, Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Reach
 - **Target:** 1 creature
 
 **Power Roll + Might:**
 
 - **11 or lower:** 4 damage; I [weak] slowed (save ends)
 - **12-16:** 6 damage; I [average] slowed (save ends)
-- **17+:** 10 damage; I [strong] slowed (save ends)  
+- **17+:** 10 damage; I [strong] slowed (save ends)
 
 **Effect:** The target can't be hidden from you for 24 hours. For the rest of the encounter, whenever the target
   moves, you can move as a free triggered action.
@@ -7588,9 +7607,9 @@ I will hunt you down.
 
 The sound of the storm within you terrifies your opponents.
 
-- **Keywords:** Animal, Area, Magic  
-- **Type:** Action  
-- **Distance:** 2 burst  
+- **Keywords:** Animal, Area, Magic
+- **Type:** Action
+- **Distance:** 2 burst
 - **Target:** All enemies
 
 **Power Roll + Might:**
@@ -7641,10 +7660,10 @@ Choose one heroic ability from the following options.
 
 Foes tremble at the sight of you. 
 
-- **Keywords:** Magic  
-- **Type:** Maneuver  
-- **Distance:** Self  
-- **Target:** Self  
+- **Keywords:** Magic
+- **Type:** Maneuver
+- **Distance:** Self
+- **Target:** Self
 
 **Effect:** Until the end of the encounter or you are dying, all enemies that start their turn adjacent to you are
 P [strong] frightened (EoT).
@@ -7653,10 +7672,10 @@ P [strong] frightened (EoT).
 
 Fight or flight? FIGHT!! 
 
-- **Keywords:** Magic  
-- **Type:** Maneuver  
-- **Distance:** Self  
-- **Target:** Self  
+- **Keywords:** Magic
+- **Type:** Maneuver
+- **Distance:** Self
+- **Target:** Self
 
 **Effect:** Until the end of the encounter or you are dying, any creature you make a melee attack against is P [average]
 taunted (EoT). You do `(SURGE)(SURGE)` extra damage and increase effect potency by 1 against any taunted enemy.
@@ -7665,10 +7684,10 @@ taunted (EoT). You do `(SURGE)(SURGE)` extra damage and increase effect potency 
 
 See how useless their weapons are! 
 
-- **Keywords:** Magic  
-- **Type:** Maneuver  
-- **Distance:** Self  
-- **Target:** Self  
+- **Keywords:** Magic
+- **Type:** Maneuver
+- **Distance:** Self
+- **Target:** Self
 
 **Effect:** Until the end of the encounter you have `(SHIELD)(SHIELD)`.
 
@@ -7676,10 +7695,10 @@ See how useless their weapons are!
 
 Slash. Walk away. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
-- **Target:** 1 creature  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
+- **Target:** 1 creature
 
 **Effect:** If the target is not a boss or solo creature, they die at the end of their next turn. If the target is a
 boss or solo creature, the next attack against them gains `(SHIELD)`.
@@ -7712,15 +7731,15 @@ The animal form feature for each stormwight kit grants you the following ability
 
 You assume the form of the animal who channels your rage.
 
-- **Keywords:** -  
-- **Type:** Maneuver  
-- **Distance:** Self  
-- **Target:** Self  
+- **Keywords:** -
+- **Type:** Maneuver
+- **Distance:** Self
+- **Target:** Self
 
 **Effect:** You can shapeshift into the animal defined by your stormwight kit or back into your true form. While in
 animal form, you can't use signature abilities or heroic abilities unless they have the Animal keyword. Additionally,
 you can both speak normally and speak to animals who share your form. If negotiation with an animal comes into play, you
-treat your Renown as 2 higher than usual while in your animal form.  
+treat your Renown as 2 higher than usual while in your animal form.
 
 **Spend 1 Rage:** As a free maneuver on your turn, you can shapeshift a second time, either into another animal form or
 back into your true form.
@@ -7773,9 +7792,9 @@ Your primordial damage type is cold.
 
 Attacks with your sharp and deadly claws send your foes staggering back. 
 
-- **Keywords:** Animal, Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Animal, Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
@@ -7829,16 +7848,16 @@ Your primordial damage type is fire.
 
 Foes who try to close around you do so at their peril.
 
-- **Keywords:** Animal, Area, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** 1 Burst  
+- **Keywords:** Animal, Area, Melee, Weapon
+- **Type:** Action
+- **Distance:** 1 Burst
 - **Target:** All enemies
 
 **Power Roll + Agility:**
 
 - **11 or lower:** 4 damage
 - **12-16:** 5 damage
-- **17+:** 6 damage  
+- **17+:** 6 damage
 
 **Effect:** You can shift 2 before or after the attack.
 
@@ -7890,16 +7909,16 @@ Your primordial damage type is corruption.
 
 Your enemies try in vain to fall back from your pouncing attack.
 
-- **Keywords:** Animal, Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Reach  
+- **Keywords:** Animal, Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Reach
 - **Target:** 1 creature or object
 
 **Power Roll + Agility:**
 
 - **11 or lower:** 4 damage
 - **12-16:** 5 damage; push 1
-- **17+:** 7 damage; push 2  
+- **17+:** 7 damage; push 2
 
 **Effect:** You can shift the same number of squares that you pushed the target.
 
@@ -7947,9 +7966,9 @@ Your primordial damage type is lightning.
 
 A savage assault forces your foes back.
 
-- **Keywords:** Animal, Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Reach  
+- **Keywords:** Animal, Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Reach
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
@@ -8060,9 +8079,9 @@ supernatural abilities that attempt to harm you and any allies within.
 
 > Magic is a form of chaos. My body is beyond such things
 
-- **Keywords:** Psionic  
-- **Type:** Maneuver  
-- **Distance:** 1 aura  
+- **Keywords:** Psionic
+- **Type:** Maneuver
+- **Distance:** 1 aura
 - **Target:** Self and all creatures
 
 **Effect:** Until you are dying, attacks with the Magic or Psionic keyword take a bane if they target a target within the
@@ -8078,12 +8097,12 @@ Your body has been trained to predict when attacks will happen before they happe
 
 > You intuit where an incoming attack will strike, reducing its effects.
 
-- **Keywords:** Psionic  
-- **Type:** Triggered  
-- **Distance:** Self  
-- **Target:** Self  
+- **Keywords:** Psionic
+- **Type:** Triggered
+- **Distance:** Self
+- **Target:** Self
 
-**Trigger:** You take damage.  
+**Trigger:** You take damage.
 
 **Effect:** You gain `(SHIELD)` for the attack and reduce any potency of effects associated with the damage by 1.
 
@@ -8106,7 +8125,7 @@ the number of squares you shift.
     - When you take the Disengage move action, you can slide an adjacent creature a number of squares equal to your
       Agility.
 
-- **6**  
+- **6**
 	- Whenever you use the Inertial Shield triggered action, you can do `(SURGE)` psychic damage to a creature of your choice within
   your Null Field and make them suffer a [weak] version of any effect you beat using that triggered action.
 
@@ -8114,11 +8133,11 @@ the number of squares you shift.
 	- When you take the Disengage move action, you can slide one adjacent creature a number of squares equal to twice your
   Agility.
 
-- **12 (Level 4)**  
+- **12 (Level 4)**
 	- Whenever you use the Inertial Shield triggered action, you can do `(SURGE)(SURGE)` psychic damage to a creature of your choice
   within your Null Field and make them suffer an [average] version of any effect you beat using that triggered action.
 
-- **15 (Level 7)**  
+- **15 (Level 7)**
 	- When you take the Disengage move action, you can slide two adjacent creatures a number of squares equal to triple your
   Agility score.
 
@@ -8139,18 +8158,18 @@ Enemies treat squares within your Null Aura as difficult terrain.
       to your Intuition.
     - Enemies that enter or begin their turn in your Null Field suffer A [weak] slowed (save ends).
 
-- **6**  
+- **6**
 	- Whenever you use the Inertial Shield triggered action, you can do `(SURGE)` cold damage to a creature of your choice within
   your Null Field and make them suffer a [weak] version of any effect you beat using that triggered action.
 
-- **9**  
+- **9**
 	- Enemies that enter or begin their turn in your Null Field suffer A [average] slowed (save ends).
 
-- **12 (Level 4)**  
+- **12 (Level 4)**
 	- Whenever you use the Inertial Shield triggered action, you can do `(SURGE)(SURGE)` cold damage to a creature of your choice within
   your Null Field and make them suffer an [average] version of any effect you beat using that triggered action.
 
-- **15 (Level 7)**  
+- **15 (Level 7)**
 	- Enemies that enter or begin their turn in your Null Field suffer A [strong] slowed (save ends).
 
 - **18 (Level 10)**
@@ -8170,20 +8189,20 @@ You gain a bonus to Stability equal to your Intuition score.
       to your Intuition.
     - You gain `(SHIELD)`.
 
-- **6**  
+- **6**
 	- Whenever you use the Inertial Shield triggered action, you can push a creature of your choice within your Null Field a
   number of squares equal to your Intuition and make them suffer a [weak] version of any effect you beat using that
   triggered action.
 
-- **9**  
+- **9**
 	- You gain `(SHIELD)` and do `(SURGE)` to any targets you force move.
 
-- **12 (Level 4)**  
+- **12 (Level 4)**
 	- Whenever you use the Inertial Shield triggered action, you can push a creature of your choice within your Null Field a
   number of squares equal to twice your Intuition and make them suffer an [average] version of any effect you beat using
   that triggered action.
 
-- **15 (Level 7)**  
+- **15 (Level 7)**
 	- You gain `(SHIELD)(SHIELD)` and do `(SURGE)(SURGE)` to any targets you force move.
 
 - **18 (Level 10)**
@@ -8218,9 +8237,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 > You strike everywhere at once, tricking an enemy into moving out of position.
 
-- **Keywords:** Area, Melee, Psionic, Weapon  
-- **Type:** Action  
-- **Distance:** 1 burst  
+- **Keywords:** Area, Melee, Psionic, Weapon
+- **Type:** Action
+- **Distance:** 1 burst
 - **Target:** All enemies
 
 **Power Roll + Agility:**
@@ -8235,9 +8254,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 > You strike so quickly your hands become a blur.
 
-- **Keywords:** Attack, Melee, Psionic, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Psionic, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 2 creatures or objects
 
 **Power Roll + Agility:**
@@ -8252,9 +8271,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 > You strengthen your body as you contort your enemy's body in a stance they cannot escape from.
 
-- **Keywords:** Attack, Melee, Psionic, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Psionic, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature or object
 
 **Power Roll + Agility:**
@@ -8267,9 +8286,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 > Your opponent staggers. They cannot ignore you.
 
-- **Keywords:** Attack, Melee, Psionic, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Psionic, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature or object
 
 **Power Roll + Agility:**
@@ -8282,9 +8301,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 > The force of your blow extends past the limits of your body, and pulls your enemy closer.
 
-- **Keywords:** Attack, Melee, Psionic, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 2  
+- **Keywords:** Attack, Melee, Psionic, Weapon
+- **Type:** Action
+- **Distance:** Melee 2
 - **Target:** 1 creature or object
 
 **Power Roll + Agility:**
@@ -8297,9 +8316,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 > You strike at key nerve clusters.
 
-- **Keywords:** Attack, Melee, Psionic, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Psionic, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature or object
 
 **Power Roll + Agility:**
@@ -8320,9 +8339,9 @@ Choose one heroic ability from the following options.
 
 > You foresee the best moment to strike and exploit it.
 
-- **Keywords:** Attack, Melee, Psionic, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Psionic, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature or object
 
 **Power Roll + Agility:**
@@ -8338,9 +8357,9 @@ free strike or a signature ability whenever an effect gives you one, though you 
 
 > You release a burst of psionic energy that interferes with your enemy's synapses.
 
-- **Keywords:** Area, Psionic  
-- **Type:** Maneuver  
-- **Distance:** 2 burst  
+- **Keywords:** Area, Psionic
+- **Type:** Maneuver
+- **Distance:** 2 burst
 - **Target:** All enemies
 
 **Effect:** Each target takes `(SURGE)(SURGE)` psychic damage. Until the beginning of your next turn, your Null Field distance
@@ -8350,9 +8369,9 @@ increases by 1, and each enemy that starts their turn in the aura takes your `(S
 
 > You strike, and for the next few moments, your enemy can't escape you.
 
-- **Keywords:** Attack, Melee, Psionic, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Psionic, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature or object
 
 **Power Roll + Agility:**
@@ -8368,9 +8387,9 @@ triggered action, as long as you end that shift adjacent to the target.
 
 > You focus your psionic technique into a debilitating concussive punch.
 
-- **Keywords:** Attack, Melee, Psionic, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Psionic, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature or object
 
 **Power Roll + Agility:**
@@ -8387,9 +8406,9 @@ Choose one heroic ability from the following options.
 
 > Your blow reorders their body, causing pain if they attempt to channel sorcery.
 
-- **Keywords:** Attack, Melee, Psionic, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Psionic, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
@@ -8404,9 +8423,9 @@ Choose one heroic ability from the following options.
 
 > A single touch from you and your enemy flies backward.
 
-- **Keywords:** Attack, Melee, Psionic, Weapon  
-- **Type:** Maneuver  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Psionic, Weapon
+- **Type:** Maneuver
+- **Distance:** Melee 1
 - **Target:** 1 creature or object
 
 **Power Roll + Intuition:**
@@ -8421,9 +8440,9 @@ Choose one heroic ability from the following options.
 
 > For a moment, your foe is out of phase with this manifold.
 
-- **Keywords:** Attack, Melee, Psionic, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Psionic, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
@@ -8439,9 +8458,9 @@ or in the closest available space of the Director's choice.
 
 > You move so quickly, it seems as though an army assaulted your foes.
 
-- **Keywords:** Area, Melee, Psionic, Weapon  
-- **Type:** Action  
-- **Distance:** 2 burst  
+- **Keywords:** Area, Melee, Psionic, Weapon
+- **Type:** Action
+- **Distance:** 2 burst
 - **Target:** All enemies
 
 **Power Roll + Agility:**
@@ -8506,9 +8525,9 @@ Choose one of the following abilities.
 
 > You release some stored time, allowing you to act twice.
 
-- **Keywords:** Psionic  
-- **Type:** Maneuver  
-- **Distance:** Self  
+- **Keywords:** Psionic
+- **Type:** Maneuver
+- **Distance:** Self
 - **Target:** Self
 
 **Effect:** You can use a signature or heroic ability with an attack action as a free triggered action. You have an edge
@@ -8518,9 +8537,9 @@ on attack rolls with this action.
 
 > The force of your strike manifests in a surprising location.
 
-- **Keywords:** Attack, Melee, Psionic, Weapon  
-- **Type:** Action  
-- **Distance:** Reach 3  
+- **Keywords:** Attack, Melee, Psionic, Weapon
+- **Type:** Action
+- **Distance:** Reach 3
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
@@ -8539,9 +8558,9 @@ Choose one of the following abilities.
 
 > You drastically increase the local entropy.
 
-- **Keywords:** Area, Psionic, Weapon  
-- **Type:** Action  
-- **Distance:** 3 cube within 1  
+- **Keywords:** Area, Psionic, Weapon
+- **Type:** Action
+- **Distance:** 3 cube within 1
 - **Target:** All enemies
 
 **Power Roll + Agility:**
@@ -8554,9 +8573,9 @@ Choose one of the following abilities.
 
 > You absorb the ambient heat, coating the ground in frost and precipitating snow from the air.
 
-- **Keywords:** Psionic  
-- **Type:** Maneuver  
-- **Distance:** Self  
+- **Keywords:** Psionic
+- **Type:** Maneuver
+- **Distance:** Self
 - **Target:** Self
 
 **Effect:** Until the beginning of your next turn, your nullification aura distance increases by 1. Enemies treat the
@@ -8571,9 +8590,9 @@ Choose one of the following abilities.
 
 > Your fist projects gravitic force that pulls a distant enemy closer.
 
-- **Keywords:** Attack, Melee, Psionic, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 3  
+- **Keywords:** Attack, Melee, Psionic, Weapon
+- **Type:** Action
+- **Distance:** Melee 3
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
@@ -8586,9 +8605,9 @@ Choose one of the following abilities.
 
 > You manifest a force barrier that absorbs incoming kinetic energy.
 
-- **Keywords:** Psionic  
-- **Type:** Maneuver  
-- **Distance:** Self  
+- **Keywords:** Psionic
+- **Type:** Maneuver
+- **Distance:** Self
 - **Target:** Self
 
 **Power Roll + Intuition:**
@@ -8617,9 +8636,9 @@ Choose one heroic ability from the following options.
 
 > Your null field absorbs kinetic energy.
 
-- **Keywords:** Psionic  
-- **Type:** Maneuver  
-- **Distance:** Self  
+- **Keywords:** Psionic
+- **Type:** Maneuver
+- **Distance:** Self
 - **Target:** Self
 
 **Effect:** Until the end of the encounter, the area of your null field increases to 2 aura, adds a bane to all enemy
@@ -8629,9 +8648,9 @@ attacks in the aura, and you and all allies gain `(SHIELD)` while in the aura.
 
 > Your enemies' wounds open, your allies' wounds close.
 
-- **Keywords:** Psionic  
-- **Type:** Maneuver  
-- **Distance:** Self  
+- **Keywords:** Psionic
+- **Type:** Maneuver
+- **Distance:** Self
 - **Target:** Self
 
 **Effect:** Until the end of the encounter, the area of your null field increases to 2 aura. Enemies that enter your
@@ -8643,9 +8662,9 @@ encounter.
 
 > You project order, making it harder for your enemies to interfere with you and your allies.
 
-- **Keywords:** Psionic  
-- **Type:** Maneuver  
-- **Distance:** Self  
+- **Keywords:** Psionic
+- **Type:** Maneuver
+- **Distance:** Self
 - **Target:** Self
 
 **Effect:** Until the end of the encounter, the area of your null field increases to 2 aura. While affected by this
@@ -8656,9 +8675,9 @@ condition or effect that is affecting them as a free triggered action at the beg
 
 > Attacks made by allies in your null-field disrupt your enemies' thoughts, causing psychic pain.
 
-- **Keywords:** Psionic  
-- **Type:** Maneuver  
-- **Distance:** Self  
+- **Keywords:** Psionic
+- **Type:** Maneuver
+- **Distance:** Self
 - **Target:** Self
 
 **Effect:** Until the end of the encounter, the area of your null field increases to 2 aura. Any attacks against enemies
@@ -8701,11 +8720,11 @@ interpersonal, or intrigue skill groups.
 
 ### SHADOW ADVANCEMENT
 
-| Level | Features                                                                                                                    | Abilities |  
-|-------|-----------------------------------------------------------------------------------------------------------------------------|-----------|  
-| 1st   | Shadow College, Insight, College Feature, College Triggered Action, Hesitation is Weakness, Kit, Shadow Abilities Signature | 3, 5      |  
-| 2nd   | College Feature, Extra Surge, Perk, College Ability Signature                                                               | 3, 5, 5   |  
-| 3rd   | Careful Observation, Insight Ability Signature                                                                              | 3, 5, 7   |  
+| Level | Features                                                                                                                    | Abilities |
+|-------|-----------------------------------------------------------------------------------------------------------------------------|-----------|
+| 1st   | Shadow College, Insight, College Feature, College Triggered Action, Hesitation is Weakness, Kit, Shadow Abilities Signature | 3, 5      |
+| 2nd   | College Feature, Extra Surge, Perk, College Ability Signature                                                               | 3, 5, 5   |
+| 3rd   | Careful Observation, Insight Ability Signature                                                                              | 3, 5, 7   |
 
 ## 1ST-LEVEL FEATURES
 
@@ -8761,11 +8780,11 @@ Your choice of college grants you one or two features, as shown on the 1st-Level
 
 #### 1ST-LEVEL SHADOW COLLEGE FEATURES
 
-| College         | Feature                    |  
-|-----------------|----------------------------|  
-| Black Ash       | Black Ash Teleport         |  
-| Caustic Alchemy | Coat the Blade, Smoke Bomb |  
-| Harlequin Mask  | I'm On Your Side           |  
+| College         | Feature                    |
+|-----------------|----------------------------|
+| Black Ash       | Black Ash Teleport         |
+| Caustic Alchemy | Coat the Blade, Smoke Bomb |
+| Harlequin Mask  | I'm On Your Side           |
 
 #### BLACK ASH TELEPORT
 
@@ -8775,9 +8794,9 @@ You gain the following ability.
 
 In a swirl of black ash, you step from one place to another. 
 
-- **Keywords:** Magic  
-- **Type:** Maneuver  
-- **Distance:** Self  
+- **Keywords:** Magic
+- **Type:** Maneuver
+- **Distance:** Self
 - **Target:** Self
 
 **Effect:** You teleport up to 5 squares. If you end this movement in concealment or cover, you can use the Hide
@@ -8794,9 +8813,9 @@ You gain the following ability.
 
 Just a little poison goes a long way. 
 
-- **Keywords:** -  
-- **Type:** Maneuver  
-- **Distance:** Self  
+- **Keywords:** -
+- **Type:** Maneuver
+- **Distance:** Self
 - **Target:** Self
 
 **Effect:** You coat one of your weapons with a harmful poison. The next creature you damage with an ability that uses
@@ -8813,9 +8832,9 @@ You gain the following ability.
 
 Taking on the illusory countenance of another creature gives you an advantage on subterfuge. 
 
-- **Keywords:** Magic  
-- **Type:** Maneuver  
-- **Distance:** Self  
+- **Keywords:** Magic
+- **Type:** Maneuver
+- **Distance:** Self
 - **Target:** Self
 
 **Effect:** Choose a creature whose size is no more than 1 greater than yours, and who is within 10 squares of you. Your
@@ -8838,22 +8857,22 @@ Your college grants you a triggered action, as shown on the Shadow Triggered Act
 
 #### SHADOW TRIGGERED ACTIONS
 
-| College         | Triggered Action      |  
-|-----------------|-----------------------|  
-| Black Ash       | In All This Confusion |  
-| Caustic Alchemy | Defensive Roll        |  
-| Harlequin Mask  | Clever Trick          |  
+| College         | Triggered Action      |
+|-----------------|-----------------------|
+| Black Ash       | In All This Confusion |
+| Caustic Alchemy | Defensive Roll        |
+| Harlequin Mask  | Clever Trick          |
 
 ##### CLEVER TRICK (1 INSIGHT)
 
 You sow a moment of confusion in combat, to your enemy's peril. 
 
-- **Keywords:** Magic  
-- **Type:** Triggered  
-- **Distance:** Self  
+- **Keywords:** Magic
+- **Type:** Triggered
+- **Distance:** Self
 - **Target:** Self
 
-**Trigger:** An enemy attacks you.  
+**Trigger:** An enemy attacks you.
 
 **Effect:** You choose an enemy within distance of the attack. The attack targets that enemy instead.
 
@@ -8861,12 +8880,12 @@ You sow a moment of confusion in combat, to your enemy's peril.
 
 When an enemy attacks, you roll with the impact to reduce the harm. 
 
-- **Keywords:** -  
-- **Type:** Triggered  
-- **Distance:** Self  
+- **Keywords:** -
+- **Type:** Triggered
+- **Distance:** Self
 - **Target:** Self
 
-**Trigger:** Another creature damages you.  
+**Trigger:** Another creature damages you.
 
 **Effect:** You gain `(SHIELD)` against the triggering damage and then can shift up to 2 squares after the damage and its
 effects resolve. If you end this movement with concealment or cover, you can use the Hide maneuver even if you are
@@ -8878,12 +8897,12 @@ observed.
 
 You vanish in a plume of black smoke to avoid danger. 
 
-- **Keywords:** Magic  
-- **Type:** Triggered  
-- **Distance:** Self  
+- **Keywords:** Magic
+- **Type:** Triggered
+- **Distance:** Self
 - **Target:** Self
 
-**Trigger:** You take damage.  
+**Trigger:** You take damage.
 
 **Effect:** You gain `(SHIELD)` against the triggering damage and then can teleport up to 4 squares after the damage and its
 effects resolve.
@@ -8899,12 +8918,12 @@ the following ability.
 
 Keep up the attack. Never give them a moment's grace. 
 
-- **Keywords:** -  
-- **Type:** Free triggered action  
-- **Distance:** Self  
+- **Keywords:** -
+- **Type:** Free triggered action
+- **Distance:** Self
 - **Target:** Self
 
-**Trigger:** Another hero who didn't use this ability to start their turn ends their turn.  
+**Trigger:** Another hero who didn't use this ability to start their turn ends their turn.
 
 **Effect:** You take your turn after the triggering hero.
 
@@ -8925,9 +8944,9 @@ Select one signature ability from the options below. Signature abilities can be 
 
 Your precise strikes let your allies take advantage of a target's agony. 
 
-- **Keywords:** Attack, Melee, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
@@ -8942,9 +8961,9 @@ Your precise strikes let your allies take advantage of a target's agony.
 
 It's better, just you and me. Isn't it? 
 
-- **Keywords:** Attack, Melee, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1 or Ranged 5  
+- **Keywords:** Attack, Melee, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Melee 1 or Ranged 5
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
@@ -8959,9 +8978,9 @@ It's better, just you and me. Isn't it?
 
 You fire a bolt at an enemy, distracting them long enough for an ally to stab them. 
 
-- **Keywords:** Attack, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Ranged 5  
+- **Keywords:** Attack, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Ranged 5
 - **Target:** 1 creature or object
 
 **Power Roll + Agility:**
@@ -8976,9 +8995,9 @@ You fire a bolt at an enemy, distracting them long enough for an ally to stab th
 
 They can't watch both of you at once. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
@@ -9003,9 +9022,9 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 Your attack leaves them reeling, allowing you to follow up. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
@@ -9020,9 +9039,9 @@ Your attack leaves them reeling, allowing you to follow up.
 
 You leave your foe bleeding out after a devastating attack. 
 
-- **Keywords:** Attack, Melee, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1 or Ranged 5  
+- **Keywords:** Attack, Melee, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Melee 1 or Ranged 5
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
@@ -9035,9 +9054,9 @@ You leave your foe bleeding out after a devastating attack.
 
 Move unexpectedly, strike fast, and be gone! 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
@@ -9053,9 +9072,9 @@ after your attack.
 
 A bargain. 
 
-- **Keywords:** Attack, Melee, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1 or Ranged 5  
+- **Keywords:** Attack, Melee, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Melee 1 or Ranged 5
 - **Target:** 2 creatures or objects
 
 **Power Roll + Agility:**
@@ -9072,9 +9091,9 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 
 Your blade might be the last thing they see. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1 or Ranged 5  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1 or Ranged 5
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
@@ -9087,9 +9106,9 @@ Your blade might be the last thing they see.
 
 As you move across the battlefield, every foe within reach feels your wrath. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Self  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Self
 - **Target:** Self
 
 **Effect:** You move up to your speed, and that movement doesn't provoke opportunity attacks. You make one power roll
@@ -9105,9 +9124,9 @@ that targets each enemy who becomes adjacent to you during the move.
 
 Your friends will thank you. 
 
-- **Keywords:** Attack, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Ranged 5  
+- **Keywords:** Attack, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Ranged 5
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
@@ -9120,9 +9139,9 @@ Your friends will thank you.
 
 They have no idea what the college taught you. 
 
-- **Keywords:** Magic  
-- **Type:** Action  
-- **Distance:** Self  
+- **Keywords:** Magic
+- **Type:** Action
+- **Distance:** Self
 - **Target:** Self
 
 **Effect:** You make two signature attacks and each gains `(SURGE)`.
@@ -9137,11 +9156,11 @@ Your specialization grants you a feature as shown on the 2nd-Level Shadow Colleg
 
 #### 2ND-LEVEL SHADOW COLLEGE FEATURES
 
-| Specialization  | Feature          |  
-|-----------------|------------------|  
-| Black Ash       | Burning Ash      |  
-| Caustic Alchemy | Trained Assassin |  
-| Harlequin Mask  | Friend!          |  
+| Specialization  | Feature          |
+|-----------------|------------------|
+| Black Ash       | Burning Ash      |
+| Caustic Alchemy | Trained Assassin |
+| Harlequin Mask  | Friend!          |
 
 #### BURNING ASH
 
@@ -9178,9 +9197,9 @@ Choose one of the following abilities.
 
 You enchant a strike with your teleportation magic.
 
-- **Keywords:** Attack, Magic, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1 or Ranged 5  
+- **Keywords:** Attack, Magic, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Melee 1 or Ranged 5
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
@@ -9193,12 +9212,12 @@ You enchant a strike with your teleportation magic.
 
 Your foe made a big mistake.
 
-- **Keywords:** Attack, Melee, Ranged, Weapon  
-- **Type:** Free Triggered Action  
-- **Distance:** Self  
+- **Keywords:** Attack, Melee, Ranged, Weapon
+- **Type:** Free Triggered Action
+- **Distance:** Self
 - **Target:** Special
 
-**Trigger:** You use In All This Confusion.  
+**Trigger:** You use In All This Confusion.
 
 **Effect:** You gain an additional `(SHIELD)` against the triggering attack. Before you teleport, you can make a free strike
 against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.
@@ -9211,9 +9230,9 @@ Choose one of the following abilities.
 
 Explosives are best when they're attached to an enemy.
 
-- **Keywords:** Ranged  
-- **Type:** Action  
-- **Distance:** Ranged 10  
+- **Keywords:** Ranged
+- **Type:** Action
+- **Distance:** Ranged 10
 - **Target:** 1 creature
 
 **Effect:** You attach a small bomb to a creature. If you are hidden from the creature, they don't notice it and you
@@ -9231,9 +9250,9 @@ detonates. You can detonate it earlier as no action. When it detonates, make one
 
 Yellow, disgusting gas explodes from a bomb you toss.
 
-- **Keywords:** Area, Ranged  
-- **Type:** Action  
-- **Distance:** 3 cube within 10  
+- **Keywords:** Area, Ranged
+- **Type:** Action
+- **Distance:** 3 cube within 10
 - **Target:** All creatures
 
 **Power Roll + Agility:**
@@ -9253,9 +9272,9 @@ Choose one of the following abilities.
 
 Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.
 
-- **Keywords:** Area, Magic, Ranged  
-- **Type:** Maneuver  
-- **Distance:** 3 cube within 10  
+- **Keywords:** Area, Magic, Ranged
+- **Type:** Maneuver
+- **Distance:** 3 cube within 10
 - **Target:** All enemies within
 
 **Power Roll + Agility:**
@@ -9271,10 +9290,10 @@ Intuition score.
 
 When your enemy strikes, you reveal you were in a different place all along.
 
-- **Keywords:** Attack, Melee, Ranged, Magic, Weapon  
+- **Keywords:** Attack, Melee, Ranged, Magic, Weapon
 - **Type:** Free Triggered Action
 
-**Trigger:** You use Clever Trick.  
+**Trigger:** You use Clever Trick.
 
 **Effect:** Clever Trick doesn't cost insight to use. The creature who attacked you actually just attacked an illusory
 image of you. You appear in an unoccupied space within 3 squares of that creature and can make a free strike against
@@ -9300,9 +9319,9 @@ Choose one heroic ability from the following options.
 
 You enter a flow state that makes you nearly impossible to pin down.
 
-- **Keywords:** -  
-- **Type:** Maneuver  
-- **Distance:** Self  
+- **Keywords:** -
+- **Type:** Maneuver
+- **Distance:** Self
 - **Target:** Self
 
 **Effect:** Until the end of the encounter, whenever an enemy moves to a space adjacent to you or damages you, you can
@@ -9312,9 +9331,9 @@ take the Disengage action as a free triggered action.
 
 Why are you looking at ME?!
 
-- **Keywords:** Attack, Melee, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1 or Ranged 5  
+- **Keywords:** Attack, Melee, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Melee 1 or Ranged 5
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
@@ -9329,9 +9348,9 @@ Why are you looking at ME?!
 
 One missile-placed well and placed hard.
 
-- **Keywords:** Attack, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Ranged 5  
+- **Keywords:** Attack, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Ranged 5
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
@@ -9344,9 +9363,9 @@ One missile-placed well and placed hard.
 
 There's no recovering from this.
 
-- **Keywords:** Attack, Melee, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1 or Ranged 5  
+- **Keywords:** Attack, Melee, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Melee 1 or Ranged 5
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
@@ -9500,13 +9519,13 @@ Your doctrine grants you a triggered action, as shown on the Tactician Triggered
 Your leadership thwarts an enemy or aids an ally.
 
 - **Keywords:** Ranged 
-- **Type:** Triggered  
-- **Distance:** Ranged 10  
-- **Target:** Any creature  
+- **Type:** Triggered
+- **Distance:** Ranged 10
+- **Target:** Any creature
 
-**Trigger:** The target makes an attack against another creature.  
+**Trigger:** The target makes an attack against another creature.
 
-**Effect:** Add or subtract `(SURGE)` to the attack.  
+**Effect:** Add or subtract `(SURGE)` to the attack.
 
 **Spend 3 Focus:** Increase or decrease the potency of one effect from the attack.
 
@@ -9514,14 +9533,14 @@ Your leadership thwarts an enemy or aids an ally.
 
 Your quick reflexes cost an enemy the precision they seek.
 
-- **Keywords:** Melee, Weapon  
-- **Type:** Triggered  
-- **Distance:** Self or Melee 1  
-- **Target:** Self or 1 ally  
+- **Keywords:** Melee, Weapon
+- **Type:** Triggered
+- **Distance:** Self or Melee 1
+- **Target:** Self or 1 ally
 
-**Trigger:** A creature makes a Weapon attack against the target.  
+**Trigger:** A creature makes a Weapon attack against the target.
 
-**Effect:** The attack's damage is reduced `(SHIELD)(SHIELD)`.  
+**Effect:** The attack's damage is reduced `(SHIELD)(SHIELD)`.
 
 **Spend 3 Focus:** Decrease the potency of all effects on the attack by 1.
 
@@ -9529,14 +9548,14 @@ Your quick reflexes cost an enemy the precision they seek.
 
 Under your direction, an ally waits for just the right moment to strike.
 
-- **Keywords:** Ranged  
-- **Type:** Triggered  
-- **Distance:** Ranged 10  
-- **Target:** 1 enemy  
+- **Keywords:** Ranged
+- **Type:** Triggered
+- **Distance:** Ranged 10
+- **Target:** 1 enemy
 
-**Trigger:** The target moves.  
+**Trigger:** The target moves.
 
-**Effect:** At any point during the target's movement, one ally can make a free strike against the target.  
+**Effect:** At any point during the target's movement, one ally can make a free strike against the target.
 
 **Spend 1 Focus:** The target is also R [average] slowed.
 
@@ -9574,13 +9593,13 @@ You know how to focus the attention of your allies as you push them toward victo
 
 You draw your allies' attention to a specific foe-with devastating effect. 
 
-- **Keywords:** Ranged  
-- **Type:** Maneuver  
-- **Distance:** Ranged 10  
-- **Target:** 1 creature  
+- **Keywords:** Ranged
+- **Type:** Maneuver
+- **Distance:** Ranged 10
+- **Target:** 1 creature
 
 **Effect:** The target is marked by you until the start of your next turn. When attacking a marked target, you and each
-of your allies gain a damage surge `(SURGE)`.  
+of your allies gain a damage surge `(SURGE)`.
 
 **Spend 1 Focus or More Focus:** You focus on understanding the tactics of your foe, countering their strengths and
 exploiting their weaknesses to enhance your squad.
@@ -9632,12 +9651,12 @@ Your ability to command your allies in combat grants you the following ability:
 
 Your foe left an opening. You point this out to an ally!
 
-- **Keywords:** Ranged  
-- **Type:** Action  
-- **Distance:** Ranged 10  
-- **Target:** 1 ally  
+- **Keywords:** Ranged
+- **Type:** Action
+- **Distance:** Ranged 10
+- **Target:** 1 ally
 
-**Effect:** The target makes a signature attack as a free triggered action.  
+**Effect:** The target makes a signature attack as a free triggered action.
 
 **Spend 5 Focus:** You target two allies instead of one.
 
@@ -9667,9 +9686,9 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 
 You shout a phrase that galvanizes your team.
 
-- **Keywords:** Ranged  
-- **Type:** Maneuver  
-- **Distance:** Ranged 10  
+- **Keywords:** Ranged
+- **Type:** Maneuver
+- **Distance:** Ranged 10
 - **Target:** Up to three allies
 
 **Power Roll + Reason:**
@@ -9682,9 +9701,9 @@ You shout a phrase that galvanizes your team.
 
 Your precise strike leaves your foe struggling to respond.
 
-- **Keywords:** Attack, Melee, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1 or Ranged 5  
+- **Keywords:** Attack, Melee, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Melee 1 or Ranged 5
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
@@ -9697,9 +9716,9 @@ Your precise strike leaves your foe struggling to respond.
 
 Your attack gives an ally hope.
 
-- **Keywords:** Attack, Melee, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1 or Ranged 5  
+- **Keywords:** Attack, Melee, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Melee 1 or Ranged 5
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
@@ -9713,10 +9732,10 @@ Your attack gives an ally hope.
 
 On your command, you and your allies force back the enemy line.
 
-- **Keywords:** Ranged, Weapon  
-- **Type:** Maneuver  
-- **Distance:** Ranged 10  
-- **Target:** Self and 2 allies  
+- **Keywords:** Ranged, Weapon
+- **Type:** Maneuver
+- **Distance:** Ranged 10
+- **Target:** Self and 2 allies
 
 **Effect:** Each target can move their speed.
 
@@ -9728,9 +9747,9 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 
 "Let's not argue about who's the hammer and who's the anvil."
 
-- **Keywords:** Attack, Melee, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1 or Ranged 5  
+- **Keywords:** Attack, Melee, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Melee 1 or Ranged 5
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
@@ -9748,10 +9767,10 @@ different target.
 
 Your attack demoralizes your foe. Your allies begin to think you can win.
 
-- **Keywords:** Attack, Melee, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1 or Ranged 5  
-- **Target:** 1 creature or object  
+- **Keywords:** Attack, Melee, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Melee 1 or Ranged 5
+- **Target:** 1 creature or object
 
 **Effect:** Mark the target.
 
@@ -9768,10 +9787,10 @@ start of your next turn.
 
 Your allies wait for your command-then unleash death!
 
-- **Keywords:** Ranged, Weapon  
-- **Type:** Maneuver  
-- **Distance:** Ranged 5  
-- **Target:** 3 allies  
+- **Keywords:** Ranged, Weapon
+- **Type:** Maneuver
+- **Distance:** Ranged 5
+- **Target:** 3 allies
 
 **Effect:** Each target can make a free strike.
 
@@ -9779,10 +9798,10 @@ Your allies wait for your command-then unleash death!
 
 All those coordination drills you made them do finally pay off.
 
-- **Keywords:** Ranged  
-- **Type:** Maneuver  
-- **Distance:** Ranged 10  
-- **Target:** 2 allies  
+- **Keywords:** Ranged
+- **Type:** Maneuver
+- **Distance:** Ranged 10
+- **Target:** 2 allies
 
 **Effect:** Each target who hasn't acted yet this round can take their turn in any order immediately after yours.
 
@@ -9835,10 +9854,10 @@ Choose one of the following abilities.
 
 Your unorthodox strategy causes enemies to lash out in fear, heedless of who they may be attacking.
 
-- **Keywords:** Ranged  
-- **Type:** Maneuver  
-- **Distance:** Ranged 10  
-- **Target:** Up to 3 enemies  
+- **Keywords:** Ranged
+- **Type:** Maneuver
+- **Distance:** Ranged 10
+- **Target:** Up to 3 enemies
 
 **Effect:** Mark each of the targets until the beginning of your next turn. You can choose to bank extra focus on these
 targets as part of this ability. Until the beginning of your next turn, whenever you or an ally makes an attack against
@@ -9848,10 +9867,10 @@ any marked target, you can force the marked target to make a free strike against
 
 "Try picking on someone MY size."
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
-- **Target:** 1 creature  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
+- **Target:** 1 creature
 
 **Effect:** You shift your speed directly toward an ally adjacent to the target and then swap locations with the ally,
 provided you can fit into each other's spaces. The ally can spend a Recovery and you roll power against the target.
@@ -9870,9 +9889,9 @@ Choose one of the following abilities.
 
 Your enemy will think twice about attacking your friend.
 
-- **Keywords:** Ranged  
-- **Type:** Action  
-- **Distance:** Ranged 5  
+- **Keywords:** Ranged
+- **Type:** Action
+- **Distance:** Ranged 5
 - **Target:** 1 creature
 
 **Power Roll + Reason:**
@@ -9887,10 +9906,10 @@ Your enemy will think twice about attacking your friend.
 
 All that time you spent studying ancient battles paid off!
 
-- **Keywords:** Ranged  
-- **Type:** Maneuver  
-- **Distance:** Ranged 5  
-- **Target:** 3 enemies  
+- **Keywords:** Ranged
+- **Type:** Maneuver
+- **Distance:** Ranged 5
+- **Target:** 3 enemies
 
 **Effect:** You mark each of the targets until the beginning of your next turn. For the rest of the round, whenever you
 or an ally makes an attack, the attack can target an additional creature who is marked by you.
@@ -9903,12 +9922,12 @@ Choose one of the following abilities.
 
 You prioritize saving an ally over your own safety.
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Triggered  
-- **Distance:** Ranged 5  
-- **Target:** 1 enemy  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Triggered
+- **Distance:** Ranged 5
+- **Target:** 1 enemy
 
-**Trigger:** The target attacks an ally.  
+**Trigger:** The target attacks an ally.
 
 **Effect:** You move toward the target, ending your move in the nearest square that puts the target adjacent to you if
 you can. The ally can spend a Recovery and an additional Recovery for each enemy you move past while moving to the
@@ -9924,10 +9943,10 @@ target. Then make the following power roll against the target.
 
 Together we are invincible!
 
-- **Keywords:** Area  
-- **Type:** Maneuver  
-- **Distance:** Self and 1 burst  
-- **Target:** Self and all allies  
+- **Keywords:** Area
+- **Type:** Maneuver
+- **Distance:** Self and 1 burst
+- **Target:** Self and all allies
 
 **Effect:** Until the start of your next turn, targets have `(SHIELD)(SHIELD)` and a bonus to their Stability equal to your Might
 score.
@@ -9952,10 +9971,10 @@ Choose one heroic ability from the following options.
 
 Historians will write about this day.
 
-- **Keywords:** -  
-- **Type:** Maneuver  
-- **Distance:** Self  
-- **Target:** Self  
+- **Keywords:** -
+- **Type:** Maneuver
+- **Distance:** Self
+- **Target:** Self
 
 **Effect:** Until the end of the encounter or you are dying, whenever you or an ally attacks a target marked by you,
 they do `(SURGE)(SURGE)`.
@@ -9964,10 +9983,10 @@ they do `(SURGE)(SURGE)`.
 
 The purpose of a charge is to break their morale, and force a retreat.
 
-- **Keywords:** -  
-- **Type:** Maneuver  
-- **Distance:** Self  
-- **Target:** Self  
+- **Keywords:** -
+- **Type:** Maneuver
+- **Distance:** Self
+- **Target:** Self
 
 **Effect:** Until the end of the encounter, or you are dying, whenever you or an ally attacks a target marked by you,
 they can push the target 2, then shift 2. Allies can use signature attacks or heroic attacks as part of a charge against
@@ -9977,10 +9996,10 @@ marked targets.
 
 The tide begins to turn.
 
-- **Keywords:** -  
-- **Type:** Maneuver  
-- **Distance:** Self  
-- **Target:** Self  
+- **Keywords:** -
+- **Type:** Maneuver
+- **Distance:** Self
+- **Target:** Self
 
 **Effect:** Until the end of the encounter, or you are dying, whenever you or an ally attacks a target marked by you,
 they are R [average] frightened of the attacker (save ends).
@@ -9989,10 +10008,10 @@ they are R [average] frightened of the attacker (save ends).
 
 "We can do this! Keep faith and hold fast!"
 
-- **Keywords:** -  
-- **Type:** Maneuver  
-- **Distance:** Self  
-- **Target:** Self  
+- **Keywords:** -
+- **Type:** Maneuver
+- **Distance:** Self
+- **Target:** Self
 
 **Effect:** Until the end of the encounter or you are dying, whenever you or an ally attacks a target marked by you,
 they can spend a Recovery.
@@ -10104,11 +10123,11 @@ as a ranged free strike:
 
 #### MIND SPIKE
 
-*A telepathic bolt that instantly zaps a creature's brain.*  
+*A telepathic bolt that instantly zaps a creature's brain.*
 
-- **Keywords:** Attack, Psionic, Ranged, Telepathy  
-- **Type:** Action  
-- **Distance:** Ranged 10  
+- **Keywords:** Attack, Psionic, Ranged, Telepathy
+- **Type:** Action
+- **Distance:** Ranged 10
 - **Target:** 1 creature
 
 **Power Roll + Reason:**
@@ -10146,12 +10165,12 @@ You gain access to the following maneuver:
 
 *To your ally, it seems as though the world has slowed down.*
 
-- **Keywords:** Psionic  
-- **Type:** Maneuver  
-- **Distance:** Self or Ranged 10  
+- **Keywords:** Psionic
+- **Type:** Maneuver
+- **Distance:** Self or Ranged 10
 - **Target:** Self or 1 creature
 
-**Effect:** The target can immediately shift a number of squares up to your Reason.  
+**Effect:** The target can immediately shift a number of squares up to your Reason.
 
 **Spend 3 Clarity:** The target can also take a maneuver.
 
@@ -10163,10 +10182,10 @@ You gain access to the following triggered action:
 
 *You step back a split second to see if things play out a little differently.*
 
-- **Keywords:** Psionic, Ranged  
-- **Type:** Triggered  
-- **Distance:** Self or Ranged 10  
-- **Target:** Self or 1 creature  
+- **Keywords:** Psionic, Ranged
+- **Type:** Triggered
+- **Distance:** Self or Ranged 10
+- **Target:** Self or 1 creature
 
 **Trigger:** The target makes an attack. You can use this ability after seeing the result of the roll. You gain 1
 clarity.
@@ -10182,10 +10201,10 @@ You gain access to the following triggered action:
 
 *By creating a brief psychic link with their target, you give a foe a taste of their own medicine.*
 
-- **Keywords:** Psionic, Ranged  
-- **Type:** Triggered  
-- **Distance:** Ranged 10  
-- **Target:** 1 creature  
+- **Keywords:** Psionic, Ranged
+- **Type:** Triggered
+- **Distance:** Ranged 10
+- **Target:** 1 creature
 
 **Trigger:** The target deals damage to an ally.
 
@@ -10199,14 +10218,14 @@ You gain access to the following maneuver:
 
 *Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*
 
-- **Keywords:** Psionic  
-- **Type:** Maneuver  
-- **Distance:** Self or Ranged 10  
+- **Keywords:** Psionic
+- **Type:** Maneuver
+- **Distance:** Self or Ranged 10
 - **Target:** Self or a size 1 creature or object
 
-**Effect:** You slide the target a number of squares equal to your Reason score.  
+**Effect:** You slide the target a number of squares equal to your Reason score.
 
-**Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity you spend.  
+**Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity you spend.
 
 **Spend 3 Clarity:** You can slide the target vertically.
 
@@ -10218,12 +10237,12 @@ You gain access to the following maneuver:
 
 *An ally gains the benefit of your intellect.*
 
-- **Keywords:** Psionic  
-- **Type:** Maneuver  
-- **Distance:** Ranged 10  
+- **Keywords:** Psionic
+- **Type:** Maneuver
+- **Distance:** Ranged 10
 - **Target:** 1 creature or object
 
-**Effect:** You use the Aid Attack maneuver on the target.  
+**Effect:** You use the Aid Attack maneuver on the target.
 
 **Spend 3 Clarity:** You target 1 additional creature or object.
 
@@ -10235,10 +10254,10 @@ You gain access to the following triggered action:
 
 *They aren't going anywhere, but you might!*
 
-- **Keywords:** Psionic, Ranged  
-- **Type:** Triggered  
-- **Distance:** Self or Ranged 10  
-- **Target:** Self or 1 ally  
+- **Keywords:** Psionic, Ranged
+- **Type:** Triggered
+- **Distance:** Self or Ranged 10
+- **Target:** Self or 1 ally
 
 **Trigger:** The target takes damage or is force moved.
 
@@ -10284,22 +10303,22 @@ change your ward along with your mind focus (see Mind Focus) by undergoing psion
 #### ENTROPY WARD
 
 Your ward slows time for your enemies. When a creature deals damage to you, their speed is reduced
-  by an amount equal to your Reason score, and they can't use triggered actions until the end of their next turn.
+by an amount equal to your Reason score, and they can't use triggered actions until the end of their next turn.
 
 #### REPULSIVE WARD
 
 You make yourself an invisible ward of telekinetic energy. When an adjacent creature deals damage
-  to you, you can push them a number of squares equal to your Reason score as a free triggered action.
+to you, you can push them a number of squares equal to your Reason score as a free triggered action.
 
 #### STEEL WARD
 
 Your ward reacts to danger, protecting your body from future harm. When you take damage, the damage
-  resolves and then you gain `(SHIELD)` until the end of your next turn.
+resolves and then you gain `(SHIELD)` until the end of your next turn.
 
 #### VANISHING WARD
 
 Your ward allows you to slip away from danger. When you take damage, you become invisible until
-  the end of your next turn.
+the end of your next turn.
 
 ### SELECT ABILITIES
 
@@ -10315,9 +10334,9 @@ Select two signature abilities. Signature abilities can be used at will.
 
 *You advance an enemy's age for a moment.*
 
-- **Keywords:** Attack, Chronopathy, Psionic, Ranged  
-- **Type:** Action  
-- **Distance:** Ranged 10  
+- **Keywords:** Attack, Chronopathy, Psionic, Ranged
+- **Type:** Action
+- **Distance:** Ranged 10
 - **Target:** 1 creature or object
 
 **Power Roll + Presence:**
@@ -10335,9 +10354,9 @@ encounter.
 
 *The air erupts into a column of smokeless flame.* 
 
-- **Keywords:** Area, Fire, Ranged, Psionic, Pyrokinesis  
-- **Type:** Action  
-- **Distance:** 3 Cube within 10  
+- **Keywords:** Area, Fire, Ranged, Psionic, Pyrokinesis
+- **Type:** Action
+- **Distance:** 3 Cube within 10
 - **Target:** All enemies
 
 **Power Roll + Reason:**
@@ -10355,9 +10374,9 @@ their turn in the affected area takes 2 fire damage.
 
 *You lift and hurl your foe away from you.* 
 
-- **Keywords:** Melee, Psionic, Telekinesis  
-- **Type:** Action  
-- **Distance:** Melee 3  
+- **Keywords:** Melee, Psionic, Telekinesis
+- **Type:** Action
+- **Distance:** Melee 3
 - **Target:** 1 size 1 creature or object
 
 **Power Roll + Reason:**
@@ -10374,9 +10393,9 @@ their turn in the affected area takes 2 fire damage.
 
 *The force of your mind hurls enemies backwards.* 
 
-- **Keywords:** Area, Psionic, Telepathy  
-- **Type:** Action  
-- **Distance:** 1 Burst  
+- **Keywords:** Area, Psionic, Telepathy
+- **Type:** Action
+- **Distance:** 1 Burst
 - **Target:** All enemies
 
 **Power Roll + Reason:**
@@ -10391,9 +10410,9 @@ their turn in the affected area takes 2 fire damage.
 
 *Your eyes emit rays of powerful enervating force.* 
 
-- **Keywords:** Attack, Metamorphosis, Psionic, Ranged  
-- **Type:** Action  
-- **Distance:** Ranged 10  
+- **Keywords:** Attack, Metamorphosis, Psionic, Ranged
+- **Type:** Action
+- **Distance:** Ranged 10
 - **Target:** 1 creature or object
 
 **Power Roll + Reason:**
@@ -10412,9 +10431,9 @@ turn.
 
 *Your mind, as sharp as a blade.* 
 
-- **Keywords:** Animapathy, Attack, Melee, Psionic  
-- **Type:** Action  
-- **Distance:** Melee 2  
+- **Keywords:** Animapathy, Attack, Melee, Psionic
+- **Type:** Action
+- **Distance:** Melee 2
 - **Target:** 1 creature or object
 
 **Power Roll + Presence:**
@@ -10439,9 +10458,9 @@ Choose one heroic ability from the following options:
 
 *You project psionic energy out to a creature and take on a new visage in their mind.*
 
-- **Keywords:** Attack, Psionic, Ranged, Telepathy  
-- **Type:** Action  
-- **Distance:** Ranged 10  
+- **Keywords:** Attack, Psionic, Ranged, Telepathy
+- **Type:** Action
+- **Distance:** Ranged 10
 - **Target:** 1 ally or enemy
 
 **Effect:** An ally targeted by this ability gains Temporary Stamina equal to twice your Presence and ends one (EoT)
@@ -10457,9 +10476,9 @@ or (save ends) effect affecting them. If you target an enemy, you make the follo
 
 *Be careful not to choke on your aspirations.*
 
-- **Keywords:** Attack, Psionic, Ranged, Telekinesis  
-- **Type:** Action  
-- **Distance:** Ranged 10  
+- **Keywords:** Attack, Psionic, Ranged, Telekinesis
+- **Type:** Action
+- **Distance:** Ranged 10
 - **Target:** 1 creature
 
 **Power Roll + Reason:**
@@ -10475,9 +10494,9 @@ stability.
 
 *You give a target a glimpse into the future so that they're ready for what comes next.*
 
-- **Keywords:** Chronopathy, Melee, Psionic  
-- **Type:** Action  
-- **Distance:** Self or Melee 2  
+- **Keywords:** Chronopathy, Melee, Psionic
+- **Type:** Action
+- **Distance:** Self or Melee 2
 - **Target:** Self or 1 ally
 
 **Effect:** The target has `(SHIELD)` until the start of your next turn. Whenever the target takes damage while they have this
@@ -10487,9 +10506,9 @@ effect, they can take a free strike against the source of the damage.
 
 *Smoke falls from your enemy like tears as their skin begins to blacken and flake.* 
 
-- **Keywords:** Attack, Psionic, Pyrokinesis, Ranged  
-- **Type:** Action  
-- **Distance:** Ranged 10  
+- **Keywords:** Attack, Psionic, Pyrokinesis, Ranged
+- **Type:** Action
+- **Distance:** Ranged 10
 - **Target:** 1 creature
 
 **Power Roll + Reason:**
@@ -10509,9 +10528,9 @@ Choose one heroic ability from the following options:
 
 *The target is thrown back through time several seconds and gets to do it all again.* 
 
-- **Keywords:** Chronopathy, Psionic, Ranged  
-- **Type:** Maneuver  
-- **Distance:** Self or Ranged 10  
+- **Keywords:** Chronopathy, Psionic, Ranged
+- **Type:** Maneuver
+- **Distance:** Self or Ranged 10
 - **Target:** Self or 1 ally
 
 **Effect:** The target uses an ability they've previously used this round without spending any heroic resources.
@@ -10522,9 +10541,9 @@ Choose one heroic ability from the following options:
 
 *Your psionic energy surrounds the target and pushes everything else away from them.* 
 
-- **Keywords:** Psionic, Ranged, Telekinesis  
-- **Type:** Maneuver  
-- **Distance:** Self or Ranged 10  
+- **Keywords:** Psionic, Ranged, Telekinesis
+- **Type:** Maneuver
+- **Distance:** Self or Ranged 10
 - **Target:** Self or 1 ally
 
 **Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next
@@ -10537,9 +10556,9 @@ distance you are force moved (save ends).
 
 *The target's skin turns to hard, dark metal, both impenetrable and dense.* 
 
-- **Keywords:** Metamorphosis, Psionic, Ranged  
-- **Type:** Maneuver  
-- **Distance:** Self or Ranged 10  
+- **Keywords:** Metamorphosis, Psionic, Ranged
+- **Type:** Maneuver
+- **Distance:** Self or Ranged 10
 - **Target:** Self or 1 ally
 
 **Effect:** The target's stability increases by 5, and they have `(SHIELD)` and a `(SURGE)` on weapon attacks until the start of your
@@ -10551,9 +10570,9 @@ next turn.
 
 *You clear the mind of nothing but the goal.* 
 
-- **Keywords:** Psionic, Ranged, Telepathy  
-- **Type:** Maneuver  
-- **Distance:** Self or Ranged 10  
+- **Keywords:** Psionic, Ranged, Telepathy
+- **Type:** Maneuver
+- **Distance:** Self or Ranged 10
 - **Target:** Self or 1 ally
 
 **Effect:** The target's speed increases by 3, and they have a double edge on their next power roll made before the
@@ -10584,17 +10603,17 @@ Your talents extend naturally to your heroic feats outside the battlefield.
 #### EASE THE HOURS
 
 You can increase the number of rounds in a montage test by 1 if the test would end before the
-  heroes hit the success limit.
+heroes hit the success limit.
 
 #### EASE THE MIND
 
 You have an edge on tests to stop combat and start negotiations. NPCs with hostile or suspicious
-  starting attitudes in negotiations have an additional 1 patience.
+starting attitudes in negotiations have an additional 1 patience.
 
 #### EASE THEIR FALL
 
 Whenever you land from falling, or a falling creature lands within 2 of you, you can reduce the
-  falling damage by 2 + your Reason.
+falling damage by 2 + your Reason.
 
 #### EXTRA SHIELD
 
@@ -10616,9 +10635,9 @@ Choose one of the following abilities:
 
 *Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.* 
 
-- **Keywords:** Chronopathy, Psionic, Ranged  
-- **Type:** Maneuver  
-- **Distance:** Self or Ranged 10  
+- **Keywords:** Chronopathy, Psionic, Ranged
+- **Type:** Maneuver
+- **Distance:** Self or Ranged 10
 - **Target:** Special
 
 **Power Roll + Presence:**
@@ -10636,9 +10655,9 @@ the start of your next turn.
 
 *Perhaps they wonder why everyone else is moving so quickly?* 
 
-- **Keywords:** Chronopathy, Psionic, Ranged  
-- **Type:** Maneuver  
-- **Distance:** Ranged 10  
+- **Keywords:** Chronopathy, Psionic, Ranged
+- **Type:** Maneuver
+- **Distance:** Ranged 10
 - **Target:** 3 creatures or objects
 
 **Power Roll + Presence:**
@@ -10661,9 +10680,9 @@ Choose one of the following abilities:
 
 *Everyone get away from me!*
 
-- **Keywords:** Area, Psionic, Telekinesis  
-- **Type:** Action  
-- **Distance:** 1 Burst  
+- **Keywords:** Area, Psionic, Telekinesis
+- **Type:** Action
+- **Distance:** 1 Burst
 - **Target:** All enemies
 
 **Power Roll + Reason:**
@@ -10678,9 +10697,9 @@ Choose one of the following abilities:
 
 *You raise the target into the air and smother them against the ground.* 
 
-- **Keywords:** Attack, Psionic, Ranged, Telekinesis  
-- **Type:** Action  
-- **Distance:** Ranged 10  
+- **Keywords:** Attack, Psionic, Ranged, Telekinesis
+- **Type:** Action
+- **Distance:** Ranged 10
 - **Target:** 1 creature or object
 
 **Power Roll + Reason:**
@@ -10702,9 +10721,9 @@ Choose one of the following abilities:
 
 *You overload their senses, turning all their subconscious thoughts into conscious ones.* 
 
-- **Keywords:** Attack, Psionic, Ranged, Telepathy  
-- **Type:** Action  
-- **Distance:** Ranged 10  
+- **Keywords:** Attack, Psionic, Ranged, Telepathy
+- **Type:** Action
+- **Distance:** Ranged 10
 - **Target:** 1 creature
 
 **Power Roll + Reason:**
@@ -10720,9 +10739,9 @@ turn.
 
 *You gain control over an enemy's nervous system. How pleasant for them.* 
 
-- **Keywords:** Psionic, Ranged, Telepathy  
-- **Type:** Action  
-- **Distance:** Ranged 10  
+- **Keywords:** Psionic, Ranged, Telepathy
+- **Type:** Action
+- **Distance:** Ranged 10
 - **Target:** 1 enemy
 
 **Power Roll + Reason:**
@@ -10754,9 +10773,9 @@ Choose one heroic ability from the following options:
 
 *You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.* 
 
-- **Keywords:** Chronopathy, Psionic, Ranged  
-- **Type:** Action  
-- **Distance:** Ranged 10  
+- **Keywords:** Chronopathy, Psionic, Ranged
+- **Type:** Action
+- **Distance:** Ranged 10
 - **Target:** 1 creature or object
 
 **Power Roll + Presence:**
@@ -10775,9 +10794,9 @@ tier-3 result.
 
 *Three spheres of solid psionic energy float around you.* 
 
-- **Keywords:** Attack, Psionic, Ranged, Telekinesis  
-- **Type:** Action  
-- **Distance:** Self  
+- **Keywords:** Attack, Psionic, Ranged, Telekinesis
+- **Type:** Action
+- **Distance:** Self
 - **Target:** Self
 
 **Effect:** You create three size 1T orb objects that orbit your body. You have a `(SHIELD)` for each orb you have active.
@@ -10798,9 +10817,9 @@ losing the orb after the attack.
 
 *A field that reverses the momentum of incoming attacks.* 
 
-- **Keywords:** Area, Psionic, Telepathy  
-- **Type:** Action  
-- **Distance:** 3 Aura  
+- **Keywords:** Area, Psionic, Telepathy
+- **Type:** Action
+- **Distance:** 3 Aura
 - **Target:** Self
 
 **Effect:** The aura lasts until the start of your next turn. Whenever an enemy targets an ally within the aura with a
@@ -10814,9 +10833,9 @@ forget a memory.
 
 *You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.* 
 
-- **Keywords:** Animapathy, Attack, Psionic, Ranged  
-- **Type:** Action  
-- **Distance:** Ranged 10  
+- **Keywords:** Animapathy, Attack, Psionic, Ranged
+- **Type:** Action
+- **Distance:** Ranged 10
 - **Target:** 1 creature
 
 **Power Roll + Presence:**
@@ -10946,8 +10965,7 @@ select from.
 - **Distance:** 5 aura
 - **Target:** Self and all allies
 
-**Effect:** Each target that starts their turn within the aura has their speed increased by 2 until the end of their
-  turn.
+**Effect:** Each target that starts their turn within the aura has their speed increased by 2 until the end of their turn.
 
 ### CLASS ACT FEATURES
 
@@ -11015,7 +11033,8 @@ You have the following ability.
       start of your next turn.
     - You insult the enemy where they're most vulnerable. The next attack made against an enemy within distance has `(SURGE)`
       until the start of your next turn.
-    - **Spend 3 Drama:** You can have 2 targets for any of these effects instead of 1.
+
+**Spend 3 Drama:** You can have 2 targets for any of these effects instead of 1.
 
 #### POWER CHORD
 
@@ -11050,7 +11069,8 @@ You have the following ability.
 
 **Effect:** Your speed increases by 2 until the end of your turn. The next power roll you make this turn can't be
   lower than tier-2.
-    - **Spend 2 Drama:** Your speed, instead, increases by 4.
+
+**Spend 2 Drama:** Your speed, instead, increases by 4.
 
 #### VIRTUOSO ROUTINES
 
@@ -11110,7 +11130,8 @@ Your class act grants you one of the following triggered actions as shown on the
 
 **Effect:** The target chooses an additional target within Distance. They use the same power roll for all additional
   targets. Any damage dealt to additional targets is now sonic damage.
-    - **Spend 2 Drama:** The target chooses two additional targets instead of one.
+
+**Spend 2 Drama:** The target chooses two additional targets instead of one.
 
 #### RIPOSTE
 
@@ -11124,7 +11145,8 @@ Your class act grants you one of the following triggered actions as shown on the
 **Trigger:** The target takes damage from a melee attack.
 
 **Effect:** The target takes a free strike against the attacker.
-    - **Spend 2 Drama:** The target can use a signature attack in place of the free strike.
+
+**Spend 2 Drama:** The target can use a signature attack in place of the free strike.
 
 #### TURNABOUT IS FAIR PLAY
 
@@ -11138,8 +11160,8 @@ Your class act grants you one of the following triggered actions as shown on the
 **Trigger:** The target makes an attack with at least one edge or a bane.
 
 **Effect:** One of the attack's edges becomes a bane or vice versa.
-    - **Spend 3 Drama:** One of the target's attack's edges becomes a double bane, or one of the attack's banes becomes
-      a double edge.
+
+**Spend 3 Drama:** One of the target's attack's edges becomes a double bane, or one of the attack's banes becomes a double edge.
 
 ### KIT
 
@@ -11876,9 +11898,9 @@ You wear no armor and wield a bow.
 
 Your ammunition explodes with magical energy. 
 
-- **Keywords:** Attack, Magic, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Ranged 15  
+- **Keywords:** Attack, Magic, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Ranged 15
 - **Target:** 1 creature or object
 
 **Power Roll + Agility, Reason, Intuition, or Presence:**
@@ -11911,9 +11933,9 @@ You wear light armor and wield a medium weapon.
 
 Your weapon unleashes psionic energy that reduces your target's weight. 
 
-- **Keywords:** Attack, Melee, Psionic, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Psionic, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature
 
 **Power Roll + Might, Reason, Intuition, or Presence:**
@@ -11948,9 +11970,9 @@ You wear light armor and wield one or two light weapons.
 
 A stab, and a few quick, careful steps back. 
 
-- **Keywords:** Attack, Melee, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1 or range 10  
+- **Keywords:** Attack, Melee, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Melee 1 or range 10
 - **Target:** 1 creature
 
 **Power Roll + Might or Agility:**
@@ -11981,9 +12003,9 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 Why strike once when you could do it twice? 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 2 creatures or objects
 
 **Power Roll + Might or Agility:**
@@ -12018,9 +12040,9 @@ You wear medium armor and wield a polearm.
 
 In your hands, the haft is as good as the head. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 2  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 2
 - **Target:** 2 creatures or objects
 
 **Power Roll + Might or Agility:**
@@ -12051,9 +12073,9 @@ You wear no armor and wield only your unarmed strikes.
 
 You feint to move your enemies into perfect position. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature
 
 **Power Roll + Might or Agility:**
@@ -12086,9 +12108,9 @@ You wear heavy armor and wield a heavy weapon.
 
 An enemy who tagged you will pay for that. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature
 
 **Power Roll + Might or Agility:**
@@ -12122,9 +12144,9 @@ You wear no armor and wield a heavy weapon.
 
 The faster you move, the harder you hit. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature or object
 
 **Power Roll + Might or Agility:**
@@ -12159,9 +12181,9 @@ You wear no armor and wield only your unarmed strikes.
 
 Keeping your enemies stumbling around the battlefield is second nature to you. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature
 
 **Power Roll + Might or Agility:**
@@ -12196,9 +12218,9 @@ You wear light armor, and wield a shield and a light weapon.
 
 You execute a brutal strike that leaves your foe reeling. 
 
-- **Keywords:** Attack, Melee, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1 or Ranged 10  
+- **Keywords:** Attack, Melee, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Melee 1 or Ranged 10
 - **Target:** 1 creature
 
 **Power Roll + Might or Agility:**
@@ -12234,9 +12256,9 @@ You wear medium armor and wield a medium weapon and a bow.
 
 A well-placed shot leaves your enemy struggling to move. 
 
-- **Keywords:** Attack, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Ranged 10  
+- **Keywords:** Attack, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Ranged 10
 - **Target:** 1 creature
 
 **Power Roll + Might or Agility:**
@@ -12268,9 +12290,9 @@ You wear light armor and wield a bow.
 
 When you fire two arrows back to back, both hit their mark. 
 
-- **Keywords:** Attack, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Ranged 12  
+- **Keywords:** Attack, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Ranged 12
 - **Target:** 2 creatures or objects
 
 **Power Roll + Might or Agility:**
@@ -12303,9 +12325,9 @@ You wear light armor, and wield a polearm and several ensnaring weapons.
 
 The well-thrown net that follows your main attack leaves your foes right where you want them. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 2  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 2
 - **Target:** 1 creature
 
 **Power Roll + Might or Agility:**
@@ -12335,9 +12357,9 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 The strength of your assault makes it impossible for your foe to ignore you.
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature
 
 **Power Roll + Might or Agility:**
@@ -12370,9 +12392,9 @@ You wear no armor and wield a bow.
 
 Breathe... aim... wait... then strike! 
 
-- **Keywords:** Attack, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Ranged 15  
+- **Keywords:** Attack, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Ranged 15
 - **Target:** 1 creature
 
 **Power Roll + Might or Agility:**
@@ -12405,9 +12427,9 @@ You wear light armor and wield a shield and a medium weapon.
 
 Lightning jumps from your weapon as you strike to harm a nearby foe. 
 
-- **Keywords:** Attack, Magic, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Magic, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature or object
 
 **Power Roll + Might, Reason, Intuition, or Presence:**
@@ -12441,9 +12463,9 @@ You wear light armor and wield a polearm.
 
 When your stick speaks, your enemy moves. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 2  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 2
 - **Target:** 1 creature
 
 **Power Roll + Might or Agility:**
@@ -12474,9 +12496,9 @@ You wear light armor and wield a medium weapon.
 
 All combat is a dance-and you'll be the one leading. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature
 
 **Power Roll + Might or Agility:**
@@ -12509,9 +12531,9 @@ You wear medium armor and wield a shield and a medium weapon.
 
 In your hands, a shield isn't just for protection. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature
 
 **Power Roll + Might or Agility:**
@@ -12542,9 +12564,9 @@ You wear heavy armor and wield a light weapon.
 
 The impact of your weapon brands your target for destruction. 
 
-- **Keywords:** Attack, Magic, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
+- **Keywords:** Attack, Magic, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
 - **Target:** 1 creature or object
 
 **Power Roll + Might, Reason, Intuition, or Presence:**
@@ -12577,9 +12599,9 @@ You wear no armor and wield a whip.
 
 When you draw your whip back after an attack, your enemy comes ever closer. 
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 3  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 3
 - **Target:** 1 creature
 
 **Power Roll + Might or Agility:**
@@ -12974,10 +12996,10 @@ You gain the following ability.
 
 #### ARCANE TRICK
 
-- **Keywords:** Magic  
-- **Type:** Action  
-- **Distance:** Self  
-- **Target:** Self  
+- **Keywords:** Magic
+- **Type:** Action
+- **Distance:** Self
+- **Target:** Self
 
 You cast an entertaining spell that creates a minor but impressive magical effect.
 
@@ -13003,15 +13025,15 @@ If the familiar is destroyed, you can restore them as a respite activity or by s
 
 #### FAMILIAR STAT BLOCK
 
-- **Stamina:** 2 x your level  
-- **Speed:** 5  
-- **Size:** 1T  
-- **Stability:** 0  
-- **Might:** -3  
-- **Agility:** +2  
-- **Reason:** +0  
-- **Intuition:** 0  
-- **Presence:** +1  
+- **Stamina:** 2 x your level
+- **Speed:** 5
+- **Size:** 1T
+- **Stability:** 0
+- **Might:** -3
+- **Agility:** +2
+- **Reason:** +0
+- **Intuition:** 0
+- **Presence:** +1
 
 **Telepathic:** You and the spirit can communicate telepathically with each other and share senses while you are within 10 squares of each other.
 
@@ -13021,10 +13043,10 @@ You gain the following ability.
 
 #### INVISIBLE FORCE
 
-- **Keywords:** Psionic  
-- **Type:** Maneuver  
-- **Distance:** Ranged 10  
-- **Target:** 1 size 1T unattended object  
+- **Keywords:** Psionic
+- **Type:** Maneuver
+- **Distance:** Ranged 10
+- **Target:** 1 size 1T unattended object
 
 You manipulate a tiny object with your mind. You can move the object up to a number of squares equal to your Reason, Intuition, or Presence score (your choice). You can use this ability to turn doorknobs, pull levers, and manipulate other smaller, movable pieces of a larger object as long as the piece you're manipulating is unattended and size 1T (though you can't use this ability to break smaller pieces off of a larger object).
 
@@ -13038,12 +13060,12 @@ You gain the following ability.
 
 #### PSYCHIC WHISPER
 
-- **Keywords:** Psionic  
-- **Type:** Maneuver  
-- **Distance:** Ranged 10  
-- **Target:** 1 ally who understands at least one language  
+- **Keywords:** Psionic
+- **Type:** Maneuver
+- **Distance:** Ranged 10
+- **Target:** 1 ally who understands at least one language
 
-You send a one-way telepathic message to a friend.  
+You send a one-way telepathic message to a friend.
 
 **Effect:** You send a telepathic message to the target that takes 10 seconds or less to speak.
 
@@ -14515,10 +14537,10 @@ You attempt to grab a creature using the following ability:
 
 #### GRAB
 
-- **Keywords:** Melee  
-- **Type:** Maneuver  
-- **Distance:** Melee 1  
-- **Target:** 1 creature no more than 1 size larger than you  
+- **Keywords:** Melee
+- **Type:** Maneuver
+- **Distance:** Melee 1
+- **Target:** 1 creature no more than 1 size larger than you
 
 **Power Roll + Might:**
 - **11 or lower:** No effect
@@ -14537,10 +14559,10 @@ You attempt to shove an adjacent creature using the following ability:
 
 #### KNOCKBACK
 
-- **Keywords:** Melee, Weapon  
-- **Type:** Maneuver  
-- **Distance:** Melee 1  
-- **Target:** 1 creature no more than 1 size larger than you  
+- **Keywords:** Melee, Weapon
+- **Type:** Maneuver
+- **Distance:** Melee 1
+- **Target:** 1 creature no more than 1 size larger than you
 
 **Power Roll + Might:**
 - **11 or lower:** Push 1
@@ -14615,10 +14637,10 @@ A melee weapon free strike is a melee attack made with an unarmed strike or an i
 
 #### MELEE WEAPON FREE STRIKE
 
-- **Keywords:** Attack, Melee, Weapon  
-- **Type:** Action  
-- **Distance:** Melee 1  
-- **Target:** 1 creature or object  
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Melee 1
+- **Target:** 1 creature or object
 
 **Power Roll + Might or Agility:**
 - **11 or lower:** 2 damage
@@ -14627,10 +14649,10 @@ A melee weapon free strike is a melee attack made with an unarmed strike or an i
 
 #### RANGED WEAPON FREE STRIKE
 
-- **Keywords:** Attack, Ranged, Weapon  
-- **Type:** Action  
-- **Distance:** Ranged 5  
-- **Target:** 1 creature or object  
+- **Keywords:** Attack, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Ranged 5
+- **Target:** 1 creature or object
 
 **Power Roll + Might or Agility:**
 - **11 or lower:** 2 damage
@@ -14959,7 +14981,7 @@ An NPC can have any of the following twelve motivations or pitfalls:
 
 An NPC with the benevolence motivation believes in sharing what they have with others. However, an NPC involved in a negotiation must be limited in their benevolence, so that they don't just give the heroes what they need.
 
-  Sometimes an NPC's benevolence might extend only to a specific group of people, so that a benevolent pirate captain might share their plunder freely with the rest of their crew-but they're still plundering! Other times, an NPC's charity might be limited by the fact that they don't have much to give. A benevolent NPC might be hesitant to give the heroes help because they believe their limited resources are more necessary or could do more good somewhere else.
+Sometimes an NPC's benevolence might extend only to a specific group of people, so that a benevolent pirate captain might share their plunder freely with the rest of their crew-but they're still plundering! Other times, an NPC's charity might be limited by the fact that they don't have much to give. A benevolent NPC might be hesitant to give the heroes help because they believe their limited resources are more necessary or could do more good somewhere else.
 
 An NPC with the **benevolence pitfall** has a cynical view of the world, believing that no creature has a right to anything just by being alive. The idea of helping others because it's the right thing to do is a preposterous, immature, or inexperienced idea to be laughed off or snuffed out.
 
@@ -16122,7 +16144,7 @@ Heroes can undertake the following research projects, which require the study of
 
 **Project Roll Characteristic:** Reason
 
-**Project Goal:** Varies (see the table)  
+**Project Goal:** Varies (see the table)
 
 If you want to track the location of a lost treasure, decipher a ritual, or trace the lineage of a royal family to find the next heir to the throne, you can start a project to delve into whatever mysteries you seek to unravel. You might start a project to discover lore because the information can't be discovered through a regular test, or you could do so because you failed a test to recall information and now want to learn it through research.
 
@@ -16161,7 +16183,7 @@ Forbidden knowledge is lore that a powerful individual or organization is attemp
 
 **Project Roll Characteristic:** Intuition or Presence
 
-**Project Goal:** 15  
+**Project Goal:** 15
 
 Going undercover to spy on a group of people is a cheap and easy way to find what you're looking for. Choose an organization when you undertake this activity. Completing this project grants you access to maps, knowledge about an organization's operations, or some other piece of knowledge that would be considered common or obscure (see the Discover Lore project). At the Director's discretion, you must have a disguise, signet ring, tattoo, or some other indication that you belong to the organization in order to begin this project. Additionally, the Director can decide that the knowledge you seek may not be gained through this project but rather through adventuring.
 
@@ -16174,7 +16196,7 @@ Going undercover to spy on a group of people is a cheap and easy way to find wha
 **Project Source:** None
 **Project Roll Characteristic:** Intuition
 
-**Project Goal:** 240 if your career granted you two skills, or 360 if your career granted you three skills  
+**Project Goal:** 240 if your career granted you two skills, or 360 if your career granted you three skills
 
 You revisit your previous life and freshen up on the experience it provided you. When the project is complete, you have an edge on tests made with the skills provided by your career.
 
@@ -16201,7 +16223,7 @@ You revisit your previous life and freshen up on the experience it provided you.
 
 **Project Roll Characteristic:** Your highest characteristic
 
-**Project Goal:** Varies (see Master Teaching Project Goals table)  
+**Project Goal:** Varies (see Master Teaching Project Goals table)
 
 When you start a project with a master, you choose the goal you wish to work on as well as the benefit you would gain from it. The Director tells you if it is within the master's ability to teach you what you're looking for. Alternatively, you may stumble upon the left-behind teachings of a master, and learning from them may fit into one of the following goals.
 
@@ -16248,7 +16270,7 @@ If your master's class is different than yours, they give you a taste of another
 
 **Project Roll Characteristic:** Reason or Intuition
 
-**Project Goal:** 120  
+**Project Goal:** 120
 
 When you start this project, choose a language taught by the project source. When the project is complete, you understand the language.
 
@@ -16260,7 +16282,7 @@ When you start this project, choose a language taught by the project source. Whe
 
 **Project Roll Characteristic:** Intuition or Reason (+3 if it's a recipe from your Culture)
 
-**Project Goal:** 100  
+**Project Goal:** 100
 
 You practice being able to reliably follow a recipe for a dish. The ingredients required depend on the recipe being followed, which may be easier or harder to acquire based on the degrees of separation you have from the recipe's origin. When you complete this project, you can make 5 servings of the specific recipe as a respite activity whenever you have access to the ingredients. You and each creature taking a respite with you can consume a serving and gain its benefits until they take another respite. A creature can only benefit from one recipe at a time and can't benefit from more than one serving of a recipe at a time.
 
@@ -16274,9 +16296,9 @@ You practice being able to reliably follow a recipe for a dish. The ingredients 
 
 #### RECIPE BENEFITS
 
-- **Comforting:** When you fail a saving throw, you can choose to succeed instead. This benefit then disappears.  
-- **Hearty:** You gain 1 additional Recovery.  
-- **Supernatural Power:** You increase the value of one of your characteristic scores by 1. This can increase your characteristics to 6.  
+- **Comforting:** When you fail a saving throw, you can choose to succeed instead. This benefit then disappears.
+- **Hearty:** You gain 1 additional Recovery.
+- **Supernatural Power:** You increase the value of one of your characteristic scores by 1. This can increase your characteristics to 6.
 
 ## OTHER PROJECTS
 
@@ -16292,7 +16314,7 @@ Not all heroes want to craft or research during their time between adventures. S
 
 **Project Roll Characteristic:** Varies
 
-**Project Goal:** 75  
+**Project Goal:** 75
 
 When you begin this project, you must be in a settlement or other place where people gather, and you must be in that place each time you make a project roll for the project. You can undertake several Community Service projects, each one in a different community.
 
@@ -16321,7 +16343,7 @@ While undertaking this project, you provide help to people in need, doing odd jo
 
 **Project Roll Characteristic:** Agility, Reason, or Intuition
 
-**Project Goal:** Varies  
+**Project Goal:** Varies
 
 You've gone fishing, provided you are near a body of water. The project roll for this project has the following changes:
 
@@ -16362,7 +16384,7 @@ When you finish rolling, you can spend the points you earned on a reward from th
 
 **Project Roll Characteristic:** Presence
 
-**Project Goal:** 60  
+**Project Goal:** 60
 
 You revitalize your spirit by spending time with people you love who you haven't seen in a long while. You must be able to communicate with them in order to undertake this project and make project rolls for it. When you complete this project, your Stamina maximum increases by 10 until the end of your next respite. You can't start another Spend Time with Loved Ones project for 1 month.
 
@@ -16383,15 +16405,15 @@ You revitalize your spirit by spending time with people you love who you haven't
 
 # TREASURES
 
-Grab your magic sword, psionic shield, and Catapult Dust and let's ride to adventure! You saved the world. You deserve a little treasure that can help you do it even more efficiently next time.  
+Grab your magic sword, psionic shield, and Catapult Dust and let's ride to adventure! You saved the world. You deserve a little treasure that can help you do it even more efficiently next time.
 
-Treasures are supernatural items that heroes find on their adventures and craft to help them with their heroics. You might claim a magic whip from a bandit captain or seize a cult leader's psionic necklace.  
+Treasures are supernatural items that heroes find on their adventures and craft to help them with their heroics. You might claim a magic whip from a bandit captain or seize a cult leader's psionic necklace.
 
 Treasures come in all shapes and sizes. There are four types you can find:
 
-- **Consumables** are the most numerous treasures. These include potions, dusts, and other items that are consumed by you when you activate them. Most can only be used once!  
-- **Trinkets** are treasures with supernatural properties that never fade. These typically don't include armor, implements, and weapons. Magic bags, boots, cloaks, gloves, jewelry, and other oddities.  
-- **Leveled items** are items that become even more powerful in the hands of a higher-level creature. They connect with their user, building a bond that fuels the item's supernatural power. Armor, implements, and weapons are the most common type of leveled items.  
+- **Consumables** are the most numerous treasures. These include potions, dusts, and other items that are consumed by you when you activate them. Most can only be used once!
+- **Trinkets** are treasures with supernatural properties that never fade. These typically don't include armor, implements, and weapons. Magic bags, boots, cloaks, gloves, jewelry, and other oddities.
+- **Leveled items** are items that become even more powerful in the hands of a higher-level creature. They connect with their user, building a bond that fuels the item's supernatural power. Armor, implements, and weapons are the most common type of leveled items.
 - **Artifacts** are treasures of legendary power that can change or shape an entire adventure or campaign. Each of these game-breaking items is unique, coveted, and well-guarded.
 
 ### FOUND, EARNED, OR CRAFTED
@@ -17270,111 +17292,111 @@ This burnished copper torc thrums with judgment.
 
 ## ARTIFACTS
 
-Artifacts are powerful treasures that entire campaigns can be built around finding, using, hiding, protecting, or destroying. Make no mistake-these items unbalance the game. If the heroes or a villain have access to such an item, their power is far beyond what the encounter building guidelines expect. That's part of the fun!  
+Artifacts are powerful treasures that entire campaigns can be built around finding, using, hiding, protecting, or destroying. Make no mistake-these items unbalance the game. If the heroes or a villain have access to such an item, their power is far beyond what the encounter building guidelines expect. That's part of the fun!
 
-Typically, one person never holds onto an artifact for too long. Most of these treasures have a sentience of their own and an eagerness to move on. Since many powerful people want to get their hands on these artifacts, armies, dragons, and even gods sometimes come to collect the item from whoever refuses to let go.  
+Typically, one person never holds onto an artifact for too long. Most of these treasures have a sentience of their own and an eagerness to move on. Since many powerful people want to get their hands on these artifacts, armies, dragons, and even gods sometimes come to collect the item from whoever refuses to let go.
 
 ### BLADE OF A THOUSAND HEROES
 
 A fabled blade, this sword features a hilt made of glittering starlight, out of which its gleaming metal blade extends. 
 
-- **Keywords:** Magic, Medium Weapon  
+- **Keywords:** Magic, Medium Weapon
 
-Whether drawn from a stone, gifted by a lake spirit, forged by a god, or used to kill one, there is a sword that exists outside of time and space. It is always where it needs to be precisely when it needs to be there-then is gone in a flash when the need for it has waned. The sword is depicted in art, song, and story across many living cultures-and even more frequently among those long buried, often after proving the deciding factor in a battle. It's been wielded by numerous heroes of legend, and even more who have slipped into the forgotten shadows of history. Though its size and make are often debated, the sword is consistently described as a hilt with no crossguard, made from pure starlight. When wielded, a brilliant metal blade springs forth from that hilt, suiting the holder's taste in blades.  
+Whether drawn from a stone, gifted by a lake spirit, forged by a god, or used to kill one, there is a sword that exists outside of time and space. It is always where it needs to be precisely when it needs to be there-then is gone in a flash when the need for it has waned. The sword is depicted in art, song, and story across many living cultures-and even more frequently among those long buried, often after proving the deciding factor in a battle. It's been wielded by numerous heroes of legend, and even more who have slipped into the forgotten shadows of history. Though its size and make are often debated, the sword is consistently described as a hilt with no crossguard, made from pure starlight. When wielded, a brilliant metal blade springs forth from that hilt, suiting the holder's taste in blades.
 
-Those who touch the blade are filled with the vigor and power of the thousand heroes who have held it before.  
+Those who touch the blade are filled with the vigor and power of the thousand heroes who have held it before.
 
-- **Suited for Victory:** This sword takes on the size, shape, and make that the wielder wills into it. It can be a light, medium, or heavy weapon, and you can change its weapon type and appearance as a free maneuver. Any ability that uses the Blade of a Thousand Heroes gains a +8 damage bonus, and that ability always deals holy damage. Any creature vulnerable to holy damage who takes damage from this weapon is also weakened (EoT) and frightened (EoT).  
-- **Rally the Righteous:** This blade fills all around it with hope and courage. Each allied creature within 1 mile of the weapon gains `(SURGE)` with weapon abilities and magic abilities, and has `(SHIELD)`. In addition, each such creature's Stamina maximum increases by 15 and they gain 15 Stamina when this ability first affects them.  
-- **Turn the Tide:** Each enemy minion within 1 mile of the sword is dazed. Additionally, any enemy solo or leader in that area takes a bane on attacks.  
-- **Victory's Assurance:** This blade always appears on the eve before what will later come to be known as a historic battle. It disappears after 24 hours or when the battle is won, whichever comes first. By taking this blade, the wielder unwittingly enters into a pact with the weapon. If they don't secure victory against monumental odds or some great foe by the time the sword disappears, they are pulled into the sword, preventing any chance of resurrection, and forever dooming them to lend their strength to the heroes of other ages.  
-- **Soul of the Martyr:** If the wielder dies while holding this blade, their soul is drawn into the starlight hilt, where it remains for the rest of time to prevent any chance of resurrection. The sword disappears, but the lingering feeling of hope that spreads from it remains. For the next hour, the effects of Rally the Righteous change to `(SURGE)(SURGE)` for all allies' weapon and magic abilities and each ally gains `(SHIELD)(SHIELD)` and an increase in Stamina maximum and Stamina of 30.  
+- **Suited for Victory:** This sword takes on the size, shape, and make that the wielder wills into it. It can be a light, medium, or heavy weapon, and you can change its weapon type and appearance as a free maneuver. Any ability that uses the Blade of a Thousand Heroes gains a +8 damage bonus, and that ability always deals holy damage. Any creature vulnerable to holy damage who takes damage from this weapon is also weakened (EoT) and frightened (EoT).
+- **Rally the Righteous:** This blade fills all around it with hope and courage. Each allied creature within 1 mile of the weapon gains `(SURGE)` with weapon abilities and magic abilities, and has `(SHIELD)`. In addition, each such creature's Stamina maximum increases by 15 and they gain 15 Stamina when this ability first affects them.
+- **Turn the Tide:** Each enemy minion within 1 mile of the sword is dazed. Additionally, any enemy solo or leader in that area takes a bane on attacks.
+- **Victory's Assurance:** This blade always appears on the eve before what will later come to be known as a historic battle. It disappears after 24 hours or when the battle is won, whichever comes first. By taking this blade, the wielder unwittingly enters into a pact with the weapon. If they don't secure victory against monumental odds or some great foe by the time the sword disappears, they are pulled into the sword, preventing any chance of resurrection, and forever dooming them to lend their strength to the heroes of other ages.
+- **Soul of the Martyr:** If the wielder dies while holding this blade, their soul is drawn into the starlight hilt, where it remains for the rest of time to prevent any chance of resurrection. The sword disappears, but the lingering feeling of hope that spreads from it remains. For the next hour, the effects of Rally the Righteous change to `(SURGE)(SURGE)` for all allies' weapon and magic abilities and each ally gains `(SHIELD)(SHIELD)` and an increase in Stamina maximum and Stamina of 30.
 
 ### ENCEPTER
 
 A bejeweled scepter with a spiraling porcelain handle balances an orb of light above its crown. 
 
-- **Keywords:** Magic  
+- **Keywords:** Magic
 
-The scepter waits high in the sky, resting within an endlessly raging cyclone. It waits for the one who will unify all people under its light. It awaits its champion.  
+The scepter waits high in the sky, resting within an endlessly raging cyclone. It waits for the one who will unify all people under its light. It awaits its champion.
 
-The Encepter was said to have first manifested in a young world doomed to apocalypse-unless every last inhabitant of that world could stand together. The scepter is said to impose either dominion or obliteration over any threat its light is drawn around. Today, it is most commonly known as a bad omen, and should the Encepter reveal itself, folk know that the world teeters on the brink of destruction.  
+The Encepter was said to have first manifested in a young world doomed to apocalypse-unless every last inhabitant of that world could stand together. The scepter is said to impose either dominion or obliteration over any threat its light is drawn around. Today, it is most commonly known as a bad omen, and should the Encepter reveal itself, folk know that the world teeters on the brink of destruction.
 
-Whether any of the stories are true, few can say, for the only living eyes that have witnessed the Encepter belong to dragons deep in slumber.  
+Whether any of the stories are true, few can say, for the only living eyes that have witnessed the Encepter belong to dragons deep in slumber.
 
-- **Shining Presence:** The one who wields the Encepter is always cast in a brilliant glow. Any power roll made by the wielder that uses Presence automatically achieves a tier 3 result, though they can still roll in an attempt to score a critical hit.  
-- **Champion's Lasso:** As a free maneuver, the wielder of the scepter can trigger a glowing line of light that traces their path as they move, or can dismiss the glowing line. If the wielder crosses over this line, each creature and object of the wielder's choice enclosed inside the line and within 2 squares above and below it are considered lassoed by the Encepter. Creatures remain lassoed until the lasso is released or until a new line is drawn.  
-- **Dominion:** Each target lassoed by the Encepter is restrained and can't teleport. A target caught in midair while lassoed stays in place rather than falling.  
-- **Obliteration:** As an action, the wielder raises the Encepter to the sky. Each target lassoed by the Encepter erupts into a prismatic burst of light, taking 10 psychic damage for each square horizontally encircled by the lasso. The lasso is then immediately released.  
-- **At World's End:** If the Encepter was not taken from its cyclonic resting place with the purpose of vanquishing a terrible peril, then a terrible peril emerges to threaten the world within three days of the scepter being taken.  
+- **Shining Presence:** The one who wields the Encepter is always cast in a brilliant glow. Any power roll made by the wielder that uses Presence automatically achieves a tier 3 result, though they can still roll in an attempt to score a critical hit.
+- **Champion's Lasso:** As a free maneuver, the wielder of the scepter can trigger a glowing line of light that traces their path as they move, or can dismiss the glowing line. If the wielder crosses over this line, each creature and object of the wielder's choice enclosed inside the line and within 2 squares above and below it are considered lassoed by the Encepter. Creatures remain lassoed until the lasso is released or until a new line is drawn.
+- **Dominion:** Each target lassoed by the Encepter is restrained and can't teleport. A target caught in midair while lassoed stays in place rather than falling.
+- **Obliteration:** As an action, the wielder raises the Encepter to the sky. Each target lassoed by the Encepter erupts into a prismatic burst of light, taking 10 psychic damage for each square horizontally encircled by the lasso. The lasso is then immediately released.
+- **At World's End:** If the Encepter was not taken from its cyclonic resting place with the purpose of vanquishing a terrible peril, then a terrible peril emerges to threaten the world within three days of the scepter being taken.
 
 ### MORTAL COIL
 
 This floating helix of golden metal spins like a dynamo as it activates, crackling with crimson sparks. 
 
-- **Keywords:** Psionic  
+- **Keywords:** Psionic
 
-Change is the engine of existence. Permanence begets stagnation. When the past refuses to relinquish control, a path must be cleared for the future. Energized by the flickering of minds and souls passing through the void, the Mortal Coil taps into the entropic potential inherent in every living creature to cast a shadow capable of felling even gods. For the true gift of life is death, and gifts are meant to be given.  
+Change is the engine of existence. Permanence begets stagnation. When the past refuses to relinquish control, a path must be cleared for the future. Energized by the flickering of minds and souls passing through the void, the Mortal Coil taps into the entropic potential inherent in every living creature to cast a shadow capable of felling even gods. For the true gift of life is death, and gifts are meant to be given.
 
-Only one destined for death can contain the power of the Mortal Coil. A mortal creature that carries this artifact serves as its host and is subject to the following effect.  
+Only one destined for death can contain the power of the Mortal Coil. A mortal creature that carries this artifact serves as its host and is subject to the following effect.
 
-- **A Most Gracious Host:** The host gains an additional action on each of their turns, but they also age at ten times the normal rate and cannot ever regain Stamina. Hosts with no natural maximum lifespan permanently reduce their maximum Stamina by 10 each year.  
+- **A Most Gracious Host:** The host gains an additional action on each of their turns, but they also age at ten times the normal rate and cannot ever regain Stamina. Hosts with no natural maximum lifespan permanently reduce their maximum Stamina by 10 each year.
 
-When Mortal Coil is left unattended or in the possession of a creature who is not mortal, it activates and cannot be deactivated until a mortal creature becomes its host once more. While active, it extends a penumbra of influence 10 miles in every direction. Every creature in the penumbra is subject to the following effects.  
+When Mortal Coil is left unattended or in the possession of a creature who is not mortal, it activates and cannot be deactivated until a mortal creature becomes its host once more. While active, it extends a penumbra of influence 10 miles in every direction. Every creature in the penumbra is subject to the following effects.
 
-- **One Foot in the Grave:** Each creature in the penumbra has damage weakness 2 and cannot ever regain Stamina.  
-- **Get Busy Dyin':** Each creature in the penumbra ages at ten times the normal rate. Diseases and poisons in the penumbra progress at ten times their normal rate. A creature with no natural maximum lifespan permanently reduces their maximum Stamina by 10 each year. Each creature gains an additional respite activity to use during each respite.  
-- **If You Meet God on the Road, Kill Them:** Every entity is granted the gift of mortality. Previously immortal or invulnerable entities-from planar creatures to even the gods themselves-can now be killed while in the penumbra, though not necessarily easily. Anything that dies in Mortal Coil's penumbra experiences Perfect Death. It is permanently, irrevocably dead. No magic, psionics, or technology may restore that life.  
-- **Perpetual Motion:** If there are no creatures within Mortal Coil's penumbra, the radius of the penumbra doubles.  
-- **Beneath Contempt:** Deities and their servants always overlook Mortal Coil and its host. They are either unable to notice it or do not consider it a threat. If the artifact is somehow destroyed or unmade through godly power, it consumes a year of life from every humanoid on the world where it was destroyed and reforms in a hidden place.  
+- **One Foot in the Grave:** Each creature in the penumbra has damage weakness 2 and cannot ever regain Stamina.
+- **Get Busy Dyin':** Each creature in the penumbra ages at ten times the normal rate. Diseases and poisons in the penumbra progress at ten times their normal rate. A creature with no natural maximum lifespan permanently reduces their maximum Stamina by 10 each year. Each creature gains an additional respite activity to use during each respite.
+- **If You Meet God on the Road, Kill Them:** Every entity is granted the gift of mortality. Previously immortal or invulnerable entities-from planar creatures to even the gods themselves-can now be killed while in the penumbra, though not necessarily easily. Anything that dies in Mortal Coil's penumbra experiences Perfect Death. It is permanently, irrevocably dead. No magic, psionics, or technology may restore that life.
+- **Perpetual Motion:** If there are no creatures within Mortal Coil's penumbra, the radius of the penumbra doubles.
+- **Beneath Contempt:** Deities and their servants always overlook Mortal Coil and its host. They are either unable to notice it or do not consider it a threat. If the artifact is somehow destroyed or unmade through godly power, it consumes a year of life from every humanoid on the world where it was destroyed and reforms in a hidden place.
 
 # TITLES
 
-Titles are special benefits earned by heroes through adventure and mighty deeds. As part of choosing a career, a player selects a title to represent their heroes' earliest accomplishments. Once heroes' adventuring careers begin, they must win further titles-sometimes individually, sometimes as a group-by accomplishing heroic tasks.  
+Titles are special benefits earned by heroes through adventure and mighty deeds. As part of choosing a career, a player selects a title to represent their heroes' earliest accomplishments. Once heroes' adventuring careers begin, they must win further titles-sometimes individually, sometimes as a group-by accomplishing heroic tasks.
 
-Titles are the record of a hero's accomplishments, forming the basis of the stories told of them in taverns or whispered in the halls of the mighty. Each title comes with a new ability or other special benefit. By earning titles, heroes gain a unique set of capabilities that sets them apart from other adventurers.  
+Titles are the record of a hero's accomplishments, forming the basis of the stories told of them in taverns or whispered in the halls of the mighty. Each title comes with a new ability or other special benefit. By earning titles, heroes gain a unique set of capabilities that sets them apart from other adventurers.
 
 ## TITLE REQUIREMENTS
 
-Players don't choose their titles. Like treasure and renown, titles must be won. Each title has a unique requirement-you might need to defeat a specific monster, research dangerous forbidden lore, or, in the case of the Monarch title, win a kingdom!  
+Players don't choose their titles. Like treasure and renown, titles must be won. Each title has a unique requirement-you might need to defeat a specific monster, research dangerous forbidden lore, or, in the case of the Monarch title, win a kingdom!
 
-Titles aren't given out on a schedule. Instead, the Director grants one whenever heroes perform a deed worthy of it. Just as a hero doesn't automatically find a magic weapon just because they meet the requirements for using it, they don't automatically earn a title unless it's granted by the Director.  
+Titles aren't given out on a schedule. Instead, the Director grants one whenever heroes perform a deed worthy of it. Just as a hero doesn't automatically find a magic weapon just because they meet the requirements for using it, they don't automatically earn a title unless it's granted by the Director.
 
-Although the Director gives out titles, players can work with the Director towards a specific goal. For instance, a player might say, "I'm interested in the Dragon Blooded title. Can my hero listen for rumors of any wicked dragons nearby that need smiting?" Having ambition is good! Pursue the titles you want that will make you a better hero!  
+Although the Director gives out titles, players can work with the Director towards a specific goal. For instance, a player might say, "I'm interested in the Dragon Blooded title. Can my hero listen for rumors of any wicked dragons nearby that need smiting?" Having ambition is good! Pursue the titles you want that will make you a better hero!
 
 ## TITLE ECHELONS
 
-Each title is assigned to an echelon of play where it is most likely to be earned. For instance, knighthood is something that can typically be earned by the 2nd echelon, while becoming a king or queen can usually only be achieved in the 4th. But don't let the rules get in the way of a good story! If the Director decides that the players somehow earn knighthood at level 1, bask in the glory of this great accomplishment.  
+Each title is assigned to an echelon of play where it is most likely to be earned. For instance, knighthood is something that can typically be earned by the 2nd echelon, while becoming a king or queen can usually only be achieved in the 4th. But don't let the rules get in the way of a good story! If the Director decides that the players somehow earn knighthood at level 1, bask in the glory of this great accomplishment.
 
-If you're the Director, note that granting a title several tiers early may have unwanted effects on the game. Higher-echelon titles tend to have more significant benefits than lower-tier ones. If a hero becomes queen at level 1, her royal responsibilities may overshadow her other adventures. Don't grant a title more than one echelon early unless you know what you're getting into!  
+If you're the Director, note that granting a title several tiers early may have unwanted effects on the game. Higher-echelon titles tend to have more significant benefits than lower-tier ones. If a hero becomes queen at level 1, her royal responsibilities may overshadow her other adventures. Don't grant a title more than one echelon early unless you know what you're getting into!
 
 ## CUSTOMIZING TITLES
 
-In the following pages, you'll find lots of premade titles. But the Director can also create custom titles, both to reward specific player accomplishments and to flesh out organizations, locations, and foes within their own game world. When a hero finally achieves a long-term goal after many game sessions of struggle, the Director can memorialize the moment by granting a unique title.  
+In the following pages, you'll find lots of premade titles. But the Director can also create custom titles, both to reward specific player accomplishments and to flesh out organizations, locations, and foes within their own game world. When a hero finally achieves a long-term goal after many game sessions of struggle, the Director can memorialize the moment by granting a unique title.
 
-Similarly, the Director can grant custom titles when the heroes befriend specific factions, defeat notorious villains, or learn new moves from skilled NPCs. While the Director can always create titles from scratch, the easiest way to create custom titles is to modify an existing title's requirements to fit the adventure at hand. For instance, maybe your world contains a secretive organization of freedom fighters, the Jesters, who never carry weapons, defeating foes with unarmed attacks and improvised weapons. You could modify the requirements of the Brawler title, changing its requirements to "Join the Jesters."  
+Similarly, the Director can grant custom titles when the heroes befriend specific factions, defeat notorious villains, or learn new moves from skilled NPCs. While the Director can always create titles from scratch, the easiest way to create custom titles is to modify an existing title's requirements to fit the adventure at hand. For instance, maybe your world contains a secretive organization of freedom fighters, the Jesters, who never carry weapons, defeating foes with unarmed attacks and improvised weapons. You could modify the requirements of the Brawler title, changing its requirements to "Join the Jesters."
 
 ## TITLE BENEFITS
 
-Some titles have only one benefit. These are typically earned individually by heroes instead of together as a group. For instance, to win the Advanced Pupil title, a hero must study at the feet of a renowned member of their character class. Only the hero doing the studying reaps the reward!  
+Some titles have only one benefit. These are typically earned individually by heroes instead of together as a group. For instance, to win the Advanced Pupil title, a hero must study at the feet of a renowned member of their character class. Only the hero doing the studying reaps the reward!
 
-Most titles, however, are earned by all the heroes at once for accomplishing a great task, benefiting them all. These titles typically offer a menu of three or four different options. When the party earns the title, each player decides which benefit their hero takes. For instance, if the party triumphs in a tavern fight and gains the Brawler title, one hero might become more adept at fighting with improvised weapons, another might learn a special dodge to use when flanked by multiple enemies, and two others might simply revel in increased notoriety. Any hero can take any of a title's benefits they qualify for, and multiple characters can take the same benefit.  
+Most titles, however, are earned by all the heroes at once for accomplishing a great task, benefiting them all. These titles typically offer a menu of three or four different options. When the party earns the title, each player decides which benefit their hero takes. For instance, if the party triumphs in a tavern fight and gains the Brawler title, one hero might become more adept at fighting with improvised weapons, another might learn a special dodge to use when flanked by multiple enemies, and two others might simply revel in increased notoriety. Any hero can take any of a title's benefits they qualify for, and multiple characters can take the same benefit.
 
 ## GRANTING TITLES
 
-Titles are rewards for heroic actions, and they often go hand in hand with treasure and other goodies. If the party defeats a fearsome monster and gains renown, or accomplishes a quest and wins a magical leveled item, they might earn a title at the same time.  
+Titles are rewards for heroic actions, and they often go hand in hand with treasure and other goodies. If the party defeats a fearsome monster and gains renown, or accomplishes a quest and wins a magical leveled item, they might earn a title at the same time.
 
-There's no hard and fast rule for the number of titles a party should accumulate by a certain level. If the party wins a title whenever they accomplish a truly notable deed-once every few adventures-then they might earn about one title per level. Sticking to this rate isn't a requirement. A party might easily earn twice or half as many titles-they'll just be a bit more or less powerful than they otherwise would be. A Director can even skip granting titles altogether if they wish.  
+There's no hard and fast rule for the number of titles a party should accumulate by a certain level. If the party wins a title whenever they accomplish a truly notable deed-once every few adventures-then they might earn about one title per level. Sticking to this rate isn't a requirement. A party might easily earn twice or half as many titles-they'll just be a bit more or less powerful than they otherwise would be. A Director can even skip granting titles altogether if they wish.
 
 While running a game session, it can be hard to track the heroes' actions and remember which titles they might qualify for! It's easier to plan titles ahead of time. If the heroes might face a demon or dragon in an upcoming adventure, the Director can include the Demon Blooded or Dragon Blooded titles as potential rewards alongside that magic cloak or enchanted dagger. A Director can even use the titles system to inspire adventures. What challenges should a hero face to earn the Demigod title?
 
 ### OPTIONAL RULE: PLAYERS CHOOSE TITLES
 
-If the Director doesn't want to track player accomplishments, they can let the players do it instead. In this case, whenever a hero enters a new echelon of play, they gain one title of their choice for which they qualify.  
+If the Director doesn't want to track player accomplishments, they can let the players do it instead. In this case, whenever a hero enters a new echelon of play, they gain one title of their choice for which they qualify.
 
 ## 1ST ECHELON TITLES
 
-The 1st echelon titles are presented in alphabetical order.  
+The 1st echelon titles are presented in alphabetical order.
 
 ### ANCIENT LOREMASTER
 
@@ -17382,11 +17404,11 @@ The 1st echelon titles are presented in alphabetical order.
 
 **Prerequisites:** You find a trove of forgotten books.
 
-Choose one of the following benefits:  
+Choose one of the following benefits:
 
-- **Leverage:** You learn a priceless secret. The Director chooses the type of person who would value this secret, usually a member of a particular faction, such as a Higaran noble, or a type of person, such as a fence of stolen goods. When negotiating with this type of person, you can offer this secret. If they accept, you instantly raise their interest by 3. You can only share this secret once.  
-- **Rare Books:** You add rare, ancient books to your collection. When you make a project roll for a research project, you roll an additional 1d6 for each dead language you know.  
-- **Susurrus Codex:** You find a sinister book that whispers advice in a voice no one else can hear. As long as you follow all the book's advice, you gain an edge on Reason tests and a bane on Presence tests. You can stop following the book's advice at any time, but the book won't speak to you for the rest of the day.  
+- **Leverage:** You learn a priceless secret. The Director chooses the type of person who would value this secret, usually a member of a particular faction, such as a Higaran noble, or a type of person, such as a fence of stolen goods. When negotiating with this type of person, you can offer this secret. If they accept, you instantly raise their interest by 3. You can only share this secret once.
+- **Rare Books:** You add rare, ancient books to your collection. When you make a project roll for a research project, you roll an additional 1d6 for each dead language you know.
+- **Susurrus Codex:** You find a sinister book that whispers advice in a voice no one else can hear. As long as you follow all the book's advice, you gain an edge on Reason tests and a bane on Presence tests. You can stop following the book's advice at any time, but the book won't speak to you for the rest of the day.
 
 ### BATTLEAXE DIPLOMAT
 
@@ -17394,11 +17416,11 @@ Choose one of the following benefits:
 
 **Prerequisites:** You gain the friendship or alliance of a creature you once battled.
 
-Choose one of the following benefits:  
+Choose one of the following benefits:
 
-- **Iron Hand in Velvet Glove:** The first time during a negotiation when you make a test that uses the Intimidate skill and don't make an argument that appeals to the NPC's pitfall, you don't lower the NPC's patience or interest no matter the outcome of the roll.  
-- **Truce!:** You have a double edge on tests made to stop combat and start negotiation.  
-- **Warriors' Understanding:** You have an edge on Presence tests made to influence creatures who you fought against in combat encounters.  
+- **Iron Hand in Velvet Glove:** The first time during a negotiation when you make a test that uses the Intimidate skill and don't make an argument that appeals to the NPC's pitfall, you don't lower the NPC's patience or interest no matter the outcome of the roll.
+- **Truce!:** You have a double edge on tests made to stop combat and start negotiation.
+- **Warriors' Understanding:** You have an edge on Presence tests made to influence creatures who you fought against in combat encounters.
 
 ### BRAWLER
 
@@ -17406,12 +17428,12 @@ Choose one of the following benefits:
 
 **Prerequisites:** You triumph in battle without killing any of your foes.
 
-Choose one of the following benefits:  
+Choose one of the following benefits:
 
-- **Duck!:** When an enemy attacks you while a second creature is flanking you, you can use a triggered action to redirect the attack against the second creature. You can't use this benefit again until you gain a Victory.  
-- **Furniture Fighter:** When you use a weapon ability with an improvised weapon or a weapon that is not part of your kit, the ability still benefits from your kit's melee weapon damage bonus.  
-- **Headbutter:** Your free strikes don't take a bane while you are grappled or restrained.  
-- **If I Wanted You Dead, You'd Be Dead:** Now and in future fights, when you defeat foes without any killing, you gain an edge on tests during negotiations with them.  
+- **Duck!:** When an enemy attacks you while a second creature is flanking you, you can use a triggered action to redirect the attack against the second creature. You can't use this benefit again until you gain a Victory.
+- **Furniture Fighter:** When you use a weapon ability with an improvised weapon or a weapon that is not part of your kit, the ability still benefits from your kit's melee weapon damage bonus.
+- **Headbutter:** Your free strikes don't take a bane while you are grappled or restrained.
+- **If I Wanted You Dead, You'd Be Dead:** Now and in future fights, when you defeat foes without any killing, you gain an edge on tests during negotiations with them.
 
 ### CITY RAT
 
@@ -17419,19 +17441,19 @@ Choose one of the following benefits:
 
 **Prerequisites:** You have spent at least 5 respites in a metropolis.
 
-Choose one of the following benefits:  
+Choose one of the following benefits:
 
-- **Discerning Shopper:** When looking for an item prerequisite for a crafting project, you can remember meeting someone who might have the item-or at least information about it.  
-- **One with the Crowd:** You gain an edge on tests made to hide and sneak, provided you are using one or more creatures as cover.  
-- **Street Smart:** While in a settlement, you never suffer penalties from being surprised.  
+- **Discerning Shopper:** When looking for an item prerequisite for a crafting project, you can remember meeting someone who might have the item-or at least information about it.
+- **One with the Crowd:** You gain an edge on tests made to hide and sneak, provided you are using one or more creatures as cover.
+- **Street Smart:** While in a settlement, you never suffer penalties from being surprised.
 
 ### DOOMED
 
 "That day. Under the sun, when Sulur the Hakaan fell beneath the raiders' swords, I saw something. I think I was seeing this moment....SULUR! I'M ON MY WAY!"
 
-**Prerequisites:** You are not a Hakaan but have witnessed the death of a Hakaan.  
+**Prerequisites:** You are not a Hakaan but have witnessed the death of a Hakaan.
 
-You're not destined for a meaningful death, but you still might achieve one. When you're reduced to 0 Stamina but still conscious, you can choose to become doomed. If you do, you can't regain hit points, you automatically get tier 3 results on tests and resistance rolls, and you don't die until your Stamina equals the negative of your maximum Stamina value. At the end of the encounter, you die.  
+You're not destined for a meaningful death, but you still might achieve one. When you're reduced to 0 Stamina but still conscious, you can choose to become doomed. If you do, you can't regain hit points, you automatically get tier 3 results on tests and resistance rolls, and you don't die until your Stamina equals the negative of your maximum Stamina value. At the end of the encounter, you die.
 
 ### DWARVEN LEGIONNAIRE
 
@@ -17439,13 +17461,13 @@ You're not destined for a meaningful death, but you still might achieve one. Whe
 
 **Prerequisites:** You fight alongside at least three dwarves.
 
-Choose one of the following benefits:  
+Choose one of the following benefits:
 
-- **Close Formation:** Your stability increases by 2 while adjacent to at least two allies.  
-- **Rune of Alarm:** You can spend 10 minutes to inscribe a magical eye-shaped rune on a surface. The rune sheds light for 2 squares. It is dispelled if it is activated or if you inscribe the rune elsewhere. The rune is activated when an enemy comes within 2 squares of the rune.  
+- **Close Formation:** Your stability increases by 2 while adjacent to at least two allies.
+- **Rune of Alarm:** You can spend 10 minutes to inscribe a magical eye-shaped rune on a surface. The rune sheds light for 2 squares. It is dispelled if it is activated or if you inscribe the rune elsewhere. The rune is activated when an enemy comes within 2 squares of the rune.
 
-When the rune is activated, you wake up if you are nonmagically asleep, and for 1 minute you can see through the rune as if you were in its square.  
-- **Stonemeld:** While adjacent to a stone wall, you can use a maneuver to gain concealment. The concealment lasts until you leave the square or use an ability.  
+When the rune is activated, you wake up if you are nonmagically asleep, and for 1 minute you can see through the rune as if you were in its square.
+- **Stonemeld:** While adjacent to a stone wall, you can use a maneuver to gain concealment. The concealment lasts until you leave the square or use an ability.
 
 ### ELEMENTAL DABBLER
 
@@ -17453,28 +17475,28 @@ When the rune is activated, you wake up if you are nonmagically asleep, and for 
 
 **Prerequisites:** You defeat a monster with the Elemental keyword, such as a crux of fire.
 
-Choose a damage type to which the defeated monster had an immunity (such as fire). Then choose one of the following benefits:  
+Choose a damage type to which the defeated monster had an immunity (such as fire). Then choose one of the following benefits:
 
-- **Elemental Blaster:** You gain the Elementalist 1st-level Hurl Element feature, dealing the chosen damage type.  
-- **Elemental Immunity:** You gain immunity to the chosen damage type equal to your highest characteristic score.  
-- **Elemental Weapons:** When you use an ability that deals damage with no type, you can change that damage to damage of the chosen damage type.  
+- **Elemental Blaster:** You gain the Elementalist 1st-level Hurl Element feature, dealing the chosen damage type.
+- **Elemental Immunity:** You gain immunity to the chosen damage type equal to your highest characteristic score.
+- **Elemental Weapons:** When you use an ability that deals damage with no type, you can change that damage to damage of the chosen damage type.
 
 ### FACTION MEMBER
 
 "Salute when you're addressing a Commander of the Blue!"
 
-**Prerequisites:** You join an army, guild, or similar organization.  
+**Prerequisites:** You join an army, guild, or similar organization.
 
-You gain membership in a faction. You're regarded as a promising but untested agent, and you're allowed to operate independently. You can be assigned tasks to further your faction's goals, and you can expect rewards and promotion if you succeed.  
+You gain membership in a faction. You're regarded as a promising but untested agent, and you're allowed to operate independently. You can be assigned tasks to further your faction's goals, and you can expect rewards and promotion if you succeed.
 
-When you're negotiating with a member of your faction, their starting Patience increases by 2, up to a maximum of 5. Additionally, the Director assigns you one of the following benefits, as appropriate to the faction in question. The Director can also create a custom benefit for a faction not listed here. You can only use this benefit in a settlement where your faction can be found, and once you have used this benefit, you can't use it again until you have completed a task for your faction.  
+When you're negotiating with a member of your faction, their starting Patience increases by 2, up to a maximum of 5. Additionally, the Director assigns you one of the following benefits, as appropriate to the faction in question. The Director can also create a custom benefit for a faction not listed here. You can only use this benefit in a settlement where your faction can be found, and once you have used this benefit, you can't use it again until you have completed a task for your faction.
 
-- **Academic Faction:** You can find a sage who can make up to three Reason tests to recall lore or project rolls for research projects on your behalf. The sage has a +5 bonus to these tests. Research project rolls take 10 minutes each and don't need to be made during a respite.  
-- **Guild Faction:** You can find an expert craftsperson who can make up to three project rolls for crafting projects on your behalf. The craftsperson has a +5 bonus to these tests. These project rolls take 10 minutes each and don't need to be made during a respite.  
-- **Martial Faction:** You can recruit up to three minions with levels no greater than your own, of a type appropriate for the faction (such as human guards). These minions follow your orders for 1 day.  
-- **Spy Faction:** You can find an agent who can provide you with three pieces of information about a settlement you're in, such as the location of a hidden person, a secret entrance into a guarded area, or the negotiation ideal or pitfall of an important person.  
+- **Academic Faction:** You can find a sage who can make up to three Reason tests to recall lore or project rolls for research projects on your behalf. The sage has a +5 bonus to these tests. Research project rolls take 10 minutes each and don't need to be made during a respite.
+- **Guild Faction:** You can find an expert craftsperson who can make up to three project rolls for crafting projects on your behalf. The craftsperson has a +5 bonus to these tests. These project rolls take 10 minutes each and don't need to be made during a respite.
+- **Martial Faction:** You can recruit up to three minions with levels no greater than your own, of a type appropriate for the faction (such as human guards). These minions follow your orders for 1 day.
+- **Spy Faction:** You can find an agent who can provide you with three pieces of information about a settlement you're in, such as the location of a hidden person, a secret entrance into a guarded area, or the negotiation ideal or pitfall of an important person.
 
-You can gain this title multiple times, once for each faction. A faction can strip you of this title if you act against its interests.  
+You can gain this title multiple times, once for each faction. A faction can strip you of this title if you act against its interests.
 
 ### LOCAL HERO
 
@@ -17482,11 +17504,11 @@ You can gain this title multiple times, once for each faction. A faction can str
 
 **Prerequisite:** You save a community from certain destruction.
 
-Choose one of the following benefits:  
+Choose one of the following benefits:
 
-- **A New Dawn:** When you finish a respite while in a community you have saved, the party gains a hero token. This hero token disappears at the end of your next respite if it hasn't been used.  
-- **Easy Marks:** You have an edge on tests made with skills from the interpersonal and intrigue skill groups when influencing members of a community that you have saved.  
-- **Local Fame:** Your Renown score increases by 1.  
+- **A New Dawn:** When you finish a respite while in a community you have saved, the party gains a hero token. This hero token disappears at the end of your next respite if it hasn't been used.
+- **Easy Marks:** You have an edge on tests made with skills from the interpersonal and intrigue skill groups when influencing members of a community that you have saved.
+- **Local Fame:** Your Renown score increases by 1.
 
 ### MAGE HUNTER
 
@@ -17494,11 +17516,11 @@ Choose one of the following benefits:
 
 **Prerequisites:** You defeat three leaders or solo monsters who could each use at least one ability with the Magic keyword.
 
-Choose one of the following benefits:  
+Choose one of the following benefits:
 
-- **Arcane Dampening:** Attacks with the Magic keyword take a bane if they target you, and you gain an edge on resistance rolls against abilities with the Magic keyword.  
-- **Oh No You Don't!:** When an adjacent creature uses an ability with the Magic keyword, you can make a free strike against them as a triggered action.  
-- **Stink of Magic:** As a maneuver, you can open your senses to the residue of magic. Until the end of your next turn, you are aware whether each creature within 5 squares of you is an undead, construct, or creature from another plane of existence, and whether they have used an ability with the Magic keyword in the past hour. Additionally, you never suffer the penalties of being surprised by undead, constructs, or creatures from another plane of existence.  
+- **Arcane Dampening:** Attacks with the Magic keyword take a bane if they target you, and you gain an edge on resistance rolls against abilities with the Magic keyword.
+- **Oh No You Don't!:** When an adjacent creature uses an ability with the Magic keyword, you can make a free strike against them as a triggered action.
+- **Stink of Magic:** As a maneuver, you can open your senses to the residue of magic. Until the end of your next turn, you are aware whether each creature within 5 squares of you is an undead, construct, or creature from another plane of existence, and whether they have used an ability with the Magic keyword in the past hour. Additionally, you never suffer the penalties of being surprised by undead, constructs, or creatures from another plane of existence.
 
 ### MARSHAL
 
@@ -17506,12 +17528,12 @@ Choose one of the following benefits:
 
 **Prerequisites:** You join an organization, such as the Far Mariners, that hunts criminals, or you are deputized to act for the local authorities.
 
-Choose one of the following benefits:  
+Choose one of the following benefits:
 
-- **I Guess It's the Hard Way:** When a combat begins and you are not surprised, the first time you take damage before your turn, you have `(SHIELD)` against that damage.  
-- **Heedless Pursuer:** Once on your turn, you can spend 1d6 Stamina as a free maneuver. If you do so, you ignore difficult terrain and the length of your jumps increases by 1 square until the end of your turn.  
-- **Silver Shield:** You have a badge granted to you by your organization. While you are wearing it, you gain the Divine Interdiction feature from the Censor class. When you use this feature in this way, you can't spend zeal unless you have the Zeal class feature.  
-- **Trained Tracker:** You gain an edge on tests made to track criminals.  
+- **I Guess It's the Hard Way:** When a combat begins and you are not surprised, the first time you take damage before your turn, you have `(SHIELD)` against that damage.
+- **Heedless Pursuer:** Once on your turn, you can spend 1d6 Stamina as a free maneuver. If you do so, you ignore difficult terrain and the length of your jumps increases by 1 square until the end of your turn.
+- **Silver Shield:** You have a badge granted to you by your organization. While you are wearing it, you gain the Divine Interdiction feature from the Censor class. When you use this feature in this way, you can't spend zeal unless you have the Zeal class feature.
+- **Trained Tracker:** You gain an edge on tests made to track criminals.
 
 ### MONSTER BANE
 
@@ -17519,21 +17541,21 @@ Choose one of the following benefits:
 
 **Prerequisites:** You defeat a leader or solo monster with a Reason score of -2 or lower, such as an ankheg.
 
-Choose one of the following benefits:  
+Choose one of the following benefits:
 
-- **Beast Bane:** When a creature with the Animal keyword uses an attack against you, it has a bane on the roll.  
-- **Monster Whisperer:** You gain an edge on tests made to calm or tame non-sapient creatures.  
-- **Monster Trophy:** You decorate your equipment with a trophy from a monster. While the trophy is visible, you gain an edge on tests made to intimidate sapient creatures.  
+- **Beast Bane:** When a creature with the Animal keyword uses an attack against you, it has a bane on the roll.
+- **Monster Whisperer:** You gain an edge on tests made to calm or tame non-sapient creatures.
+- **Monster Trophy:** You decorate your equipment with a trophy from a monster. While the trophy is visible, you gain an edge on tests made to intimidate sapient creatures.
 
 ### OWED A FAVOR
 
 "The Guild's gratitude knows no bounds! We'll repay you in any way we can... as long as it doesn't cost too much money."
 
-**Prerequisites:** You successfully perform a service for a powerful faction.  
+**Prerequisites:** You successfully perform a service for a powerful faction.
 
-The faction will perform one favor for the party, provided it doesn't interfere with the faction's goals.  
+The faction will perform one favor for the party, provided it doesn't interfere with the faction's goals.
 
-Additionally, the faction is a good source of information. The Director chooses a skill from the crafting or lore skill groups appropriate to the faction, such as the Criminal Underworld skill for an outlaw gang, the Blacksmith skill for a blacksmith's guild, or the Society skill for a noble house. While in a settlement with the faction, you gain this skill if you don't already have it. If you already have the skill, you gain an edge on tests made with the skill.  
+Additionally, the faction is a good source of information. The Director chooses a skill from the crafting or lore skill groups appropriate to the faction, such as the Criminal Underworld skill for an outlaw gang, the Blacksmith skill for a blacksmith's guild, or the Society skill for a noble house. While in a settlement with the faction, you gain this skill if you don't already have it. If you already have the skill, you gain an edge on tests made with the skill.
 
 ### RATCATCHER
 
@@ -17541,20 +17563,20 @@ Additionally, the faction is a good source of information. The Director chooses 
 
 **Prerequisites:** You defeat a leader or solo monster that is 1S or smaller, such as a goblin monarch.
 
-Choose one of the following benefits:  
+Choose one of the following benefits:
 
-- **Death From Above:** You gain `(SURGE)` when making an attack against a creature whose size is smaller than yours.  
-- **Everybody Move!:** When you use the Knockback maneuver, you can use it on one additional creature of your size or two additional smaller creatures.  
-- **Come Out to Play:** You gain the Come Out to Play ability, which can be paid for using the heroic resource of your class:  
+- **Death From Above:** You gain `(SURGE)` when making an attack against a creature whose size is smaller than yours.
+- **Everybody Move!:** When you use the Knockback maneuver, you can use it on one additional creature of your size or two additional smaller creatures.
+- **Come Out to Play:** You gain the Come Out to Play ability, which can be paid for using the heroic resource of your class:
 
 **COSTS 1 HEROIC RESOURCE: COME OUT TO PLAY**
 
-- **Keywords:** Area, Magic  
-- **Type:** Maneuver  
-- **Type:** 5 burst  
-- **Target:** All enemies hidden from you  
+- **Keywords:** Area, Magic
+- **Type:** Maneuver
+- **Type:** 5 burst
+- **Target:** All enemies hidden from you
 
-**Effect:** Each target is P [average] taunted (EoT). You know the locations of creatures taunted in this way.  
+**Effect:** Each target is P [average] taunted (EoT). You know the locations of creatures taunted in this way.
 
 ### SHIP CAPTAIN
 
@@ -17562,12 +17584,12 @@ Choose one of the following benefits:
 
 **Prerequisites:** You acquire a ship, airship, or similar vessel.
 
-Choose one of the following benefits:  
+Choose one of the following benefits:
 
-- **Deep Sea Diver:** Your movement gains the Swim keyword.  
-- **Ship Speaker:** You magically know any of your ships' locations even while not aboard. You can telepathically speak to anyone on board the ship who understands a language, and they can respond, no matter your distance from the ship.  
-- **Signal Flags:** While aboard a ship, you can communicate with and conduct negotiations with another ship up to 5 miles away, as long as you can both see each other. You have an edge on Presence tests made while negotiating in this way.  
-- **Trained Crewmember:** You gain an edge on tests made to handle sea or air vessels.  
+- **Deep Sea Diver:** Your movement gains the Swim keyword.
+- **Ship Speaker:** You magically know any of your ships' locations even while not aboard. You can telepathically speak to anyone on board the ship who understands a language, and they can respond, no matter your distance from the ship.
+- **Signal Flags:** While aboard a ship, you can communicate with and conduct negotiations with another ship up to 5 miles away, as long as you can both see each other. You have an edge on Presence tests made while negotiating in this way.
+- **Trained Crewmember:** You gain an edge on tests made to handle sea or air vessels.
 
 ### TROUPE TACTICS
 
@@ -17575,13 +17597,13 @@ Choose one of the following benefits:
 
 **Prerequisites:** The party has successfully performed as a troupe of actors, circus performers, or other entertainers.
 
-Choose one of the following benefits:  
+Choose one of the following benefits:
 
 - **Flying Circus:** At any time during a willing adjacent ally's turn, you can use a triggered action to push them up to 2 squares if their size is the same as yours, or 4 squares if they are smaller. If this push causes the ...
 
-- **Spotlight:** You magically cause a creature within 10 squares to shed light for 5 squares. The light lasts for 1 minute, until the creature is more than 10 squares away from you, or until you dismiss the effect (no action required). While illuminated, a creature can't sneak or hide, has a bane on tests to perform an action secretly, and has an edge on tests made with the Lead, Music, and Perform skills.  
-- **Supporting Player:** You gain an edge on group tests using Presence and on tests made to assist another creature with a Presence test.  
-- **Work the Crowd:** While one of your allies is playing music or performing, you gain an edge on tests made to hide, sneak, conceal objects, or pick pockets.  
+- **Spotlight:** You magically cause a creature within 10 squares to shed light for 5 squares. The light lasts for 1 minute, until the creature is more than 10 squares away from you, or until you dismiss the effect (no action required). While illuminated, a creature can't sneak or hide, has a bane on tests to perform an action secretly, and has an edge on tests made with the Lead, Music, and Perform skills.
+- **Supporting Player:** You gain an edge on group tests using Presence and on tests made to assist another creature with a Presence test.
+- **Work the Crowd:** While one of your allies is playing music or performing, you gain an edge on tests made to hide, sneak, conceal objects, or pick pockets.
 
 ### WANTED DEAD OR ALIVE
 
@@ -17589,11 +17611,11 @@ Choose one of the following benefits:
 
 **Prerequisites:** You are declared an outlaw by a governmental authority.
 
-Choose one of the following benefits:  
+Choose one of the following benefits:
 
-- **Honor Among Thieves:** You are considered to have 2 higher Renown when negotiating with criminals.  
-- **Minion Mower:** When you make a melee attack that targets a minion and at least one more minion is within distance of the attack, the attack gains `(SURGE)`.  
-- **No, You're Under Arrest!:** You gain an edge on resistance rolls made to escape a grab. Additionally, when you make a successful test to escape manacles or bonds, as part of the same maneuver you can transfer the manacles or bonds to another person adjacent to you without them immediately noticing.  
+- **Honor Among Thieves:** You are considered to have 2 higher Renown when negotiating with criminals.
+- **Minion Mower:** When you make a melee attack that targets a minion and at least one more minion is within distance of the attack, the attack gains `(SURGE)`.
+- **No, You're Under Arrest!:** You gain an edge on resistance rolls made to escape a grab. Additionally, when you make a successful test to escape manacles or bonds, as part of the same maneuver you can transfer the manacles or bonds to another person adjacent to you without them immediately noticing.
 
 ### ZOMBIE SLAYER
 
@@ -17601,26 +17623,26 @@ Choose one of the following benefits:
 
 **Prerequisites:** You defeat a leader or solo monster with the Undead keyword, such as a ghost.
 
-Choose one of the following benefits:  
+Choose one of the following benefits:
 
-- **Blessed Weapons:** When you use an ability that deals damage that has no type, you can deal holy damage instead.  
-- **Divine Health:** You gain corruption immunity equal to your highest characteristic score. You can't be turned into an undead creature.  
-- **Holy Terror:** You gain the Holy Terror ability, which can be paid for using the heroic resource of your class:  
+- **Blessed Weapons:** When you use an ability that deals damage that has no type, you can deal holy damage instead.
+- **Divine Health:** You gain corruption immunity equal to your highest characteristic score. You can't be turned into an undead creature.
+- **Holy Terror:** You gain the Holy Terror ability, which can be paid for using the heroic resource of your class:
 
 **COSTS 3 HEROIC RESOURCES: HOLY TERROR**
 
-*Return to your grave!*  
+*Return to your grave!*
 
-- **Keywords:** Area, Magic  
-- **Type:** Action  
-- **Type:** 3 burst  
+- **Keywords:** Area, Magic
+- **Type:** Action
+- **Type:** 3 burst
 - **Target:** All enemies 
 
-**Effect:** Each undead creature in the area takes `(SURGE)` holy damage and is P [strong] frightened (save ends).  
+**Effect:** Each undead creature in the area takes `(SURGE)` holy damage and is P [strong] frightened (save ends).
 
 ## PERKS AS TITLES
 
-The Director can turn a perk into a 1st echelon title by simply giving it a prerequisite. For example, a hero might gain the Familiar perk as a title instead if they complete a quest for an archmage, who then teaches the ritual to conjure the familiar as a reward for the hero.  
+The Director can turn a perk into a 1st echelon title by simply giving it a prerequisite. For example, a hero might gain the Familiar perk as a title instead if they complete a quest for an archmage, who then teaches the ritual to conjure the familiar as a reward for the hero.
 
 # OTHER REWARDS
 

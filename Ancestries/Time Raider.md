@@ -15,7 +15,8 @@ target: Self or 1 ally
 
 # Time Raider
 
-> “I fear no living thing, but the time [[Raider|raiders]].”\
+> “I fear no living thing, but the time [[Raider|raiders]].”
+>
 > -Chief Executive Admiral Lithiri Aswandala, Commander of the HOV First Get Behind Them [[Memonek]]
 
 The original servitor species of the synliiroi-evil psions with near god-like power-the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym “time [[Raider|raiders]]” was given to them by denizens of the lower worlds who, seeing the advanced technology they wield, concluded they must be from the future.
