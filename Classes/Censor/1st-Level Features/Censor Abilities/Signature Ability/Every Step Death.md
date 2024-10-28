@@ -31,4 +31,4 @@ target: 1 creature
 - **12-16:** 4 psychic damage
 - **17+:** 6 psychic damage
 
-**Effect:** Until the end of the target's next turn, they take `(SURGE)` psychic damage each time they willingly move closer to you.
+**Effect:** Until the end of the target's next turn, they take `â¡` psychic damage each time they willingly move closer to you.

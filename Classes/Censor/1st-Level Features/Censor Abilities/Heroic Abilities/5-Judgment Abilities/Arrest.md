@@ -32,4 +32,4 @@ target: 1 judged creature
 - **12-16:** 9 holy damage; grabbed
 - **17+:** 12 holy damage; grabbed
 
-**Effect:** If the target makes an attack while grabbed by you, they take `(SURGE)` holy damage. When the target makes an attack while grabbed by you, you can spend 3 judgment to change the target of the attack to another target within the attack's distance as a free triggered action.
+**Effect:** If the target makes an attack while grabbed by you, they take `⚡` holy damage. When the target makes an attack while grabbed by you, you can spend 3 judgment to change the target of the attack to another target within the attack's distance as a free triggered action.

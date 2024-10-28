@@ -32,4 +32,4 @@ target: 1 creature or object
 - **12-16:** 6 holy damage
 - **17+:** 9 holy damage
 
-**Effect:** Until the beginning of your next turn, you and all adjacent allies have `(SHIELD)` against the target's attacks.
+**Effect:** Until the beginning of your next turn, you and all adjacent allies have `🛡` against the target's attacks.

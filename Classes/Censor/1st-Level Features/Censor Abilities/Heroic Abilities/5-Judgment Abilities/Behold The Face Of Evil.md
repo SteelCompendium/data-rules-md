@@ -32,4 +32,4 @@ target: 1 judged creature
 - **12-16:** 5 holy damage; each enemy within 2 of the target is P \[weak\] frightened (save ends)
 - **17+:** 8 holy damage; each enemy within 2 of the target is P \[weak\] frightened (save ends)
 
-**Effect:** Each enemy frightened by this ability is pushed 2 away from the target and takes `(SURGE)` psychic damage.
+**Effect:** Each enemy frightened by this ability is pushed 2 away from the target and takes `⚡` psychic damage.
