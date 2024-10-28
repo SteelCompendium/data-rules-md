@@ -54,8 +54,6 @@ The polder put his drink down. “Oh, thank you. Thank you very much. You know, 
 
 > “You're talking just… my voice is just as loud as yours!”
 
-Draw Steel © 2024 MCDM Productions, LLC
-
 > “I mean the way you [[Walk|walk]] around. Just the way you move, the way you [[Stand Up|stand up]] and sit down. You make so much goddamn noise.”
 
 Jago, Sarah, and Beth all smiled at the exchange.
@@ -155,8 +153,6 @@ Sir Vaantikalisax loomed just inside the doorway, his scales and armor glowing i
 The knight stared at them for a moment, then turned back to his friend.
 
 > “Maybe you're right,” the [[Dragon Knight|dragon knight]] said.
-
-Draw Steel © 2024 MCDM Productions, LLC
 
 ## Polder Traits
 
