@@ -921,7 +921,7 @@ they receive at various levels of play.
 
 ### 1ST ECHELON (LEVELS 1-3)
 
-The 1st echelon of play encompasses levels 1 to 3. At this echelon, the player characters are local heroes. They save
+The 1st echelon of play encompasses levels 1 to 3. At this echelon, the player characters are [[Local Hero|local heroes]]. They save
 lost caravans, besieged villages, and overlooked neighborhoods of cities. The heroes battle bands of mortal
 humanoids-[[Dwarf|dwarves]], elves, goblins, [[Human|humans]], kobolds, [[Orc|orcs]]. They face the occasional larger monstrous threat, such as a
 bredbeddle, ogre, or chimera. These are the kinds of creatures that can threaten a small community, but rarely have
