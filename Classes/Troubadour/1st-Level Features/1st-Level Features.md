@@ -24,8 +24,6 @@ As a troubadour, you gain the following features.
 
 [1ST-LEVEL CLASS ACT FEATURES](./1st-Level%20Class%20Act%20Features/1st-Level%20Class%20Act%20Features.md)
 
-[Effect: Choose one of the following effects:](./Effect%20Choose%20One%20Of%20The%20Following%20Effects/Effect%20Choose%20One%20Of%20The%20Following%20Effects.md)
-
 ["THUNDER MOTHER"](./Thunder%20Mother.md)
 
 ["BALLAD OF THE BEAST"](./Ballad%20Of%20The%20Beast.md)
@@ -49,8 +47,6 @@ As a troubadour, you gain the following features.
 [INSTIGATOR](./Instigator/Instigator.md)
 
 [HARSH CRITIC (3 DRAMA)](./Harsh%20Critic.md)
-
-[o 11 or lower: 7 + P sonic damage](./O%2011%20Or%20Lower%207%20P%20Sonic%20Damage.md)
 
 [HYPNOTIC OVERTONES (3 DRAMA)](./Hypnotic%20Overtones.md)
 

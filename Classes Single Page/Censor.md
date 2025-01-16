@@ -479,11 +479,7 @@ Choose one of the following abilities.
 
 ### It Is Justice You Fear (5 Wrath)
 
-| I am but a vessel. Your own deeds weigh upon you. |
-| ------------------------------------------------- |
-| Keywords: Magic, Ranged, Strike Type: Action      |
-
-### Distance:\*\* Ranged 10 \*\*target: One Creature
+I am but a vessel. Your own deeds weigh upon you.
 
 **Power Roll + Might:**
 

@@ -4707,11 +4707,12 @@ Choose one of the following abilities.
 
 #### IT IS JUSTICE YOU FEAR (5 WRATH)
 
-| I am but a vessel. Your own deeds weigh upon you. |
-| ------------------------------------------------- |
-| Keywords: Magic, Ranged, Strike Type: Action      |
+I am but a vessel. Your own deeds weigh upon you.
 
-#### Distance:\*\* Ranged 10 \*\*Target: One creature
+**Keywords:** Magic, Ranged, Strike
+**Type:** Action
+**Distance:** Ranged 10
+**Target:** One creature
 
 **Power Roll + Might:**
 
@@ -14596,7 +14597,7 @@ You gain the following ability.
 
 **Keywords:** Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Special
 
-#### Effect: Choose one of the following effects:
+**Effect:** Choose one of the following effects:
 
 - You orate a rousing tale of victory. One ally within distance gains an edge on the next power roll they make before the start of your next turn.
 - You weave a tale of high stakes heroics. One ally within distance gains a surge.
@@ -14781,10 +14782,11 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 **Keywords:** Magic, Melee, Ranged, Strike **Type:** Action **Distance:** Melee 1 or ranged 10
 
-**Target:** One creature or object **Power Roll + Presence:**
+**Target:** One creature or object
 
-#### o *11 or lower:* 7 + P **sonic damage**
+**Power Roll + Presence:**
 
+- *11 or lower:* 7 + P **sonic damage**
 - *12-16:* 10 + P **sonic damage**
 - *17+:* 13 + P **sonic damage**
 

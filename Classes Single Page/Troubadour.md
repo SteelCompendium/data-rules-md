@@ -189,7 +189,7 @@ You gain the following ability.
 
 *It doesn't need to make sense. Just say it with emotionality.*
 
-### Effect: Choose One Of The Following Effects:
+**Effect:** Choose one of the following effects:
 
 - You orate a rousing tale of victory. One ally within distance gains an edge on the next power roll they make before the start of your next turn.
 - You weave a tale of high stakes heroics. One ally within distance gains a surge.
@@ -350,8 +350,9 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 *Just one bad review will ruin their day.*
 
-### O *11 Or Lower:* 7 + P **sonic Damage**
+**Power Roll + Presence:**
 
+- *11 or lower:* 7 + P **sonic damage**
 - *12-16:* 10 + P **sonic damage**
 - *17+:* 13 + P **sonic damage**
 
