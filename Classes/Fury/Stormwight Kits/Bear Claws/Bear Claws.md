@@ -17,3 +17,5 @@ kind: stormwight kits
 - *11 or lower:* **2 + M damage;** M \< weak, **grabbed**
 - *12-16:* 5 + M **damage;** M \< average\*\*, grabbed\*\*
 - *17+:* 11 + M **damage;** M \< strong\*\*, grabbed\*\*
+
+[GROWING RAGE](./Growing%20Rage.md)

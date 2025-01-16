@@ -1,8 +1,8 @@
 ---
-title_raw: Driving Pounce
-title: Driving Pounce
-name_raw: Driving Pounce
-name: Driving Pounce
+title_raw: Probing Attack
+title: Probing Attack
+name_raw: Probing Attack
+name: Probing Attack
 type: classes
 subtype: fury
 kind: o 17 8 damage
@@ -13,19 +13,19 @@ keyword_list:
   - Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
 ---
 
-# Driving Pounce
+# Probing Attack
 
-*Your enemies try in vain to fall back from your pouncing attack.*
+*A savage assault forces your foes back.*
 
 |                                                                                                               |             |
 | :------------------------------------------------------------------------------------------------------------ | :---------- |
 | **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object | **Type:**   |
 | **Distance:**                                                                                                 | **Target:** |
 
-**Power Roll + Agility:**
+**Power Roll + Might:**
 
-- *11 or lower:* **4 + A damage**
-- *12-16:* 7 + A **damage; push 1**
-- *17+:* 9 + A **damage; push 2**
+- *11 or lower:* **4 + M damage;** A \< weak, **prone**
+- *12-16:* 7 + M **damage;** A \< average\*\*, prone\*\*
+- *17+:* 9 + M **damage;** A \< strong\*\*, prone\*\*
 
-**Effect:** You can shift up to the same number of squares that you pushed the target.
+[GROWING RAGE](./Growing%20Rage.md)

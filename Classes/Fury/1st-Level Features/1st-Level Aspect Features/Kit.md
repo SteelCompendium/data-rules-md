@@ -11,5 +11,3 @@ kind: 1st-level features
 # Kit
 
 You can use and gain the benefits of a kit. See the Kits chapter for more information. (*Quick Build:* Panther)
-
-[PRIMORDIAL CUNNING](./Primordial%20Cunning.md)
