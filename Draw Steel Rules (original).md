@@ -305,7 +305,7 @@ Under certain circumstances, you might have one or more edges and banes on the s
 
 The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to climb a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
 
-#### **WHY CAP?**
+#### WHY CAP?
 
 We capped edges and banes at a maximum of two each for several reasons, including thinking about the narrative of those penalties. Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a creature can only benefit or be hindered by short-term circumstances so much. For example, a character who is prone and weakened by poison already finds it difficult to attack--so that becoming restrained by a net can't really make it harder.
 
@@ -416,7 +416,7 @@ Your hero has a Heroic Resource determined by your class, and which you manage d
 
 Your hero's class description has more information about how to use your Heroic Resource.
 
-#### **BAGS OF RATS AIN'T HEROIC**
+#### BAGS OF RATS AIN'T HEROIC
 
 Some players might think that quickly starting a fight with some bar patrons or carrying around a bag of rats is a good way to gather up those sweet, sweet Victories and Heroic Resources. Those strategies don't work! The rules of the game exist to help you tell a cool heroic fantasy story, not so you can try to be clever and exploit them by harming innocent rats to "win." In order to generate Victories and Heroic Resources, you must face and overcome challenges worthy of a hero!
 
@@ -528,7 +528,7 @@ The demons of the Abyssal Waste, the lowest plane, claw and scramble over each o
 
 At the center of the Abyssal Waste lies the Necropolitan Ruin, the Last City. A great city of the dead, the site is ruled by Khorsekef, once the Infinite Pharaoh of the desert wasteland of Khemhara, now the Ultralich. Khorsekef intends to return to Orden and sit once again on his throne in the grand Heliopolis at the center of Khemhara--and he has a plan ...
 
-#### **THE TIMESCAPE IN YOUR GAME**
+#### THE TIMESCAPE IN YOUR GAME
 
 We use the timescape and its medieval fantasyland Orden as the default setting presented in these books. Doing so makes it easier for us as designers to marry our design with real examples from a real (imaginary) fantasy world. We also think it's easier for you to take the names for places, languages, and gods, and replace them with your own. We might reference some hero or villain, saint or god, whose name makes you think, "Well, I don't have that in my setting." If we do a good job, though, you might be inspired to say, "But that makes me think ..." And being inspired is part of the fun!
 
@@ -604,7 +604,7 @@ The first thing you should do is think about the kind of hero you want to make. 
 - What people, places, and objects are important to you?
 - How will your hero complement the strengths and weaknesses of the other heroes?
 
-#### **AMBITION IS GOOD!**
+#### AMBITION IS GOOD!
 
 Heroes are not just along for the ride in the Director's story. They're active participants, who make decisions that change their communities and eventually worlds or even the entirety of the timescape! It is good for your hero to have desires, to want to found an organization, seek justice for someone who was wronged, or want to craft a magic sword that will help you defeat your foes. It's only when that personal ambition becomes more important than the group's story that it becomes a problem. But if you share your character's ambitions with your Director, they can weave those desires in with the narrative. Character creation is a great time to do this.
 
@@ -622,7 +622,7 @@ Create your hero's culture. Although ancestry gives your hero a number of physio
 
 Choose your hero's career, which describes what you did for a living before you became a hero. Your career gives you skills and a title, and might also give you languages, Renown, or knowledge for crafting and research. See Careers for more information.
 
-#### **I SPEAK THEIR LANGUAGE**
+#### I SPEAK THEIR LANGUAGE
 
 Choosing languages at the start of a campaign can be hard, because you might not know which are going to be the most impactful for a game. You can choose to keep some of the languages you know blank until you discover what might be a good choice for the campaign you're playing in. Once you decide to take a language, you can reveal your choice in a dramatic moment, perhaps during a negotiation where your language would help or just after you find a tome that no other hero in your crew can read.
 
@@ -695,7 +695,7 @@ If your character has a skill that implicitly requires gear, such as lockpicks f
 
 At the Director's discretion, you might lose certain gear during an adventure, or your gear could break. If this happens, you might not be able to perform certain tasks as effectively without that gear.
 
-#### **CHOOSING SKILLS**
+### CHOOSING SKILLS
 
 This game has lots of skills, and lots of opportunities during character creation to gain them. We recommend recording a list of all the skills you might gain from the different steps of the character creation process, then making your choices at the end of that process rather than flipping back and forth through the book.
 
@@ -717,7 +717,7 @@ Your character's heroic advancement is marked by level. Each time you gain a new
 
 In the standard setup for the game, heroes gain Experience each time they finish a respite. When you gain sufficient Experience, you gain a level during the same respite (see Building a Heroic Narrative). The Heroic Advancement table shows exactly how much Experience (XP) you need to advance from one level to the next. The amount of Experience you gain is cumulative.
 
-#### **HEROIC ADVANCEMENT**
+## HEROIC ADVANCEMENT
 
 | XP | Level |
 | --- | --- |
@@ -742,7 +742,7 @@ Director to see what method of advancement they plan to use.
 
 Some Directors prefer that heroes level up faster or slower to suit the pace of their story. The Adjusted XP Advancement table is set up for campaigns where heroes advance at double or half the usual pace. Directors can also create their own customized pace for XP -based advancement.
 
-#### **ADJUSTED XP ADVANCEMENT**
+#### ADJUSTED XP ADVANCEMENT
 
 | Level | XP for Double Speed | XP for Half Speed |
 | --- | --- | --- |
@@ -813,7 +813,7 @@ Revenants are not on the table, since they live until destroyed or moving on aft
 
 Humans have the potential to live a little longer on Orden than they do in the real world thanks to the presence of magic.
 
-#### **ANCESTRY MEASUREMENTS**
+### ANCESTRY MEASUREMENTS
 
 | Ancestry | Height in | Weight in | Life Expectancy |
 | --- | --- | --- | --- |
@@ -2437,7 +2437,7 @@ You can build your culture one aspect at a time or use the following tables if y
 
 on a cultural archetype, such as a noble house or pirate crew, use the Archetypical Cultures table.
 
-#### **TYPICAL ANCESTRY CULTURES**
+#### TYPICAL ANCESTRY CULTURES
 
 | Ancestry | Language | Environment | Organization | Upbringing |
 | --- | --- | --- | --- | --- |
@@ -2454,7 +2454,7 @@ on a cultural archetype, such as a noble house or pirate crew, use the Archetypi
 | Time | Voll | Nomadic | Anarchic | Martial |
 | Raider |  |  |  |  |
 
-#### **ARCHETYPICAL CULTURES**
+#### ARCHETYPICAL CULTURES
 
 | Community | Environment | Organization | Upbringing |
 | --- | --- | --- | --- |
@@ -2612,7 +2612,7 @@ Heroes with a noble upbringing were raised by leaders who rule over others and p
 
 **Skill Options:** One skill from the interpersonal skill group. (*Quick Build:* Lead)
 
-#### **BUT I REALLY WANT ALERTNESS**
+##### BUT I REALLY WANT ALERTNESS
 
 If the culture you create doesn't grant a skill that you want, check with your Director about modifying what the culture's aspects offer. For instance, you can easily make the case that a culture with the illegal upbringing aspect should give a character access to the Alertness skill, given that being successful in battle means always being aware of your surroundings.
 
@@ -2687,7 +2687,7 @@ You gain the following career benefits:
 - **Languages:** Two languages
 - **Perk:** One intrigue perk (*Quick Build:* Forgettable Face)
 
-#### **AGENT INCITING INCIDENTS**
+#### AGENT INCITING INCIDENTS
 
 | d6 | Incident |
 | --- | --- |
@@ -2752,7 +2752,7 @@ You gain the following career benefits:
 - **Wealth:** +1
 - **Perk:** One lore perk (*Quick Build:* I've Read About this Place)
 
-#### **ARISTOCRAT INCITING INCIDENTS**
+#### ARISTOCRAT INCITING INCIDENTS
 
 | d6 | Incident |
 | --- | --- |
@@ -2809,7 +2809,7 @@ You gain the following career benefits:
 - **Project Points:** 240
 - **Perk:** One crafting perk (*Quick Build:* Area of Expertise)
 
-#### **ARTISAN INCITING INCIDENTS**
+#### ARTISAN INCITING INCIDENTS
 
 | d6 | Incident |
 | --- | --- |
@@ -2866,7 +2866,7 @@ You gain the following career benefits:
 - **Languages:** Two languages
 - **Perk:** One interpersonal perk (*Quick Build:* Persistent)
 
-#### **BEGGAR INCITING INCIDENTS**
+#### BEGGAR INCITING INCIDENTS
 
 | d6 | Incident |
 | --- | --- |
@@ -2927,7 +2927,7 @@ You gain the following career benefits:
 - **Project Points:** 120
 - **Perk:** One intrigue perk (*Quick Build:* Criminal Contacts)
 
-#### **CRIMINAL INCITING INCIDENTS**
+#### CRIMINAL INCITING INCIDENTS
 
 | d6 | Incident |
 | --- | --- |
@@ -2985,7 +2985,7 @@ You gain the following career benefits:
 - **Project Points:** 240
 - **Perk:** One supernatural perk (*Quick Build:* Ritualist)
 
-#### **DISCIPLE INCITING INCIDENTS**
+#### DISCIPLE INCITING INCIDENTS
 
 | d6 | Incident |
 | --- | --- |
@@ -3046,7 +3046,7 @@ You gain the following career benefits:
 - **Languages:** Two languages
 - **Perk:** One exploration perk (*Quick Build:* Wood Wise)
 
-#### **EXPLORER INCITING INCIDENTS**
+#### EXPLORER INCITING INCIDENTS
 
 | d6 | Incident |
 | --- | --- |
@@ -3108,7 +3108,7 @@ You gain the following career benefits:
 - **Project Points:** 120
 - **Perk:** One exploration perk (*Quick Build:* Monster Whisperer)
 
-#### **FARMER INCITING INCIDENTS**
+#### FARMER INCITING INCIDENTS
 
 | d6 | Incident |
 | --- | --- |
@@ -3170,7 +3170,7 @@ You gain the following career benefits:
 - **Renown:** +2
 - **Perk:** One exploration perk (*Quick Build:* Friend Catapult)
 
-#### **GLADIATOR INCITING INCIDENTS**
+#### GLADIATOR INCITING INCIDENTS
 
 | d6 | Incident |
 | --- | --- |
@@ -3233,7 +3233,7 @@ You gain the following career benefits:
 - **Project Points:** 120
 - **Perk:** One exploration perk (*Quick Build:* Brawny)
 
-#### **LABORER INCITING INCIDENTS**
+#### LABORER INCITING INCIDENTS
 
 | d6 | Incident |
 | --- | --- |
@@ -3292,7 +3292,7 @@ You gain the following career benefits:
 - **Renown:** +1
 - **Perk:** One supernatural perk (*Quick Build:* Arcane Trick)
 
-#### **MAGE'S APPRENTICE INCITING INCIDENTS**
+#### MAGE'S APPRENTICE INCITING INCIDENTS
 
 | d6 | Incident |
 | --- | --- |
@@ -3351,7 +3351,7 @@ You gain the following career benefits:
 - **Renown:** +2
 - **Perk:** One interpersonal perk (*Quick Build:* Harmonizer)
 
-#### **PERFORMER INCITING INCIDENTS**
+#### PERFORMER INCITING INCIDENTS
 
 | d6 | Incident |
 | --- | --- |
@@ -3415,7 +3415,7 @@ You gain the following career benefits:
 - **Wealth:** +1
 - **Perk:** One interpersonal perk (*Quick Build:* Engrossing Monologue)
 
-#### **POLITICIAN INCITING INCIDENTS**
+#### POLITICIAN INCITING INCIDENTS
 
 | d6 | Incident |
 | --- | --- |
@@ -3473,7 +3473,7 @@ You gain the following career benefits:
 - **Project Points:** 240
 - **Perk:** One lore perk (*Quick Build:* Expert Sage)
 
-#### **SAGE INCITING INCIDENTS**
+#### SAGE INCITING INCIDENTS
 
 | d6 | Incident |
 | --- | --- |
@@ -3529,7 +3529,7 @@ You gain the following career benefits:
 - **Languages:** Two languages
 - **Perk:** One exploration perk (*Quick Build:* Put Your Back Into It)
 
-#### **SAILOR INCITING INCIDENTS**
+#### SAILOR INCITING INCIDENTS
 
 | d6 | Incident |
 | --- | --- |
@@ -3585,7 +3585,7 @@ You gain the following career benefits:
 - **Renown:** +1
 - **Perk:** One exploration perk (*Quick Build:* Teamwork)
 
-#### **SOLDIER INCITING INCIDENTS**
+#### SOLDIER INCITING INCIDENTS
 
 | d6 | Incident |
 | --- | --- |
@@ -3640,7 +3640,7 @@ You gain the following career benefits:
 - **Project Points:** 120
 - **Perk:** One exploration perk (*Quick Build:* Camouflage Hunter)
 
-#### **WARDEN INCITING INCIDENTS**
+#### WARDEN INCITING INCIDENTS
 
 | d6 | Incident |
 | --- | --- |
@@ -3695,7 +3695,7 @@ You gain the following career benefits:
 - **Languages:** Two languages
 - **Perk:** One exploration perk (*Quick Build:* Team Leader)
 
-#### **WATCH OFFICER INCITING INCIDENTS**
+#### WATCH OFFICER INCITING INCIDENTS
 
 | d6 | Incident |
 | --- | --- |
@@ -3761,7 +3761,7 @@ The languages on the Vasloria Languages by Ancestry table are the most common la
 
 Most languages have colloquial or casual names. For instance, many people in Orden call Kalliak "Orcish" and Hyrallic "Elvish," but any sage knows there are lots of orcish and elf languages, just as there are multiple human languages.
 
-#### **VASLORIA LANGUAGES BY ANCESTRY**
+#### VASLORIA LANGUAGES BY ANCESTRY
 
 | Language | Common | Notes |
 | --- | --- | --- |
@@ -3810,7 +3810,7 @@ Most languages have colloquial or casual names. For instance, many people in Ord
 | Za'hariax | Overminds |  |
 | Zaliac | Dwarves | Language of engineering |
 
-#### **VASLORIA HUMAN LANGUAGES**
+#### VASLORIA HUMAN LANGUAGES
 
 | Region | Language |
 | --- | --- |
@@ -3846,7 +3846,7 @@ Sages can reconstruct many of these languages by learning which modern languages
 
 The Dead Languages table shows some of the dead languages of Orden, and the modern languages related to those ancient languages.
 
-#### **DEAD LANGUAGES**
+#### DEAD LANGUAGES
 
 | Langauge | Ancestry | Related | Common Topics |
 | --- | --- | --- | --- |
@@ -3939,7 +3939,7 @@ Abilities with the Strike keyword (referred to simply as "strikes") deal damage 
 
 The Weapon keyword is used in abilities that are made with blades, bows, and other such items. Weapon abilities also include attacks creatures make with their own bodies, such as punches, kicks, bites, tail slaps, and more. Your kit determines the types of weapons you wield and use with weapon abilities (see Kits).
 
-#### **IT'S NOT ALL STRIKES!**
+#### IT'S NOT ALL STRIKES!
 
 The Strike keyword and phrases like "makes a strike" are reserved for abilities that have a creature specifically targeting other creatures or objects (not an area), and dealing harm to them by making a power roll. Other abilities that target areas of effect, are not strikes. They instead use the Area keyword. That means if a feature distinctly interacts with a strike, that feature has no effect on abilities with the Area keyword.
 
@@ -4231,7 +4231,7 @@ You're at your best against the strongest foes. Your judgments terrify heretics,
 
 **Skills:** Choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Intimidate, Religion)
 
-#### **CENSOR ADVANCEMENT**
+#### CENSOR ADVANCEMENT
 
 | Level | Features | Abilities | Order |
 | --- | --- | --- | --- |
@@ -4362,7 +4362,7 @@ You channel your will to mend your wounds or the wounds of your allies. You gain
 
 You gain a domain feature from one of your domains as shown on the 1st-Level Censor Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table.
 
-#### **1ST-LEVEL CENSOR DOMAIN FEATURES**
+##### 1ST-LEVEL CENSOR DOMAIN FEATURES
 
 | Domain | Feature | Skill |
 | --- | --- | --- |
@@ -4668,7 +4668,7 @@ You gain an interpersonal, lore, or supernatural perk of your choice. See Perks 
 
 Your censor order grants you a feature as shown on the 2nd-Level Order Features table.
 
-#### **2ND-LEVEL ORDER FEATURES**
+##### 2ND-LEVEL ORDER FEATURES
 
 | Order | Features |
 | --- | --- |
@@ -4714,7 +4714,7 @@ Choose one of the following abilities.
 | --- |
 | Keywords: Magic, Ranged, Strike Type: Action |
 
-#### **Distance:** Ranged 10 **Target:** One creature
+#### Distance:** Ranged 10 **Target: One creature
 
 **Power Roll + Might:**
 
@@ -4840,7 +4840,7 @@ Your Might and Presence scores increase to 3.
 
 You gain a domain feature from one of your domains, as shown on the 4th-Level Censor Domain Features table.
 
-#### **4TH-LEVEL CENSOR DOMAIN FEATURES**
+##### 4TH-LEVEL CENSOR DOMAIN FEATURES
 
 | Domain | Feature |
 | --- | --- |
@@ -4937,7 +4937,7 @@ As a 5th-level censor, you gain the following features.
 
 Your specialization grants you features as shown on the 5th-Level Tactical Doctrines Features table.
 
-#### **5TH-LEVEL ORDER FEATURES**
+##### 5TH-LEVEL ORDER FEATURES
 
 | Doctrine | Feature |
 | --- | --- |
@@ -5123,7 +5123,7 @@ All of your characteristics increase by 1, to a maximum score of 4.
 
 You gain a domain feature from one of your domains, as shown on the 7th-Level Censor Domain Features table.
 
-#### **7TH-LEVEL CENSOR DOMAIN FEATURES Domain Feature**
+#### 7TH-LEVEL CENSOR DOMAIN FEATURES Domain Feature
 Creation Divine Quartermaster
 Death Word of Death Deferred
 Fate Word of Fate Denied
@@ -5225,7 +5225,7 @@ As an 8th-level censor, you gain the following features.
 
 Your specialization grants you features as shown on the 8td-Level Tactical Doctrines Features table.
 
-#### **5TH-LEVEL ORDER FEATURES**
+##### 5TH-LEVEL ORDER FEATURES
 
 | Doctrine | Feature |
 | --- | --- |
@@ -5467,7 +5467,7 @@ As a conduit, you heal and buff your allies, and debuff your foes while smiting 
 
 **Skills:** Choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Read Person, Religion)
 
-#### **CONDUIT ADVANCEMENT**
+#### CONDUIT ADVANCEMENT
 
 | Level | Features | Abilities | Domain |
 | --- | --- | --- | --- |
@@ -5627,7 +5627,7 @@ Additionally, whenever you activate a domain effect by praying for piety, choose
 
 Choose one of your domains. You gain a domain feature from that domain as shown on the 1st-Level Conduit Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* Revitalizing Ritual)
 
-#### **1ST-LEVEL CONDUIT DOMAIN FEATURES**
+##### 1ST-LEVEL CONDUIT DOMAIN FEATURES
 
 | Domain | Feature | Skill Group |
 | --- | --- | --- |
@@ -6078,7 +6078,7 @@ You gain the 1st-level domain feature and chosen skill for the domain you select
 
 Choose one of your domains. You gain an ability from that domain as shown on the 2nd-Level Conduit Domain Abilities table.
 
-#### **2ND-LEVEL CONDUIT DOMAIN ABILITIES**
+##### 2ND-LEVEL CONDUIT DOMAIN ABILITIES
 
 | Domain | Feature |
 | --- | --- |
@@ -6299,7 +6299,7 @@ increase one of your characteristic scores by 1, to a
 
 You gain a domain feature from one of your domains, as
 
-#### **4TH-LEVEL CONDUIT DOMAIN FEATURES**
+##### 4TH-LEVEL CONDUIT DOMAIN FEATURES
 
 | Domain | Feature |
 | --- | --- |
@@ -6473,7 +6473,7 @@ You gain a crafting, lore, or supernatural perk of your choice. See Perks for mo
 
 Choose one of your domains. You gain an ability from it as shown on the 6th-Level Conduit Domain Abilities table.
 
-#### **6TH-LEVEL CONDUIT DOMAIN ABILITIES**
+##### 6TH-LEVEL CONDUIT DOMAIN ABILITIES
 
 | Domain | Ability |
 | --- | --- |
@@ -6643,7 +6643,7 @@ All of your characteristics increase by 1, to a maximum score of 4.
 
 You gain a domain feature from one of your domains, as shown on the 7th-Level Conduit Domain Features table.
 
-#### **7TH-LEVEL CONDUIT DOMAIN FEATURES Domain Feature** Creation Divine Quartermaster Death Word of Death Deferred Fate Word of Fate Denied Knowledge Gods' Library Life Font of Grace
+#### 7TH-LEVEL CONDUIT DOMAIN FEATURES Domain Feature Creation Divine Quartermaster Death Word of Death Deferred Fate Word of Fate Denied Knowledge Gods' Library Life Font of Grace
 
 |  | Deferred |
 | --- | --- |
@@ -6821,7 +6821,7 @@ While you have at least 5 Victories, you speak with the voice of your deity and 
 
 Choose one of your domains. You gain an ability from it as shown on the 9h-Level Conduit Domain Abilities table.
 
-#### **9TH-LEVEL CONDUIT DOMAIN ABILITIES**
+##### 9TH-LEVEL CONDUIT DOMAIN ABILITIES
 
 | Domain | Ability |
 | --- | --- |
@@ -7043,11 +7043,11 @@ As an elementalist, you can unleash your wrath across a field of foes, put an en
 
 **Stamina Gained at 2nd and Higher Levels:** 9
 
-#### **Recoveries:** 8
+#### Recoveries: 8
 
 **Skills:** You gain the Magic skill and can choose any three skills from the crafting or lore skill groups. (*Quick Build:*  Magic, Alchemy, Blacksmithing, History)
 
-#### **ELEMENTALIST ADVANCEMENT**
+#### ELEMENTALIST ADVANCEMENT
 
 | Level | Features | Abilities |
 | --- | --- | --- |
@@ -7189,7 +7189,7 @@ You have the following ability:
 
 Your elemental specialization grants you a feature as shown on the 1st-Level Elemental Specialization Features table.
 
-#### **1ST-LEVEL ELEMENTAL SPECIALIZATION FEATURES**
+##### 1ST-LEVEL ELEMENTAL SPECIALIZATION FEATURES
 
 | Specialization | Feature |
 | --- | --- |
@@ -7253,7 +7253,7 @@ RETURN TO FORMLESSNESS
 
 Your elemental specialization grants you a triggered action as shown on the Specialization Triggered Actions table.
 
-#### **SPECIALIZATION TRIGGERED ACTIONS**
+##### SPECIALIZATION TRIGGERED ACTIONS
 
 | Specialization | Triggered Action |
 | --- | --- |
@@ -7602,7 +7602,7 @@ You gain a crafting, lore, or supernatural perk of your choice. See Perks for mo
 
 Your elemental specialization grants you a feature as shown on the 2nd-Level Specialization Features table.
 
-#### **2ND-LEVEL SPECIALIZATION FEATURES**
+##### 2ND-LEVEL SPECIALIZATION FEATURES
 
 | Specialization | Feature |
 | --- | --- |
@@ -7646,7 +7646,7 @@ THERE IS NO SPACE BETWEEN *Knowledge of the mystery reveals two spaces are the s
 
 At the start of each of your turns while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal you emerge from when you enter a portal, and a creature who force moves an enemy into a portal chooses that enemy's destination portal.
 
-#### **GREEN ANIMAL FORMS**
+###### GREEN ANIMAL FORMS
 
 | Animal Type | Level | Temporary | Speed | Size | Stability | Melee | Special |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -7784,7 +7784,7 @@ As a 3rd-level elementalist, you gain the following features.
 
 Your elemental specialization grants you a feature as shown on the 3rd-Level Specialization Features table.
 
-#### **3RD-LEVEL SPECIALIZATION FEATURES**
+##### 3RD-LEVEL SPECIALIZATION FEATURES
 
 | Specialization | Feature |
 | --- | --- |
@@ -7905,7 +7905,7 @@ When you gain essence from a creature within 10 squares of you taking damage tha
 
 While you have 3 or more essence and you aren't dying, you exude an aura of magic. The area of effect of the aura is equal to your Reason score. The effects of the aura are based on your specialization as shown on the Mantle of Essence Specialization Effects table.
 
-#### **MANTLE OF ESSENCE SPECIALIZATION EFFECTS**
+##### MANTLE OF ESSENCE SPECIALIZATION EFFECTS
 
 | Specialization | Effects |
 | --- | --- |
@@ -7944,7 +7944,7 @@ As a 5th-level elementalist, you gain the following features.
 
 Your specialization grants you a feature as shown on the 5th-Level Elementalist Specialization Features table.
 
-#### **5TH-LEVEL ELEMENTALIST SPECIALIZATION FEATURES**
+##### 5TH-LEVEL ELEMENTALIST SPECIALIZATION FEATURES
 
 | Specialization | Feature |
 | --- | --- |
@@ -8153,7 +8153,7 @@ You gain any one perk of your choice. See Perks for more information.
 
 Your specialization grants you a feature as shown on the 8th-Level Elementalist Specialization Features table.
 
-#### **8TH-LEVEL ELEMENTALIST SPECIALIZATION FEATURES**
+##### 8TH-LEVEL ELEMENTALIST SPECIALIZATION FEATURES
 
 | Specialization | Feature |
 | --- | --- |
@@ -8214,7 +8214,7 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 | ? 12-16 9 damage; push 4 |  |  |  |
 | ? 17 12 damage; push 5 |  |  |  |
 
-#### **Earthwalk**
+#### Earthwalk
 
 Difficult terrain composed of earth and stone doesn't cost the source extra movement.
 
@@ -8426,7 +8426,7 @@ As a fury, you have abilities that deal a lot of damage, move you around the bat
 
 **Skills:** Nature, plus choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Nature, Alertness, Jump)
 
-#### **FURY ADVANCEMENT**
+#### FURY ADVANCEMENT
 
 | Level | Features | Abilities | Aspect |
 | --- | --- | --- | --- |
@@ -8507,7 +8507,7 @@ Some of the benefits of your Growing Rage can be applied only if you are a speci
 
 Your chosen primordial aspect grants you features as shown on the 1st-Level Aspect Features table.
 
-#### **1ST-LEVEL ASPECT FEATURES**
+##### 1ST-LEVEL ASPECT FEATURES
 
 | Aspect | Feature |
 | --- | --- |
@@ -8529,7 +8529,7 @@ You are never surprised. Additionally, whenever you would push a target with for
 
 As your rage grows, your primordial cunning intensifies, granting benefits from the Primordial Cunning Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-#### **PRIMORDIAL CUNNING GROWING RAGE**
+###### PRIMORDIAL CUNNING GROWING RAGE
 
 | Rage | Benefit |
 | --- | --- |
@@ -8575,7 +8575,7 @@ As your rage grows, your primordial strength intensifies, granting benefits from
 | 10) | o Gain 10 Temporary Stamina when you use a heroic |
 |  | ability. |
 
-#### **PRIMORDIAL STRENGTH GROWING RAGE**
+###### PRIMORDIAL STRENGTH GROWING RAGE
 
 ##### RELENTLESS HUNTER
 
@@ -8585,7 +8585,7 @@ You gain an edge on tests that use the Track skill.
 
 Your primordial aspect grants you a triggered action as shown on the Aspect Triggered Actions table.
 
-#### **ASPECT TRIGGERED ACTIONS**
+##### ASPECT TRIGGERED ACTIONS
 
 | Aspect | Triggered Action |
 | --- | --- |
@@ -8638,7 +8638,7 @@ UNEARTHLY REFLEXES
 
 You always succeed on Might tests made to jump. You can still roll to see if you get a reward result.
 
-#### **WHERE'S MY MANEUVER?**
+#### WHERE'S MY MANEUVER?
 
 Since most other classes get a bespoke maneuver, many folks have asked during playtesting, "Where is the fury's special maneuver?" The answer is that the fury doesn't need a maneuver all their own, because most the time, we've found that the fantasy of the fury has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
 
@@ -8832,7 +8832,7 @@ As a 2nd-level fury, you gain the following features.
 
 Your primordial aspect grants you a feature as shown on the 2nd-Level Aspect Features table.
 
-#### **2ND-LEVEL ASPECT FEATURES**
+##### 2ND-LEVEL ASPECT FEATURES
 
 | Aspect | Feature |
 | --- | --- |
@@ -8954,7 +8954,7 @@ As a 3rd-level fury, you gain the following features.
 
 Your primordial aspect grants you a feature as shown on the 3rd-Level Aspect Features table.
 
-#### **3RD-LEVEL ASPECT FEATURES**
+##### 3RD-LEVEL ASPECT FEATURES
 
 | Aspect | Feature |
 | --- | --- |
@@ -9051,7 +9051,7 @@ As a 5th-level fury, you gain the following features.
 
 Your connection to the Primordial Chaos grows, expressing itself in your body and nature. Your aspect grants you a feature as shown on the 5th-Level Primordial Aspect Features table.
 
-#### **5TH-LEVEL PRIMORDIAL ASPECT FEATURES**
+##### 5TH-LEVEL PRIMORDIAL ASPECT FEATURES
 
 | Aspect | Feature |
 | --- | --- |
@@ -9276,7 +9276,7 @@ As a 8th-level fury, you gain the following features.
 
 Your connection to the Primordial Chaos grows, expressing itself in your body and nature. Your aspect grants you a feature as shown on the 8th-Level Primordial Aspect Features table.
 
-#### **5TH-LEVEL PRIMORDIAL ASPECT FEATURES**
+##### 5TH-LEVEL PRIMORDIAL ASPECT FEATURES
 
 | Aspect | Feature |
 | --- | --- |
@@ -9588,7 +9588,7 @@ Your primordial damage type is cold.
 
 As your rage grows, you gain benefits as noted on the Boren Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-#### **BOREN GROWING RAGE**
+###### BOREN GROWING RAGE
 
 | Rage | Benefit |
 | --- | --- |
@@ -9659,7 +9659,7 @@ Your primordial damage type is fire.
 
 As your rage grows, you gain benefits as noted on the Corven Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-#### **CORVEN GROWING RAGE**
+###### CORVEN GROWING RAGE
 
 | Rage | Benefit |
 | --- | --- |
@@ -9726,7 +9726,7 @@ Your primordial damage type is corruption.
 
 As your rage grows, you gain benefits as noted on the Raden Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-#### **RADEN GROWING RAGE**
+###### RADEN GROWING RAGE
 
 **Rage Benefit** 2 When you take the Disengage move action, you
 
@@ -9795,7 +9795,7 @@ As your rage grows, you gain benefits as noted on the Vuken Growing Rage table. 
 
 
 
-#### **VUKEN GROWING RAGE**
+###### VUKEN GROWING RAGE
 
 | Rage | Benefit |
 | --- | --- |
@@ -9838,13 +9838,13 @@ The null is an unarmed psionic warrior who dampens and absorbs the effects of ma
 
 **Starting Stamina at 1st Level:** 21
 
-#### **Stamina Gained at 2nd and Higher Levels:** 9
+#### Stamina Gained at 2nd and Higher Levels: 9
 
-#### **Recoveries:** 8
+#### Recoveries: 8
 
 **Skills:** Psionics, plus choose any two skills from the interpersonal or lore groups. (*Quick Build:* Psionics, Read Person, Timescape)
 
-#### **NULL ADVANCEMENT**
+#### NULL ADVANCEMENT
 
 | Level | Features | Abilities | Tradition |
 | --- | --- | --- | --- |
@@ -9970,7 +9970,7 @@ You can use the Disengage move action as a free maneuver when you use Inertial S
 
 As your discipline grows, your psionic mastery of your body intensifies, granting benefits from the Chronokinetic Mastery table.
 
-#### **CHRONOKINETIC MASTERY**
+###### CHRONOKINETIC MASTERY
 
 | Discipline | Benefit |
 | --- | --- |
@@ -9996,7 +9996,7 @@ You can use the Grab maneuver as a free triggered action whenever you use Inerti
 
 As your discipline grows, your psionic mastery of your body intensifies, granting benefits from the Cryokinetic Mastery table.
 
-#### **CRYOKINETIC MASTERY**
+###### CRYOKINETIC MASTERY
 
 | Discipline | Benefit |
 | --- | --- |
@@ -10023,7 +10023,7 @@ You can use the Knockback maneuver as a free triggered action whenever you use I
 
 As your discipline grows, your psionic mastery of your body intensifies, granting benefits from the Metakinetic Mastery table.
 
-#### **METAKINETIC MASTERY**
+###### METAKINETIC MASTERY
 
 - **Discipline Benefit** 2 You add your Intuition score to the distance you
 
@@ -10307,7 +10307,7 @@ You gain an exploration, interpersonal, or intrigue perk of your choice. See Per
 
 Your chosen null tradition grants you a feature as shown on the 2nd-Level Tradition Features table.
 
-#### **2ND-LEVEL TRADITION FEATURES**
+##### 2ND-LEVEL TRADITION FEATURES
 
 | Tradition | Feature |
 | --- | --- |
@@ -10378,7 +10378,7 @@ ENTROPIC FIELD (5 DISCIPLINE)
 
 *You absorb ambient heat, coating the ground in frost and precipitating snow from the air*
 
-### **Keywords:** Psionic **Type:** Maneuver
+### Keywords:** Psionic **Type: Maneuver
 
 **Distance:** Self **Target:** Self
 
@@ -10499,7 +10499,7 @@ As a 5th-level null, you gain the following features.
 
 As a 5th-level null, you gain the following features based on your tradition.
 
-#### **5TH-LEVEL TRADITION FEATURES**
+##### 5TH-LEVEL TRADITION FEATURES
 
 | Doctrine | Feature |
 | --- | --- |
@@ -10727,7 +10727,7 @@ As an 8th-level null, you gain the following features.
 
 As a 8th-level null, you gain the following features based on your tradition.
 
-#### **5TH-LEVEL TRADITION FEATURES**
+##### 5TH-LEVEL TRADITION FEATURES
 
 | Doctrine | Feature |
 | --- | --- |
@@ -10973,7 +10973,7 @@ As a shadow, you have abilities that deal a lot of damage, let you move swiftly 
 
 **Skills:** Hide and Sneak, plus choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups. (*Quick Build:* Hide, Sneak, Criminal Underworld, Lie, Pick Lock, Pick Pocket, Sabotage)
 
-#### **SHADOW ADVANCEMENT**
+#### SHADOW ADVANCEMENT
 
 | Level | Features | Abilities | College |
 | --- | --- | --- | --- |
@@ -11051,7 +11051,7 @@ If you use an ability outside of combat that lets you spend unlimited insight on
 
 Your choice of shadow college grants you one or more features as shown on the 1st-Level College Features table.
 
-#### **1ST-LEVEL COLLEGE FEATURES**
+##### 1ST-LEVEL COLLEGE FEATURES
 
 | College | Feature |
 | --- | --- |
@@ -11097,9 +11097,9 @@ You gain the following ability.
 
 *Taking on the illusory countenance of another creature gives you an advantage on subterfuge.*
 
-## **Keywords:** Magic **Type:** Maneuver
+## Keywords:** Magic **Type: Maneuver
 
-## **Distance:** Self **Target:** Self
+## Distance:** Self **Target: Self
 
 **Effect:** When you use this ability, you cover yourself in an illusion that causes you to appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic, unarmed, and capable version of yourself. While this illusion lasts, your strikes made against other creatures gain an edge. If you use this ability in combat, you gain a surge when you use it.
 
@@ -11115,7 +11115,7 @@ You always carry a supply of smoke bombs to make it easy for you to distract and
 
 Your shadow college grants you a triggered action as shown on the College Triggered Actions table.
 
-#### **COLLEGE TRIGGERED ACTIONS**
+##### COLLEGE TRIGGERED ACTIONS
 
 | College | Triggered Action |
 | --- | --- |
@@ -11139,7 +11139,7 @@ DEFENSIVE ROLL
 
 **Keywords:** -- **Type:** Triggered
 
-## **Distance:** Self **Target:** Self
+## Distance:** Self **Target: Self
 
 **Trigger:** Another creature damages you.
 
@@ -11276,7 +11276,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 *Move unexpectedly, strike fast, and be gone!* **Keywords:** Melee, Strike, Weapon **Type:** Action
 
-#### **Distance:** Melee 1 **Target:** One creature
+#### Distance:** Melee 1 **Target: One creature
 
 **Power Roll + Agility:**
 
@@ -11356,7 +11356,7 @@ As a 2nd-level shadow, you gain the following features.
 
 Your shadow college grants you a feature as shown on the 2nd-Level College Features table.
 
-#### **2ND-LEVEL COLLEGE FEATURES**
+##### 2ND-LEVEL COLLEGE FEATURES
 
 | Specialization | Feature |
 | --- | --- |
@@ -11599,7 +11599,7 @@ As a 5th-level shadow, you gain the following features.
 
 Your specialization grants you a feature as shown on the 5th-Level Shadow College Features table.
 
-#### **5TH-LEVEL SHADOW COLLEGE FEATURES**
+##### 5TH-LEVEL SHADOW COLLEGE FEATURES
 
 | Specialization | Feature |
 | --- | --- |
@@ -11819,7 +11819,7 @@ As an 8th-level shadow, you gain the following features.
 
 Your specialization grants you a feature as shown on the 8th-Level Shadow College Features table.
 
-#### **8TH-LEVEL SHADOW COLLEGE FEATURES**
+##### 8TH-LEVEL SHADOW COLLEGE FEATURES
 
 | Specialization | Feature |
 | --- | --- |
@@ -12069,13 +12069,13 @@ As a tactician, you have abilities that heal your allies and grant them increase
 
 **Starting Stamina at 1st Level:** 21
 
-#### **Stamina Gained at 2nd and Higher Levels:** 12
+#### Stamina Gained at 2nd and Higher Levels: 12
 
-#### **Recoveries:** 10
+#### Recoveries: 10
 
 **Skills:** Lead, plus choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy)
 
-#### **TACTICIAN ADVANCEMENT**
+#### TACTICIAN ADVANCEMENT
 
 | Level | Features | Abilities | Doctrine |
 | --- | --- | --- | --- |
@@ -12152,7 +12152,7 @@ If you use an ability outside of combat that lets you spend unlimited focus on i
 
 Your chosen tactical doctrine grants you a feature as shown on the 1st-Level Doctrine Features table.
 
-#### **1ST-LEVEL DOCTRINE FEATURES**
+##### 1ST-LEVEL DOCTRINE FEATURES
 
 | Doctrine | Feature |
 | --- | --- |
@@ -12190,7 +12190,7 @@ You can make this test only once for any encounter or negotiation.
 
 Your tactical doctrine grants you a triggered action as shown on the Doctrine Triggered Actions table.
 
-#### **DOCTRINE TRIGGERED ACTIONS**
+##### DOCTRINE TRIGGERED ACTIONS
 
 | Doctrine | Triggered Action |
 | --- | --- |
@@ -12425,7 +12425,7 @@ As a 2nd-level tactician, you gain the following features.
 
 Your tactical doctrine grants you a feature as shown on the 2nd-Level Doctrine Features table.
 
-#### **2ND-LEVEL DOCTRINE FEATURES**
+##### 2ND-LEVEL DOCTRINE FEATURES
 
 | Doctrine | Feature |
 | --- | --- |
@@ -12626,7 +12626,7 @@ As a 5th-level tactician, you gain the following features.
 
 Your specialization grants you features as shown on the 5nd-Level Tactical Doctrines Features table.
 
-#### **5TH-LEVEL DOCTRINE FEATURES**
+##### 5TH-LEVEL DOCTRINE FEATURES
 
 | Doctrine | Feature |
 | --- | --- |
@@ -12823,7 +12823,7 @@ All of your characteristics increase by 1, to a maximum score of 4.
 
 Your specialization grants you features as shown on the 7th-Level Tactical Doctrines Features table.
 
-#### **7TH-LEVEL DOCTRINE FEATURES**
+##### 7TH-LEVEL DOCTRINE FEATURES
 
 | Doctrine | Feature |
 | --- | --- |
@@ -12863,7 +12863,7 @@ As a 8th-level tactician, you gain the following features.
 
 Your specialization grants you features as shown on the 8th-Level Tactical Doctrines Features table.
 
-#### **8TH-LEVEL DOCTRINE FEATURES**
+##### 8TH-LEVEL DOCTRINE FEATURES
 
 | Doctrine | Feature |
 | --- | --- |
@@ -12997,7 +12997,7 @@ Choose one of the following abilities.
 
 **Keywords:** Charge, Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
 
-#### **Effect:** Mark the target.
+#### Effect: Mark the target.
 
 **Power Roll + Might:**
 
@@ -13079,11 +13079,11 @@ A talent is limited only by the strength of their mind. Powerful psionic heroes 
 
 **Stamina Gained at 2nd and Higher Levels:** 9
 
-#### **Recoveries:** 8
+#### Recoveries: 8
 
 **Skills:** Psionics and Read Person, plus choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, Read Person, Empathize, Timescape)
 
-#### **TALENT ADVANCEMENT**
+#### TALENT ADVANCEMENT
 
 | Level | Features | Abilities | Tradition |
 | --- | --- | --- | --- |
@@ -13204,7 +13204,7 @@ other. The receiver of your telepathic communications can choose to respond tele
 
 Your talent tradition grants you features as shown on the 1st-Level Tradition Features table.
 
-#### **1ST-LEVEL TRADITION FEATURES**
+##### 1ST-LEVEL TRADITION FEATURES
 
 | Tradition | Features |
 | --- | --- |
@@ -13396,7 +13396,7 @@ HOARFROST
 
 **Type:** Action
 
-#### **Distance:** Ranged 10 **Target:** One creature
+#### Distance:** Ranged 10 **Target: One creature
 
 **Power Roll + Reason:**
 
@@ -13486,7 +13486,7 @@ KINETIC PULSE
 - *12-16:* 6 + P **damage**
 - *17+:* 9 + P **damage**
 
-#### **Effect:** You gain a surge.
+#### Effect: You gain a surge.
 
 **Strained:** The attack deals an extra 3 damage to the target and to you. The damage you take can't be reduced in any way.
 
@@ -13504,9 +13504,9 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 **Keywords:** Psionic, Ranged, Strike, Telepathy
 
-#### **Type:** Action
+#### Type: Action
 
-#### **Distance:** Ranged 10 **Target:** One ally or enemy
+#### Distance:** Ranged 10 **Target: One ally or enemy
 
 **Effect:** Any ally targeted by this ability gains temporary Stamina equal to twice your Presence score, and can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.
 
@@ -13518,7 +13518,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 NOTHING EXCEEDS MY GRASP (3 CLARITY) *Be careful not to choke on your aspirations.* **Keywords:** Psionic, Ranged, Strike, Telekinesis
 
-#### **Type:** Action **Distance:** Ranged 10 **Target:** One creature
+#### Type:** Action **Distance:** Ranged 10 **Target: One creature
 
 - **Power Roll + Reason:** o *11 or lower:* **3 + R damage;** M < weak**, slowed (save ends)**
 - *12-16:* **5 + R damage;** M < average**, slowed (save ends)**
@@ -13540,7 +13540,7 @@ NOTHING EXCEEDS MY GRASP (3 CLARITY) *Be careful not to choke on your aspiration
 
 **Keywords:** Psionic, Pyrokinesis, Ranged, Strike
 
-### **Type:** Action
+### Type: Action
 
 **Distance:** Ranged 10 **Target:** One creature
 
@@ -13612,7 +13612,7 @@ You gain an interpersonal, lore, or supernatural perk of your choice. See Perks 
 
 Your talent tradition grants you a feature as shown on the 2nd-Level Tradition Features table.
 
-#### **2ND-LEVEL TRADITION FEATURES**
+##### 2ND-LEVEL TRADITION FEATURES
 
 | Tradition | Feature |
 | --- | --- |
@@ -13702,7 +13702,7 @@ Choose one of the following abilities.
 
 **Keywords:** Psionic, Ranged, Strike, Telekinesis
 
-#### **Type:** Action
+#### Type: Action
 
 **Distance:** Ranged 10 **Target:** One creature or object
 
@@ -13875,7 +13875,7 @@ As a 5th-level talent, you gain the following features.
 
 You've developed a strong psychic bond with your allies that has allowed you all to coordinate supernaturally.
 
-#### **5th-Level Tradition Feature**
+#### 5th-Level Tradition Feature
 
 | Tradition | Feature |
 | --- | --- |
@@ -14038,7 +14038,7 @@ Choose one of the following abilities.
 
 *Keep everything as it was. Ignore everything that will be.* **Keywords:** Area, Chronopathy, Psionic, Ranged
 
-#### **Type:** Action
+#### Type: Action
 
 **Distance:** 4 Cube within 10 **Target:** Special **Effect:** The affected area becomes frozen in time until the start of your next turn. All objects within the affected area are restrained and can't fall until the effect ends. Creatures and objects that are reduced to 0 Stamina or would die/be destroyed while in an affected square stay alive until the effect ends. Roll power, targeting all enemies within the affected area.
 
@@ -14074,7 +14074,7 @@ Choose one of the following abilities.
 
 *You raise the tree or the behemoth, and without breaking a sweat, they soar faster than they should.* **Keywords:** Melee, Psionic, Telekinesis
 
-#### **Type:** Action
+#### Type: Action
 
 **Distance:** Melee 3 **Target:** 1 creature or object **Power Roll + Reason:**
 
@@ -14150,7 +14150,7 @@ You gain any one perk of your choice. See Perks for more information
 
 You have a mastery over your tradition that reveals itself in little ways you don't normally think about.
 
-#### **8th-Level Tradition Feature**
+#### 8th-Level Tradition Feature
 
 | Tradition | Feature |
 | --- | --- |
@@ -14246,7 +14246,7 @@ Choose one heroic ability from the following options.
 
 **Keywords:** Chronopathy, Psionic **Type:** Maneuver **Distance:** Self and Ranged 10 **Target:** Self or 1 ally
 
-#### **Effect:** Choose two of the following effects:
+#### Effect: Choose two of the following effects:
 
 - The target regains 3 recoveries, which they can immediately spend.
 - The target ends all EoT and resistance ends effects, and gains 1 heroic resource.
@@ -14302,7 +14302,7 @@ within distance:
 
 *You lean on future heroism to assist you in the now.* **Keywords:** Area, Chronopathy, Psionic **Type:** Maneuver
 
-#### **Distance:** 2 Burst **Target:** All allies
+#### Distance:** 2 Burst **Target: All allies
 
 **Effect:** You have 6 heroic resources to distribute amongst the targets in range. A target can't gain more than 3 of their heroic resource in this way. After using this ability, you can't gain any clarity until the end of the next round.
 
@@ -14442,7 +14442,7 @@ And beyond the mundane, there are insurmountable dangers that cause many a hero 
 
 **Skills:** Read Person, plus choose two skills from the interpersonal group and one skill from the intrigue or lore groups. (*Quick Build:* Read Person, Brag, Rumors)
 
-#### **TROUBADOUR ADVANCEMENT**
+#### TROUBADOUR ADVANCEMENT
 
 | Level | Features | Abilities | Class Act |
 | --- | --- | --- | --- |
@@ -14553,7 +14553,7 @@ CHOREOGRAPHY
 
 Your troubadour class act grants you features as shown on the 1st-Level Class Act Features table.
 
-#### **1ST-LEVEL CLASS ACT FEATURES**
+##### 1ST-LEVEL CLASS ACT FEATURES
 
 | Class Act | Feature |
 | --- | --- |
@@ -14595,7 +14595,7 @@ You gain the following ability.
 
 **Keywords:** Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Special
 
-#### **Effect:** Choose one of the following effects:
+#### Effect: Choose one of the following effects:
 
 - You orate a rousing tale of victory. One ally within distance gains an edge on the next power roll they make before the start of your next turn.
 - You weave a tale of high stakes heroics. One ally within distance gains a surge.
@@ -14663,7 +14663,7 @@ You gain the following routine abilities, each of which is usable with your Curt
 
 Your troubadour class act grants you a triggered action as shown on the Class Act Triggered Actions table.
 
-#### **CLASS ACT TRIGGERED ACTIONS**
+##### CLASS ACT TRIGGERED ACTIONS
 
 | Class Act | Triggered Action |
 | --- | --- |
@@ -14999,7 +14999,7 @@ As a 3rd-level troubadour, you gain the following features.
 
 Your troubadour class act grants you a feature as shown on the 3rd-Level Class Act Features table.
 
-#### **3RD-LEVEL CLASS ACT FEATURES**
+##### 3RD-LEVEL CLASS ACT FEATURES
 
 | Class Act | Feature |
 | --- | --- |
@@ -15389,7 +15389,7 @@ As an 8th-level troubadour, you gain the following features.
 
 You've put your mark on the artform for all class acts to follow. You gain a new feature as shown on the 8th-Level Class Act Features table.
 
-#### **8TH-LEVEL CLASS ACT FEATURES**
+##### 8TH-LEVEL CLASS ACT FEATURES
 
 | Class Act | Feature |
 | --- | --- |
@@ -15634,7 +15634,7 @@ The equipment categories your kit gives you are part of what affects the math be
 
 You can wear armor and wield weapons that aren't part of your kit, but if you don't you don't get your kit's bonuses.
 
-#### **CUSTOMIZING EQUIPMENT APPEARANCES**
+### CUSTOMIZING EQUIPMENT APPEARANCES
 
 You should absolutely feel free to describe your equipment in a way that makes sense for the story of your game and hero. For instance, if your hero uses a weapon in the whip category as part of their kit, they could use a leather whip, a spiked chain, or a dagger tied to a knotted rope. A hero who wears heavy armor might wear a suit of chain mail, plate armor, or heavy wooden planks tied together. Your choices for equipment aren't limited just to the examples in this book.
 
@@ -15700,7 +15700,7 @@ Any kit that uses unarmed strikes allows you to use your body as a weapon. Punch
 
 Whip weapons include the standard whip, but also include spiked chains, flails, and any similarly long and flexible melee weapon.
 
-#### **IMPROVISED WEAPONS**
+#### IMPROVISED WEAPONS
 
 Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed strikes, then your feet and fists are improvised weapons. If you're not using a kit and pick up a sword to use as part of a melee free strike, the sword counts as an improvised weapon.
 
@@ -15762,7 +15762,7 @@ Each kit grants you a signature ability, **which already includes the kit's bonu
 
 For details on the ability format, see Abilities.
 
-#### **OPTIONAL RULE: LOSING EQUIPMENT**
+### OPTIONAL RULE: LOSING EQUIPMENT
 
 The rules of the game expect that heroes always have access to their equipment. That's because for most of the time in the game, heroes aren't worried about surviving for days on end in a dungeon and tracking every piece of gear they carry. However, there could be times where your group wants to tell a story of heroes who are captured and stripped of their equipment, or who find themselves at a masquerade where weapons need to be checked at the door. For those sorts of scenarios, you can use the following rules:
 
@@ -16400,7 +16400,7 @@ You wear no armor and wield a whip.
 - *12-16:* 7 **+ M or A damage; vertical pull 2**
 - *17+:* 10 **+ M or A damage; vertical pull 3**
 
-#### **MARTIAL KITS**
+##### MARTIAL KITS
 
 | Kit | Armor | Weapon | Stamina | Speed | Stability | Melee | Ranged | Ranged | Melee | Disengage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -16694,7 +16694,7 @@ A magic spirit, which has taken the form of a specific small animal or animate o
 
 If the familiar is destroyed, you can restore them as a respite activity or by spending a Recovery as an action to bring them back into existence into an unoccupied space adjacent to you.
 
-#### **FAMILIAR**
+### FAMILIAR
 
 | Familiar |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -16766,7 +16766,7 @@ Many of the details of each complication are purposefully left vague, so that yo
 
 You can choose your character's complication, or you can roll on the Complications table.
 
-#### **COMPLICATIONS**
+### COMPLICATIONS
 
 | d100 | Complication |
 | --- | --- |
@@ -17834,7 +17834,7 @@ You make an Intuition test whenever you attempt a risky task that requires the u
 
 You make a Presence test whenever you attempt a risky task that requires the use of your force of personality. Presence tests are most often used to gain trust, project confidence, and influence and lead other creatures.
 
-#### **INFLUENCING PLAYER CHARACTER ACTIONS WITH TESTS**
+#### INFLUENCING PLAYER CHARACTER ACTIONS WITH TESTS
 
 Tests can't be used by NPCs or PCs to influence the actions of PCs. Many players feel that their agency is taken away if they're compelled to jump into a pile of gold filled with hidden scorpions because an NPC convinced them to do so with a Presence test. For most players, it's not fun to be in control of a single hero and lose some of that control.
 
@@ -17850,7 +17850,7 @@ On a test-by-test basis, the Director can share the difficulty of a task before 
 
 The Test Difficulty Outcomes table shows all the possible results of the different difficulties of tests. If you're a Director, you'll want to keep this handy so you can see the different difficulties and their outcomes at a glance.
 
-#### **TEST DIFFICULTY OUTCOMES**
+#### TEST DIFFICULTY OUTCOMES
 
 | Result | Easy | Medium | Hard |
 | --- | --- | --- | --- |
@@ -18211,11 +18211,11 @@ Failure consequences for tests made with lore skills typically include learning 
 | Timescape | Knowing about the various planets of the |
 |  | timescape |
 
-#### **FOR THE DIRECTOR: MAKE YOUR OWN SKILLS**
+#### FOR THE DIRECTOR: MAKE YOUR OWN SKILLS
 
 Directors should feel free to make their own skills that they feel are relevant and useful to their campaigns and adventures. For instance, the game doesn't have a Brewing skill for brewing ale or a Painting skill for making art because those aren't tasks that typically come up or require a test in a game about fighting monsters and saving the world. However, a Director could decide that their campaign involves poisoned barrels of ale and large amounts of counterfeit art, and that adding these two new skills to the game would make it more fun for the players. The Director simply needs to pick a group for these new skills--in this case, crafting makes sense. They then let the players know that they can swap out any crafting skill they have for these new skills.
 
-#### **ARE ALL SKILLS EQUAL?**
+#### ARE ALL SKILLS EQUAL?
 
 This game has a big list of skills, and it's impossible for us or anyone else to know in advance which will be most useful during a campaign. For instance, the Swim skill might be used constantly during a campaign that takes place on the ocean and has heroes exploring underwater ruins, but it won't come up as much in a campaign that takes place entirely in a vast desert. The Psionics skill might come up a lot in a campaign where voiceless talkers are the main foes, and Magic might be more useful in a game where the heroes take on a circle of evil wizards. If you're worried about whether a skill you'd like to take will be useful, discuss your skill list with the Director after you create a hero. At the Director's discretion, you can swap out any skill you have with any other skill in the same group.
 
@@ -18425,7 +18425,7 @@ The Director determines the success limit and failure limit of a montage test. T
 
 In general, the higher the success limit, the harder and more complicated it is for the heroes to overcome the montage test , since a hero can't make the same test twice. The Montage Test Difficulty table gives a recommended success limit and failure limit for easy, moderate, and hard montage tests for groups with five heroes.
 
-#### **MONTAGE TEST DIFFICULTY**
+#### MONTAGE TEST DIFFICULTY
 
 | Difficulty | Success Limit | Failure Limit |
 | --- | --- | --- |
@@ -18492,7 +18492,7 @@ When the heroes face a problem that can be solved only with action, or when they
 
 When combat begins, the Director should position miniatures or tokens on a gridded map to represent the environment, the heroes, their foes, and any other creatures in the battle.
 
-#### **HOW BIG IS A SQUARE?**
+### HOW BIG IS A SQUARE?
 
 It's helpful to know how big a square is for abilities that heroes and NPCs can use outside of combat. A single square is 5 feet on all sides. The Director can change this measurement to 2 meters, 1 meter, or any other measurement you prefer, as long as that scale stays consistent throughout your game.
 
@@ -18506,7 +18506,7 @@ Objects can also have a size rating. If an object has an O (an abbreviation for 
 
 The Creature and Object Sizes table shows examples sizes of creatures and objects up to size 5, but there is no limit to what a creature or object's size could be.
 
-#### **CREATURE AND OBJECT SIZES**
+#### CREATURE AND OBJECT SIZES
 
 | Size | Example Creature | Example Object |
 | --- | --- | --- |
@@ -18523,7 +18523,7 @@ The Creature and Object Sizes table shows examples sizes of creatures and object
 
 Every combat encounter is a conflict between two sides. The heroes and any of their allies are one side, controlled by the players. Any creatures who oppose the heroes are the other side, controlled by the Director. All creatures who oppose the heroes are on the same side, even if those creatures also oppose each other. For example, if the heroes are battling a group of bandits when a kingfissure worm suddenly bursts into the fray to devour player characters and brigands alike, the worm is still on the side of the bandits for the purpose of the game's combat rules.
 
-#### **NPC ALLIES**
+#### NPC ALLIES
 
 If an NPC ally fights alongside the heroes, the Director should give the players the ally's stat block and let them control the NPC during combat. The Director has enough to worry about. As well, any missteps, mistakes, or triumphs the ally makes will be thanks to the decisions of the players and not the Director, which can make the outcome of the battle more satisfying for the players.
 
@@ -18565,7 +18565,7 @@ In general, though, most groups find that it's usually only one or two players i
 
 If the players do end up arguing in circles about what to do next, the Director can place a timer on the discussion. Usually, giving the players a warning and 30 seconds to decide who goes next does the trick. If they can't choose by the end of that time, the Director chooses a hero to act.
 
-#### **ALTERNATIVE INITIATIVE**
+#### ALTERNATIVE INITIATIVE
 
 If planning everyone's turn order isn't fun for your group, you can leave it to the dice instead. At the start of combat, have each hero, enemy, and group of enemies make an Agility test, then record the results. When it's time for someone on the heroes' side to act, the hero with the highest result goes first. On the next hero turn, the hero with the second-highest result takes their turn, and so on. The Director-controlled creatures act the same way. Creatures on the same side should reroll tied Agility
 
@@ -18771,7 +18771,7 @@ If a creature is killed by damage from an ability or effect that force moves the
 
 You can force move another creature into yourself with a pull or a slide.
 
-#### **TRACKING OBJECT FORCED-MOVEMENT DAMAGE**
+#### TRACKING OBJECT FORCED-MOVEMENT DAMAGE
 
 At the Director's discretion, mundane objects that are force moved into creatures or other objects take damage as if they were creatures. Sturdy objects can take damage as follows:
 
@@ -19132,7 +19132,7 @@ To avoid a battle dragging, the Director can set objectives when they build the 
 
 When the Director ends combat this way, the players typically choose how the battle ends by narrating a dramatic finish. Or in rarer cases when the heroes achieve a major objective that sets off a story-defining event, the Director narrates the end of the battle with a positive outcome for the players, called an event ending (see below).
 
-#### **FLEEING FOES**
+#### FLEEING FOES
 
 If you've played an RPG like this one before, odds are you've had an encounter where you didn't chase down every last fleeing foe--and then one such foe grabbed another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, "No survivors. No mercy!" whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily turn a tactical encounter into a slog.
 
@@ -19234,7 +19234,7 @@ The Director typically assumes that the underlying potential for events to turn 
 
 Negotiation is about persuading someone to help you willingly because you've convinced them that meeting your objectives is a good idea. Working with you is wise or logical, or might make them look good. A hero can absolutely threaten someone with violence and force them to do what they want, but this is an incredibly temporary state. A threatened NPC isn't willingly doing what they've been asked. They're doing it on threat of violence, and will comply only while that threat is evident--after which, they'll likely go back to their previous behavior as soon as they think they can get away with it.
 
-#### **NEWGOTIATION**
+#### NEWGOTIATION
 
 If you've never played a game with a dedicated negotiation system like this, you might need to run it once or twice before you master it, similar to learning any new subsystem in an RPG.
 
@@ -19416,7 +19416,7 @@ Arguments that appeal to the vengeance motivation contend that the NPC can gain 
 
 back? We can arrange a delicious prank at the next gathering, but we need you to guarantee the safety of the orc refugees."
 
-### **NPCS CHANGE OVER TIME**
+#### NPCS CHANGE OVER TIME
 
 Just like the heroes, NPCs in negotiations are complex individuals who can change over time. It's possible that the heroes might have to negotiate with the same NPC for several different favors during the course of a campaign, over which time the NPC's motivations and pitfalls might change. If the heroes turn a bandit captain with the greed and power motivations into a temporary ally, that criminal might learn from them, changing their ways to rob only those who exploit the poor and giving those earnings to people in need. The next time the heroes negotiate with the bandit captain, they have the benevolence and protection motivations.
 
@@ -19434,7 +19434,7 @@ If a hero wants to halt hostilities to negotiate with the other side, they can u
 
 An NPC's starting negotiation stats depend on their attitude toward the heroes, as shown on the Negotiation Starting Attitudes table, and can be adjusted by the Director as they see fit. A naturally irascible NPC might have lower patience, while a hostile NPC with a greaterthan-expected stake in the negotiation topic might have a higher-than-typical interest.
 
-#### **NEGOTIATION STARTING ATTITUDES**
+#### NEGOTIATION STARTING ATTITUDES
 
 | Attitude | Description | Interest | Patience |
 | --- | --- | --- | --- |
@@ -19512,7 +19512,7 @@ At the Director's discretion, a particularly well-roleplayed or well-reasoned ar
 
 If the heroes attempt to appeal to a motivation that's already been appealed to, the NPC's interest remains the same and their patience decreases by 1.
 
-### **APPEALING TO MULTIPLE MOTIVATIONS**
+#### APPEALING TO MULTIPLE MOTIVATIONS
 
 If a hero makes an argument that appears to appeal to multiple motivations, the Director can always ask for clarification, listing the motivations it seemed like the player was trying to appeal to and allowing the player to pick one from the list. If the player had another motivation in mind, it's up to the Director if the argument appealed to that specific motivation or not.
 
@@ -19528,7 +19528,7 @@ If an argument doesn't include one of the NPC's motivations or pitfalls, the her
 
 If the heroes try to use the same argument without a pitfall or motivation twice, the test automatically gets a tier 1 result.
 
-#### **EVERYONE CAN PARTICIPATE**
+#### EVERYONE CAN PARTICIPATE
 
 Since Reason and Intuition with creatively applied skills can be used to make arguments, all heroes can actively participate in the process of negotiation. The hero with the highest Presence who has the Persuade skill doesn't automatically have to be the one who makes all the tests.
 
@@ -19546,7 +19546,7 @@ During a negotiation, an NPC has an **Impression score** that determines the amo
 
 The higher an NPC's Impression, the harder they are to influence with Renown. A small-time brigand has a lower Impression score than a monarch who meets with powerful and famous people all the time. The NPCs and Impression table provides examples of different archetypical NPC Impression scores. If a creature has a level, then their Impression equals their level unless the Director deems otherwise.
 
-#### **NPCS AND IMPRESSION**
+#### NPCS AND IMPRESSION
 
 | Impression | Example NPC | 1 | Brigand leader, commoner, shop owner |
 | --- | --- | --- | --- |
@@ -19583,7 +19583,7 @@ Unless the NPC is deceitful, it should be clear to the heroes if their argument 
 
 The initial response should come with an offer (or a refusal to make an offer) based on the NPC's current interest. If a hero's argument reduces an NPC's patience to 0, the NPC lets the heroes know that this is their final offer.
 
-#### **FOR THE DIRECTOR: REASONS FOR DECEPTION**
+### FOR THE DIRECTOR: REASONS FOR DECEPTION
 
 Under certain circumstances, an NPC might not want to show the heroes how well their arguments are working. For example, if an NPC's interest has dropped so low that they now intend to harm the heroes, the NPC might falsely agree to what the heroes ask for as part of a trap. Likewise, a greedy NPC might try to keep their enthusiasm for a deal concealed while their interest is high to obtain more money or favors from the heroes. If a hero thinks an NPC is attempting to fool them, they can make an Intuition test. On a success, the hero learns their true standing with the NPC.
 
@@ -19643,15 +19643,15 @@ Zola is neutral toward the heroes when the negotiation begins. She knows them on
 
 rejoin the fight. One wrong move could spell the end of the Clock!
 
-#### **ZOLA HONEYCUT NEGOTIATION STATS**
+#### ZOLA HONEYCUT NEGOTIATION STATS
 **Interest:** 2 o **Patience:** 3 o **Impression:** 3
 
-#### **Motivations**
+#### Motivations
 
 - **Benevolence:** Zola's name, Honeycut, comes from the fact that she always gives her fellow thieves a bigger cut than her own on jobs.
 - **Protection:** The members of the Clock are the only family Zola's ever known. The guild's motto is "The Clock is always ticking," because they're always planning the next job and their ever-richer future. Zola doesn't want to be the guild's last master.
 
-#### **Pitfall**
+#### Pitfall
 
 - **Higher Authority:** Zola has no interest in serving anyone other than herself, and she scoffs at the suggestion of taking orders.
 - **Revelry:** Zola is all business and has no time for frivolity, especially while living under Saxton's threat.
@@ -19862,7 +19862,7 @@ If you want to guarantee that events occur during a project, use project point m
 
 You can use the Suggested Event Milestones table to determine when an event should occur during a project.
 
-#### **SUGGESTED EVENT MILESTONES**
+##### SUGGESTED EVENT MILESTONES
 
 | Project | Milestones |
 | --- | --- |
@@ -19908,7 +19908,7 @@ When you begin this project, you hire a crew of masons, engineers, and guards wh
 
 The project points required to complete work on the road equals 10 x the road's length in miles. The goal is cut in half if you are repairing an existing road, or someone else begins work on a second road project starting from the second location connecting to your first location.
 
-#### **CIVILIZATION DISTANCE PROJECT GOALS**
+#### CIVILIZATION DISTANCE PROJECT GOALS
 
 | Project | Renown Earned |
 | --- | --- |
@@ -19919,7 +19919,7 @@ The project points required to complete work on the road equals 10 x the road's 
 
 When you complete the project, you earn Renown with the people depending on the length of the road. Time spent traveling on the road is cut in half. Access to resources and knowledge is improved in both locations, giving you and your allies an edge on project rolls to discover lore while you are in the area.
 
-#### **BUILD OR REPAIR ROAD EVENTS PROMPTS**
+#### BUILD OR REPAIR ROAD EVENTS PROMPTS
 
 | d10 | Prompt |
 | --- | --- |
@@ -20022,7 +20022,7 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Project Roll Characteristic:** Might, Reason, or Intuition **Project Goal:** 150
 
-#### **1ST-LEVEL ARMOR ENHANCEMENTS**
+##### 1ST-LEVEL ARMOR ENHANCEMENTS
 
 | Enhancement | Item Prerequisite | Project |
 | --- | --- | --- |
@@ -20077,7 +20077,7 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Project Roll Characteristic:** Might, Reason, or Intuition **Project Goal:** 150
 
-#### **5TH-LEVEL ARMOR ENHANCEMENTS**
+##### 5TH-LEVEL ARMOR ENHANCEMENTS
 
 | Enhancement | Item Prerequisite | Project |
 | --- | --- | --- |
@@ -20147,7 +20147,7 @@ resources to activate the ability. Once you use the ability, the armor loses it,
 
 **Project Roll Characteristic:** Might, Reason, or Intuition **Project Goal:** 150
 
-#### **9TH-LEVEL ARMOR ENHANCEMENTS**
+##### 9TH-LEVEL ARMOR ENHANCEMENTS
 
 | Enhancement | Item Prerequisite | Project |
 | --- | --- | --- |
@@ -20230,7 +20230,7 @@ Implements are jewelry, orbs, staffs, tomes, wands, weapons, and other objects u
 
 **Project Roll Characteristic:** Agility, Reason, or Intuition **Project Goal:** 150
 
-#### **1ST-LEVEL IMPLEMENT ENHANCEMENTS**
+##### 1ST-LEVEL IMPLEMENT ENHANCEMENTS
 
 | Enhancement | Item Prerequisite | Project Source |
 | --- | --- | --- |
@@ -20276,7 +20276,7 @@ Implements are jewelry, orbs, staffs, tomes, wands, weapons, and other objects u
 
 **Project Roll Characteristic:** Agility, Reason, or Intuition **Project Goal:** 150
 
-#### **5TH-LEVEL IMPLEMENT ENHANCEMENTS**
+##### 5TH-LEVEL IMPLEMENT ENHANCEMENTS
 
 | Enhancement | Item Prerequisite | Project Source |
 | --- | --- | --- |
@@ -20372,7 +20372,7 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 **Project Roll Characteristic:** Might, Reason, or Intuition **Project Goal:** 150
 
-#### **1ST-LEVEL WEAPON ENHANCEMENTS**
+##### 1ST-LEVEL WEAPON ENHANCEMENTS
 
 | Enhancement | Item Prerequisite | Project Source |
 | --- | --- | --- |
@@ -20428,7 +20428,7 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 **Project Roll Characteristic:** Might, Reason, or Intuition **Project Goal:** 150
 
-#### **5TH-LEVEL WEAPON ENHANCEMENTS**
+##### 5TH-LEVEL WEAPON ENHANCEMENTS
 
 | Enhancement | Item Prerequisite | Project |
 | --- | --- | --- |
@@ -20497,7 +20497,7 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 - **Project Source:** Texts or lore in a language determined by the enhancement
 **Project Roll Characteristic:** Might, Reason, or Intuition **Project Goal:** 150
 
-#### **9TH-LEVEL WEAPON ENHANCEMENTS**
+##### 9TH-LEVEL WEAPON ENHANCEMENTS
 
 | Enhancement | Item Prerequisite | Project |
 | --- | --- | --- |
@@ -20560,7 +20560,7 @@ bonus on the ability. This replaces the benefit of Vengeance III.
 
 **Windcutting:** Whenever you use a melee signature ability that normally targets one creature, you can take a bane on the ability to target each enemy in a cube 3 within distance. If your signature ability would normally cause its target to become grabbed or restrained, each target in the area is instead slowed (EoT) instead.
 
-#### **CRAFTING AND RESEARCH EVENTS PROMPTS**
+##### CRAFTING AND RESEARCH EVENTS PROMPTS
 
 | d100 | Prompt |
 | --- | --- |
@@ -20828,7 +20828,7 @@ knowledge. The more esoteric the knowledge, the more project points are required
 
 When you begin a Discover Lore project, other creatures can also work on the project, using their respite activity to contribute a project roll to it in order to get the work done faster.
 
-#### **DISCOVER LORE PROJECT GOALS**
+#### DISCOVER LORE PROJECT GOALS
 
 | Project | Goal |
 | --- | --- |
@@ -20877,7 +20877,7 @@ While your secret is safe, you may be called upon by the organization to complet
 
 You revisit your previous life and freshen up on the experience it provided you. When the project is complete, you have an edge on tests made with the skills provided by your career.
 
-#### **HONE CAREER SKILLS EVENTS PROMPTS**
+#### HONE CAREER SKILLS EVENTS PROMPTS
 
 | d10 | Prompt |
 | --- | --- |
@@ -20936,7 +20936,7 @@ You revisit your previous life and freshen up on the experience it provided you.
 
 ### LEARN FROM A MASTER
 
-#### **Item Prerequisite:** None
+#### Item Prerequisite: None
 
 **Project Source:** An NPC with a higher level and the same class as you or another class with an ability you wish to learn or texts of their teachings in a language you know **Project Roll Characteristic:** your highest characteristic **Project Goal:** Varies (see Master Teaching Project Goals
 
@@ -20944,7 +20944,7 @@ table)
 
 When you start a project with a master, you choose the goal you wish to work on as well as the benefit you would gain from it. The Director tells you if it is within the master's ability to teach you what you're looking for. Alternatively, you may stumble upon the left behind teachings of a master, and learning from them may fit into one of the following goals.
 
-#### **MASTER TEACHING PROJECT GOALS**
+#### MASTER TEACHING PROJECT GOALS
 
 | Project | Goal |
 | --- | --- |
@@ -20964,7 +20964,7 @@ You've learned efficient use of one of your heroic abilities. Reduce its initial
 
 If your master's class is different than yours, they give you a taste of another way. You gain one Signature Ability from the master's class. If your master is a tactician, you can gain the Strike Now ability instead. You can't gain another from their class.
 
-#### **LEARN FROM A MASTER EVENTS PROMPTS**
+##### LEARN FROM A MASTER EVENTS PROMPTS
 
 | d10 | Prompt |
 | --- | --- |
@@ -21017,11 +21017,11 @@ If your master's class is different than yours, they give you a taste of another
 
 ### LEARN NEW LANGUAGE
 
-#### **Item Prerequisite:** None
+#### Item Prerequisite: None
 
 **Project Source:** Texts or instruction that teach the language you want to learn
 
-#### **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 120
+#### Project Roll Characteristic:** Reason or Intuition **Project Goal: 120
 
 When you start this project, choose a language taught by the project source. When the project is complete, you understand the language.
 
@@ -21043,7 +21043,7 @@ The recipes in the Recipes table detail the effects consuming a serving of the r
 - **Hearty:** You gain 1 additional Recovery.
 - **Supernatural Power:** You increase the value of one of your characteristic scores by 1. This can increase your characteristics to 6.
 
-#### **RECIPES**
+#### RECIPES
 
 | Project | Item Prerequisites | Benefits |
 | --- | --- | --- |
@@ -21058,13 +21058,13 @@ Not all heroes want to craft or research during their time between adventures. S
 
 ### COMMUNITY SERVICE
 
-#### **Item Prerequisite:** None **Project Source:** None **Project Roll Characteristic:** Varies **Project Goal:** 75
+#### Item Prerequisite:** None **Project Source:** None **Project Roll Characteristic:** Varies **Project Goal: 75
 
 When you begin this project, you must be in a settlement or other place where people gather, and you must be in that place each time you make a project roll for the project. You can undertake several Community Service projects, each one in a different community.
 
 While undertaking this project, you provide help to people in need, doing odd jobs, tutoring life skills, cleaning statues, finding lost valuables, or the like. The Director determines the characteristic that applies to the project roll based on the activities you undertake. When you complete this project, you receive a random consumable of the Director's choice as thanks for your hard work.
 
-#### **COMMUNITY SERVICE EVENTS PROMPTS**
+#### COMMUNITY SERVICE EVENTS PROMPTS
 
 | d10 | Prompt |
 | --- | --- |
@@ -21130,7 +21130,7 @@ You've gone fishing, provided you are near a body of water. The project roll for
 
 When you finish rolling, you can spend the points you earned on a reward from the Tackle table. Any points you don't spend during this respite activity are lost.
 
-#### **TACKLE**
+#### TACKLE
 
 | Reward | Cost | Effect |
 | --- | --- | --- |
@@ -21205,7 +21205,7 @@ of the Director's choice being guarded by a revenant knight fulfilling their dut
 
 You revitalize your spirit by spending time with people you love who you haven't seen in a long while. You must be able to communicate with them in order to undertake this project and make project rolls for it. When you complete this project, your Stamina maximum increases by 12 + your level until the end of your next respite. You can't start another Spend Time with Loved Ones project for 1 month.
 
-#### **SPEND TIME WITH LOVED ONES EVENTS PROMPTS**
+#### SPEND TIME WITH LOVED ONES EVENTS PROMPTS
 
 | d10 | Prompt |
 | --- | --- |
@@ -21287,7 +21287,7 @@ evildoers often get to claim those treasures for themselves. At other times, gen
 
 Heroes can also craft their own treasures, forging the tools they need to get the job done. Items that can be crafted have their item prerequisites, project source, project roll characteristic, and project goal (the number of project points needed to complete the project) noted in their descriptions. See Downtime Projects for more information about crafting.
 
-#### **TREASURE ITEM PREREQUISITES**
+#### TREASURE ITEM PREREQUISITES
 
 Each treasure has an item prerequisite for crafting. The exact nature of many of these materials is left nebulous so that the Director can more easily work them into a campaign. What's a mindspider and how rare is their silk? That's for the Director to decide. This makes it easier for them to drop it into their planned adventures or craft an entire adventure around finding that one item.
 
@@ -21639,7 +21639,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Item Prerequisites:** One month of lifespan from the creator or another willing creature, ground sapphire **Project Source:** Texts or lore in Caelian
 
-#### **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 180
+#### Project Roll Characteristic:** Reason or Intuition **Project Goal: 180
 
 **Effect:** As a maneuver, you can drink this potion or throw it up to 10 squares. If you drink it, you choose a test you made in the last minute, then reroll that test repeatedly until the outcome changes. If the potion is thrown, it creates a 3-cube area of shimmering magic. Any event that took place in that area in the last minute changes at the discretion of the Director, who has full freedom to decide what happens. The energy then dissipates.
 
@@ -22154,7 +22154,7 @@ It's fine to own or possess more than three leveled treasures, as long as the ex
 - *12-16:* Your items work together to prevent you from moving until you pick three items and leave the rest
 - behind. o *17+:* Nothing happens.
 
-#### **YOU DON'T NEED THREE**
+#### YOU DON'T NEED THREE
 
 Because you can carry up to three leveled items safely, many players assume they should get and carry three. The truth is that many heroes get a great benefit from carrying just one or two leveled items and have no real need to for a third. That's totally fine! You'll still be super powerful with just one. You can always craft more trinkets and consumables that might serve you better.
 
@@ -22840,7 +22840,7 @@ There's no hard and fast rule for the number of titles a party should accumulate
 
 While running a game session, it can be hard to track the heroes' actions and remember which titles they might qualify for! It's easier to plan titles ahead of time. If the heroes might face a demon or dragon in an upcoming adventure, the Director can include the Demon Blooded or Dragon Blooded titles as potential rewards alongside that magic cloak or enchanted dagger. A Director can even use the titles system to inspire adventures. What challenges should a hero face to earn the Demigod title?
 
-#### **OPTIONAL RULE: PLAYERS CHOOSE TITLES**
+#### OPTIONAL RULE: PLAYERS CHOOSE TITLES
 
 If the Director doesn't want to track player accomplishments, they can let the players do it instead. In this case, whenever a hero enters a new echelon of play, they gain one title of their choice for which they qualify.
 
@@ -23097,7 +23097,7 @@ Choose one of the following benefits:
 
 **Effect:** Each undead creature in the area takes holy damage equal to your Reason, Intuition, or Presence score (your choice) and is **P < [strong]** frightened (save ends).
 
-#### **PERKS AS TITLES**
+##### PERKS AS TITLES
 
 The Director can turn a perk into a 1st echelon title by simply giving it a prerequisite. For example, a hero might gain the Familiar perk as a title instead if they complete a quest for an archmage, who then teaches the ritual to conjure the familiar as a reward for the hero.
 
@@ -23715,7 +23715,7 @@ You can also use your Renown score to attract and employ followers who perform d
 
 You can recruit as many new followers as your Renown allows as a respite activity, provided you are in a place or have a means of communication that allows you to recruit such followers.
 
-#### **RENOWN AND FOLLOWERS**
+#### RENOWN AND FOLLOWERS
 
 | Renown | Number of Followers |
 | --- | --- |
@@ -23762,7 +23762,7 @@ This isn't an exhaustive list, but you and the Director can use the table to jud
 
 not! You might still be able to acquire a specific good or service through negotiation, or by trading your heroic services instead of spending cash. Treasures such as magic swords and psionic crowns and even healing potions are rare, and typically can't be purchased. Instead, they're found on adventures, traded for other treasures, given as rewards by NPCs, or crafted by the heroes .
 
-#### **HERO WEALTH**
+### HERO WEALTH
 
 | Score | Individual | Group |
 | --- | --- | --- |
@@ -23885,7 +23885,7 @@ As they gain experience, they may even enter into dialogue with their saint. Whe
 
 Elves, Dwarves, and Orcs revere their own creator gods. Val, Ord, and Kul respectively. Humans, uniquely, worship many gods. The difference between the Innumerable Younger Gods of the humans, and the Elder Gods who created the other speaking peoples is not well understood.
 
-#### **HOW TO USE THIS CHAPTER**
+### HOW TO USE THIS CHAPTER
 
 *Draw Steel* isn't about religion any more than it is about language or treasure, but understanding how religion works in a day-to-day sense can help make the world feel more real. The people in Orden aren't any more religious than the people of Earth were in the pre-modern era. It is a factor in their lives, but not the only factor and for some people, not a very important one.
 
@@ -24685,7 +24685,7 @@ If this is your first time ever running a game, good for you! Directing a game i
 
 While this chapter covers some of the basics, we do highly recommend that people running *Draw Steel* as their first tabletop roleplaying game check out the *Running the Game*  videos on the Matthew Colville YouTube channel.
 
-#### **PERSONAL PROBLEMS AT THE TABLE**
+#### PERSONAL PROBLEMS AT THE TABLE
 
 Sometimes a player might talk over others. Sometimes a player makes a snarky comment that hurts someone else's feelings. Sometimes a player might be cheating on their dice rolls. When personal problems pop up at the table, it's best to talk about those issues above the table rather than try to solve them by punishing a player's hero. If the problem is serious enough, you can stop play and talk to anyone who needs it. If the problem is just an annoyance, you might wait until your game session ends. It's best to have these conversations with just the players involved to get their perspectives, rather than in front of everyone and increase the chance of someone getting embarrassed and defensive. Most of the time a person doesn't even realize they were creating a problem for the other players. Once it's pointed out, they get a chance change their behavior. Talking it out has the best chance of solving a problem.
 
@@ -24885,7 +24885,7 @@ A lot of Directors prefer to make their own adventures rather than use published
 
 Every good adventure includes villains, a task to accomplish, NPCs, and interesting locations.
 
-#### **PLAYER AMBITION WRITES ADVENTURES**
+### PLAYER AMBITION WRITES ADVENTURES
 
 Players have ambition driven by their complications, personal stories, and desires for titles, magic items, and other rewards. Indulge these desires! If a hero wants to go on a quest to gain a Blade of Quintessence, let them know where they can find one (after they put in the proper research or questing time). You can plan an adventure, even if it's just a short one, around its retrieval!
 
@@ -24922,7 +24922,7 @@ Instead of achieving their goals through diplomacy and heroics, these villains t
 
 Of course, there are some villains who want to cause violence and mayhem for the sake of it! These villains can be fun to throw into an adventure from time to time, but they are the type of folks who are typically being manipulated by someone with greater motivation and shouldn't be the focus of every adventure in every campaign.
 
-#### **STEALING IS ENCOURAGED**
+#### STEALING IS ENCOURAGED
 
 When you're coming up with ideas for campaigns, adventures, and scenes, you should feel free to steal plots, action set pieces, characters, and anything else you want from your favorite movies, television shows, novels, comic books, and podcasts. You can modify a few cosmetic details to make things your own. Borrowing a human male character from your favorite book to make an NPC? Make the NPC a dwarf female with a new name and no one is the wiser. Got an idea for an encounter based on a battle scene from your favorite science fiction flick? Make those invading aliens gnolls instead! Let your favorite stories inspire you when you have no other ideas.
 
@@ -24942,7 +24942,7 @@ An adventure's goal isn't always clear to players at the start, but the heroes s
 
 Every adventure should have an inciting incident that either gives the heroes discovering the adventure's goal or puts the heroes on the path of discovering it. If the heroes start an adventure by finding the freshly murdered body of a noble in the streets of Capital, they're likely to look for clues that could lead them to catching a murderer--a solid, straight forward adventure goal. Or it could be that the murder leads them to uncovering a grand conspiracy where one of Capital's great noble houses is actually planning a coordinated, violent takeover of the city and they heroes must stop it--an adventure goal that takes the heroes several scenes to fully uncover, but each leads to the next without leaving them wondering, "What should we do next?" Both are good adventure goals, even if one gets discovered a little later in the adventure.
 
-#### **COMPLICATIONS AND ADVENTURES**
+#### COMPLICATIONS AND ADVENTURES
 
 If your heroes have complications, it's a good idea to have at least one complication make trouble for a hero during an adventure or be part of the adventure's story. Rotate the hero whose complication gets highlighted each time, so that everyone gets a chance to be at the center of the story.
 
@@ -25083,7 +25083,7 @@ If you've played a lot of d20 fantasy, you might be used to reflexively asking f
 
 Remember that if a player has a particularly clever and plausible idea, you can have them automatically succeed on a task, even if failure would make the story more interesting. It's important to reward clever thinking once in a while with a free success, so that the players are encouraged to think outside the box and create memorable moments!
 
-#### **IT'S OKAY TO SAY NO**
+#### IT'S OKAY TO SAY NO
 
 Sometimes a player will propose what they think is a plausible or clever idea, but you'll think there's no way it could ever work. It's fine for you to tell the player, "That's not going to work." You're under no obligation to allow a player to attempt a test for something that's going to fail.
 
@@ -25165,7 +25165,7 @@ The Hazard Deadliness tables shows the damage dealt by hazards. This damage is d
 | 9 | 17/13/8 | 25/21/16 29/25/20 |
 | 10 | 18/14/9 | 27/22/18 31/27/22 |
 
-#### **PERPETUAL HAZARD DEADLINESS**
+##### PERPETUAL HAZARD DEADLINESS
 
 | Level | Not | Little Bit | Very |
 | --- | --- | --- | --- |
@@ -25248,7 +25248,7 @@ During negotiation, it's a good idea to let your players talk above the table ab
 
 Whenever the NPC makes an offer to the heroes after a test, make it clear what the terms of the offer are. While some NPCs might speak cryptically, it's best for the players to understand what they're getting their heroes into--it's fun to trick heroes, but many players don't feel the fun when *they* get tricked instead.
 
-#### **SHARING INTEREST AND PATIENCE**
+#### SHARING INTEREST AND PATIENCE
 
 It's up to you as the Director to decide whether to share an NPC's interest or patience during a negotiation. Sometimes sharing this information can make an encounter more dramatic, with the players watching their progress rise and fall in real time. Other groups might find negotiation more fun, dramatic, and immersive if those exact numbers are hidden from the players.
 
@@ -25618,7 +25618,7 @@ Half the work of a successful infiltration is done before setting foot in the ta
 
 be made in this way. These tests don't affect the alarm level of the site.
 
-#### **Preparation Challenges**
+#### Preparation Challenges
 
 - **Bribe Guards:** The heroes can pay off guards to look the other way. On a success, the active hero's Wealth is lowered by 1. Suggested characteristic: Presence. Suggested skills: Criminal Underworld, Flirt, Persuade
 - **Find Blueprints:** Research secret entrances and littleknown passageways in forgotten libraries or wellguarded town halls. Suggested characteristics: Agility, Reason. Suggested skills: Architecture, Sneak, History
@@ -25626,7 +25626,7 @@ be made in this way. These tests don't affect the alarm level of the site.
 - **Learn Guard Schedules:** Keep ears and eyes open and learn when guards go off duty. Suggested characteristics: Intuition, Reason. Suggested skills: Alertness, Eavesdrop, Track
 - **Make False Identities:** Prepare to walk right into the palace in plain sight. Suggested characteristics: Presence, Reason. Suggested skills: Disguise, Forgery, Lie
 
-#### **Infiltration Challenges**
+#### Infiltration Challenges
 
 When the heroes begin their infiltration, the alarm level of the site starts at 0. While infiltrating the site, whenever the heroes fail a test that is part of the montage test, the alarm level of the site increases, to a maximum of 2. When the heroes succeed at a test, the alarm level decreases, to a minimum of 0. All of the heroes' montage tests inside the site gain a number of banes equal to the current alarm level.
 
@@ -25784,7 +25784,7 @@ You don't have to award a full treasure to heroes. They can use their downtime t
 
 When you're planning an adventure, put the treasures and crafting materials the heroes can earn into the outline. Enemies who have access to treasures that can help them in a battle against the heroes don't keep those treasures hidden away. They use them in battle!
 
-#### **RESKINNING TREASURES**
+#### RESKINNING TREASURES
 
 You can take the treasures in this book and easily reskin them. Do you wish Gecko Gloves were actually boots? Just change the description and a few keywords and you're good to go. Do you want the Icemaker Maul to be a dagger that creates pools of acid instead? Swap some keywords and damage types, and you're ready to rock! If you're just changing a few keywords, damage types, and descriptions, you're probably not going to break the game. This allows you to create many different treasures to give to your players just by reskinning the ones in this book.
 
