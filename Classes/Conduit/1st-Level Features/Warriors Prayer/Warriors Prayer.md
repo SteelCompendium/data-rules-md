@@ -6,22 +6,24 @@ name: Warrior's Prayer
 type: classes
 subtype: conduit
 kind: 1st-level features
-keywords: Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature
+keywords: Magic, Ranged, Strike
 keyword_list:
   - Magic
   - Ranged
-  - Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature
-distance: Ranged 10 **Target:** One creature or object
+  - Strike
+ability_type: Action **Distance:** Ranged 10
+distance: Ranged 10
+target: One creature or object
 ---
 
 # Warrior's Prayer
 
-*Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.*
+*Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.* **Keywords:** Magic, Ranged, Strike
 
-|                                                                                                       |             |
-| :---------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature | **Type:**   |
-| **Distance:** Ranged 10 **Target:** One creature or object                                            | **Target:** |
+|                                     |                                          |
+| :---------------------------------- | :--------------------------------------- |
+| **Keywords:** Magic, Ranged, Strike | **Type:** Action **Distance:** Ranged 10 |
+| **Distance:** Ranged 10             | **Target:** One creature or object       |
 
 **Power Roll + Intuition:**
 
@@ -33,7 +35,7 @@ distance: Ranged 10 **Target:** One creature or object
 
 WITHER
 
-*A bolt of holy energy saps the life from a foe.* **Keywords:** Magic, Ranged, Strike **Type:** Action
+*A bolt of holy energy saps the life from a foe.*
 
 **Power Roll + Intuition:**
 

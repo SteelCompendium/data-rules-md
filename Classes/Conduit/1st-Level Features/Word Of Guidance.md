@@ -6,21 +6,22 @@ name: Word Of Guidance
 type: classes
 subtype: conduit
 kind: 1st-level features
-keywords: Magic, Ranged **Type:** Triggered **Distance:** Ranged 10 **Target:** One ally
-keyword_list:
-  - Magic
-  - Ranged **Type:** Triggered **Distance:** Ranged 10 **Target:** One ally
-trigger: The target takes damage from an ability that requires a power roll.
+ability_type: Triggered
+distance: Ranged 10
+target: One ally **Trigger:** The target takes damage from an ability that requires a power roll.
+trigger: The target makes an ability power roll for an ability that deals damage.
 ---
 
 # Word Of Guidance
 
-*You invigorate an attacking ally with divine energy.*
+*You invigorate an attacking ally with divine energy.* **Keywords:** Magic, Ranged
 
-|                                                                                              |             |
-| :------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Ranged **Type:** Triggered **Distance:** Ranged 10 **Target:** One ally | **Type:**   |
-| **Distance:**                                                                                | **Target:** |
+|                         |                                                                                                       |
+| :---------------------- | :---------------------------------------------------------------------------------------------------- |
+| **Keywords:**           | **Type:** Triggered                                                                                   |
+| **Distance:** Ranged 10 | **Target:** One ally **Trigger:** The target takes damage from an ability that requires a power roll. |
+
+**Trigger:** The target makes an ability power roll for an ability that deals damage.
 
 **Effect:** The power roll gains an edge.
 
@@ -28,9 +29,7 @@ trigger: The target takes damage from an ability that requires a power roll.
 
 WORD OF JUDGMENT
 
-*Your holy word saps an attacking enemy's strength.*
-
-**Trigger:** The target takes damage from an ability that requires a power roll.
+*Your holy word saps an attacking enemy's strength.* **Keywords:** Magic, Ranged
 
 **Effect:** The power roll gains a bane against the target.
 

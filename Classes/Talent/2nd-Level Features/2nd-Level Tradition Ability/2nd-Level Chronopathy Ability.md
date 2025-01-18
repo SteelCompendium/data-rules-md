@@ -6,11 +6,7 @@ name: 2nd-Level Chronopathy Ability
 type: classes
 subtype: talent
 kind: 2nd-level features
-keywords: Chronopathy, Psionic, Ranged
-keyword_list:
-  - Chronopathy
-  - Psionic
-  - Ranged
+target: Special \|
 ---
 
 # 2nd-level Chronopathy Ability
@@ -19,16 +15,12 @@ Choose one of the following abilities.
 
 APPLIED CHRONOMETRICS (5 CLARITY)
 
-*Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.*
+*Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.* **Keywords:** Chronopathy, Psionic, Ranged **Type:** Maneuver | | --- | **Distance:** Ranged 10
 
-|                                            |             |
-| :----------------------------------------- | :---------- |
-| **Keywords:** Chronopathy, Psionic, Ranged | **Type:**   |
-| **Distance:**                              | **Target:** |
-
-| Type: Maneuver                      |
-| ----------------------------------- |
-| Distance: Ranged 10 Target: Special |
+|               |                        |
+| :------------ | :--------------------- |
+| **Keywords:** | **Type:**              |
+| **Distance:** | **Target:** Special \| |
 
 **Power Roll + Presence:**
 

@@ -6,15 +6,7 @@ name: Signature Abilities
 type: classes
 subtype: talent
 kind: 1st-level features
-keywords: Cryokinesis, Psionic, Ranged, Strike
-keyword_list:
-  - Cryokinesis
-  - Psionic
-  - Ranged
-  - Strike
-ability_type: Action
-distance: 3 cube within 10
-target: Each enemy in the area
+target: One creature
 ---
 
 # Signature Abilities
@@ -23,12 +15,12 @@ Select two signature abilities from the following options. Signature abilities c
 
 ENTROPIC BOLT
 
-*You advance an enemy's age for a moment.*
+*You advance an enemy's age for a moment.* **Keywords:** Chronopathy, Psionic, Ranged, Strike **Type:** Action **Distance:** Ranged 10
 
-|                                                    |                                    |
-| :------------------------------------------------- | :--------------------------------- |
-| **Keywords:** Cryokinesis, Psionic, Ranged, Strike | **Type:** Action                   |
-| **Distance:** 3 cube within 10                     | **Target:** Each enemy in the area |
+|               |                          |
+| :------------ | :----------------------- |
+| **Keywords:** | **Type:**                |
+| **Distance:** | **Target:** One creature |
 
 **Power Roll + Presence:**
 
@@ -42,7 +34,7 @@ ENTROPIC BOLT
 
 INCINERATE
 
-*The air erupts into a column of smokeless flame.*
+*The air erupts into a column of smokeless flame.* **Keywords:** Area, Fire, Ranged, Psionic, Pyrokinesis **Type:** Action **Distance:** 3 cube within 10 **Target:** Each enemy in the area
 
 **Power Roll + Reason:**
 
@@ -56,4 +48,12 @@ INCINERATE
 
 HOARFROST
 
-*A row of the terrain freezes over ahead of you, turning hard and slick.*
+*A row of the terrain freezes over ahead of you, turning hard and slick.* **Keywords:** Cryokinesis, Psionic, Ranged, Strike **Type:** Action **Distance:** Ranged 10
+
+**Power Roll + Reason:**
+
+- *11 or lower:* **2 + R cold damage;** M \< weak\*\*, slowed (EoT)\*\*
+- *12-16:* 4 + R **cold damage;** M \< average\*\*, slowed (EoT)\*\*
+- *17+:* 6 + R **cold damage;** M \< strong\*\*, slowed (EoT)\*\*
+
+**Strained:** A target slowed by this ability is restrained instead, and you are slowed until the end of your next turn.

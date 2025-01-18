@@ -6,12 +6,9 @@ name: 6th-Level Conduit Domain Abilities
 type: classes
 subtype: conduit
 kind: 6th-level features
-keywords: Area, Magic, Ranged **Type:** Maneuver **Distance:** Self or Ranged 10 **Target:** 3 creatures, including self
-keyword_list:
-  - Area
-  - Magic
-  - Ranged **Type:** Maneuver **Distance:** Self or Ranged 10 **Target:** 3 creatures
-  - including self
+ability_type: Maneuver
+distance: Self or Ranged 10
+target: 3 creatures, including self
 ---
 
 # 6th-level Conduit Domain Abilities
@@ -35,18 +32,18 @@ keyword_list:
 
 AURA OF SOULS (9 PIETY)
 
-*A whirlwind of souls of the dead flies around you at your command.*
+*A whirlwind of souls of the dead flies around you at your command.* **Keywords:** Area, Magic
 
-|                                                                                                                              |             |
-| :--------------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Magic, Ranged **Type:** Maneuver **Distance:** Self or Ranged 10 **Target:** 3 creatures, including self | **Type:**   |
-| **Distance:**                                                                                                                | **Target:** |
+|                                 |                                         |
+| :------------------------------ | :-------------------------------------- |
+| **Keywords:**                   | **Type:** Maneuver                      |
+| **Distance:** Self or Ranged 10 | **Target:** 3 creatures, including self |
 
 **Effect:** Until the end of the encounter or you start dying, whenever you end your turn, you can slide each creature in the aura a number of squares equal to your Intuition score. This forced movement ignores the Stability of allies.
 
 BLADE OF THE HEAVENS (9 PIETY)
 
-*A greatsword streams down from the sky, threatening to pin your foe.*
+*A greatsword streams down from the sky, threatening to pin your foe.* **Keywords:** Magic, Ranged, Strike
 
 **Power Roll + Intuition:**
 
@@ -56,12 +53,12 @@ BLADE OF THE HEAVENS (9 PIETY)
 
 BLESSING OF THE MIDDAY SUN (9 PIETY)
 
-*Your body emits a heat that bakes your enemies and inspires your allies.*
+*Your body emits a heat that bakes your enemies and inspires your allies.* **Keywords:** Area, Magic
 
 **Effect:** Until the end of the encounter or you start dying, enemies in the aura take a bane on all power rolls and you and allies in the aura gain a surge at the end of your turns.
 
 CUIRASS OF THE GODS (9 PIETY)
 
-*Your allies are covered in spiritual armor.*
+*Your allies are covered in spiritual armor.* **Keywords:** Area, Magic, Ranged
 
 **Effect:** Each ally gains damage immunity 5 until the start of your next turn.

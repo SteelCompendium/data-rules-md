@@ -7,19 +7,19 @@ cost: 3 Focus
 type: classes
 subtype: tactician
 kind: 1st-level features
-keywords: Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Self and two allies
-keyword_list:
-  - Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Self and two allies
+ability_type: Maneuver
+distance: Ranged 10
+target: Self and two allies
 ---
 
 # Squad! Forward!(3 Focus)
 
-*On your command, you and your allies force back the enemy line.*
+*On your command, you and your allies force back the enemy line.* **Keywords:** Ranged
 
-|                                                                                                 |             |
-| :---------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Self and two allies | **Type:**   |
-| **Distance:**                                                                                   | **Target:** |
+|                         |                                 |
+| :---------------------- | :------------------------------ |
+| **Keywords:**           | **Type:** Maneuver              |
+| **Distance:** Ranged 10 | **Target:** Self and two allies |
 
 **Effect:** Each target can move their speed.
 

@@ -6,12 +6,9 @@ name: 9th-Level Duelist Abilities
 type: classes
 subtype: troubadour
 kind: 9th-level features
-keywords: Charge, Melee, Strike, Weapon **Type:** Action **Distance:** Melee 3 **Target:** 1 creature or object
-keyword_list:
-  - Charge
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 3 **Target:** 1 creature or object
+ability_type: Action
+distance: Melee 3
+target: 1 creature or object
 ---
 
 # 9th-level Duelist Abilities
@@ -20,12 +17,12 @@ Choose one of the following abilities.
 
 EXPERT FENCER (11 DRAMA)
 
-*If you can land it, the crowd goes wild.*
+*If you can land it, the crowd goes wild.* **Keywords:** Charge, Melee, Strike, Weapon
 
-|                                                                                                                     |             |
-| :------------------------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Charge, Melee, Strike, Weapon **Type:** Action **Distance:** Melee 3 **Target:** 1 creature or object | **Type:**   |
-| **Distance:**                                                                                                       | **Target:** |
+|                       |                                  |
+| :-------------------- | :------------------------------- |
+| **Keywords:**         | **Type:** Action                 |
+| **Distance:** Melee 3 | **Target:** 1 creature or object |
 
 **Power Roll + Agility:**
 

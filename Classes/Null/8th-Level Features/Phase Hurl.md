@@ -7,20 +7,23 @@ cost: 11 Discipline
 type: classes
 subtype: 'null'
 kind: 8th-level features
-keywords: Area, Psionic **Type:** Action **Distance:** 3 cube within 1 **Target:** All enemies
+keywords: Psionic
 keyword_list:
-  - Area
-  - Psionic **Type:** Action **Distance:** 3 cube within 1 **Target:** All enemies
+  - Psionic
+ability_type: Free Triggered
+distance: Self
+target: Self or 1 creature
+trigger: The target takes damage from another creature's ability while in your Null Field.
 ---
 
 # Phase Hurl (11 Discipline)
 
-*You throw your foe out of phase with this manfold, causing them to harm other enemies as they return.*
+*You throw your foe out of phase with this manfold, causing them to harm other enemies as they return.* **Keywords:** Melee, Psionic, Strike, Weapon
 
-|                                                                                                    |             |
-| :------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Psionic **Type:** Action **Distance:** 3 cube within 1 **Target:** All enemies | **Type:**   |
-| **Distance:**                                                                                      | **Target:** |
+|                       |                                |
+| :-------------------- | :----------------------------- |
+| **Keywords:** Psionic | **Type:** Free Triggered       |
+| **Distance:** Self    | **Target:** Self or 1 creature |
 
 **Power Roll + Agility:**
 
@@ -30,7 +33,7 @@ keyword_list:
 
 **Effect:** The target and any creatures or objects, they collide with take psychic damage equal to the total distance they moved. While the target is dazed they see glimpses of creatures from other parts of the Timescape. SCALAR STRIKE (11 DISCIPLINE)
 
-*You use your null field to warp reality and make yourself larger for a single, devastating strike.*
+*You use your null field to warp reality and make yourself larger for a single, devastating strike.* **Keywords:** Area, Psionic
 
 **Power Roll + Agility:**
 
@@ -42,6 +45,8 @@ keyword_list:
 
 SYNAPTIC ANCHOR (11 DISCIPLINE)
 
-*You disrupt an enemy's strike and create a feedback loop in their mind, preventing them from focusing on future attacks.* **Keywords:** Psionic **Type:** Free Triggered **Distance:** Self **Target:** Self or 1 creature **Trigger:** The target takes damage from another creature's ability while in your Null Field.
+*You disrupt an enemy's strike and create a feedback loop in their mind, preventing them from focusing on future attacks.*
+
+**Trigger:** The target takes damage from another creature's ability while in your Null Field.
 
 **Effect:** You halve the damage, and the creature who used the triggering ability suffers **I \< \[average\] dazed (save ends).** While the attacker is dazed, they take psychic damage equal to your Intuition score whenever they take an action.

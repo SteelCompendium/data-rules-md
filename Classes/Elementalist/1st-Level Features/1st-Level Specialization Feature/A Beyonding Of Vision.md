@@ -6,6 +6,8 @@ name: A Beyonding Of Vision
 type: classes
 subtype: elementalist
 kind: 1st-level features
+distance: Ranged 10
+target: Special \|
 ---
 
 # A Beyonding Of Vision
@@ -16,10 +18,13 @@ You also gain the following ability.
 
 SHARED VOID SENSE
 
-*You grant allies a taste of your unearthly vision.*
+*You grant allies a taste of your unearthly vision.* **Keywords:** Magic, Ranged, Void
 
-| Keywords: Magic, Ranged, Void | Type: Maneuver  |
-| ----------------------------- | --------------- |
-| Distance: Ranged 10           | Target: Special |
+| **Type:** Maneuver                   |                                   |
+| ------------------------------------ | --------------------------------- |
+|                                      |                                   |
+| :----------------------------------- | :-------------------------------- |
+| **Keywords:**                        | **Type:**                         |
+| **Distance:** Ranged 10              | **Target:** Special \|            |
 
 **Effect:** For each Victory you have, you can target one creature. That creature gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of Shared Void Sense.

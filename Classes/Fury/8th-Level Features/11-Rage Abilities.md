@@ -6,12 +6,12 @@ name: 11-Rage Abilities
 type: classes
 subtype: fury
 kind: 8th-level features
-keywords: Magic, Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
+keywords: Magic
 keyword_list:
   - Magic
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
+ability_type: Action
+distance: Melee 1
+target: 1 creature
 ---
 
 # 11-rage Abilities
@@ -20,18 +20,18 @@ Choose one heroic ability from the following options.
 
 ELEMENTAL FURY (11 RAGE)
 
-*Your primordial energies make for instant retribution.* **Keywords:** Magic **Type:** Maneuver **Distance:** Self **Target:** Self
+*Your primordial energies make for instant retribution.*
+
+|                       |                        |
+| :-------------------- | :--------------------- |
+| **Keywords:** Magic   | **Type:** Action       |
+| **Distance:** Melee 1 | **Target:** 1 creature |
 
 **Effect:** You gain 10 temporary Stamina. Select acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or you start dying, whenever an enemy damages you, they take 10 damage of the type selected. If this damage kills the enemy, you gain 10 Temporary Stamina.
 
 RELENTLESS DEATH (11 RAGE)
 
-*You will not escape your fate.*
-
-|                                                                                                          |             |
-| :------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature | **Type:**   |
-| **Distance:**                                                                                            | **Target:** |
+*You will not escape your fate.* **Keywords:** Magic, Melee, Strike, Weapon
 
 **Effect:** You shift your speed. Make one power roll that targets each enemy you move adjacent to during the move. You regain 1 rage for each target killed by this ability.
 
@@ -43,7 +43,7 @@ RELENTLESS DEATH (11 RAGE)
 
 OVERKILL (11 RAGE)
 
-*You strike so no damage is wasted.*
+*You strike so no damage is wasted.* **Keywords:** Magic, Melee, Strike, Weapon
 
 **Power Roll + Might:**
 

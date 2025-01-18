@@ -7,22 +7,19 @@ cost: 9 Essence
 type: classes
 subtype: elementalist
 kind: 5th-level features
-keywords: Magic, Ranged, Strike, Void **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature or object
-keyword_list:
-  - Magic
-  - Ranged
-  - Strike
-  - Void **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature or object
+ability_type: Action
+distance: Ranged 10
+target: 1 creature or object
 ---
 
 # Storm Of Sands (9 Essence)
 
-*Dirt and debris start to swirl into a dark, pulsing hurricane.*
+*Dirt and debris start to swirl into a dark, pulsing hurricane.* **Keywords:** Area, Earth, Magic, Ranged
 
-|                                                                                                                     |             |
-| :------------------------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Magic, Ranged, Strike, Void **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature or object | **Type:**   |
-| **Distance:**                                                                                                       | **Target:** |
+|                         |                                  |
+| :---------------------- | :------------------------------- |
+| **Keywords:**           | **Type:** Action                 |
+| **Distance:** Ranged 10 | **Target:** 1 creature or object |
 
 **Power Roll + Reason:**
 
@@ -36,7 +33,7 @@ keyword_list:
 
 SUBVERTED PERCEPTION OF SPACE (9 ESSENCE)
 
-*You rip an enemy's world in twain.*
+*You rip an enemy's world in twain.* **Keywords:** Magic, Ranged, Strike, Void
 
 **Power Roll + Reason:**
 

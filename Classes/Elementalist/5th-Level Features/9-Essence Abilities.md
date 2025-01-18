@@ -6,12 +6,9 @@ name: 9-Essence Abilities
 type: classes
 subtype: elementalist
 kind: 5th-level features
-keywords: Fire, Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature or object
-keyword_list:
-  - Fire
-  - Magic
-  - Ranged
-  - Strike **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature or object
+ability_type: Action
+distance: Ranged 10
+target: 1 creature or object
 ---
 
 # 9-essence Abilities
@@ -20,12 +17,12 @@ Choose one heroic ability from the following options.
 
 COMBUSTION DEFERRED (9 ESSENCE)
 
-*Your flames dance from kindling to kindling to kindling.*
+*Your flames dance from kindling to kindling to kindling.* **Keywords:** Fire, Magic, Ranged, Strike
 
-|                                                                                                                     |             |
-| :------------------------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Fire, Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature or object | **Type:**   |
-| **Distance:**                                                                                                       | **Target:** |
+|                         |                                  |
+| :---------------------- | :------------------------------- |
+| **Keywords:**           | **Type:** Action                 |
+| **Distance:** Ranged 10 | **Target:** 1 creature or object |
 
 **Power Roll + Reason:**
 

@@ -7,23 +7,19 @@ cost: 5 Discipline
 type: classes
 subtype: 'null'
 kind: 1st-level features
-keywords: Melee, Psionic, Strike, Weapon **Type:** Maneuver
-keyword_list:
-  - Melee
-  - Psionic
-  - Strike
-  - Weapon **Type:** Maneuver
-distance: Melee 1 **Target:** One creature or object
+ability_type: Maneuver **Distance:** Melee 1
+distance: Melee 1
+target: One creature or object
 ---
 
 # Arcane Disruptor (5 Discipline)
 
-*Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.*
+*Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.* **Keywords:** Melee, Psionic, Strike, Weapon
 
-|                                                                 |             |
-| :-------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Maneuver | **Type:**   |
-| **Distance:** Melee 1 **Target:** One creature or object        | **Target:** |
+|                       |                                          |
+| :-------------------- | :--------------------------------------- |
+| **Keywords:**         | **Type:** Maneuver **Distance:** Melee 1 |
+| **Distance:** Melee 1 | **Target:** One creature or object       |
 
 **Power Roll + Agility:**
 
@@ -35,7 +31,7 @@ distance: Melee 1 **Target:** One creature or object
 
 IMPART FORCE (5 DISCIPLINE)
 
-*A single touch from you, and your enemy flies backward.*
+*A single touch from you, and your enemy flies backward.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Intuition:**
 

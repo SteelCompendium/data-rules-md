@@ -6,11 +6,9 @@ name: Curtain Call
 type: classes
 subtype: troubadour
 kind: 1st-level features
-keywords: Area, Magic, Routine **Type:** No action **Distance:** 5 aura **Target:** Self and each ally in the area
-keyword_list:
-  - Area
-  - Magic
-  - Routine **Type:** No action **Distance:** 5 aura **Target:** Self and each ally in the area
+ability_type: No action
+distance: 5 aura
+target: Self and each ally in the area
 ---
 
 # Curtain Call
@@ -21,11 +19,11 @@ You start off with the Choreography and Revitalizing Limerick routine ability. Y
 
 CHOREOGRAPHY
 
-*Taps, kicks, steps. Now it's all "choreography."*
+*Taps, kicks, steps. Now it's all "choreography."* **Keywords:** Area, Magic, Routine
 
-|                                                                                                                        |             |
-| :--------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Magic, Routine **Type:** No action **Distance:** 5 aura **Target:** Self and each ally in the area | **Type:**   |
-| **Distance:**                                                                                                          | **Target:** |
+|                      |                                            |
+| :------------------- | :----------------------------------------- |
+| **Keywords:**        | **Type:** No action                        |
+| **Distance:** 5 aura | **Target:** Self and each ally in the area |
 
 **Effect:** While this routine is active, each target who starts their turn in the aura gains a +2 bonus to speed until the end of their turn.

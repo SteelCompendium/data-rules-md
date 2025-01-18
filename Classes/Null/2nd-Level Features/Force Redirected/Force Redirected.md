@@ -7,11 +7,25 @@ cost: 5 Discipline
 type: classes
 subtype: 'null'
 kind: 2nd-level features
+keywords: Melee, Psionic, Strike, Weapon
+keyword_list:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
+ability_type: Action
+distance: Melee 3
+target: One creature
 ---
 
 # Force Redirected (5 Discipline)
 
-*The force of your strike manifests in a surprising location.* **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 3 **Target:** One creature
+*The force of your strike manifests in a surprising location.*
+
+|                                              |                          |
+| :------------------------------------------- | :----------------------- |
+| **Keywords:** Melee, Psionic, Strike, Weapon | **Type:** Action         |
+| **Distance:** Melee 3                        | **Target:** One creature |
 
 **Power Roll + Agility:**
 

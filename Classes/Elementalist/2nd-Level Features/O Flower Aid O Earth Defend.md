@@ -7,25 +7,19 @@ cost: 5 Essence
 type: classes
 subtype: elementalist
 kind: 2nd-level features
-keywords: Earth, Fire, Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature
-keyword_list:
-  - Earth
-  - Fire
-  - Magic
-  - Ranged
-  - Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature
 ability_type: Action
-distance: Ranged 10 **Target:** One creature
+distance: Ranged 10
+target: One creature
 ---
 
 # O Flower Aid, O Earth Defend (5 Essence)
 
-*Revitalizing plants and jagged stones grow, helping allies and hindering foes.*
+*Revitalizing plants and jagged stones grow, helping allies and hindering foes.* **Keywords:** Area, Earth, Green, Magic, Ranged **Type:** Maneuver **Distance:** 3 cube within 10
 
-|                                                                                                                    |                  |
-| :----------------------------------------------------------------------------------------------------------------- | :--------------- |
-| **Keywords:** Earth, Fire, Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature | **Type:** Action |
-| **Distance:** Ranged 10 **Target:** One creature                                                                   | **Target:**      |
+|                         |                          |
+| :---------------------- | :----------------------- |
+| **Keywords:**           | **Type:** Action         |
+| **Distance:** Ranged 10 | **Target:** One creature |
 
 **Effect:** Until the start of your next turn, the area gains the following effects:
 
@@ -35,7 +29,7 @@ distance: Ranged 10 **Target:** One creature
 
 **Persistent 1:** The area remains until the start of your next turn. You can move the area up to 5 squares as a maneuver. This ability ends if you lose line of effect to its area.
 
-SUBVERT THE GREEN WITHIN (5 ESSENCE) *Burrow into their brains and take control!*
+SUBVERT THE GREEN WITHIN (5 ESSENCE) *Burrow into their brains and take control!* **Keywords:** Green, Magic, Ranged, Strike, Void **Type:** Action **Distance:** Ranged 10
 
 **Effect:** The target uses their signature ability against a target of your choice. You then make a power roll against the target of this ability.
 
@@ -47,7 +41,7 @@ SUBVERT THE GREEN WITHIN (5 ESSENCE) *Burrow into their brains and take control!
 
 TRANSLATED THROUGH FLAME (5 ESSENCE)
 
-*Your ally disappears, then reappears in a burst of fire!*
+*Your ally disappears, then reappears in a burst of fire!* **Keywords:** Fire, Magic, Ranged, Void
 
 **Effect:** The target is teleported to another space within distance. Make a power roll that targets each enemy adjacent to the target's new space.
 
@@ -59,7 +53,7 @@ TRANSLATED THROUGH FLAME (5 ESSENCE)
 
 VOLCANO'S EMBRACE (5 ESSENCE)
 
-*Wrap them up in fire and melting stone.*
+*Wrap them up in fire and melting stone.* **Keywords:** Earth, Fire, Magic, Ranged, Strike
 
 **Power Roll + Reason:**
 

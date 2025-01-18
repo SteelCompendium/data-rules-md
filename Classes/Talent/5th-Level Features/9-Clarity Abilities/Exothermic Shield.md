@@ -7,22 +7,19 @@ cost: 9 Clarity
 type: classes
 subtype: talent
 kind: 5th-level features
-keywords: Psionic, Ranged, Strike, Telepathic **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature
-keyword_list:
-  - Psionic
-  - Ranged
-  - Strike
-  - Telepathic **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature
+ability_type: Action
+distance: Ranged 10
+target: 1 creature
 ---
 
 # Exothermic Shield (9 Clarity)
 
-*You encase the target in psionic flame and allow them to flicker without fear of burning out.*
+*You encase the target in psionic flame and allow them to flicker without fear of burning out.* **Keywords:** Pyrokinesis, Psionic
 
-|                                                                                                                   |             |
-| :---------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Psionic, Ranged, Strike, Telepathic **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature | **Type:**   |
-| **Distance:**                                                                                                     | **Target:** |
+|                         |                        |
+| :---------------------- | :--------------------- |
+| **Keywords:**           | **Type:** Action       |
+| **Distance:** Ranged 10 | **Target:** 1 creature |
 
 **Effect:** The target gains fire and cold immunity 10 and their strikes have deal additional fire damage equal to twice your Reason score until the start of your next turn. Additionally, whenever an enemy makes physical contact with the target or uses a melee ability against the target while they have this effect, the enemy takes 5 fire damage.
 
@@ -30,7 +27,7 @@ keyword_list:
 
 HYPERSONIC (9 CLARITY)
 
-*You move fast enough to turn around and watch your foes feel the aftermath.*
+*You move fast enough to turn around and watch your foes feel the aftermath.* **Keywords:** Area, Charge, Psionic, Telekinesis
 
 **Effect:** You teleport to a square on the opposite side of the area before rolling power.
 
@@ -44,7 +41,7 @@ HYPERSONIC (9 CLARITY)
 
 MIND SNARE (9 CLARITY)
 
-*You latch onto your prey's brain and don't let go, like a song they can't get out of their head.*
+*You latch onto your prey's brain and don't let go, like a song they can't get out of their head.* **Keywords:** Psionic, Ranged, Strike, Telepathic
 
 - **Power Roll + Reason:** o *11 or lower:* 10 + R **psychic damage; R \< \[weak\] slowed (save ends)**
 - *12-16:* 14 + R **psychic damage; R \< \[average\] slowed (save ends)**

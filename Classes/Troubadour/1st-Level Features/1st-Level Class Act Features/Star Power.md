@@ -6,17 +6,21 @@ name: Star Power
 type: classes
 subtype: troubadour
 kind: 1st-level features
-distance: Self **Target:** Self
+keywords: --
+keyword_list:
+  - --
+ability_type: Maneuver **Distance:** Self
+target: Self
 ---
 
 # Star Power
 
-*You're the one they came to see!* **Keywords:** -- **Type:** Maneuver
+*You're the one they came to see!*
 
-|                                     |             |
-| :---------------------------------- | :---------- |
-| **Keywords:**                       | **Type:**   |
-| **Distance:** Self **Target:** Self | **Target:** |
+|                  |                                       |
+| :--------------- | :------------------------------------ |
+| **Keywords:** -- | **Type:** Maneuver **Distance:** Self |
+| **Distance:**    | **Target:** Self                      |
 
 **Effect:** You gain a +2 bonus to speed until the end of your turn. Additionally, the next power roll you make this turn can't have a result lower than tier 2.
 

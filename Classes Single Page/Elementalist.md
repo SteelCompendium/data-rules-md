@@ -4,15 +4,17 @@ title: Elementalist
 name_raw: Elementalist
 name: Elementalist
 type: classes single page
-keywords: Fire, Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** 1 enemy or object
+keywords: Fire, Green, Magic, Ranged, Void **Type:** Maneuver
 keyword_list:
   - Fire
+  - Green
   - Magic
   - Ranged
-  - Strike **Type:** Action **Distance:** Ranged 10 **Target:** 1 enemy or object
-ability_type: Action **Distance:** Ranged 10 **Target:** 1 creature or object
-distance: Self or Ranged 10 **Target:** Self or 1 ally
-target: All enemies and objects
+  - Void **Type:** Maneuver
+ability_type: Action
+distance: Ranged 10
+target: 1 enemy or object
+trigger: The target starts their turn, moves, or is force moved.
 ---
 
 # Elementalist
@@ -138,12 +140,12 @@ You gain the following ability, which can be used as a ranged free strike.
 
 ### Hurl Element
 
-*You cast a ball of elemental energy at an unsuspecting foe.*
+*You cast a ball of elemental energy at an unsuspecting foe.* **Keywords:** Magic, Ranged, Strike
 
-|                                                                                                                  |                                                                           |
-| :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ |
-| **Keywords:** Fire, Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** 1 enemy or object | **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature or object |
-| **Distance:** Self or Ranged 10 **Target:** Self or 1 ally                                                       | **Target:** All enemies and objects                                       |
+|                                                                   |                               |
+| :---------------------------------------------------------------- | :---------------------------- |
+| **Keywords:** Fire, Green, Magic, Ranged, Void **Type:** Maneuver | **Type:** Action              |
+| **Distance:** Ranged 10                                           | **Target:** 1 enemy or object |
 
 **Power Roll + Reason:**
 
@@ -171,11 +173,10 @@ You have the following ability:
 
 ### Practical Magic
 
-*Your mastery of elemental power lets you customize your conjurations.*
+*Your mastery of elemental power lets you customize your conjurations.* **Keywords:** Magic, Ranged
 
-| Keywords: Magic, Ranged   | Type: Maneuver |
-| ------------------------- | -------------- |
-| Distance: Self; see below | Target: Self   |
+| **Type:** Maneuver |     |
+| ------------------ | --- |
 
 - **Effect:** Choose one of the following effects:
 - You use the Knockback maneuver, but its distance becomes the range of your Hurl Element ability, and you use Reason instead of Might for the power roll.
@@ -203,11 +204,10 @@ You also gain the following ability.
 
 SHARED VOID SENSE
 
-*You grant allies a taste of your unearthly vision.*
+*You grant allies a taste of your unearthly vision.* **Keywords:** Magic, Ranged, Void
 
-| Keywords: Magic, Ranged, Void | Type: Maneuver  |
-| ----------------------------- | --------------- |
-| Distance: Ranged 10           | Target: Special |
+| **Type:** Maneuver |     |
+| ------------------ | --- |
 
 **Effect:** For each Victory you have, you can target one creature. That creature gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of Shared Void Sense.
 
@@ -223,10 +223,8 @@ You gain the following ability.
 
 MOTIVATE EARTH
 
-| The earth rises, falls, or opens up at your command. |                 |
-| ---------------------------------------------------- | --------------- |
-| Keywords: Earth, Magic, Melee                        | Type: Action    |
-| Distance: Melee 1                                    | Target: Special |
+| The earth rises, falls, or opens up at your command. |     |
+| ---------------------------------------------------- | --- |
 
 **Effect:** You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.
 
@@ -240,7 +238,7 @@ You gain the following ability.
 
 RETURN TO FORMLESSNESS
 
-*With the merest touch, you cause an object to turn to slag or ash.*
+*With the merest touch, you cause an object to turn to slag or ash.* **Keywords:** Fire, Magic, Melee
 
 **Effect:** You heat the target and cause it to combust and melt, destroying it. If the object is larger than 1 square, then only the square of the object that you touch is destroyed.
 
@@ -259,7 +257,9 @@ Your elemental specialization grants you a triggered action as shown on the Spec
 
 THE BREATH OF DAWN REMEMBERED
 
-*The power you channel grants the ability to get back in the fight.*
+*The power you channel grants the ability to get back in the fight.* **Keywords:** Green, Magic, Ranged
+
+**Trigger:** The target starts their turn or takes damage.
 
 **Effect:** The target can spend a Recovery.
 
@@ -267,7 +267,9 @@ THE BREATH OF DAWN REMEMBERED
 
 EXPLOSIVE ASSISTANCE
 
-*You add a little magic to an ally's aggression at just the right time.*
+*You add a little magic to an ally's aggression at just the right time.* **Keywords:** Fire, Magic, Ranged
+
+**Trigger:** The target force moves a creature or object.
 
 **Effect:** The forced movement distance gains a bonus equal to your Reason score.
 
@@ -275,7 +277,9 @@ EXPLOSIVE ASSISTANCE
 
 SKIN LIKE CASTLE WALLS
 
-*You make yourself or an ally covered in protective stone.*
+*You make yourself or an ally covered in protective stone.* **Keywords:** Earth, Magic, Ranged
+
+**Trigger:** The target takes damage.
 
 **Effect:** The damage is halved.
 
@@ -283,7 +287,9 @@ SKIN LIKE CASTLE WALLS
 
 A SUBTLE RELOCATION
 
-*You call on the void to swallow and spit out an ally.*
+*You call on the void to swallow and spit out an ally.* **Keywords:** Magic, Ranged, Void
+
+**Trigger:** The target starts their turn, moves, or is force moved.
 
 **Effect:** You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.
 
@@ -345,11 +351,10 @@ Select two signature abilities from the following options. Signature abilities c
 
 ### Afflict A Bountiful Decay
 
-*Your curse causes a foe's flesh to rot off as spores that aid your allies.*
+*Your curse causes a foe's flesh to rot off as spores that aid your allies.* **Keywords:** Green, Rot, Magic, Ranged, Strike
 
-|                     | Type: Action         |
-| ------------------- | -------------------- |
-| Distance: Ranged 10 | Target: One creature |
+| **Type:** Action |     |
+| ---------------- | --- |
 
 **Power Roll + Reason:**
 
@@ -361,7 +366,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 ### Bifurcated Conflagration
 
-*Two jets of flame lance out at your command.*
+*Two jets of flame lance out at your command.* **Keywords:** Fire, Magic, Ranged, Strike
 
 **Power Roll + Reason:**
 
@@ -371,7 +376,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 ### Grasp Of Beyond
 
-*You absorb the life energy of another creature and use it to teleport.*
+*You absorb the life energy of another creature and use it to teleport.* **Keywords:** Magic, Melee, Strike, Void
 
 **Power Roll + Reason:**
 
@@ -383,7 +388,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 ### The Green Within, The Green Without
 
-*Whipping vines erupt from a foe's body to grasp at another close by.*
+*Whipping vines erupt from a foe's body to grasp at another close by.* **Keywords:** Green, Magic, Ranged, Strike
 
 **Power Roll + Reason:**
 
@@ -395,7 +400,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 ### A Meteoric Introduction
 
-*You give your enemy a gentle tap like an asteroid impact.* **Keywords:** Attack, Earth, Magic, Melee, Strike **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
+*You give your enemy a gentle tap like an asteroid impact.*
 
 **Power Roll + Reason:**
 
@@ -405,7 +410,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 ### Ray Of Agonizing Self Reflection
 
-*You inflict pain and doubt in equal measure.*
+*You inflict pain and doubt in equal measure.* **Keywords:** Magic, Ranged, Strike, Void
 
 **Power Roll + Reason:**
 
@@ -415,7 +420,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 ### Unquiet Ground
 
-*A sudden storm of detritus assaults your foes and leaves them struggling to move.*
+*A sudden storm of detritus assaults your foes and leaves them struggling to move.* **Keywords:** Area, Earth, Magic, Ranged
 
 **Power Roll + Reason:**
 
@@ -427,7 +432,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 ### Viscous Fire
 
-*A jet of heavy fire erupts with elemental fury where it strikes.* **Keywords:** Fire, Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature or object
+*A jet of heavy fire erupts with elemental fury where it strikes.*
 
 **Power Roll + Reason:**
 
@@ -445,7 +450,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 BEHOLD THE MYSTERY (3 ESSENCE)
 
-*You open a rift into the void to harry your foes.*
+*You open a rift into the void to harry your foes.* **Keywords:** Area, Magic, Ranged, Void
 
 **Power Roll + Reason:**
 
@@ -457,7 +462,7 @@ BEHOLD THE MYSTERY (3 ESSENCE)
 
 THE FLESH, A CRUCIBLE (3 ESSENCE)
 
-*Fire engulfs a target of your choice and burns at your command.*
+*Fire engulfs a target of your choice and burns at your command.* **Keywords:** Fire, Magic, Ranged, Strike
 
 **Power Roll + Reason:**
 
@@ -469,7 +474,7 @@ THE FLESH, A CRUCIBLE (3 ESSENCE)
 
 ### Invigorating Growth (3 Essence)
 
-*Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
+*Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.* **Keywords:** Green, Magic, Ranged, Strike
 
 **Power Roll + Reason:**
 
@@ -481,7 +486,7 @@ THE FLESH, A CRUCIBLE (3 ESSENCE)
 
 ### Ripples In The Earth (3 Essence)
 
-*Like a stone dropped into a pond, waves in the earth radiate from you.*
+*Like a stone dropped into a pond, waves in the earth radiate from you.* **Keywords:** Area, Earth, Magic
 
 **Power Roll + Reason:**
 
@@ -497,7 +502,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 ### Conflagration (5 Essence)
 
-*A storm of fire descends upon your enemies.*
+*A storm of fire descends upon your enemies.* **Keywords:** Area, Fire, Magic, Ranged
 
 **Power Roll + Reason:**
 
@@ -509,7 +514,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 ### Instantaneous Excavation (5 Essence)
 
-*The surface of the world around you opens up at your command.*
+*The surface of the world around you opens up at your command.* **Keywords:** Earth, Magic, Ranged
 
 **Effect:** You open up two holes with 1-square openings that are 4 squares deep, and which can be placed on any mundane surface within distance. You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can't get a critical hit with this power because it uses a maneuver.)
 
@@ -523,7 +528,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 ### No More Than A Breeze (5 Essence)
 
-*The material substance of a creature shreds away at your command.*
+*The material substance of a creature shreds away at your command.* **Keywords:** Magic, Ranged, Void
 
 **Effect:** Until the start of your next turn, the target can move through solid matter, ignores difficult terrain, and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are shunted out into the space where they entered it and this effect ends.
 
@@ -531,7 +536,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 ### Test Of Rain (5 Essence)
 
-*You call down a rain that burns your enemies and restores your allies.*
+*You call down a rain that burns your enemies and restores your allies.* **Keywords:** Area, Green, Magic, Ranged
 
 **Power Roll + Reason:**
 
@@ -588,10 +593,8 @@ You gain the following ability.
 
 THERE IS NO SPACE BETWEEN *Knowledge of the mystery reveals two spaces are the same*
 
-| space.                        |                 |
-| ----------------------------- | --------------- |
-| Keywords: Magic, Ranged, Void | Type: Maneuver  |
-| Distance: Ranged 10           | Target: Special |
+| space. |     |
+| ------ | --- |
 
 **Effect:** You open two size 1 portals in unoccupied spaces in range, which last until you move beyond distance from any portal, end the effect as a maneuver, or are dying. Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly teleported to an unoccupied space of their choice within 1 square of the other portal. If an enemy is force moved into a portal, their forced movement ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
 
@@ -599,69 +602,64 @@ At the start of each of your turns while the portals are active, you can open a 
 
 ##### Green Animal Forms
 
-| Animal Type        | Level | Temporary | Speed     | Size | Stability | Melee    | Special                                                                          |
-| ------------------ | ----- | --------- | --------- | ---- | --------- | -------- | -------------------------------------------------------------------------------- |
-|                    |       | Stamina   |           |      | Bonus     | Damage   |                                                                                  |
-|                    |       |           |           |      |           | Bonus    |                                                                                  |
-| Canine             | 2nd   | 5         | 7         | 1M   | +0        | +1/+1/+1 | You gain an edge on tests that involve                                           |
-|                    |       |           |           |      |           |          | smell.                                                                           |
-| Fish               | 2nd   | 0         | 5 (swim   | 1T   | +0        | +0/+0/+0 | You can breathe in water but can't                                               |
-|                    |       |           | only)     |      |           |          | breathe outside of it.                                                           |
-| Rodent             | 2nd   | 0         | 5 (climb) | 1T   | +0        | +0/+0/+0 | You gain an edge on tests that involve                                           |
-|                    |       |           |           |      |           |          | smell.                                                                           |
-| Bird               | 3rd   | 0         | 5 (fly)   | 1T   | +0        | +0/+0/+0 | --                                                                               |
-| Great cat          | 3rd   | 5         | 6 (climb) | 2    | +0        | +1/+1/+1 | As a maneuver, jump up to 3 squares in                                           |
-|                    |       |           |           |      |           |          | any direction. If you land on an enemy of                                        |
-|                    |       |           |           |      |           |          | you size or smaller, that enemy is knocked                                       |
-|                    |       |           |           |      |           |          | prone and you can make a melee free                                              |
-|                    |       |           |           |      |           |          | strike against them as part of the                                               |
-|                    |       |           |           |      |           |          | maneuver.                                                                        |
-| Giant frog         | 4th   | 5         | 5 (swim)  | 2    | +0        | +0/+0/+0 | Your melee free strike has a distance of                                         |
-|                    |       |           |           |      |           |          | melee 3. When you take the Advance                                               |
-|                    |       |           |           |      |           |          | move action, you can high or long jump up to half your speed in addition to your |
-|                    |       |           |           |      |           |          | normal speed.                                                                    |
-| Horse              | 4th   | 5         | 8         | 2    | +1        | +0/+0/+0 | You can use the Charge action as a                                               |
-|                    |       |           |           |      |           |          | maneuver. You can't use two Charge                                               |
-|                    |       |           |           |      |           |          | actions on the same turn.                                                        |
-| Mohler             | 4th   | 0         | 7         | 1S   | +1        | +0/+0/+0 | You gain a melee distance bonus of +1.                                           |
-|                    |       |           | (burrow)  |      |           |          |                                                                                  |
-| Bear               | 5th   | 10        | 5 (climb) | 2    | +1        | +2/+2/+2 | You gain a melee distance bonus of +1.                                           |
-| Giant bird         | 5th   | 0         | 7 (fly)   | 2    | +0        | +1/+1/+1 | After making a melee free strike, you can                                        |
-|                    |       |           |           |      |           |          | shift up to 3 squares.                                                           |
-| Giant salamander   | 6th   | 5         | 5         | 1L   | +3        | +2/+2/+2 | Your melee free strike deals fire damage.                                        |
-|                    |       |           |           |      |           |          | You have fire immunity 3.                                                        |
-| Giant spider       | 6th   | 0         | 5 (climb) | 2    | +0        | +0/+1/+2 | You have a double edge on melee free                                             |
-|                    |       |           |           |      |           |          | strikes against creatures you are hidden                                         |
-|                    |       |           |           |      |           |          | from.                                                                            |
-| Giant snake        | 7th   | 5         | 5         | 3    | +0        | +0/+1/+2 | Whenever you obtain a tier 2 or tier 3                                           |
-|                    |       |           |           |      |           |          | result on a melee free strike, you can                                           |
-|                    |       |           |           |      |           |          | automatically grab the target. While                                             |
-|                    |       |           |           |      |           |          | grabbed this way, the target takes 2                                             |
-|                    |       |           |           |      |           |          | damage at the start of each of their turns.                                      |
-| Kangaroo           | 7th   | 0         | 7         | 1L   | +1        | +0/+0/+4 | If you get a critical hit with a melee free                                      |
-|                    |       |           |           |      |           |          | strike, the target is dazed (save ends).                                         |
-|                    |       |           |           |      |           |          | When you take the Advance move action,                                           |
-|                    |       |           |           |      |           |          | you can high or long jump up to half your                                        |
-|                    |       |           |           |      |           |          | speed in addition to your normal speed.                                          |
-| Spiny armadillo    | 7th   | 10        | 5         | 1M   | +2        | +0/+0/+0 | Whenever you take damage from an                                                 |
-|                    |       |           |           |      |           |          | adjacent creature's melee ability, that                                          |
-|                    |       |           |           |      |           |          | creature takes 3 damage.                                                         |
-| Ostrich            | 8th   | 0         | 10        | 2    | +0        | +1/+1/+1 | Your movement does not provoke                                                   |
-|                    |       |           |           |      |           |          | opportunity strikes.                                                             |
-| Shark              | 8th   | 0         | 8 (swim   | 2    | +0        | +2/+2/+2 | You can breathe in water but can't                                               |
-|                    |       |           | only)     |      |           |          | breathe outside of it. Additionally, you                                         |
-|                    |       |           |           |      |           |          | have an edge on strikes against targets                                          |
-|                    |       |           |           |      |           |          | who are bleeding or winded.                                                      |
-| Giant octopus      | 9th   | 5         | 5 (swim)  | 3    | +2        | +0/+0/+0 | You can breathe in water. Additionally,                                          |
-|                    |       |           |           |      |           |          | you can target two creatures or objects                                          |
-|                    |       |           |           |      |           |          | with your melee free strike, and a target                                        |
-|                    |       |           |           |      |           |          | of your melee free strike is grabbed by you                                      |
-|                    |       |           |           |      |           |          | on a tier 2 or tier 3 result. You can have up                                    |
-|                    |       |           |           |      |           |          | to eight creatures grabbed.                                                      |
-| Rhinoceros         | 9th   | 10        | 8         | 2    | +5        | +2/+2/+2 | Whenever you make a melee free strike as                                         |
-|                    |       |           |           |      |           |          | part of the Charge action, it gains an edge.                                     |
-| King terror lizard | 10th  | 20        | 5         | 4    | +3        | +2/+2/+2 | Your melee free strike is a 1 burst with the                                     |
-|                    |       |           |           |      |           |          | Area keyword and the Strike keyword.                                             |
+Animal
+
+| **Type:** Level  | Temporary | Speed   | Size      | Stability | Melee | Special  |                                                                                  |
+| ---------------- | --------- | ------- | --------- | --------- | ----- | -------- | -------------------------------------------------------------------------------- |
+|                  |           | Stamina |           |           | Bonus | Damage   |                                                                                  |
+|                  |           |         |           |           |       | Bonus    |                                                                                  |
+| Canine           | 2nd       | 5       | 7         | 1M        | +0    | +1/+1/+1 | You gain an edge on tests that involve                                           |
+|                  |           |         |           |           |       |          | smell.                                                                           |
+| Fish             | 2nd       | 0       | 5 (swim   | 1T        | +0    | +0/+0/+0 | You can breathe in water but can't                                               |
+|                  |           |         | only)     |           |       |          | breathe outside of it.                                                           |
+| Rodent           | 2nd       | 0       | 5 (climb) | 1T        | +0    | +0/+0/+0 | You gain an edge on tests that involve                                           |
+|                  |           |         |           |           |       |          | smell.                                                                           |
+| Bird             | 3rd       | 0       | 5 (fly)   | 1T        | +0    | +0/+0/+0 | --                                                                               |
+| Great cat        | 3rd       | 5       | 6 (climb) | 2         | +0    | +1/+1/+1 | As a maneuver, jump up to 3 squares in                                           |
+|                  |           |         |           |           |       |          | any direction. If you land on an enemy of                                        |
+|                  |           |         |           |           |       |          | you size or smaller, that enemy is knocked                                       |
+|                  |           |         |           |           |       |          | prone and you can make a melee free                                              |
+|                  |           |         |           |           |       |          | strike against them as part of the                                               |
+|                  |           |         |           |           |       |          | maneuver.                                                                        |
+| Giant frog       | 4th       | 5       | 5 (swim)  | 2         | +0    | +0/+0/+0 | Your melee free strike has a distance of                                         |
+|                  |           |         |           |           |       |          | melee 3. When you take the Advance                                               |
+|                  |           |         |           |           |       |          | move action, you can high or long jump up to half your speed in addition to your |
+|                  |           |         |           |           |       |          | normal speed.                                                                    |
+| Horse            | 4th       | 5       | 8         | 2         | +1    | +0/+0/+0 | You can use the Charge action as a                                               |
+|                  |           |         |           |           |       |          | maneuver. You can't use two Charge                                               |
+|                  |           |         |           |           |       |          | actions on the same turn.                                                        |
+| Mohler           | 4th       | 0       | 7         | 1S        | +1    | +0/+0/+0 | You gain a melee distance bonus of +1.                                           |
+|                  |           |         | (burrow)  |           |       |          |                                                                                  |
+| Bear             | 5th       | 10      | 5 (climb) | 2         | +1    | +2/+2/+2 | You gain a melee distance bonus of +1.                                           |
+| Giant bird       | 5th       | 0       | 7 (fly)   | 2         | +0    | +1/+1/+1 | After making a melee free strike, you can                                        |
+|                  |           |         |           |           |       |          | shift up to 3 squares.                                                           |
+| Giant salamander | 6th       | 5       | 5         | 1L        | +3    | +2/+2/+2 | Your melee free strike deals fire damage.                                        |
+|                  |           |         |           |           |       |          | You have fire immunity 3.                                                        |
+| Giant spider     | 6th       | 0       | 5 (climb) | 2         | +0    | +0/+1/+2 | You have a double edge on melee free                                             |
+|                  |           |         |           |           |       |          | strikes against creatures you are hidden                                         |
+|                  |           |         |           |           |       |          | from.                                                                            |
+| Giant snake      | 7th       | 5       | 5         | 3         | +0    | +0/+1/+2 | Whenever you obtain a tier 2 or tier 3                                           |
+|                  |           |         |           |           |       |          | result on a melee free strike, you can                                           |
+|                  |           |         |           |           |       |          | automatically grab the target. While                                             |
+|                  |           |         |           |           |       |          | grabbed this way, the target takes 2                                             |
+|                  |           |         |           |           |       |          | damage at the start of each of their turns.                                      |
+| Kangaroo         | 7th       | 0       | 7         | 1L        | +1    | +0/+0/+4 | If you get a critical hit with a melee free                                      |
+|                  |           |         |           |           |       |          | strike, the target is dazed (save ends).                                         |
+|                  |           |         |           |           |       |          | When you take the Advance move action,                                           |
+|                  |           |         |           |           |       |          | you can high or long jump up to half your                                        |
+|                  |           |         |           |           |       |          | speed in addition to your normal speed.                                          |
+| Spiny armadillo  | 7th       | 10      | 5         | 1M        | +2    | +0/+0/+0 | Whenever you take damage from an                                                 |
+|                  |           |         |           |           |       |          | adjacent creature's melee ability, that                                          |
+|                  |           |         |           |           |       |          | creature takes 3 damage.                                                         |
+| Ostrich          | 8th       | 0       | 10        | 2         | +0    | +1/+1/+1 | Your movement does not provoke                                                   |
+|                  |           |         |           |           |       |          | opportunity strikes.                                                             |
+| Shark            | 8th       | 0       | 8 (swim   | 2         | +0    | +2/+2/+2 | You can breathe in water but can't                                               |
+|                  |           |         | only)     |           |       |          | breathe outside of it. Additionally, you                                         |
+|                  |           |         |           |           |       |          | have an edge on strikes against targets                                          |
+|                  |           |         |           |           |       |          | who are bleeding or winded.                                                      |
+| Giant octopus    | 9th       | 5       | 5 (swim)  | 3         | +2    | +0/+0/+0 | You can breathe in water. Additionally,                                          |
+|                  |           |         |           |           |       |          | you can target two creatures or objects                                          |
+|                  |           |         |           |           |       |          | with your melee free strike, and a                                               |
 
 ### New 5-essence Ability
 
@@ -669,7 +667,7 @@ Choose a new heroic ability from one of the following options, each of which cos
 
 ### O Flower Aid, O Earth Defend (5 Essence)
 
-*Revitalizing plants and jagged stones grow, helping allies and hindering foes.*
+*Revitalizing plants and jagged stones grow, helping allies and hindering foes.* **Keywords:** Area, Earth, Green, Magic, Ranged **Type:** Maneuver **Distance:** 3 cube within 10
 
 **Effect:** Until the start of your next turn, the area gains the following effects:
 
@@ -679,7 +677,7 @@ Choose a new heroic ability from one of the following options, each of which cos
 
 **Persistent 1:** The area remains until the start of your next turn. You can move the area up to 5 squares as a maneuver. This ability ends if you lose line of effect to its area.
 
-SUBVERT THE GREEN WITHIN (5 ESSENCE) *Burrow into their brains and take control!*
+SUBVERT THE GREEN WITHIN (5 ESSENCE) *Burrow into their brains and take control!* **Keywords:** Green, Magic, Ranged, Strike, Void **Type:** Action **Distance:** Ranged 10
 
 **Effect:** The target uses their signature ability against a target of your choice. You then make a power roll against the target of this ability.
 
@@ -691,7 +689,7 @@ SUBVERT THE GREEN WITHIN (5 ESSENCE) *Burrow into their brains and take control!
 
 TRANSLATED THROUGH FLAME (5 ESSENCE)
 
-*Your ally disappears, then reappears in a burst of fire!*
+*Your ally disappears, then reappears in a burst of fire!* **Keywords:** Fire, Magic, Ranged, Void
 
 **Effect:** The target is teleported to another space within distance. Make a power roll that targets each enemy adjacent to the target's new space.
 
@@ -703,7 +701,7 @@ TRANSLATED THROUGH FLAME (5 ESSENCE)
 
 VOLCANO'S EMBRACE (5 ESSENCE)
 
-*Wrap them up in fire and melting stone.*
+*Wrap them up in fire and melting stone.* **Keywords:** Earth, Fire, Magic, Ranged, Strike
 
 **Power Roll + Reason:**
 
@@ -742,7 +740,7 @@ You gain the following ability.
 
 THE EARTH ACCEPTS ME
 
-*You can slip into the stone.*
+*You can slip into the stone.* **Keywords:** Earth, Magic
 
 **Effect:** You step into a mundane dirt, metal, or stone object (including a wall) that is as large as you or larger. You can remain inside the object for as long as you like. While inside the object, you can observe events and speak to creatures outside of it, but you don't have line of effect to anything outside the object and vice versa. You can travel through the object freely until you exit it. If the object you meld with is destroyed, you take 10 damage and exit the object.
 
@@ -752,7 +750,7 @@ You gain the following ability.
 
 #### Remember Growth And Sun And Rain
 
-*You stir any wood's memory and learn what it has seen.*
+*You stir any wood's memory and learn what it has seen.* **Keywords:** Green, Magic, Melee
 
 **Effect:** You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object's location as if you were there.
 
@@ -762,7 +760,7 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 
 ### Erase (7 Essence)
 
-*With a flick of the wrist, you phase creatures out of existence.*
+*With a flick of the wrist, you phase creatures out of existence.* **Keywords:** Magic, Ranged, Strike, Void
 
 **Effect:** The number of creatures you target with this ability is determined by your power roll.
 
@@ -776,7 +774,7 @@ Each target begins to fade from existence (save ends). While fading from existen
 
 MAW OF EARTH (7 ESSENCE)
 
-*You open up the ground, unleashing a shower of stone and debris.*
+*You open up the ground, unleashing a shower of stone and debris.* **Keywords:** Area, Earth, Magic, Ranged
 
 **Power Roll + Reason:**
 
@@ -788,7 +786,7 @@ MAW OF EARTH (7 ESSENCE)
 
 ### Swarm Of Spirits (7 Essence)
 
-*Guardian animal spirits surround you to harry your foes and bolster your allies.*
+*Guardian animal spirits surround you to harry your foes and bolster your allies.* **Keywords:** Area, Green, Magic
 
 **Power Roll + Reason:**
 
@@ -802,7 +800,7 @@ MAW OF EARTH (7 ESSENCE)
 
 ### Wall Of Fire (7 Essence)
 
-*A blazing, beautifully organized inferno erupts at your command.*
+*A blazing, beautifully organized inferno erupts at your command.* **Keywords:** Area, Fire, Magic, Ranged
 
 **Effect:** The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. When an enemy enters or starts their turn in a square of the wall, they take fire damage equal to your Reason score.
 
@@ -902,7 +900,7 @@ Choose one heroic ability from the following options.
 
 COMBUSTION DEFERRED (9 ESSENCE)
 
-*Your flames dance from kindling to kindling to kindling.*
+*Your flames dance from kindling to kindling to kindling.* **Keywords:** Fire, Magic, Ranged, Strike
 
 **Power Roll + Reason:**
 
@@ -914,7 +912,7 @@ COMBUSTION DEFERRED (9 ESSENCE)
 
 ### Storm Of Sands (9 Essence)
 
-*Dirt and debris start to swirl into a dark, pulsing hurricane.*
+*Dirt and debris start to swirl into a dark, pulsing hurricane.* **Keywords:** Area, Earth, Magic, Ranged
 
 **Power Roll + Reason:**
 
@@ -928,7 +926,7 @@ COMBUSTION DEFERRED (9 ESSENCE)
 
 SUBVERTED PERCEPTION OF SPACE (9 ESSENCE)
 
-*You rip an enemy's world in twain.*
+*You rip an enemy's world in twain.* **Keywords:** Magic, Ranged, Strike, Void
 
 **Power Roll + Reason:**
 
@@ -940,7 +938,7 @@ SUBVERTED PERCEPTION OF SPACE (9 ESSENCE)
 
 ### Web Of All That's Come Before (9 Essence)
 
-*Threads you've been weaving through your adventures fray into a vibrant, pearlescent web.*
+*Threads you've been weaving through your adventures fray into a vibrant, pearlescent web.* **Keywords:** Area, Green, Magic, Ranged
 
 **Power Roll + Reason:**
 
@@ -977,7 +975,7 @@ Choose a new heroic ability from one of the following options. Alternatively, yo
 
 LUMINOUS CHAMPION ALOFT (9 ESSENCE)
 
-*They shone vibrantly, a beautiful diamond in the night sky.* **Keywords:** Fire, Green, Magic, Ranged, Void
+*They shone vibrantly, a beautiful diamond in the night sky.*
 
 Additionally, the target receives 1 additional Heroic Resource whenever they gain 1 or more. These effects last until the start of your next turn.
 
@@ -985,7 +983,7 @@ Additionally, the target receives 1 additional Heroic Resource whenever they gai
 
 ### Magma Titan (9 Essence)
 
-*Their body swells with lava, mud, and might, towering over their enemies.*
+*Their body swells with lava, mud, and might, towering over their enemies.* **Keywords:** Earth, Fire, Green, Magic, Ranged
 
 **Effect:** Until the start of your next turn, the target gains the following effects:
 
@@ -999,7 +997,7 @@ Additionally, the target receives 1 additional Heroic Resource whenever they gai
 
 ### Meteor (9 Essence)
 
-*You teleport the target into the air and let the ground do the rest.*
+*You teleport the target into the air and let the ground do the rest.* **Keywords:** Area, Earth, Fire, Magic, Ranged, Void **Type:** Action
 
 **Power Roll + Reason:**
 
@@ -1009,7 +1007,7 @@ Additionally, the target receives 1 additional Heroic Resource whenever they gai
 
 **Effect:** If the target falls and takes damage as if their Agility score were 0 immediately after being teleported, the damage they take from falling is fire damage, and each enemy within 3 of where the target lands takes the same damage. The ground within 3 of where the target lands becomes difficult terrain.
 
-THE WODE REMEMBERS AND RETURNS (9 ESSENCE) *You create a terrarium, from canopy above to underbrush below.*
+THE WODE REMEMBERS AND RETURNS (9 ESSENCE) *You create a terrarium, from canopy above to underbrush below.* **Keywords:** Area, Earth, Green, Magic, Void
 
 **Effect:** The affected area becomes dark and verdant with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The affected area is considered difficult terrain for enemies. Allies that end their turn in the affected area have cover.
 
@@ -1084,11 +1082,10 @@ You gain the following ability:
 
 #### Summon Source Of Earth
 
-*The ground rumbles as they burst forth, ready to serve.*
+*The ground rumbles as they burst forth, ready to serve.* **Keywords:** Earth, Magic, Persistent
 
-| Keywords: Earth, Magic, Persistent | Type: Action    |
-| ---------------------------------- | --------------- |
-| Distance: Ranged 10                | Target: Special |
+| **Type:** Action |     |
+| ---------------- | --- |
 
 **Effect:** A **source of earth** emerges from an unoccupied space within distance. The source takes their turn immediately after you, moving up to their speed and either taking an action or a maneuver but not both. The source is dismissed at the start of your next turn.
 
@@ -1128,17 +1125,16 @@ Choose one heroic ability from the following options.
 
 ### Heart Of The Wode (11 Essence)
 
-*You call forth one of the Great Tree's many splinters to provide for your every need.*
+*You call forth one of the Great Tree's many splinters to provide for your every need.* **Keywords:** Green, Magic, Ranged
 
 **Effect:** A size 5 tree appears in an unoccupied space within range. The tree has 100 Stamina and can't be force moved. When you or an ally start your turn with line of effect to the tree, that creature can end one condition or effect that has a duration of EoT or can be ended by a saving throw that is effect affecting them or stand up from prone. You and all allies can touch the tree to use Catch Breath as a free maneuver. An enemy who ends their turn within 3 squares of the tree are restrained until the end of their next turn and can use their action to end the effect early.
 
 ### Muse Of Fire (11 Essence)
 
-*The fire burns hot enough to sear the face of any god watching.*
+*The fire burns hot enough to sear the face of any god watching.* **Keywords:** Area, Fire, Magic
 
-| Keywords: Area, Fire, Magic | Type: Action        |
-| --------------------------- | ------------------- |
-| Distance: 5 cube within 10  | Target: All enemies |
+| **Type:** Action |     |
+| ---------------- | --- |
 
 **Power Roll + Reason:**
 
@@ -1151,11 +1147,10 @@ o *11 or lower*: 7 **fire damage; Director loses 2 Malice**
 
 ### Return To Oblivion (11 Essence)
 
-*You create a tear in reality that could consume everything that slips inside of it.*
+*You create a tear in reality that could consume everything that slips inside of it.* **Keywords:** Area, Magic, Ranged, Void
 
-| Keywords: Area, Magic, Ranged, Void | Type: Action    |
-| ----------------------------------- | --------------- |
-| Distance: Ranged 10                 | Target: Special |
+| **Type:** Action |     |
+| ---------------- | --- |
 
 **Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each round, all enemies within 5 of the affected area while it is unoccupied are vertical pulled 3 towards it. An enemy who enters the vortex or starts their turn there is knocked prone. A nonleader, non-solo enemy who is winded in the vortex at the end of the round is instantly destroyed.
 
@@ -1181,7 +1176,7 @@ As a 9th-level elementalist, you gain the following features.
 
 You have mastered that magic of the elements and can use your Wyrding feature as an action.
 
-Additionally, when you have 5 or more Victories, choose one of the following damage types. You have immunity all to that type: acid, cold, corruption, fire, lightning, poison, or sonic.
+Additionally, when you have 5 or more Victories, choose one of the following damage types. You have immunity all to that
 
 ### 11-essence Ability
 
@@ -1189,7 +1184,7 @@ Choose one heroic ability from the following options. Alternatively, you can cho
 
 ### The Earth Rejects You (11 Essence)
 
-*Everyone and everything gets blown away in a hail of rocks and debris.*
+*Everyone and everything gets blown away in a hail of rocks and debris.* **Keywords:** Area, Earth, Magic, Ranged
 
 **Power Roll + Reason:**
 
@@ -1199,7 +1194,7 @@ Choose one heroic ability from the following options. Alternatively, you can cho
 
 **Persistent 2:** At the start of your turn, you can use this ability again as a maneuver without spending essence.
 
-THE GREEN DEFENDS ITS SERVANTS (11 ESSENCE) *A luminous green shield that shows its true beauty the more it cracks.*
+THE GREEN DEFENDS ITS SERVANTS (11 ESSENCE) *A luminous green shield that shows its true beauty the more it cracks.* **Keywords:** Green, Magic, Ranged
 
 **Effect:** You conjure an elemental shield that protects the target until the end of your next turn. While the ward is active, the target can take the Defend action as a maneuver on each of their turns. The target gains 30 temporary Stamina that lasts until depleted or the ward is no longer active. When this temporary Stamina disappears, the ward ends. When the ability ends, the ward explodes. Each enemy within 5 of the target takes 10 damage.
 
@@ -1207,17 +1202,16 @@ THE GREEN DEFENDS ITS SERVANTS (11 ESSENCE) *A luminous green shield that shows 
 
 ### Prism (11 Essence)
 
-*In one act, you split your essence, allowing you to cast multiple effects at once.*
+*In one act, you split your essence, allowing you to cast multiple effects at once.* **Keywords:** Magic, Void
 
-| Keywords: Magic, Void | Type: Action |
-| --------------------- | ------------ |
-| Distance: Self        | Target: Self |
+| **Type:** Action |     |
+| ---------------- | --- |
 
 **Effect:** You use up to three heroic abilities whose cost totals 11 essence or less (other than spending essence to use this ability, you don't have to spend more essence to use those abilities). You can shift 2 between each ability.
 
 ### Unquenchable Fire (11 Essence)
 
-*You let fly a fiery missile braided with every primal element at your disposal.*
+*You let fly a fiery missile braided with every primal element at your disposal.* **Keywords:** Fire, Magic, Ranged, Strike
 
 **Power Roll + Reason:**
 

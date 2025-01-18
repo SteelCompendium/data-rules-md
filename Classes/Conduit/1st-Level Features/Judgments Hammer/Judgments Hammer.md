@@ -7,21 +7,19 @@ cost: 3 Piety
 type: classes
 subtype: conduit
 kind: 1st-level features
-keywords: Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature
-keyword_list:
-  - Magic
-  - Ranged
-  - Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature
+ability_type: Action
+distance: Ranged 10
+target: One creature
 ---
 
 # Judgment's Hammer (3 Piety)
 
-*Your divine fury is a hammer that crashes down upon the unrighteous.*
+*Your divine fury is a hammer that crashes down upon the unrighteous.* **Keywords:** Magic, Ranged, Strike
 
-|                                                                                                       |             |
-| :---------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature | **Type:**   |
-| **Distance:**                                                                                         | **Target:** |
+|                         |                          |
+| :---------------------- | :----------------------- |
+| **Keywords:**           | **Type:** Action         |
+| **Distance:** Ranged 10 | **Target:** One creature |
 
 **Power Roll + Intuition:**
 
@@ -29,7 +27,7 @@ keyword_list:
 - *12-16:* **6 + I holy damage;** A \< average\*\*, prone\*\*
 - *17+:* **9 + I holy damage;** A \< strong\*\*, prone and can't stand (save ends)\*\*
 
-VIOLENCE WILL NOT AID THEE (3 PIETY) *After some holy lightning, your enemy will think twice about their next attack.*
+VIOLENCE WILL NOT AID THEE (3 PIETY) *After some holy lightning, your enemy will think twice about their next attack.* **Keywords:** Magic, Ranged, Strike
 
 **Power Roll + Intuition:**
 

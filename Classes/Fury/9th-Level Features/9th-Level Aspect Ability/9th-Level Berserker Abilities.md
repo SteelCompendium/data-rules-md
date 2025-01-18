@@ -6,12 +6,14 @@ name: 9th-Level Berserker Abilities
 type: classes
 subtype: fury
 kind: 9th-level features
-keywords: Area, Magic, Weapon **Type:** Action **Distance:** 3 burst **Target:** All enemies
+keywords: Area, Magic, Weapon
 keyword_list:
   - Area
   - Magic
-  - Weapon **Type:** Action **Distance:** 3 burst **Target:** All enemies
-distance: 3 burst **Target:** All enemies
+  - Weapon
+ability_type: Action
+distance: 3 burst
+target: All enemies
 ---
 
 # 9th-level Berserker Abilities
@@ -20,12 +22,12 @@ Choose one of the following abilities.
 
 DEATH COMES FOR YOU ALL!(11 RAGE)
 
-*You use your weapon to create a destructive shockwave.* **Keywords:** Area, Magic, Weapon **Type:** Action
+*You use your weapon to create a destructive shockwave.*
 
-|                                                                                                  |             |
-| :----------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Magic, Weapon **Type:** Action **Distance:** 3 burst **Target:** All enemies | **Type:**   |
-| **Distance:** 3 burst **Target:** All enemies                                                    | **Target:** |
+|                                   |                         |
+| :-------------------------------- | :---------------------- |
+| **Keywords:** Area, Magic, Weapon | **Type:** Action        |
+| **Distance:** 3 burst             | **Target:** All enemies |
 
 **Power Roll + Might:**
 
@@ -37,7 +39,7 @@ DEATH COMES FOR YOU ALL!(11 RAGE)
 
 PRIMORDIAL VORTEX (11 RAGE)
 
-*You open a portal to the Primordial Chaos that pulls your foes to you.*
+*You open a portal to the Primordial Chaos that pulls your foes to you.* **Keywords:** Area, Magic, Weapon
 
 **Power Roll + Might:**
 

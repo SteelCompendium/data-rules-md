@@ -6,12 +6,16 @@ name: 6th-Level Stormwight Abilities
 type: classes
 subtype: fury
 kind: 6th-level features
-keywords: Animal, Area, Magic **Type:** Maneuver **Distance:** 3 Aura **Target:** All creatures
+keywords: Animal, Magic, Melee, Strike, Weapon
 keyword_list:
   - Animal
-  - Area
-  - Magic **Type:** Maneuver **Distance:** 3 Aura **Target:** All creatures
-distance: Melee 1 **Target:** 1 creature
+  - Magic
+  - Melee
+  - Strike
+  - Weapon
+ability_type: Maneuver
+distance: 3 Aura
+target: All creatures
 ---
 
 # 6th-level Stormwight Abilities
@@ -20,14 +24,12 @@ Choose one of the following abilities.
 
 POUNCE (9 RAGE)
 
-*You strike at the target, like the ultimate predator you are* **Keywords:** Animal, Magic, Melee, Strike, Weapon **Type:**
+*You strike at the target, like the ultimate predator you are*
 
-Action
-
-|                                                                                                     |             |
-| :-------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Animal, Area, Magic **Type:** Maneuver **Distance:** 3 Aura **Target:** All creatures | **Type:**   |
-| **Distance:** Melee 1 **Target:** 1 creature                                                        | **Target:** |
+|                                                    |                           |
+| :------------------------------------------------- | :------------------------ |
+| **Keywords:** Animal, Magic, Melee, Strike, Weapon | **Type:** Maneuver        |
+| **Distance:** 3 Aura                               | **Target:** All creatures |
 
 **Power Roll + Might:**
 
@@ -38,7 +40,7 @@ Action
 
 RIDERS ON THE STORM (9 RAGE)
 
-*Your focus your connection to the Primordial Chaos into a primordial storm.*
+*Your focus your connection to the Primordial Chaos into a primordial storm.* **Keywords:** Animal, Area, Magic
 
 **Effect:** Until the end of the encounter or you become dying, enemies in the aura take damage of your primordial storm type equal to twice your Might score at the end of your turn.
 

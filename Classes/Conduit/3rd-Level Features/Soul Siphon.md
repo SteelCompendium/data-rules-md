@@ -7,20 +7,19 @@ cost: 7 Piety
 type: classes
 subtype: conduit
 kind: 3rd-level features
-keywords: Area, Magic **Type:** Action **Distance:** 5 burst **Target:** Each enemy in the area
-keyword_list:
-  - Area
-  - Magic **Type:** Action **Distance:** 5 burst **Target:** Each enemy in the area
+ability_type: Action
+distance: 5 burst
+target: Each enemy in the area
 ---
 
 # Soul Siphon (7 Piety)
 
-*A beam of energy connects a foe to a friend, draining life from one to heal the other.*
+*A beam of energy connects a foe to a friend, draining life from one to heal the other.* **Keywords:** Magic, Ranged, Strike
 
-|                                                                                                     |             |
-| :-------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Magic **Type:** Action **Distance:** 5 burst **Target:** Each enemy in the area | **Type:**   |
-| **Distance:**                                                                                       | **Target:** |
+|                       |                                    |
+| :-------------------- | :--------------------------------- |
+| **Keywords:**         | **Type:** Action                   |
+| **Distance:** 5 burst | **Target:** Each enemy in the area |
 
 **Power Roll + Intuition:**
 
@@ -32,7 +31,7 @@ keyword_list:
 
 WORDS OF WRATH AND GRACE (7 PIETY)
 
-*Your saint grants your enemies a vision of whatever they most fear.*
+*Your saint grants your enemies a vision of whatever they most fear.* **Keywords:** Area, Magic
 
 **Power Roll + Intuition:**
 

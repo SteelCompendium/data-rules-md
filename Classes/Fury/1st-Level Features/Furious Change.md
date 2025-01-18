@@ -6,21 +6,22 @@ name: Furious Change
 type: classes
 subtype: fury
 kind: 1st-level features
-keywords: Magic, Melee **Type:** Triggered
-keyword_list:
-  - Magic
-  - Melee **Type:** Triggered
-distance: Melee 1 **Target:** Self or one creature
-trigger: The target would be force moved.
+ability_type: Triggered **Distance:** Melee 1
+distance: Self
+target: Self \| **Trigger:** You take damage. \| \|
+trigger: You lose Stamina and are not dying. **Effect:** After the triggering effect is resolved, you can use a
 ---
 
 # Furious Change
 
-*In your* anger, you revert to a more bestial form.
+*In your* anger, you revert to a more bestial form. **Keywords:** --
 
-| Keywords: --   | Type: Triggered |
-| -------------- | --------------- |
-| Distance: Self | Target: Self    |
+| **Type:** Triggered                  |                                                         |
+| ------------------------------------ | ------------------------------------------------------- |
+|                                      |                                                         |
+| :----------------------------------- | :---------------------------------------------          |
+| **Keywords:**                        | **Type:** Triggered **Distance:** Melee 1               |
+| **Distance:** Self                   | **Target:** Self \| **Trigger:** You take damage. \| \| |
 
 **Trigger:** You lose Stamina and are not dying. **Effect:** After the triggering effect is resolved, you can use a
 
@@ -30,14 +31,7 @@ free triggered action to enter your animal form or hybrid form. You gain tempora
 
 LINES OF FORCE
 
-*You redirect the energy of motion.*
-
-|                                                        |             |
-| :----------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Melee **Type:** Triggered         | **Type:**   |
-| **Distance:** Melee 1 **Target:** Self or one creature | **Target:** |
-
-**Trigger:** The target would be force moved.
+*You redirect the energy of motion.* **Keywords:** Magic, Melee
 
 **Effect:** You can select a new target of the same size or smaller within distance to be force moved instead, and you can turn that forced movement into a push instead. You become the source of the forced movement and decide where the new target's destination. Additionally, the forced movement distance gains a bonus equal to your Might score.
 
@@ -45,12 +39,10 @@ LINES OF FORCE
 
 UNEARTHLY REFLEXES
 
-*Elusive as a hummingbird.*
+*Elusive as a hummingbird.* **Keywords:** --
 
-| Keywords: --              | Type: Triggered |
-| ------------------------- | --------------- |
-| Distance: Self            | Target: Self    |
-| Trigger: You take damage. |                 |
+| **Type:** Triggered |     |
+| ------------------- | --- |
 
 **Effect: Effect:** You take half damage from the attack and can shift up to a number of squares equal to your Agility score.
 

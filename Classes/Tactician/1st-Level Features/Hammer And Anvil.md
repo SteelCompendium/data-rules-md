@@ -7,21 +7,23 @@ cost: 5 Focus
 type: classes
 subtype: tactician
 kind: 1st-level features
-keywords: Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Two allies
+keywords: Ranged, Weapon
 keyword_list:
-  - Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Two allies
-distance: Ranged 5 **Target:** Three allies
-target: One creature or object
+  - Ranged
+  - Weapon
+ability_type: Maneuver
+distance: Ranged 10
+target: Two allies
 ---
 
 # Hammer And Anvil (5 Focus)
 
-*"Let's not argue about who's the hammer and who's the anvil!"*
+*"Let's not argue about who's the hammer and who's the anvil!"* **Keywords:** Melee, Ranged, Strike, Weapon
 
-|                                                                                        |                                    |
-| :------------------------------------------------------------------------------------- | :--------------------------------- |
-| **Keywords:** Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Two allies | **Type:**                          |
-| **Distance:** Ranged 5 **Target:** Three allies                                        | **Target:** One creature or object |
+|                              |                        |
+| :--------------------------- | :--------------------- |
+| **Keywords:** Ranged, Weapon | **Type:** Maneuver     |
+| **Distance:** Ranged 10      | **Target:** Two allies |
 
 **Power Roll + Might:**
 
@@ -33,7 +35,7 @@ target: One creature or object
 
 THE MIND GAME (5 FOCUS)
 
-*Your attack demoralizes your foe. Your allies begin to think you can win.*
+*Your attack demoralizes your foe. Your allies begin to think you can win.* **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Effect:** You mark the target.
 
@@ -47,12 +49,12 @@ THE MIND GAME (5 FOCUS)
 
 NOW!(5 FOCUS)
 
-*Your allies wait for your command--then unleash death!* **Keywords:** Ranged, Weapon **Type:** Maneuver
+*Your allies wait for your command--then unleash death!*
 
 **Effect:** Each target can make a free strike.
 
 THIS IS WHAT WE PLANNED FOR (5 FOCUS)
 
-*All those coordination drills you made them do finally pay off.*
+*All those coordination drills you made them do finally pay off.* **Keywords:** Ranged
 
 **Effect:** Each target who hasn't acted yet this round can take their turn in any order immediately after yours.

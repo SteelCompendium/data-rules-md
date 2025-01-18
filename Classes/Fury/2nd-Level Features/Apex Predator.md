@@ -7,23 +7,24 @@ cost: 5 Rage
 type: classes
 subtype: fury
 kind: 2nd-level features
-keywords: Animal, Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
+keywords: Animal, Area, Magic
 keyword_list:
   - Animal
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
-distance: 2 burst **Target:** Each enemy in the area
+  - Area
+  - Magic
+ability_type: Action **Distance:** 2 burst
+distance: Melee 1
+target: Each enemy in the area
 ---
 
 # Apex Predator (5 Rage)
 
-*I will hunt you down.*
+*I will hunt you down.* **Keywords:** Animal, Melee, Strike, Weapon
 
-|                                                                                                             |             |
-| :---------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Animal, Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature | **Type:**   |
-| **Distance:** 2 burst **Target:** Each enemy in the area                                                    | **Target:** |
+|                                   |                                        |
+| :-------------------------------- | :------------------------------------- |
+| **Keywords:** Animal, Area, Magic | **Type:** Action **Distance:** 2 burst |
+| **Distance:** Melee 1             | **Target:** Each enemy in the area     |
 
 **Power Roll + Might:**
 
@@ -35,7 +36,7 @@ distance: 2 burst **Target:** Each enemy in the area
 
 VISCERAL ROAR (5 RAGE)
 
-*The sound of the storm within you terrifies your opponents.* **Keywords:** Animal, Area, Magic **Type:** Action
+*The sound of the storm within you terrifies your opponents.*
 
 **Power Roll + Might:**
 

@@ -6,10 +6,13 @@ name: 9th-Level Chronokinetic Abilities
 type: classes
 subtype: 'null'
 kind: 9th-level features
-keywords: Psionic **Type:** Free triggered
+keywords: Psionic
 keyword_list:
-  - Psionic **Type:** Free triggered
-distance: Self **Target:** Self **Trigger:** Another creature ends their turn.
+  - Psionic
+ability_type: Maneuver \| **Distance:** Self
+distance: Melee 1
+target: 1 creature \|
+trigger: Another creature ends their turn.
 ---
 
 # 9th-level Chronokinetic Abilities
@@ -18,12 +21,14 @@ Choose one of the following abilities.
 
 ARRESTOR CYCLE (11 DISCIPLINE)
 
-*You trap your foe in a looping cycle, where the relive the last few seconds over and over agian.*
+*You trap your foe in a looping cycle, where the relive the last few seconds over and over agian.* **Keywords:** Psionic
 
-|                                                                                    |             |
-| :--------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Psionic **Type:** Free triggered                                     | **Type:**   |
-| **Distance:** Self **Target:** Self **Trigger:** Another creature ends their turn. | **Target:** |
+|                       |                                          |
+| :-------------------- | :--------------------------------------- |
+| **Keywords:** Psionic | **Type:** Maneuver \| **Distance:** Self |
+| **Distance:** Melee 1 | **Target:** 1 creature \|                |
+
+**Trigger:** Another creature begins their turn.
 
 **Power Roll + Intuition:**
 
@@ -35,7 +40,9 @@ ARRESTOR CYCLE (11 DISCIPLINE)
 
 TIME LOOP (11 DISCIPLINE)
 
-*You show shadows what true speed is.*
+*You show shadows what true speed is.* **Keywords:** Psionic
+
+**Trigger:** Another creature ends their turn.
 
 **Effect:** You take a bonus turn immediately after the triggering creature. This ability can only be used once per round.
 
@@ -45,10 +52,8 @@ Choose one of the following abilities.
 
 ABSOLUTE ZERO (11 DISCIPLINE)
 
-| You become the coldest thing in the timescape. |                |
-| ---------------------------------------------- | -------------- |
-| Keywords: Psionic                              | Type: Maneuver |
-| Distance: Self                                 | Target: Self   |
+| You become the coldest thing in the timescape. |     |
+| ---------------------------------------------- | --- |
 
 **Power Roll + Intuition:**
 
@@ -60,11 +65,10 @@ ABSOLUTE ZERO (11 DISCIPLINE)
 
 HEAT SINK (11 DISCIPLINE)
 
-*You drain all the heat from the target.*
+*You drain all the heat from the target.* **Keywords:** Melee, Psionic, Strike
 
-| Keywords: Melee, Psionic, Strike | Type: Maneuver     |
-| -------------------------------- | ------------------ |
-| Distance: Melee 1                | Target: 1 creature |
+| **Type:** Maneuver |     |
+| ------------------ | --- |
 
 **Power Roll + Intuition:**
 

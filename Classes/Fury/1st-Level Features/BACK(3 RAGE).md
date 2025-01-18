@@ -7,21 +7,19 @@ cost: 3 Rage
 type: classes
 subtype: fury
 kind: 1st-level features
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
+ability_type: Action
+distance: Melee 1
+target: One creature
 ---
 
 # Back!(3 Rage)
 
-*Surrounded? The fools!*
+*Surrounded? The fools!* **Keywords:** Area, Melee, Weapon
 
-|                                                                                                     |             |
-| :-------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature | **Type:**   |
-| **Distance:**                                                                                       | **Target:** |
+|                       |                          |
+| :-------------------- | :----------------------- |
+| **Keywords:**         | **Type:** Action         |
+| **Distance:** Melee 1 | **Target:** One creature |
 
 **Power Roll + Might:**
 
@@ -31,7 +29,7 @@ keyword_list:
 
 OUT OF THE WAY!(3 RAGE)
 
-*Your enemies will get out of your way--whether they want to or not.*
+*Your enemies will get out of your way--whether they want to or not.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 

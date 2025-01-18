@@ -7,23 +7,18 @@ cost: 3 Focus
 type: classes
 subtype: tactician
 kind: 1st-level features
-keywords: Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or ranged 5
-keyword_list:
-  - Melee
-  - Ranged
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 or ranged 5
-target: One creature or object
+ability_type: Action
+distance: Melee 1 or ranged 5 **Target:** One creature or object
 ---
 
 # Concussive Strike (3 Focus)
 
-*Your precise strike leaves your foe struggling to respond.*
+*Your precise strike leaves your foe struggling to respond.* **Keywords:** Melee, Ranged, Strike, Weapon
 
-|                                                                                                |                                    |
-| :--------------------------------------------------------------------------------------------- | :--------------------------------- |
-| **Keywords:** Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or ranged 5 | **Type:**                          |
-| **Distance:**                                                                                  | **Target:** One creature or object |
+|                                                                      |                  |
+| :------------------------------------------------------------------- | :--------------- |
+| **Keywords:**                                                        | **Type:** Action |
+| **Distance:** Melee 1 or ranged 5 **Target:** One creature or object | **Target:**      |
 
 **Power Roll + Might:**
 
@@ -33,7 +28,7 @@ target: One creature or object
 
 INSPIRING STRIKE (3 FOCUS)
 
-*Your attack gives an ally hope.*
+*Your attack gives an ally hope.* **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Power Roll + Might:**
 

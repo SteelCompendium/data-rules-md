@@ -6,40 +6,43 @@ name: 11-Focus Abilities
 type: classes
 subtype: tactician
 kind: 8th-level features
-keywords: Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or ranged 5 **Target:** 1 creature
+keywords: Ranged
 keyword_list:
-  - Melee
   - Ranged
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 or ranged 5 **Target:** 1 creature
+ability_type: Action
+distance: Melee 1 or ranged 5
+target: 1 creature
+trigger: A non-leader or non-solo target creature becomes winded.
 ---
 
 # 11-focus Abilities
 
 Choose one heroic ability from the following options.
 
-GO NOW AND SPEED WELL (11 FOCUS) *You direct an attack to strike true.* **Keywords:** Ranged **Type:** Action **Distance:** Ranged 10 **Target:** Self or 1 ally
+GO NOW AND SPEED WELL (11 FOCUS) *You direct an attack to strike true.*
+
+|                                   |                        |
+| :-------------------------------- | :--------------------- |
+| **Keywords:** Ranged              | **Type:** Action       |
+| **Distance:** Melee 1 or ranged 5 | **Target:** 1 creature |
 
 **Effect:** The target gains two surges and can use a signature or heroic ability as a free triggered action. They have a double edge on the power roll, ignore damage immunity, and increase the potency of effects by 1.
 
-FINISH THEM!(11 FOCUS) *You direct your ally to turn a devastating blow into a killing blow.*
+FINISH THEM!(11 FOCUS) *You direct your ally to turn a devastating blow into a killing blow.* **Keywords:** Ranged
 
-|                                                                                                                       |             |
-| :-------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or ranged 5 **Target:** 1 creature | **Type:**   |
-| **Distance:**                                                                                                         | **Target:** |
+**Trigger:** A non-leader or non-solo target creature becomes winded.
 
 **Effect:** The target is killed. The creature who winded the target can spend a Recovery.
 
 THE FLOODGATES OPEN (11 FOCUS)
 
-*You direct your squad to strike in unision and with devastating effect.*
+*You direct your squad to strike in unision and with devastating effect.* **Keywords:** Ranged
 
 **Effect:** Each target gains a surge and uses a signature ability that has an edge with increased effect potency of 1, if applicable.
 
 I'LL OPEN AND YOU'LL CLOSE (11 FOCUS)
 
-*You create an opening for an ally.*
+*You create an opening for an ally.* **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Power Roll + Might:**
 

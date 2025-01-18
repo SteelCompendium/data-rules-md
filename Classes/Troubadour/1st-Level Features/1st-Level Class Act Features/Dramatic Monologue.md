@@ -6,20 +6,19 @@ name: Dramatic Monologue
 type: classes
 subtype: troubadour
 kind: 1st-level features
-keywords: Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Special
-keyword_list:
-  - Magic
-  - Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Special
+ability_type: Maneuver
+distance: Ranged 10
+target: Special
 ---
 
 # Dramatic Monologue
 
-*It doesn't need to make sense. Just say it with emotionality.*
+*It doesn't need to make sense. Just say it with emotionality.* **Keywords:** Magic, Ranged
 
-|                                                                                            |             |
-| :----------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Special | **Type:**   |
-| **Distance:**                                                                              | **Target:** |
+|                         |                     |
+| :---------------------- | :------------------ |
+| **Keywords:**           | **Type:** Maneuver  |
+| **Distance:** Ranged 10 | **Target:** Special |
 
 **Effect:** Choose one of the following effects:
 

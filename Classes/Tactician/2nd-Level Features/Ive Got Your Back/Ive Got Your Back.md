@@ -7,22 +7,22 @@ cost: 5 Focus
 type: classes
 subtype: tactician
 kind: 2nd-level features
-keywords: Ranged, Strike, Weapon **Type:** Action **Distance:** Ranged 5 **Target:** One creature
+keywords: Ranged
 keyword_list:
   - Ranged
-  - Strike
-  - Weapon **Type:** Action **Distance:** Ranged 5 **Target:** One creature
-distance: Ranged 5 **Target:** Two creatures
+ability_type: Maneuver **Distance:** Ranged 5
+distance: Ranged 5
+target: Two creatures
 ---
 
 # I've Got Your Back (5 Focus)
 
-*Your enemy will think twice about attacking your friend.*
+*Your enemy will think twice about attacking your friend.* **Keywords:** Ranged, Strike, Weapon
 
-|                                                                                                       |             |
-| :---------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Ranged, Strike, Weapon **Type:** Action **Distance:** Ranged 5 **Target:** One creature | **Type:**   |
-| **Distance:** Ranged 5 **Target:** Two creatures                                                      | **Target:** |
+|                        |                                           |
+| :--------------------- | :---------------------------------------- |
+| **Keywords:** Ranged   | **Type:** Maneuver **Distance:** Ranged 5 |
+| **Distance:** Ranged 5 | **Target:** Two creatures                 |
 
 **Power Roll + Reason:**
 
@@ -34,7 +34,7 @@ distance: Ranged 5 **Target:** Two creatures
 
 THEIR TACTICS ARE SO PRIMITIVE (5 FOCUS)
 
-*All that time you spent studying ancient battles paid off!* **Keywords:** Ranged **Type:** Maneuver
+*All that time you spent studying ancient battles paid off!*
 
 **Effect:** Each target is marked by you. You gain two surges.
 

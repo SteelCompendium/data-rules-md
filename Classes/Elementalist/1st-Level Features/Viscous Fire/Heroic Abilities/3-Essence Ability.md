@@ -6,13 +6,9 @@ name: 3-Essence Ability
 type: classes
 subtype: elementalist
 kind: 1st-level features
-keywords: Fire, Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature or object
-keyword_list:
-  - Fire
-  - Magic
-  - Ranged
-  - Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature or object
-target: Each enemy in the area
+ability_type: Action
+distance: Ranged 10
+target: One creature or object
 ---
 
 # 3-essence Ability
@@ -21,12 +17,12 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 BEHOLD THE MYSTERY (3 ESSENCE)
 
-*You open a rift into the void to harry your foes.*
+*You open a rift into the void to harry your foes.* **Keywords:** Area, Magic, Ranged, Void
 
-|                                                                                                                       |                                    |
-| :-------------------------------------------------------------------------------------------------------------------- | :--------------------------------- |
-| **Keywords:** Fire, Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature or object | **Type:**                          |
-| **Distance:**                                                                                                         | **Target:** Each enemy in the area |
+|                         |                                    |
+| :---------------------- | :--------------------------------- |
+| **Keywords:**           | **Type:** Action                   |
+| **Distance:** Ranged 10 | **Target:** One creature or object |
 
 **Power Roll + Reason:**
 
@@ -38,7 +34,7 @@ BEHOLD THE MYSTERY (3 ESSENCE)
 
 THE FLESH, A CRUCIBLE (3 ESSENCE)
 
-*Fire engulfs a target of your choice and burns at your command.*
+*Fire engulfs a target of your choice and burns at your command.* **Keywords:** Fire, Magic, Ranged, Strike
 
 **Power Roll + Reason:**
 

@@ -7,27 +7,25 @@ cost: 11 Drama
 type: classes
 subtype: troubadour
 kind: 8th-level features
-keywords: Area, Magic, Ranged **Type:** Maneuver **Distance:** 5 cube within 10 **Target:** All enemies
-keyword_list:
-  - Area
-  - Magic
-  - Ranged **Type:** Maneuver **Distance:** 5 cube within 10 **Target:** All enemies
+ability_type: Maneuver
+distance: 5 cube within 10
+target: All enemies
 ---
 
 # Power Ballad (11 Drama)
 
-*A song for the broken hearted wraps itself around the target and blossoms into a ward of thorns.*
+*A song for the broken hearted wraps itself around the target and blossoms into a ward of thorns.* **Keywords:** Magic, Ranged
 
-|                                                                                                             |             |
-| :---------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Magic, Ranged **Type:** Maneuver **Distance:** 5 cube within 10 **Target:** All enemies | **Type:**   |
-| **Distance:**                                                                                               | **Target:** |
+|                                |                         |
+| :----------------------------- | :---------------------- |
+| **Keywords:**                  | **Type:** Maneuver      |
+| **Distance:** 5 cube within 10 | **Target:** All enemies |
 
 **Effect:** Until the end of the encounter and while the target is winded, whenever the target takes damage, they can use a free triggered action to deal half the damage they received to the source of the damage.
 
 SAVED IN THE EDIT (11 DRAMA)
 
-*Your weapon takes on the avatar of a legendary tool that can rewrite reality to your whims.*
+*Your weapon takes on the avatar of a legendary tool that can rewrite reality to your whims.* **Keywords:** Magic
 
 **Effect:** Until the end of the encounter, whenever you deal damage to a creature or object, or enable a creature to spend a Recovery, you can use a free triggered action to give them one of the following effects until the start of your next turn. If this ability is triggered by multiple targets taking damage or multiple creatures spending recoveries at the same time, each target receives the same effect:
 
@@ -36,7 +34,7 @@ SAVED IN THE EDIT (11 DRAMA)
 - The target's stability increases and speed decreases by a number of squares equal to your Presence score.
 - The target's speed increases and stability decreases by a number of squares equal to your Presence score.
 
-THE SHOW MUST GO ON (11 DRAMA) *You shine a bright light on the players on the stage and compel them to finish the performance*
+THE SHOW MUST GO ON (11 DRAMA) *You shine a bright light on the players on the stage and compel them to finish the performance* **Keywords:** Area, Magic, Ranged
 
 **Power Roll + Presence:** o *11 or lower:* 6 **damage; P \< \[weak\] can't willingly**
 

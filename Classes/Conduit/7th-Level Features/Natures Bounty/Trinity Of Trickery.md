@@ -6,7 +6,12 @@ name: Trinity Of Trickery
 type: classes
 subtype: conduit
 kind: 7th-level features
-distance: Self or Ranged 10 **Target:** Self or 1 ally
+keywords: Magic, Ranged
+keyword_list:
+  - Magic
+  - Ranged
+ability_type: Maneuver **Distance:** Self or Ranged 10
+target: Self or 1 ally
 ---
 
 # Trinity Of Trickery
@@ -15,11 +20,11 @@ You gain the following ability.
 
 TRINITY OF TRICKERY (9 PIETY)
 
-*Hey! I'm over here. No, here, numbskull.* **Keywords:** Magic, Ranged **Type:** Maneuver
+*Hey! I'm over here. No, here, numbskull.*
 
-|                                                            |             |
-| :--------------------------------------------------------- | :---------- |
-| **Keywords:**                                              | **Type:**   |
-| **Distance:** Self or Ranged 10 **Target:** Self or 1 ally | **Target:** |
+|                             |                                                    |
+| :-------------------------- | :------------------------------------------------- |
+| **Keywords:** Magic, Ranged | **Type:** Maneuver **Distance:** Self or Ranged 10 |
+| **Distance:**               | **Target:** Self or 1 ally                         |
 
 **Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move the duplicates up to their speed. When one of the duplicates takes damage, the duplicate is destroyed. If the target is targeted with an ability, they can use a free triggered action to switch place with a duplicate in line of effect. The ability targets the duplicate instead.

@@ -7,24 +7,22 @@ cost: 5 Piety
 type: classes
 subtype: conduit
 kind: 2nd-level features
-keywords: Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Self and one ally
-keyword_list:
-  - Magic
-  - Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Self and one ally
-target: Each enemy in the area
+ability_type: Maneuver
+distance: Ranged 10
+target: Self and one ally
 ---
 
 # Blessing Of Fate And Destiny (5 Piety)
 
-*Your enemies suffer their fate; your allies embrace their destiny!*
+*Your enemies suffer their fate; your allies embrace their destiny!* **Keywords:** Magic, Ranged
 
-| Keywords: Magic, Ranged                                                                                   | Type: Action                       |
-| --------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| Distance: Ranged 10                                                                                       |                                    |
-|                                                                                                           |                                    |
-| :-------------------------------------------------------------------------------------------------------- | :--------------------------------  |
-| **Keywords:** Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Self and one ally      | **Type:**                          |
-| **Distance:**                                                                                             | **Target:** Each enemy in the area |
+| **Type:** Action                     |                                   |
+| ------------------------------------ | --------------------------------- |
+| **Distance:** Ranged 10              |                                   |
+|                                      |                                   |
+| :----------------------------------- | :-------------------------------- |
+| **Keywords:**                        | **Type:** Maneuver                |
+| **Distance:** Ranged 10              | **Target:** Self and one ally     |
 
 **Effect:** Choose one of the following effects, which lasts until the end of the encounter or until you are dying:
 
@@ -33,19 +31,19 @@ target: Each enemy in the area
 
 BLESSING OF INSIGHT (5 PIETY)
 
-*The gods grant insight revealing where best to strike your enemies.*
+*The gods grant insight revealing where best to strike your enemies.* **Keywords:** Magic, Ranged
 
 **Effect:** Until the end of the encounter or until you are dying, each target gains a surge at the end of each of your turns.
 
 DIVINE COMEDY (5 PIETY)
 
-*You and your allies swap places to confound your foes.*
+*You and your allies swap places to confound your foes.* **Keywords:** Area, Magic
 
 **Effect:** Each target can choose another creature within 5 squares of them, then swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.
 
 THE GODS COMMAND, YOU OBEY (5 PIETY)
 
-*You speak with the voice of your saint, commanding your enemies.*
+*You speak with the voice of your saint, commanding your enemies.* **Keywords:** Magic, Ranged, Strike
 
 **Power Roll + Intuition:**
 
@@ -69,7 +67,7 @@ MORNING LIGHT (5 PIETY)
 
 NATURE JUDGES THEE (5 PIETY)
 
-*Mystical thorned vines appear at your bidding and bind your foes.*
+*Mystical thorned vines appear at your bidding and bind your foes.* **Keywords:** Area, Magic, Ranged
 
 **Power Roll + Intuition:**
 
@@ -77,6 +75,6 @@ NATURE JUDGES THEE (5 PIETY)
 - *12-16:* **3 damage;** A \< average\*\*, restrained (save ends)\*\*
 - *17+:* **7 damage;** A \< strong\*\*, restrained (save ends)\*\*
 
-OUR HEARTS, YOUR STRENGTH (5 PIETY) *An ally gains strength from their friends.*
+OUR HEARTS, YOUR STRENGTH (5 PIETY) *An ally gains strength from their friends.* **Keywords:** Magic, Ranged
 
 **Effect:** Until the end of the encounter or the target is dying, whenever the target starts their turn, they gain a bonus to speed and damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.

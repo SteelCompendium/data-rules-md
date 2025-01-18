@@ -7,16 +7,19 @@ cost: 5 Drama
 type: classes
 subtype: troubadour
 kind: 1st-level features
-keywords: Magic **Type:** Maneuver **Distance:** Self **Target:** Self
+keywords: Magic
 keyword_list:
-  - Magic **Type:** Maneuver **Distance:** Self **Target:** Self
+  - Magic
+ability_type: Maneuver
+distance: Self
+target: Self
 ---
 
 # Fake Your Death (5 Drama) *o Happy Dagger, This Is Thy Sheath!*
 
-|                                                                            |             |
-| :------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic **Type:** Maneuver **Distance:** Self **Target:** Self | **Type:**   |
-| **Distance:**                                                              | **Target:** |
+|                     |                    |
+| :------------------ | :----------------- |
+| **Keywords:** Magic | **Type:** Maneuver |
+| **Distance:** Self  | **Target:** Self   |
 
 **Effect:** You turn invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 bonus to speed and you ignore difficult terrain. The illusion melts into the ground and your invisibility ends at the end of your next turn, or earlier if the illusion is interacted with, if you take damage, or if you use an action or a maneuver.

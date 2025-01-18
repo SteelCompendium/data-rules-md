@@ -6,20 +6,19 @@ name: Power Chord
 type: classes
 subtype: troubadour
 kind: 1st-level features
-keywords: Area, Magic **Type:** Maneuver **Distance:** 2 burst **Target:** Each enemy in the area
-keyword_list:
-  - Area
-  - Magic **Type:** Maneuver **Distance:** 2 burst **Target:** Each enemy in the area
+ability_type: Maneuver
+distance: 2 burst
+target: Each enemy in the area
 ---
 
 # Power Chord
 
-*Your instrument rings true and your music blows everyone away.*
+*Your instrument rings true and your music blows everyone away.* **Keywords:** Area, Magic
 
-|                                                                                                       |             |
-| :---------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Magic **Type:** Maneuver **Distance:** 2 burst **Target:** Each enemy in the area | **Type:**   |
-| **Distance:**                                                                                         | **Target:** |
+|                       |                                    |
+| :-------------------- | :--------------------------------- |
+| **Keywords:**         | **Type:** Maneuver                 |
+| **Distance:** 2 burst | **Target:** Each enemy in the area |
 
 **Power Roll + Presence:**
 

@@ -6,12 +6,9 @@ name: 'Effect: Mark The Target.'
 type: classes
 subtype: tactician
 kind: 9th-level features
-keywords: Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or Ranged 5 **Target:** 1 creature
-keyword_list:
-  - Melee
-  - Ranged
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 or Ranged 5 **Target:** 1 creature
+ability_type: Action
+distance: Melee 1 or Ranged 5
+target: 1 creature
 ---
 
 # Effect: Mark The Target.
@@ -26,12 +23,12 @@ keyword_list:
 
 THAT ONE IS MINE!(11 FOCUS)
 
-*You focus on making an enemy irrelevant.*
+*You focus on making an enemy irrelevant.* **Keywords:** Melee, Ranged, Strike, Weapon
 
-|                                                                                                                       |             |
-| :-------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or Ranged 5 **Target:** 1 creature | **Type:**   |
-| **Distance:**                                                                                                         | **Target:** |
+|                                   |                        |
+| :-------------------------------- | :--------------------- |
+| **Keywords:**                     | **Type:** Action       |
+| **Distance:** Melee 1 or Ranged 5 | **Target:** 1 creature |
 
 **Effect:** The target is marked by you.
 

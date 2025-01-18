@@ -6,12 +6,8 @@ name: 2nd-Level Cryokinetic Ability
 type: classes
 subtype: 'null'
 kind: 2nd-level features
-keywords: Area, Psionic, Weapon **Type:** Action **Distance:** 3 cube within 1
-keyword_list:
-  - Area
-  - Psionic
-  - Weapon **Type:** Action **Distance:** 3 cube within 1
-target: Each enemy in the area
+ability_type: Action
+distance: 3 cube within 1 **Target:** Each enemy in the area
 ---
 
 # 2nd-level Cryokinetic Ability
@@ -20,12 +16,12 @@ Choose one of the following abilities.
 
 ENTROPIC FIELD (5 DISCIPLINE)
 
-*You drastically increase the local entropy.*
+*You drastically increase the local entropy.* **Keywords:** Area, Psionic, Weapon
 
-|                                                                                    |                                    |
-| :--------------------------------------------------------------------------------- | :--------------------------------- |
-| **Keywords:** Area, Psionic, Weapon **Type:** Action **Distance:** 3 cube within 1 | **Type:**                          |
-| **Distance:**                                                                      | **Target:** Each enemy in the area |
+|                                                                  |                  |
+| :--------------------------------------------------------------- | :--------------- |
+| **Keywords:**                                                    | **Type:** Action |
+| **Distance:** 3 cube within 1 **Target:** Each enemy in the area | **Target:**      |
 
 **Power Roll + Agility:**
 

@@ -6,11 +6,13 @@ name: 9th-Level Stormwight Abilities
 type: classes
 subtype: fury
 kind: 9th-level features
-keywords: Animal, Magic **Type:** Action
+keywords: Animal, Magic
 keyword_list:
   - Animal
-  - Magic **Type:** Action
-distance: 5 cube within 10 **Target:** All enemies
+  - Magic
+ability_type: Action **Distance:** 5 cube within 10
+distance: 3 burst
+target: All enemies
 ---
 
 # 9th-level Stormwight Abilities
@@ -19,7 +21,12 @@ Choose one of the following abilities.
 
 DEATH RATTLE (11 RAGE)
 
-*Fear channeled from the Primordial Chaos. Save or die!* **Keywords:** Animal, Magic **Type:** Action **Distance:** 3 burst **Target:** All enemies
+*Fear channeled from the Primordial Chaos. Save or die!*
+
+|                             |                                                 |
+| :-------------------------- | :---------------------------------------------- |
+| **Keywords:** Animal, Magic | **Type:** Action **Distance:** 5 cube within 10 |
+| **Distance:** 3 burst       | **Target:** All enemies                         |
 
 **Power Roll + Might:**
 
@@ -29,12 +36,7 @@ DEATH RATTLE (11 RAGE)
 
 DELUGE (11 RAGE)
 
-*You summon your primordial storm*
-
-|                                                        |             |
-| :----------------------------------------------------- | :---------- |
-| **Keywords:** Animal, Magic **Type:** Action           | **Type:**   |
-| **Distance:** 5 cube within 10 **Target:** All enemies | **Target:** |
+*You summon your primordial storm* **Keywords:** Animal, Magic
 
 **Power Roll + Might:**
 

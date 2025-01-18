@@ -4,15 +4,15 @@ title: Fury
 name_raw: Fury
 name: Fury
 type: classes single page
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
+keywords: Area, Melee, Weapon
 keyword_list:
+  - Area
   - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
-ability_type: Free Triggered Action **Distance:** Melee 1 **Target:** 1 creature
-distance: 1 burst **Target:** Each enemy in the area
-target: Each enemy in the area
-trigger: A creature causes you to become winded or dying, or damages you while you are winded or dying.
+  - Weapon
+ability_type: Action
+distance: Melee 1
+target: One creature or object
+trigger: You reduce a creature to 0 Stamina with a strike.
 ---
 
 # Fury
@@ -212,11 +212,14 @@ Your primordial aspect grants you a triggered action as shown on the Aspect Trig
 
 ### Furious Change
 
-*In your* anger, you revert to a more bestial form.
+*In your* anger, you revert to a more bestial form. **Keywords:** --
 
-| Keywords: --   | Type: Triggered |
-| -------------- | --------------- |
-| Distance: Self | Target: Self    |
+| **Type:** Triggered                    |                                    |
+| -------------------------------------- | ---------------------------------- |
+|                                        |                                    |
+| :------------------------------------- | :--------------------------------  |
+| **Keywords:** Area, Melee, Weapon      | **Type:** Action                   |
+| **Distance:** Melee 1                  | **Target:** One creature or object |
 
 **Trigger:** You lose Stamina and are not dying. **Effect:** After the triggering effect is resolved, you can use a
 
@@ -226,14 +229,7 @@ free triggered action to enter your animal form or hybrid form. You gain tempora
 
 LINES OF FORCE
 
-*You redirect the energy of motion.*
-
-|                                                                                                               |                                                                              |
-| :------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object | **Type:** Free Triggered Action **Distance:** Melee 1 **Target:** 1 creature |
-| **Distance:** 1 burst **Target:** Each enemy in the area                                                      | **Target:** Each enemy in the area                                           |
-
-**Trigger:** The target would be force moved.
+*You redirect the energy of motion.* **Keywords:** Magic, Melee
 
 **Effect:** You can select a new target of the same size or smaller within distance to be force moved instead, and you can turn that forced movement into a push instead. You become the source of the forced movement and decide where the new target's destination. Additionally, the forced movement distance gains a bonus equal to your Might score.
 
@@ -241,12 +237,10 @@ LINES OF FORCE
 
 UNEARTHLY REFLEXES
 
-*Elusive as a hummingbird.*
+*Elusive as a hummingbird.* **Keywords:** --
 
-| Keywords: --              | Type: Triggered |
-| ------------------------- | --------------- |
-| Distance: Self            | Target: Self    |
-| Trigger: You take damage. |                 |
+| **Type:** Triggered |     |
+| ------------------- | --- |
 
 **Effect: Effect:** You take half damage from the attack and can shift up to a number of squares equal to your Agility score.
 
@@ -270,7 +264,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ### Brutal Slam
 
-*The heavy impact of your weapon attacks drives your foes ever backward.*
+*The heavy impact of your weapon attacks drives your foes ever backward.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -280,7 +274,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ### Hit And Run
 
-*Keeping in constant motion helps you slip out of reach after a brutal assault.*
+*Keeping in constant motion helps you slip out of reach after a brutal assault.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -292,7 +286,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ### Impaled!
 
-*You plunge your weapon into your enemy like a boar upon a spit.*
+*You plunge your weapon into your enemy like a boar upon a spit.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -302,7 +296,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ### To The Death!
 
-*Your reckless assault leaves you tactically vulnerable.*
+*Your reckless assault leaves you tactically vulnerable.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -322,7 +316,7 @@ Choose one heroic ability from the following options, each of which costs 3 rage
 
 ### Back!(3 Rage)
 
-*Surrounded? The fools!*
+*Surrounded? The fools!* **Keywords:** Area, Melee, Weapon
 
 **Power Roll + Might:**
 
@@ -332,7 +326,7 @@ Choose one heroic ability from the following options, each of which costs 3 rage
 
 OUT OF THE WAY!(3 RAGE)
 
-*Your enemies will get out of your way--whether they want to or not.*
+*Your enemies will get out of your way--whether they want to or not.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -344,7 +338,7 @@ OUT OF THE WAY!(3 RAGE)
 
 ### Tide Of Death (3 Rage)
 
-*Teach them the folly of lining up for you.* **Keywords:** Melee, Weapon **Type:** Action
+*Teach them the folly of lining up for you.*
 
 **Effect:** You move up to your speed in a straight line, and you don't treat enemy squares as difficult terrain for this move. You can end this move in a creature's space and then move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.
 
@@ -358,7 +352,7 @@ The last target you damage takes extra damage equal to your Might score for ever
 
 YOUR ENTRAILS ARE YOUR EXTRAILS!(3 RAGE)
 
-*Hard for them to fight when they're busy holding in their giblets.*
+*Hard for them to fight when they're busy holding in their giblets.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -374,7 +368,7 @@ Choose one heroic ability from the following options, each of which costs 5 rage
 
 BLOOD FOR BLOOD!(5 RAGE)
 
-*A mighty strike leaves your foe reeling.*
+*A mighty strike leaves your foe reeling.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -386,13 +380,13 @@ BLOOD FOR BLOOD!(5 RAGE)
 
 MAKE PEACE WITH YOUR GOD!(5 RAGE)
 
-*Anger is an energy.*
+*Anger is an energy.* **Keywords:** --
 
 **Effect:** The next ability roll you make this turn automatically achieves a tier 3 result. You gain one surge.
 
 THUNDER ROAR (5 RAGE)
 
-*A howl erupts from you that hurls your enemies back*.
+*A howl erupts from you that hurls your enemies back*. **Keywords:** Area, Melee, Weapon
 
 **Power Roll + Might:**
 
@@ -404,7 +398,7 @@ THUNDER ROAR (5 RAGE)
 
 TO THE UTTERMOST END (5 RAGE)
 
-*You spend your life force to ensure their death.*
+*You spend your life force to ensure their death.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -454,13 +448,13 @@ Your primordial aspect grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-SPECIAL DELIVERY (5 RAGE) *You ready?*
+SPECIAL DELIVERY (5 RAGE) *You ready?* **Keywords:** Melee, Strike, Weapon
 
 **Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's stability, and the target takes no damage from the move. At the end of this movement, the target can make a free strike that deals additional damage equal to your Might score.
 
 ### Wrecking Ball (5 Rage)
 
-*It is easier to destroy than to create. Much easier, in fact!* **Keywords:** Melee, Weapon **Type:** Maneuver **Distance:** Self **Target:** Self
+*It is easier to destroy than to create. Much easier, in fact!*
 
 **Effect:** You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are difficult terrain for you. You automatically destroy each square of structure you move through and leave behind a square of difficult terrain.
 
@@ -478,7 +472,7 @@ Choose one of the following abilities.
 
 PHALANX BREAKER (5 RAGE)
 
-*Organizing your forces like feckless creatures of Law. Pitiful.*
+*Organizing your forces like feckless creatures of Law. Pitiful.* **Keywords:** Melee, Strike, Weapon
 
 **Effect:** You shift up to your speed. You make one power roll that targets up to three enemies you come adjacent to during the shift.
 
@@ -490,7 +484,7 @@ PHALANX BREAKER (5 RAGE)
 
 ### Rrraaaghh!(5 Rage)
 
-*Death! Deeaaath!!*
+*Death! Deeaaath!!* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -504,7 +498,7 @@ Choose one of the following abilities.
 
 ### Apex Predator (5 Rage)
 
-*I will hunt you down.*
+*I will hunt you down.* **Keywords:** Animal, Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -516,7 +510,7 @@ Choose one of the following abilities.
 
 VISCERAL ROAR (5 RAGE)
 
-*The sound of the storm within you terrifies your opponents.* **Keywords:** Animal, Area, Magic **Type:** Action
+*The sound of the storm within you terrifies your opponents.*
 
 **Power Roll + Might:**
 
@@ -562,25 +556,24 @@ Choose one heroic ability from the following options, each of which costs 7 rage
 
 A DEMON UNLEASHED (7 RAGE)
 
-*Foes tremble at the sight of you.*
+*Foes tremble at the sight of you.* **Keywords:** Magic
 
-| Keywords: Magic | Type: Maneuver |
-| --------------- | -------------- |
-| Distance: Self  | Target: Self   |
+| **Type:** Maneuver |     |
+| ------------------ | --- |
 
 **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P **\<** strong is frightened until the end of their turn.
 
-FACE THE STORM!(7 RAGE) *Fight or flight? FIGHT!!*
+FACE THE STORM!(7 RAGE) *Fight or flight? FIGHT!!* **Keywords:** Magic
 
 **Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P **\<** average is taunted until the end of their next turn. Additionally, against any enemy taunted by you, your abilities deal additional damage equal to twice your Might score and gain a +1 bonus to potency.
 
-STEELBREAKER (7 RAGE) *See how useless their weapons are*!
+STEELBREAKER (7 RAGE) *See how useless their weapons are*! **Keywords:** Magic
 
 **Effect:** You gain 20 Temporary Stamina.
 
 YOU ARE ALREADY DEAD (7 RAGE)
 
-- *Slash. Walk away.* **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
+- *Slash. Walk away.* **Keywords:** Melee, Strike, Weapon
 
 **Effect:** If the target is not a leader or solo creature, they die at the end of their next turn. If the target is a leader or solo creature, you gain three surges and can make a melee free strike against them.
 
@@ -650,7 +643,7 @@ Choose one heroic ability from the following options.
 
 ### Debilitating Strike (9 Rage)
 
-*You break the target's bones leaving them vulnerable.* **Keywords:** Melee, Strike, Weapon **Type:** Action
+*You break the target's bones leaving them vulnerable.*
 
 **Power Roll + Might:**
 
@@ -660,9 +653,7 @@ Choose one heroic ability from the following options.
 
 **Effect:** While the target is slowed they take 1 damage for every square they move, including from forced movement. MY TURN!(9 RAGE)
 
-*You quickly strike back at a foe.*
-
-**Trigger**: A creature causes you to become winded or dying, or damages you while you are winded or dying.
+*You quickly strike back at a foe.* **Keywords:** Melee, Strike, Weapon
 
 - **Power Roll + Might:**
 - *11 or lower:* **6 + M damage**
@@ -673,7 +664,7 @@ Choose one heroic ability from the following options.
 
 REBOUNDING STORM (9 RAGE)
 
-*You knock around enemies like playthings.*
+*You knock around enemies like playthings.* **Keywords:** Melee, Strike, Weapon
 
 - **Power Roll + Might:**
 - *11 or lower:* **9 damage; push 3**
@@ -684,7 +675,7 @@ REBOUNDING STORM (9 RAGE)
 
 ### To Stone!(9 Rage)
 
-*You channel the Primordial Chaos into blows that petrify your foe, literally.*
+*You channel the Primordial Chaos into blows that petrify your foe, literally.* **Keywords:** Magic, Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -722,7 +713,7 @@ Your specialization grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-AVALANCHE IMPACT (9 RAGE) *You leap, causing a shockwave that devastates foes.* **Keywords:** Area, Magic **Type:** Move **Distance:** Self **Target:** Self
+AVALANCHE IMPACT (9 RAGE) *You leap, causing a shockwave that devastates foes.*
 
 **Effect:** You jump up to your maximum jump distance then roll power once against each creature adjacent to the space where you land.
 
@@ -732,7 +723,7 @@ AVALANCHE IMPACT (9 RAGE) *You leap, causing a shockwave that devastates foes.* 
 - *12-16:* **7 damage; push 2**
 - *17+:* **11 damage; push 3**
 
-FORCE OF STORMS (9 RAGE) *You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.*
+FORCE OF STORMS (9 RAGE) *You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -748,13 +739,15 @@ Choose one of the following abilities.
 
 ### Death Strike (9 Rage)
 
-*Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.*
+*Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.* **Keywords:** Melee, Strike, Weapon
+
+**Trigger:** You reduce a creature to 0 Stamina with a strike.
 
 **Effect:** You affect an additional adjacent creature with the same strike and power roll that killed the triggering creature.
 
 ### Seek And Destroy (9 Rage)
 
-*You break through the enemy lines to make an example.*
+*You break through the enemy lines to make an example.* **Keywords:** Melee, Strike, Weapon
 
 **Effect:** You shift your speed.
 
@@ -772,9 +765,7 @@ Choose one of the following abilities.
 
 POUNCE (9 RAGE)
 
-*You strike at the target, like the ultimate predator you are* **Keywords:** Animal, Magic, Melee, Strike, Weapon **Type:**
-
-Action
+*You strike at the target, like the ultimate predator you are*
 
 **Power Roll + Might:**
 
@@ -785,7 +776,7 @@ Action
 
 RIDERS ON THE STORM (9 RAGE)
 
-*Your focus your connection to the Primordial Chaos into a primordial storm.*
+*Your focus your connection to the Primordial Chaos into a primordial storm.* **Keywords:** Animal, Area, Magic
 
 **Effect:** Until the end of the encounter or you become dying, enemies in the aura take damage of your primordial storm type equal to twice your Might score at the end of your turn.
 
@@ -855,13 +846,13 @@ Choose one heroic ability from the following options.
 
 ELEMENTAL FURY (11 RAGE)
 
-*Your primordial energies make for instant retribution.* **Keywords:** Magic **Type:** Maneuver **Distance:** Self **Target:** Self
+*Your primordial energies make for instant retribution.*
 
 **Effect:** You gain 10 temporary Stamina. Select acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or you start dying, whenever an enemy damages you, they take 10 damage of the type selected. If this damage kills the enemy, you gain 10 Temporary Stamina.
 
 RELENTLESS DEATH (11 RAGE)
 
-*You will not escape your fate.*
+*You will not escape your fate.* **Keywords:** Magic, Melee, Strike, Weapon
 
 **Effect:** You shift your speed. Make one power roll that targets each enemy you move adjacent to during the move. You regain 1 rage for each target killed by this ability.
 
@@ -873,7 +864,7 @@ RELENTLESS DEATH (11 RAGE)
 
 OVERKILL (11 RAGE)
 
-*You strike so no damage is wasted.*
+*You strike so no damage is wasted.* **Keywords:** Magic, Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -885,7 +876,7 @@ OVERKILL (11 RAGE)
 
 ### Primordial Fury (11 Rage)
 
-*Your rage manifests into primordial power.*
+*Your rage manifests into primordial power.* **Keywords:** Magic
 
 **Effect:** Select acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or you become dying, one target of any ability you use takes an additional 15 damage of the type you have selected. If you gain rage from being damaged, the source of the damage takes 5 damage of the type you have selected.
 
@@ -909,7 +900,7 @@ Choose one of the following abilities.
 
 DEATH COMES FOR YOU ALL!(11 RAGE)
 
-*You use your weapon to create a destructive shockwave.* **Keywords:** Area, Magic, Weapon **Type:** Action
+*You use your weapon to create a destructive shockwave.*
 
 **Power Roll + Might:**
 
@@ -921,7 +912,7 @@ DEATH COMES FOR YOU ALL!(11 RAGE)
 
 PRIMORDIAL VORTEX (11 RAGE)
 
-*You open a portal to the Primordial Chaos that pulls your foes to you.*
+*You open a portal to the Primordial Chaos that pulls your foes to you.* **Keywords:** Area, Magic, Weapon
 
 **Power Roll + Might:**
 
@@ -937,7 +928,7 @@ Choose one of the following abilities.
 
 PRIMORDIAL BANE (11 RAGE)
 
-*You attune the target to be weaker to a specific element.*
+*You attune the target to be weaker to a specific element.* **Keywords:** Magic, Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -949,7 +940,7 @@ PRIMORDIAL BANE (11 RAGE)
 
 SHOWER OF BLOOD (11 RAGE)
 
-*You shock your foes with the brutality of your strike, resetting the pace of combat.*
+*You shock your foes with the brutality of your strike, resetting the pace of combat.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -965,7 +956,7 @@ Choose one of the following abilities.
 
 DEATH RATTLE (11 RAGE)
 
-*Fear channeled from the Primordial Chaos. Save or die!* **Keywords:** Animal, Magic **Type:** Action **Distance:** 3 burst **Target:** All enemies
+*Fear channeled from the Primordial Chaos. Save or die!*
 
 **Power Roll + Might:**
 
@@ -975,7 +966,7 @@ DEATH RATTLE (11 RAGE)
 
 DELUGE (11 RAGE)
 
-*You summon your primordial storm*
+*You summon your primordial storm* **Keywords:** Animal, Magic
 
 **Power Roll + Might:**
 
@@ -1049,7 +1040,7 @@ Your stormwight kit's Animal Form feature grants you the following ability.
 
 ASPECT OF THE WILD
 
-*You assume the form of the animal who channels your rage.* **Keywords:** Magic **Type:** Maneuver
+*You assume the form of the animal who channels your rage.*
 
 While in animal form or hybrid form, you can speak normally and can speak to animals who share your form. If you are in a negotiation with an animal, you treat your Renown as 2 higher than usual while in animal form.
 
@@ -1103,7 +1094,7 @@ Your primordial damage type is cold.
 
 ### Bear Claws
 
-*Attacks with your sharp and deadly claws grab the weak.* **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
+*Attacks with your sharp and deadly claws grab the weak.*
 
 **Power Roll + Might:**
 
@@ -1170,7 +1161,7 @@ Your primordial damage type is fire.
 
 ### Wing Buffet
 
-*Foes who try to close around you do so at their peril.* **Keywords:** Area, Melee, Weapon **Type:** Action
+*Foes who try to close around you do so at their peril.*
 
 - **Power Roll + Agility:**
 - *11 or lower:* **4 damage**
@@ -1235,7 +1226,7 @@ Your primordial damage type is corruption.
 
 ### Driving Pounce
 
-*Your enemies try in vain to fall back from your pouncing attack.*
+*Your enemies try in vain to fall back from your pouncing attack.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -1302,7 +1293,7 @@ Your primordial damage type is lightning.
 
 ### Probing Attack
 
-*A savage assault forces your foes back.*
+*A savage assault forces your foes back.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 

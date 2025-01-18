@@ -7,24 +7,25 @@ cost: 7 Clarity
 type: classes
 subtype: talent
 kind: 3rd-level features
-keywords: Animapathy, Psionic, Ranged, Strike
+keywords: Psionic, Ranged, Strike, Telekinesis **Distance:** Self; see below
 keyword_list:
-  - Animapathy
   - Psionic
   - Ranged
   - Strike
+  - Telekinesis **Distance:** Self; see below
 ability_type: Action
-distance: Ranged 10 **Target:** One creature
+distance: 3 aura
+target: One creature
 ---
 
 # Force Orbs (7 Clarity)
 
-*Three spheres of solid psionic energy float around you.* **Keywords:** Psionic, Ranged, Strike, Telekinesis
+*Three spheres of solid psionic energy float around you.*
 
-|                                                   |                  |
-| :------------------------------------------------ | :--------------- |
-| **Keywords:** Animapathy, Psionic, Ranged, Strike | **Type:** Action |
-| **Distance:** Ranged 10 **Target:** One creature  | **Target:**      |
+|                                                                                  |                          |
+| :------------------------------------------------------------------------------- | :----------------------- |
+| **Keywords:** Psionic, Ranged, Strike, Telekinesis **Distance:** Self; see below | **Type:** Action         |
+| **Distance:** 3 aura                                                             | **Target:** One creature |
 
 **Effect:** You create three size 1T orbs that orbit your body. Each orb you provides you with cumulative damage immunity 1. Whenever you take damage, you lose 1 orb.
 
@@ -40,7 +41,7 @@ Once on each of your turns, you can use a free maneuver to fire an orb at a crea
 
 REFLECTOR FIELD (7 CLARITY)
 
-*A protective field reverses the momentum of incoming attacks.*
+*A protective field reverses the momentum of incoming attacks.* **Keywords:** Area, Psionic, Telepathy
 
 **Effect:** The aura lasts until the start of your next turn. Whenever an enemy targets an ally in the aura with a ranged ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally, and loses any additional effects.
 
@@ -48,7 +49,7 @@ REFLECTOR FIELD (7 CLARITY)
 
 SOUL BURN (7 CLARITY)
 
-*You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*
+*You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.* **Keywords:** Animapathy, Psionic, Ranged, Strike **Type:** Action **Distance:** Ranged 10
 
 **Power Roll + Presence:**
 

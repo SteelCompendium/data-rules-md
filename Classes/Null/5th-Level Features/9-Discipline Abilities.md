@@ -6,13 +6,13 @@ name: 9-Discipline Abilities
 type: classes
 subtype: 'null'
 kind: 5th-level features
-keywords: Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
+keywords: Psionic
 keyword_list:
-  - Melee
   - Psionic
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
-distance: Melee 1 **Target:** 1 creature **Trigger:** The target creature begins to move or takes an
+ability_type: Maneuver
+distance: 3 Burst
+target: Self and all allies
+trigger: The target creature begins to move or takes an
 ---
 
 # 9-discipline Abilities
@@ -21,12 +21,14 @@ Choose one heroic ability from the following options.
 
 ANTICIPATING STRIKE (9 DISCIPLINE)
 
-*You suddenly strike an enemy*
+*You suddenly strike an enemy* **Keywords:** Melee, Psionic, Strike, Weapon
 
-|                                                                                                            |             |
-| :--------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature | **Type:**   |
-| **Distance:** Melee 1 **Target:** 1 creature **Trigger:** The target creature begins to move or takes an   | **Target:** |
+|                       |                                 |
+| :-------------------- | :------------------------------ |
+| **Keywords:** Psionic | **Type:** Maneuver              |
+| **Distance:** 3 Burst | **Target:** Self and all allies |
+
+**Trigger:** The target creature begins to move or takes an
 
 action.
 
@@ -40,7 +42,7 @@ action.
 
 IRON GRIP (9 DISCIPLINE)
 
-*You grab the target with near supernatural force*
+*You grab the target with near supernatural force* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -52,12 +54,12 @@ IRON GRIP (9 DISCIPLINE)
 
 PHASE LEAP (9 DISCIPLINE)
 
-*You leap beyond reality, leaving an afterimage of yourself.* **Keywords:** Psionic **Type:** Move **Distance:** Self **Target:** Self
+*You leap beyond reality, leaving an afterimage of yourself.*
 
 **Effect:** You jump your speed without provoking opportunity attacks. Until the end of your next turn, an afterimage of yourself is left in the space you left. Enemies adjacent to your afterimage have a bane on all ability power rolls. Your abilities have line of effect from your afterimage as well as yourself.
 
 SYNAPTIC RESET (9 DISCIPLINE)
 
-*You temporarily boost your aura to mitigate harmful effects.* **Keywords:** Psionic **Type:** Maneuver **Distance:** 3 Burst **Target:** Self and all allies
+*You temporarily boost your aura to mitigate harmful effects.*
 
 **Effect:** Each target can end any number of conditions or effects that are affecting them. Each target gains 5 Temporary Stamina for every condition or effect removed.

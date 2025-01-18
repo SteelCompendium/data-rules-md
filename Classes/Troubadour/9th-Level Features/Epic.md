@@ -7,20 +7,19 @@ cost: 11 Drama
 type: classes
 subtype: troubadour
 kind: 9th-level features
-keywords: Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** 1 ally
-keyword_list:
-  - Magic
-  - Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** 1 ally
+ability_type: Maneuver
+distance: Ranged 10
+target: 1 ally
 ---
 
 # Epic (11 Drama)
 
-*Your story tells tale of the villain's waning power and how the heroes rose to the occasion to stop them.*
+*Your story tells tale of the villain's waning power and how the heroes rose to the occasion to stop them.* **Keywords:** Magic, Melee, Ranged
 
-|                                                                                           |             |
-| :---------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** 1 ally | **Type:**   |
-| **Distance:**                                                                             | **Target:** |
+|                         |                    |
+| :---------------------- | :----------------- |
+| **Keywords:**           | **Type:** Maneuver |
+| **Distance:** Ranged 10 | **Target:** 1 ally |
 
 **Power Roll + Presence:**
 
@@ -32,6 +31,6 @@ keyword_list:
 
 RISING TENSION (11 DRAMA)
 
-*You narrate the tension of the scene and put all hope into your subject to turn things around.*
+*You narrate the tension of the scene and put all hope into your subject to turn things around.* **Keywords:** Magic, Ranged
 
 **Effect:** The target gains 3 of their heroic resource, has a double edge on a power roll of their choice made during their next turn, is no longer slowed or weakened if they were before, and can immediately take their turn after yours if they have not taken their turn already.

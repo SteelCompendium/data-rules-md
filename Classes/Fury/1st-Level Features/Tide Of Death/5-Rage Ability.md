@@ -6,12 +6,9 @@ name: 5-Rage Ability
 type: classes
 subtype: fury
 kind: 1st-level features
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
-target: Each enemy in the area
+ability_type: Action
+distance: Melee 1
+target: One creature
 ---
 
 # 5-rage Ability
@@ -20,12 +17,12 @@ Choose one heroic ability from the following options, each of which costs 5 rage
 
 BLOOD FOR BLOOD!(5 RAGE)
 
-*A mighty strike leaves your foe reeling.*
+*A mighty strike leaves your foe reeling.* **Keywords:** Melee, Strike, Weapon
 
-|                                                                                                     |                                    |
-| :-------------------------------------------------------------------------------------------------- | :--------------------------------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature | **Type:**                          |
-| **Distance:**                                                                                       | **Target:** Each enemy in the area |
+|                       |                          |
+| :-------------------- | :----------------------- |
+| **Keywords:**         | **Type:** Action         |
+| **Distance:** Melee 1 | **Target:** One creature |
 
 **Power Roll + Might:**
 
@@ -37,13 +34,13 @@ BLOOD FOR BLOOD!(5 RAGE)
 
 MAKE PEACE WITH YOUR GOD!(5 RAGE)
 
-*Anger is an energy.*
+*Anger is an energy.* **Keywords:** --
 
 **Effect:** The next ability roll you make this turn automatically achieves a tier 3 result. You gain one surge.
 
 THUNDER ROAR (5 RAGE)
 
-*A howl erupts from you that hurls your enemies back*.
+*A howl erupts from you that hurls your enemies back*. **Keywords:** Area, Melee, Weapon
 
 **Power Roll + Might:**
 
@@ -55,7 +52,7 @@ THUNDER ROAR (5 RAGE)
 
 TO THE UTTERMOST END (5 RAGE)
 
-*You spend your life force to ensure their death.*
+*You spend your life force to ensure their death.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 

@@ -6,11 +6,9 @@ name: 9th-Level Reaver Abilities
 type: classes
 subtype: fury
 kind: 9th-level features
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
+ability_type: Action
+distance: Melee 1
+target: 1 creature
 ---
 
 # 9th-level Reaver Abilities
@@ -19,12 +17,12 @@ Choose one of the following abilities.
 
 PRIMORDIAL BANE (11 RAGE)
 
-*You attune the target to be weaker to a specific element.*
+*You attune the target to be weaker to a specific element.* **Keywords:** Magic, Melee, Strike, Weapon
 
-|                                                                                                   |             |
-| :------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature | **Type:**   |
-| **Distance:**                                                                                     | **Target:** |
+|                       |                        |
+| :-------------------- | :--------------------- |
+| **Keywords:**         | **Type:** Action       |
+| **Distance:** Melee 1 | **Target:** 1 creature |
 
 **Power Roll + Might:**
 
@@ -36,7 +34,7 @@ PRIMORDIAL BANE (11 RAGE)
 
 SHOWER OF BLOOD (11 RAGE)
 
-*You shock your foes with the brutality of your strike, resetting the pace of combat.*
+*You shock your foes with the brutality of your strike, resetting the pace of combat.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 

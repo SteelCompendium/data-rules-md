@@ -7,21 +7,23 @@ cost: 9 Piety
 type: classes
 subtype: conduit
 kind: 6th-level features
-keywords: Area, Magic **Type:** Action
+keywords: Area, Magic
 keyword_list:
   - Area
-  - Magic **Type:** Action
-distance: Three 10 x 1 lines within 1 **Target:** All enemies
+  - Magic
+ability_type: Action **Distance:** Three 10 x 1 lines within 1
+distance: Self and 4 burst
+target: Self and all allies \|
 ---
 
 # God's Machine (9 Piety)
 
-*You conjure a whirring tank made of blades and metal.*
+*You conjure a whirring tank made of blades and metal.* **Keywords:** Magic, Ranged
 
-|                                                                   |             |
-| :---------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Magic **Type:** Action                        | **Type:**   |
-| **Distance:** Three 10 x 1 lines within 1 **Target:** All enemies | **Target:** |
+|                                |                                                            |
+| :----------------------------- | :--------------------------------------------------------- |
+| **Keywords:** Area, Magic      | **Type:** Action **Distance:** Three 10 x 1 lines within 1 |
+| **Distance:** Self and 4 burst | **Target:** Self and all allies \|                         |
 
 **Effect:** You conjure a size 2 rolling machine that appears in an unoccupied space. When the machine first appears, make the following power roll once, targeting each enemy adjacent to it.
 
@@ -35,13 +37,13 @@ On each subsequent turn, you can use a free maneuver to move the machine a numbe
 
 INVOCATION OF MYSTERY (9 PIETY)
 
-*Now you see us ...*
+*Now you see us ...* **Keywords:** Area, Magic
 
 **Effect:** Each target is invisible until the start of your next turn.
 
 INVOCATION OF UNDOING (9 PIETY)
 
-*You utter a secret word of destruction known only to deities.* **Keywords:** Area, Magic **Type:** Action
+*You utter a secret word of destruction known only to deities.*
 
 - **Power Roll + Intuition:**
 - *11 or lower:* **3 sonic damage; push 3**
@@ -52,13 +54,13 @@ INVOCATION OF UNDOING (9 PIETY)
 
 LAUDED BY GOD (9 PIETY)
 
-*You beseech the gods to give your allies what they need to win the day, and the gods answer.*
+*You beseech the gods to give your allies what they need to win the day, and the gods answer.* **Keywords:** Magic, Ranged
 
 **Effect:** Each ally gains 3 of their Heroic Resource.
 
 LIGHTNING LORD (9 PIETY)
 
-*Lightning bursts forth from your body in several directions.*
+*Lightning bursts forth from your body in several directions.* **Keywords:** Area, Magic
 
 **Power Roll + Intuition:**
 
@@ -70,10 +72,9 @@ LIGHTNING LORD (9 PIETY)
 
 REVITALIZING GRACE (9 PIETY)
 
-*With a single movement, you restore your health and that of your allies.*
+*With a single movement, you restore your health and that of your allies.* **Keywords:** Area, magic
 
-| Keywords: Area, magic      | Type: Action                |
-| -------------------------- | --------------------------- |
-| Distance: Self and 4 burst | Target: Self and all allies |
+| **Type:** Action |     |
+| ---------------- | --- |
 
 **Effect:** The target can spend any number of Recoveries, and end one effect that is ended by a saving throw or that ends at the end of their turn or use the Stand Up maneuver as a free triggered action.

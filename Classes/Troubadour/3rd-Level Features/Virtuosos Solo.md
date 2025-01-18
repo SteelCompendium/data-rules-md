@@ -7,23 +7,13 @@ cost: 7 Drama
 type: classes
 subtype: troubadour
 kind: 3rd-level features
-keywords: Magic, Ranged **Type:** Maneuver
-keyword_list:
-  - Magic
-  - Ranged **Type:** Maneuver
-ability_type: Action
-distance: Ranged 10 **Target:** One creature
-target: One creature or object
+ability_type: Maneuver **Distance:** Ranged 10
+target: One creature
 ---
 
 # Virtuoso's Solo (7 Drama)
 
-*Your performance travels and doesn't stop moving until your audience is completely rocked.*
-
-|                                                  |                                    |
-| :----------------------------------------------- | :--------------------------------- |
-| **Keywords:** Magic, Ranged **Type:** Maneuver   | **Type:** Action                   |
-| **Distance:** Ranged 10 **Target:** One creature | **Target:** One creature or object |
+*Your performance travels and doesn't stop moving until your audience is completely rocked.* **Keywords:** Magic, Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or ranged 10 **Target:** One creature or object
 
 **Power Roll + Presence:**
 
@@ -35,7 +25,12 @@ target: One creature or object
 
 WE MEET AT LAST. LET'S FINISH THIS (7 DRAMA)
 
-*Totus mundus agit histrionem.*
+*Totus mundus agit histrionem.* **Keywords:** Magic, Ranged
+
+|               |                                            |
+| :------------ | :----------------------------------------- |
+| **Keywords:** | **Type:** Maneuver **Distance:** Ranged 10 |
+| **Distance:** | **Target:** One creature                   |
 
 **Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond distance, with the distance of this ability replacing those abilities' distances. Abilities that grapple or force move a target are ignored if the target isn't within the distance of the ability.
 

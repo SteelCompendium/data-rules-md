@@ -7,21 +7,11 @@ cost: 5 Wrath
 type: classes
 subtype: censor
 kind: 2nd-level features
-keywords: Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature
-keyword_list:
-  - Magic
-  - Ranged
-  - Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature
 ---
 
 # It Is Justice You Fear (5 Wrath)
 
-I am but a vessel. Your own deeds weigh upon you.
-
-|                                                                                                       |             |
-| :---------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature | **Type:**   |
-| **Distance:**                                                                                         | **Target:** |
+I am but a vessel. Your own deeds weigh upon you. **Keywords:** Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature
 
 **Power Roll + Might:**
 

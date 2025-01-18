@@ -6,12 +6,9 @@ name: 9th-Level Metakinetic Abilities
 type: classes
 subtype: 'null'
 kind: 9th-level features
-keywords: Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
-keyword_list:
-  - Melee
-  - Psionic
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
+ability_type: Action
+distance: Melee 1
+target: 1 creature
 ---
 
 # 9th-level Metakinetic Abilities
@@ -20,21 +17,18 @@ Choose one of the following abilities.
 
 INERTIAL ABSORPTION (11 DISCIPLINE)
 
-*You absorb an attack to empower your body.*
+*You absorb an attack to empower your body.* **Keywords:** Psionic
 
-| Keywords: Psionic                                      | Type: Free triggered |
-| ------------------------------------------------------ | -------------------- |
-| Distance: Self                                         | Target: Self         |
-| Trigger: Another creature damages you with an ability. |                      |
+| **Type:** Free triggered             |                                   |
+| ------------------------------------ | --------------------------------- |
+|                                      |                                   |
+| :----------------------------------- | :-------------------------------- |
+| **Keywords:**                        | **Type:** Action                  |
+| **Distance:** Melee 1                | **Target:** 1 creature            |
 
 **Effect:** You halve the damage, negate any effects on your associated with it, and gain three surges.
 
-REALITAS (11 DISCIPLINE) *Your essential hyperreality disrupts your enemy's connection to existence.*
-
-|                                                                                                            |             |
-| :--------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature | **Type:**   |
-| **Distance:**                                                                                              | **Target:** |
+REALITAS (11 DISCIPLINE) *Your essential hyperreality disrupts your enemy's connection to existence.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Agility:**
 

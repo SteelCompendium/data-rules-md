@@ -7,21 +7,19 @@ cost: 5 Focus
 type: classes
 subtype: tactician
 kind: 2nd-level features
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
+ability_type: Action
+distance: Melee 1
+target: One creature
 ---
 
 # Fog Of War (5 Focus)
 
-*Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.*
+*Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.* **Keywords:** Ranged
 
-|                                                                                                     |             |
-| :-------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature | **Type:**   |
-| **Distance:**                                                                                       | **Target:** |
+|                       |                          |
+| :-------------------- | :----------------------- |
+| **Keywords:**         | **Type:** Action         |
+| **Distance:** Melee 1 | **Target:** One creature |
 
 **Effect:** Each target is marked by you. You immediately force each targeted creature to make a free strike against a creature of your choice within 5 squares of the targeted creature.
 
@@ -29,7 +27,7 @@ keyword_list:
 
 TRY ME INSTEAD (5 FOCUS)
 
-*"Try picking on someone MY size."*
+*"Try picking on someone MY size."* **Keywords:** Melee, Strike, Weapon
 
 **Effect:** You shift your speed directly toward an ally adjacent to the target, then swap locations with the ally as long as you can each fit into the other's space. The ally can spend a Recovery, and you make a power roll against the target.
 
