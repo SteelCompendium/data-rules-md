@@ -23,7 +23,7 @@ Your shadow college grants you a triggered action as shown on the College Trigge
 | Caustic Alchemy | Defensive Roll        |
 | Harlequin Mask  | Clever Trick          |
 
-CLEVER TRICK (1 INSIGHT)
+### Clever Trick (1 Insight)
 
 *You sow a moment of confusion in combat, to your enemy's peril.* **Keywords:** Magic
 
@@ -34,7 +34,7 @@ CLEVER TRICK (1 INSIGHT)
 
 **Effect:** Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.
 
-DEFENSIVE ROLL
+### Defensive Roll
 
 *When an enemy attacks, you roll with the impact to reduce the harm.* **Keywords:** --
 

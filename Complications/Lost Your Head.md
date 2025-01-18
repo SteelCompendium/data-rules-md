@@ -15,7 +15,7 @@ A bredbeddle stole your head! Normally, being beheaded by one of these giants is
 
 **Benefit:** You gain the following ability.
 
-SHARE HEAD
+## Share Head
 
 *You don't have a head but can psionically borrow another.* **Keywords:** Psionic, Ranged
 

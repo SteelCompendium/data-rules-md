@@ -227,7 +227,7 @@ free triggered action to enter your animal form or hybrid form. You gain tempora
 
 **Spend 1 Rage:** If you are not dying, you can spend a Recovery.
 
-LINES OF FORCE
+#### Lines Of Force
 
 *You redirect the energy of motion.* **Keywords:** Magic, Melee
 
@@ -235,7 +235,7 @@ LINES OF FORCE
 
 **Spend 1 Rage:** The forced movement distance instead gains a bonus equal to twice your Might score.
 
-UNEARTHLY REFLEXES
+##### Unearthly Reflexes
 
 *Elusive as a hummingbird.* **Keywords:** --
 
@@ -324,7 +324,7 @@ Choose one heroic ability from the following options, each of which costs 3 rage
 - *12-16:* **8 damage; push 1**
 - *17+:* **11 damage; push 3**
 
-OUT OF THE WAY!(3 RAGE)
+### Out Of The Way!(3 Rage)
 
 *Your enemies will get out of your way--whether they want to or not.* **Keywords:** Melee, Strike, Weapon
 
@@ -350,7 +350,7 @@ OUT OF THE WAY!(3 RAGE)
 
 The last target you damage takes extra damage equal to your Might score for every free strike you triggered during your move.
 
-YOUR ENTRAILS ARE YOUR EXTRAILS!(3 RAGE)
+### Your Entrails Are Your Extrails!(3 Rage)
 
 *Hard for them to fight when they're busy holding in their giblets.* **Keywords:** Melee, Strike, Weapon
 
@@ -366,7 +366,7 @@ YOUR ENTRAILS ARE YOUR EXTRAILS!(3 RAGE)
 
 Choose one heroic ability from the following options, each of which costs 5 rage to use. (*Quick Build:* Blood for Blood)
 
-BLOOD FOR BLOOD!(5 RAGE)
+##### Blood For Blood!(5 Rage)
 
 *A mighty strike leaves your foe reeling.* **Keywords:** Melee, Strike, Weapon
 
@@ -378,13 +378,13 @@ BLOOD FOR BLOOD!(5 RAGE)
 
 **Effect:** You can deal 1d6 damage to yourself to deal 1d6 bonus damage to the target.
 
-MAKE PEACE WITH YOUR GOD!(5 RAGE)
+##### Make Peace With Your God!(5 Rage)
 
 *Anger is an energy.* **Keywords:** --
 
 **Effect:** The next ability roll you make this turn automatically achieves a tier 3 result. You gain one surge.
 
-THUNDER ROAR (5 RAGE)
+##### Thunder Roar (5 Rage)
 
 *A howl erupts from you that hurls your enemies back*. **Keywords:** Area, Melee, Weapon
 
@@ -396,7 +396,7 @@ THUNDER ROAR (5 RAGE)
 
 **Effect:** The targets are pushed one at a time, starting with the target closest to you.
 
-TO THE UTTERMOST END (5 RAGE)
+##### To The Uttermost End (5 Rage)
 
 *You spend your life force to ensure their death.* **Keywords:** Melee, Strike, Weapon
 
@@ -448,7 +448,9 @@ Your primordial aspect grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-SPECIAL DELIVERY (5 RAGE) *You ready?* **Keywords:** Melee, Strike, Weapon
+##### Special Delivery (5 Rage)
+
+*You ready?* **Keywords:** Melee, Strike, Weapon
 
 **Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's stability, and the target takes no damage from the move. At the end of this movement, the target can make a free strike that deals additional damage equal to your Might score.
 
@@ -470,7 +472,7 @@ Additionally, you make one power roll that targets each enemy you come adjacent 
 
 Choose one of the following abilities.
 
-PHALANX BREAKER (5 RAGE)
+##### Phalanx Breaker (5 Rage)
 
 *Organizing your forces like feckless creatures of Law. Pitiful.* **Keywords:** Melee, Strike, Weapon
 
@@ -508,7 +510,7 @@ Choose one of the following abilities.
 
 **Effect:** The target can't be hidden from you for 24 hours. For the rest of the encounter, whenever the target moves, you can use a free triggered action to move.
 
-VISCERAL ROAR (5 RAGE)
+### Visceral Roar (5 Rage)
 
 *The sound of the storm within you terrifies your opponents.*
 
@@ -554,7 +556,7 @@ You have a double edge on tests made to search for hidden creatures, discern hid
 
 Choose one heroic ability from the following options, each of which costs 7 rage to use.
 
-A DEMON UNLEASHED (7 RAGE)
+#### A Demon Unleashed (7 Rage)
 
 *Foes tremble at the sight of you.* **Keywords:** Magic
 
@@ -563,15 +565,19 @@ A DEMON UNLEASHED (7 RAGE)
 
 **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P **\<** strong is frightened until the end of their turn.
 
-FACE THE STORM!(7 RAGE) *Fight or flight? FIGHT!!* **Keywords:** Magic
+#### Face The Storm!(7 Rage)
+
+*Fight or flight? FIGHT!!* **Keywords:** Magic
 
 **Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P **\<** average is taunted until the end of their next turn. Additionally, against any enemy taunted by you, your abilities deal additional damage equal to twice your Might score and gain a +1 bonus to potency.
 
-STEELBREAKER (7 RAGE) *See how useless their weapons are*! **Keywords:** Magic
+#### Steelbreaker (7 Rage)
+
+*See how useless their weapons are*! **Keywords:** Magic
 
 **Effect:** You gain 20 Temporary Stamina.
 
-YOU ARE ALREADY DEAD (7 RAGE)
+#### You Are Already Dead (7 Rage)
 
 - *Slash. Walk away.* **Keywords:** Melee, Strike, Weapon
 
@@ -662,7 +668,7 @@ Choose one heroic ability from the following options.
 
 **Effect:** You can spend a Recovery.
 
-REBOUNDING STORM (9 RAGE)
+### Rebounding Storm (9 Rage)
 
 *You knock around enemies like playthings.* **Keywords:** Melee, Strike, Weapon
 
@@ -709,11 +715,13 @@ You gain a crafting, exploration, or intrigue perk of your choice. See Perks for
 
 Your specialization grants your choice of one of two abilities.
 
-6TH-LEVEL BERSERKER ABILITIES
+#### 6th-level Berserker Abilities
 
 Choose one of the following abilities.
 
-AVALANCHE IMPACT (9 RAGE) *You leap, causing a shockwave that devastates foes.*
+##### Avalanche Impact (9 Rage)
+
+*You leap, causing a shockwave that devastates foes.*
 
 **Effect:** You jump up to your maximum jump distance then roll power once against each creature adjacent to the space where you land.
 
@@ -723,7 +731,9 @@ AVALANCHE IMPACT (9 RAGE) *You leap, causing a shockwave that devastates foes.*
 - *12-16:* **7 damage; push 2**
 - *17+:* **11 damage; push 3**
 
-FORCE OF STORMS (9 RAGE) *You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.* **Keywords:** Melee, Strike, Weapon
+##### Force Of Storms (9 Rage)
+
+*You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -763,7 +773,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-POUNCE (9 RAGE)
+##### Pounce (9 Rage)
 
 *You strike at the target, like the ultimate predator you are*
 
@@ -774,7 +784,7 @@ POUNCE (9 RAGE)
 
 **Effect:** You shift 4, bringing a grabbed target along with you. A creature grabbed this way takes damage equal to twice your Might score at the beginning of your turns.
 
-RIDERS ON THE STORM (9 RAGE)
+##### Riders On The Storm (9 Rage)
 
 *Your focus your connection to the Primordial Chaos into a primordial storm.* **Keywords:** Animal, Area, Magic
 
@@ -844,13 +854,13 @@ You gain any one perk of your choice. See Perks for more information.
 
 Choose one heroic ability from the following options.
 
-ELEMENTAL FURY (11 RAGE)
+#### Elemental Fury (11 Rage)
 
 *Your primordial energies make for instant retribution.*
 
 **Effect:** You gain 10 temporary Stamina. Select acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or you start dying, whenever an enemy damages you, they take 10 damage of the type selected. If this damage kills the enemy, you gain 10 Temporary Stamina.
 
-RELENTLESS DEATH (11 RAGE)
+#### Relentless Death (11 Rage)
 
 *You will not escape your fate.* **Keywords:** Magic, Melee, Strike, Weapon
 
@@ -862,7 +872,7 @@ RELENTLESS DEATH (11 RAGE)
 - *12-16:* **Targets with Stamina equal to or less than 9 + any weapon damage bonus you have die.**
 - *17+:* **Targets with Stamina equal to or less than 13 + any weapon damage bonus you have die.**
 
-OVERKILL (11 RAGE)
+#### Overkill (11 Rage)
 
 *You strike so no damage is wasted.* **Keywords:** Magic, Melee, Strike, Weapon
 
@@ -898,7 +908,7 @@ Your specialization grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-DEATH COMES FOR YOU ALL!(11 RAGE)
+##### Death Comes For You All!(11 Rage)
 
 *You use your weapon to create a destructive shockwave.*
 
@@ -910,7 +920,7 @@ DEATH COMES FOR YOU ALL!(11 RAGE)
 
 **Effect:** Any creatures force moved through an object by this ability take 10 damage.
 
-PRIMORDIAL VORTEX (11 RAGE)
+##### Primordial Vortex (11 Rage)
 
 *You open a portal to the Primordial Chaos that pulls your foes to you.* **Keywords:** Area, Magic, Weapon
 
@@ -926,7 +936,7 @@ PRIMORDIAL VORTEX (11 RAGE)
 
 Choose one of the following abilities.
 
-PRIMORDIAL BANE (11 RAGE)
+##### Primordial Bane (11 Rage)
 
 *You attune the target to be weaker to a specific element.* **Keywords:** Magic, Melee, Strike, Weapon
 
@@ -938,7 +948,7 @@ PRIMORDIAL BANE (11 RAGE)
 
 **Effect:** Choose either acid, cold, corruption, fire, lightning, poison, or sonic damage. The target loses any damage immunity it has to that type and gains weakness 10 to that damage type(save ends).
 
-SHOWER OF BLOOD (11 RAGE)
+##### Shower Of Blood (11 Rage)
 
 *You shock your foes with the brutality of your strike, resetting the pace of combat.* **Keywords:** Melee, Strike, Weapon
 
@@ -954,7 +964,7 @@ SHOWER OF BLOOD (11 RAGE)
 
 Choose one of the following abilities.
 
-DEATH RATTLE (11 RAGE)
+##### Death Rattle (11 Rage)
 
 *Fear channeled from the Primordial Chaos. Save or die!*
 
@@ -964,7 +974,7 @@ DEATH RATTLE (11 RAGE)
 - *12-16:* **6 psychic damage; kill all target minions and instantly kill 1 winded non-leader and non-solo targets of your choice**
 - *17+:* **10 psychic damage; kill all target minions, wind all non-leader and non-solo targets, and instantly kill a non-leader or non-solo target of your choice.**
 
-DELUGE (11 RAGE)
+##### Deluge (11 Rage)
 
 *You summon your primordial storm* **Keywords:** Animal, Magic
 
@@ -1038,7 +1048,7 @@ Your aspect benefits are always available to you, but you gain additional benefi
 
 Your stormwight kit's Animal Form feature grants you the following ability.
 
-ASPECT OF THE WILD
+##### Aspect Of The Wild
 
 *You assume the form of the animal who channels your rage.*
 

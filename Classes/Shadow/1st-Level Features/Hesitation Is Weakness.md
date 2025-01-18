@@ -16,7 +16,7 @@ trigger: Another hero ends their turn. That hero can't
 
 You gain the following ability.
 
-HESITATION IS WEAKNESS (1 INSIGHT)
+## Hesitation Is Weakness (1 Insight)
 
 *Keep up the attack. Never give them a moment's grace.* **Keywords:** --
 

@@ -31,4 +31,4 @@ ability_type: Action **Distance:** 3 cube within 10 **Target:** Each creature in
 
 **Effect:** The gas remains in the area until the end of the encounter. Any creature who has **M \< average** and starts their turn in the area is weakened (save ends).
 
-[2ND-LEVEL HARLEQUIN MASK ABILITY](./2nd-Level%20Harlequin%20Mask%20Ability.md)
+[2ND-LEVEL HARLEQUIN MASK ABILITY](./2nd-Level%20Harlequin%20Mask%20Ability/2nd-Level%20Harlequin%20Mask%20Ability.md)

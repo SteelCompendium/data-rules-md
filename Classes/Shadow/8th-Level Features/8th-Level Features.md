@@ -16,6 +16,6 @@ As an 8th-level shadow, you gain the following features.
 
 [PERK](./Perk.md)
 
-[11-INSIGHT ABILITIES](./11-Insight%20Abilities.md)
+[11-INSIGHT ABILITIES](./11-Insight%20Abilities/11-Insight%20Abilities.md)
 
 [THEY ALWAYS LINE UP (11 INSIGHT)](./They%20Always%20Line%20Up.md)

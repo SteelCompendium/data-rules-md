@@ -31,4 +31,4 @@ target: 1 creature
 
 **Effect:** If a non-leader or non-solo creature is winded by this strike, they are reduced to 0 Stamina. If a target is reduced to 0 stamina by this ability, select an enemy within 5 squares of you to be **P \< \[average\]** frightened save ends.
 
-[6TH-LEVEL STORMWIGHT ABILITIES](./6th-Level%20Stormwight%20Abilities.md)
+[6TH-LEVEL STORMWIGHT ABILITIES](./6th-Level%20Stormwight%20Abilities/6th-Level%20Stormwight%20Abilities.md)

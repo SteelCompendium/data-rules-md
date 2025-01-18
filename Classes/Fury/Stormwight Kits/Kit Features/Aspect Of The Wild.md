@@ -17,7 +17,7 @@ target: Self **Effect:** You can shapeshift into the animal defined by your stor
 
 Your stormwight kit's Animal Form feature grants you the following ability.
 
-ASPECT OF THE WILD
+## Aspect Of The Wild
 
 *You assume the form of the animal who channels your rage.*
 

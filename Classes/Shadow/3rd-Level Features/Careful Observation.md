@@ -14,7 +14,7 @@ target: One creature **Effect:** As long as you remain within distance of the ta
 
 Given the opportunity to watch your foe, you can assess their vulnerabilities and pick the perfect moment to strike. You gain the following ability.
 
-CAREFUL OBSERVATION
+## Careful Observation
 
 *A moment of focus leaves a foe firmly in your sights.* **Keywords:** --
 

@@ -12,4 +12,4 @@ kind: 9th-level features
 
 Your specialization grants your choice of one of two abilities.
 
-[9TH-LEVEL BLACK ASH ABILITIES](./9th-Level%20Black%20Ash%20Abilities.md)
+[9TH-LEVEL BLACK ASH ABILITIES](./9th-Level%20Black%20Ash%20Abilities/9th-Level%20Black%20Ash%20Abilities.md)

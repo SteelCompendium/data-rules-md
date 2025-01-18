@@ -18,7 +18,7 @@ target: Self
 
 You gain the following ability.
 
-BLACK ASH TELEPORT
+## Black Ash Teleport
 
 | In a swirl of black ash, you step from one place to another. |
 | ------------------------------------------------------------ |

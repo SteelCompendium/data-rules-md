@@ -25,7 +25,7 @@ Your elemental specialization grants you a triggered action as shown on the Spec
 | Green          | The Breath of Dawn Remembered |
 | Void           | A Subtle Relocation           |
 
-THE BREATH OF DAWN REMEMBERED
+### The Breath Of Dawn Remembered
 
 *The power you channel grants the ability to get back in the fight.* **Keywords:** Green, Magic, Ranged
 
@@ -40,7 +40,7 @@ THE BREATH OF DAWN REMEMBERED
 
 **Spend Essence:** The target can spend an additional Recovery for each essence spent.
 
-EXPLOSIVE ASSISTANCE
+### Explosive Assistance
 
 *You add a little magic to an ally's aggression at just the right time.* **Keywords:** Fire, Magic, Ranged
 
@@ -50,7 +50,7 @@ EXPLOSIVE ASSISTANCE
 
 **Spend 1 Essence:** The forced movement distance gains a bonus equal to twice your Reason score instead.
 
-SKIN LIKE CASTLE WALLS
+### Skin Like Castle Walls
 
 *You make yourself or an ally covered in protective stone.* **Keywords:** Earth, Magic, Ranged
 
@@ -60,7 +60,7 @@ SKIN LIKE CASTLE WALLS
 
 **Spend 1 Essence:** If the damage has any potency effect associate with it, the potency is reduced by 1.
 
-A SUBTLE RELOCATION
+### A Subtle Relocation
 
 *You call on the void to swallow and spit out an ally.* **Keywords:** Magic, Ranged, Void
 

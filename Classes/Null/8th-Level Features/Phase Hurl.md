@@ -7,23 +7,19 @@ cost: 11 Discipline
 type: classes
 subtype: 'null'
 kind: 8th-level features
-keywords: Psionic
-keyword_list:
-  - Psionic
-ability_type: Free Triggered
-distance: Self
-target: Self or 1 creature
-trigger: The target takes damage from another creature's ability while in your Null Field.
+ability_type: Action
+distance: 3 cube within 1
+target: All enemies
 ---
 
 # Phase Hurl (11 Discipline)
 
 *You throw your foe out of phase with this manfold, causing them to harm other enemies as they return.* **Keywords:** Melee, Psionic, Strike, Weapon
 
-|                       |                                |
-| :-------------------- | :----------------------------- |
-| **Keywords:** Psionic | **Type:** Free Triggered       |
-| **Distance:** Self    | **Target:** Self or 1 creature |
+|                               |                         |
+| :---------------------------- | :---------------------- |
+| **Keywords:**                 | **Type:** Action        |
+| **Distance:** 3 cube within 1 | **Target:** All enemies |
 
 **Power Roll + Agility:**
 
@@ -42,11 +38,3 @@ trigger: The target takes damage from another creature's ability while in your N
 - *17+:* **23 psychic damage; push 7**
 
 **Effect:** You count as 2 sizes larger for the purposes of the push.
-
-SYNAPTIC ANCHOR (11 DISCIPLINE)
-
-*You disrupt an enemy's strike and create a feedback loop in their mind, preventing them from focusing on future attacks.*
-
-**Trigger:** The target takes damage from another creature's ability while in your Null Field.
-
-**Effect:** You halve the damage, and the creature who used the triggering ability suffers **I \< \[average\] dazed (save ends).** While the attacker is dazed, they take psychic damage equal to your Intuition score whenever they take an action.

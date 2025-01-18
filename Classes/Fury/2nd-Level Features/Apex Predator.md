@@ -7,24 +7,19 @@ cost: 5 Rage
 type: classes
 subtype: fury
 kind: 2nd-level features
-keywords: Animal, Area, Magic
-keyword_list:
-  - Animal
-  - Area
-  - Magic
-ability_type: Action **Distance:** 2 burst
+ability_type: Action
 distance: Melee 1
-target: Each enemy in the area
+target: One creature
 ---
 
 # Apex Predator (5 Rage)
 
 *I will hunt you down.* **Keywords:** Animal, Melee, Strike, Weapon
 
-|                                   |                                        |
-| :-------------------------------- | :------------------------------------- |
-| **Keywords:** Animal, Area, Magic | **Type:** Action **Distance:** 2 burst |
-| **Distance:** Melee 1             | **Target:** Each enemy in the area     |
+|                       |                          |
+| :-------------------- | :----------------------- |
+| **Keywords:**         | **Type:** Action         |
+| **Distance:** Melee 1 | **Target:** One creature |
 
 **Power Roll + Might:**
 
@@ -33,15 +28,3 @@ target: Each enemy in the area
 - *17+:* **10 + M damage;** I \< strong\*\*, slowed (save ends)\*\*
 
 **Effect:** The target can't be hidden from you for 24 hours. For the rest of the encounter, whenever the target moves, you can use a free triggered action to move.
-
-VISCERAL ROAR (5 RAGE)
-
-*The sound of the storm within you terrifies your opponents.*
-
-**Power Roll + Might:**
-
-- *11 or lower:* **2 damage; push 1;** M \< weak, **dazed (save ends)**
-- *12-16:* **5 damage; push 2;** M \< average\*\*, dazed (save ends)\*\*
-- *17+:* **7 damage; push 3;** M \< strong\*\*, dazed (save ends)\*\*
-
-**Effect:** This ability deals damage of your primordial storm type (see Stormwight Kits).

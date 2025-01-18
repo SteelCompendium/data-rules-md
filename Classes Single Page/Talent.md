@@ -172,7 +172,7 @@ Your talent tradition grants you features as shown on the 1st-Level Tradition Fe
 
 You gain the following ability.
 
-ACCELERATE
+##### Accelerate
 
 *To your ally, it seems as though the world has slowed down.*
 
@@ -296,7 +296,7 @@ You manifest a variety of psionic powers to impact the environment, bolster your
 
 Select two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Incinerate, Kinetic Grip)
 
-ENTROPIC BOLT
+##### Entropic Bolt
 
 *You advance an enemy's age for a moment.* **Keywords:** Chronopathy, Psionic, Ranged, Strike **Type:** Action **Distance:** Ranged 10
 
@@ -310,7 +310,7 @@ ENTROPIC BOLT
 
 **Strained:** You gain 1 clarity on a tier 2 or tier 3 result.
 
-INCINERATE
+##### Incinerate
 
 *The air erupts into a column of smokeless flame.* **Keywords:** Area, Fire, Ranged, Psionic, Pyrokinesis **Type:** Action **Distance:** 3 cube within 10 **Target:** Each enemy in the area
 
@@ -324,7 +324,7 @@ INCINERATE
 
 **Strained:** The size of the cube increases by 2, but the fire disappears at the end of your turn.
 
-HOARFROST
+##### Hoarfrost
 
 *A row of the terrain freezes over ahead of you, turning hard and slick.* **Keywords:** Cryokinesis, Psionic, Ranged, Strike **Type:** Action **Distance:** Ranged 10
 
@@ -346,7 +346,7 @@ HOARFROST
 
 **Strained:** You can't use this ability's effect, but you can vertical push the target.
 
-KINETIC PULSE
+#### Kinetic Pulse
 
 *The force of your mind hurls enemies backward.* **Keywords:** Area, Psionic, Telepathy
 
@@ -420,7 +420,9 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 - *12-16*\*\*: 6 + P psychic damage; I\*\* \< average\*\*, frightened (save ends)\*\*
 - *17+:* **9 + P psychic damage; I** \< strong\*\*, frightened (save ends)\*\*
 
-NOTHING EXCEEDS MY GRASP (3 CLARITY) *Be careful not to choke on your aspirations.*
+#### Nothing Exceeds My Grasp (3 Clarity)
+
+*Be careful not to choke on your aspirations.*
 
 - **Power Roll + Reason:** o *11 or lower:* **3 + R damage;** M \< weak\*\*, slowed (save ends)\*\*
 - *12-16:* **5 + R damage;** M \< average\*\*, slowed (save ends)\*\*
@@ -474,7 +476,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 
 **Strained:** You can't use maneuvers (save ends).
 
-PERFECT CLARITY (5 CLARITY)
+### Perfect Clarity (5 Clarity)
 
 *You clear the mind of nothing but the goal.* **Keywords:** Psionic, Ranged, Telepathy
 
@@ -522,7 +524,7 @@ Your talent tradition grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-APPLIED CHRONOMETRICS (5 CLARITY)
+##### Applied Chronometrics (5 Clarity)
 
 *Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.* **Keywords:** Chronopathy, Psionic, Ranged **Type:** Maneuver | | --- | **Distance:** Ranged 10
 
@@ -655,7 +657,7 @@ Once on each of your turns, you can use a free maneuver to fire an orb at a crea
 
 **Strained:** You create five orbs. You are weakened while you have any orbs active.
 
-REFLECTOR FIELD (7 CLARITY)
+### Reflector Field (7 Clarity)
 
 *A protective field reverses the momentum of incoming attacks.* **Keywords:** Area, Psionic, Telepathy
 
@@ -663,7 +665,7 @@ REFLECTOR FIELD (7 CLARITY)
 
 **Strained:** The size of the aura increases by 1. Each ability your aura reflects causes you to take 2d6 damage and makes you forget a memory, as determined in consultation with the Director.
 
-SOUL BURN (7 CLARITY)
+### Soul Burn (7 Clarity)
 
 *You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.* **Keywords:** Animapathy, Psionic, Ranged, Strike **Type:** Action **Distance:** Ranged 10
 
@@ -763,7 +765,7 @@ Choose one heroic ability from the following options.
 
 **Strained:** The target gains two surges. You are weakened and slowed (save ends).
 
-HYPERSONIC (9 CLARITY)
+#### Hypersonic (9 Clarity)
 
 *You move fast enough to turn around and watch your foes feel the aftermath.* **Keywords:** Area, Charge, Psionic, Telekinesis
 
@@ -777,7 +779,7 @@ HYPERSONIC (9 CLARITY)
 
 **Strained:** You and each target are slowed (EoT) on a tier 2 result or higher.
 
-MIND SNARE (9 CLARITY)
+#### Mind Snare (9 Clarity)
 
 *You latch onto your prey's brain and don't let go, like a song they can't get out of their head.* **Keywords:** Psionic, Ranged, Strike, Telepathic
 
@@ -908,7 +910,9 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-SYNAPTIC CONDITIONING (9 CLARITY) *It's a subtle mindset shift. It's not that they're your enemy you just don't like them!*
+##### Synaptic Conditioning (9 Clarity)
+
+*It's a subtle mindset shift. It's not that they're your enemy you just don't like them!*
 
 **Power Roll + Reason:**
 
@@ -1004,7 +1008,9 @@ one or more Recoveries, all linked creatures can spend a Recovery.
 
 You have the following triggered action.
 
-### Stasis Shield (3 Clarity) *you Freeze Time Just Long Enough To Bring The Victim To Safety!*
+##### Stasis Shield (3 Clarity)
+
+*You freeze time just long enough to bring the victim to safety!* **Keywords:** Psionics, Ranged
 
 **Effect:** The target is teleported to an unoccupied square adjacent to you, taking no damage or additional effects if this movement would put them out of harm's way. **Strained:** You can't target yourself if you are strained. You take the damage and any additional effects in place of the target.
 

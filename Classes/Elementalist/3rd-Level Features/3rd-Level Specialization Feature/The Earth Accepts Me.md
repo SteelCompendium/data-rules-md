@@ -14,7 +14,7 @@ target: Self
 
 You gain the following ability.
 
-THE EARTH ACCEPTS ME
+## The Earth Accepts Me
 
 *You can slip into the stone.* **Keywords:** Earth, Magic
 

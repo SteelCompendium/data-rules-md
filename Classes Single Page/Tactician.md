@@ -248,7 +248,7 @@ In addition, you can spend 1 focus to take one of the following free triggered a
 
 Your skill at commanding your allies in combat grants you the following ability.
 
-"STRIKE NOW!"
+#### "strike Now!"
 
 *Your foe left an opening. You point this out to an ally!* **Keywords:** Ranged
 
@@ -292,7 +292,7 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 - *12-16:* **5 + M damage;** M \< average\*\*, dazed (save ends)\*\*
 - *17+:* **8 + M damage;** M \< strong\*\*, dazed (save ends)\*\*
 
-INSPIRING STRIKE (3 FOCUS)
+### Inspiring Strike (3 Focus)
 
 *Your attack gives an ally hope.* **Keywords:** Melee, Ranged, Strike, Weapon
 
@@ -308,7 +308,7 @@ INSPIRING STRIKE (3 FOCUS)
 
 **Effect:** Each target can move their speed.
 
-5-FOCUS ABILITY
+#### 5-focus Ability
 
 Choose one heroic ability from the following options, each of which costs 5 focus to use. (*Quick Build:* Hammer and Anvil)
 
@@ -324,7 +324,7 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 
 **Effect:** If the target is reduced to 0 Stamina and a strike granted by this ability hasn't been made, the striker can pick a different target.
 
-THE MIND GAME (5 FOCUS)
+### The Mind Game (5 Focus)
 
 *Your attack demoralizes your foe. Your allies begin to think you can win.* **Keywords:** Melee, Ranged, Strike, Weapon
 
@@ -338,13 +338,13 @@ THE MIND GAME (5 FOCUS)
 
 **Effect:** The first time any ally deals damage any target you've marked before the start of your next turn, that ally can spend a Recovery.
 
-NOW!(5 FOCUS)
+### Now!(5 Focus)
 
 *Your allies wait for your command--then unleash death!*
 
 **Effect:** Each target can make a free strike.
 
-THIS IS WHAT WE PLANNED FOR (5 FOCUS)
+### This Is What We Planned For (5 Focus)
 
 *All those coordination drills you made them do finally pay off.* **Keywords:** Ranged
 
@@ -400,7 +400,7 @@ Choose one of the following abilities.
 
 **Mark Benefit:** For the rest of the encounter whenever you or an ally attacks a marked target, you can spend 2 focus to make the marked target free strike a creature of your choice within 5 squares of the marked target.
 
-TRY ME INSTEAD (5 FOCUS)
+### Try Me Instead (5 Focus)
 
 *"Try picking on someone MY size."* **Keywords:** Melee, Strike, Weapon
 
@@ -428,7 +428,7 @@ Choose one of the following abilities.
 
 **Effect:** One ally adjacent to the target can spend a Recovery.
 
-THEIR TACTICS ARE SO PRIMITIVE (5 FOCUS)
+### Their Tactics Are So Primitive (5 Focus)
 
 *All that time you spent studying ancient battles paid off!*
 
@@ -440,7 +440,7 @@ THEIR TACTICS ARE SO PRIMITIVE (5 FOCUS)
 
 Choose one of the following abilities.
 
-NO DYING ON MY WATCH (5 FOCUS)
+##### No Dying On My Watch (5 Focus)
 
 *You prioritize saving an ally over your own safety.* **Keywords:** Ranged, Strike, Weapon
 
@@ -452,7 +452,7 @@ NO DYING ON MY WATCH (5 FOCUS)
 - *12-16:* R \< average\*\*, frightened of the triggering ally (save ends)\*\*
 - *17+:* R \< strong\*\*, frightened of the triggering ally (save ends)\*\*
 
-SQUAD! ON ME!(5 FOCUS)
+##### Squad! On Me!(5 Focus)
 
 *Together we are invincible!* **Keywords:** Area
 
@@ -470,7 +470,7 @@ You are prepared for all eventualities. At the start of an encounter, you can us
 
 Choose one heroic ability from the following options, each of which costs 7 focus to use.
 
-DOUBLE ENVELOPMENT (7 FOCUS)
+#### Double Envelopment (7 Focus)
 
 *Historians will write about this day.* **Keywords:** --
 
@@ -479,7 +479,7 @@ DOUBLE ENVELOPMENT (7 FOCUS)
 
 **Effect:** Until the end of the encounter or you are dying, whenever you or any ally deals damage to a target marked by you, they gain two surges, which they can use immediately.
 
-FRONTAL ASSAULT (7 FOCUS)
+#### Frontal Assault (7 Focus)
 
 *The purpose of a charge is to break their morale and force a retreat.* **Keywords:** --
 
@@ -494,7 +494,7 @@ FRONTAL ASSAULT (7 FOCUS)
 
 **Effect:** Until the end of the encounter or you are dying, whenever you or any ally deals damage to a target marked by you, if that target has R **\<** average, they are frightened of the damage dealer (save ends).
 
-STAY STRONG, AND FOCUS!(7 FOCUS)
+### Stay Strong, And Focus!(7 Focus)
 
 *"We can do this! Keep faith and hold fast!"* **Keywords:** --
 
@@ -575,7 +575,9 @@ You, or any allies adjacent to you, can spend 1d6 stamina during their turn to e
 
 Choose one heroic ability from the following options.
 
-SQUAD! GEAR CHECK!(9 FOCUS) *You distract a foe while your allies secure their defensive gear.* **Keywords:** Melee, Strike, Weapon
+#### Squad! Gear Check!(9 Focus)
+
+*You distract a foe while your allies secure their defensive gear.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -585,7 +587,7 @@ SQUAD! GEAR CHECK!(9 FOCUS) *You distract a foe while your allies secure their d
 
 **Effect:** You and all allies in within 1 square of the target gain 10 Temporary Stamina.
 
-SQUAD! REMEMBER YOUR TRAINING!(9 FOCUS)
+#### Squad! Remember Your Training!(9 Focus)
 
 *You have drilled your squad on how to best use their gear and make them demonstrate their hard work.* **Keywords:** Ranged
 
@@ -594,7 +596,7 @@ SQUAD! REMEMBER YOUR TRAINING!(9 FOCUS)
 
 **Effect:** Each target gains one surge and uses a signature ability. All targets gain any benefits you have with kits, such as Improved Field Arsenal.
 
-YOU CAN SLEEP WHEN YOU'RE DEAD (9 FOCUS)
+#### You Can Sleep When You're Dead (9 Focus)
 
 *You inspire your allies to recover and gather their strength.* **Keywords:** Ranged
 
@@ -603,7 +605,7 @@ YOU CAN SLEEP WHEN YOU'RE DEAD (9 FOCUS)
 
 **Effect:** The target gains two surges and can spend a Recovery, remove any conditions or effects that are affecting them, and stand up if they are prone.
 
-YOU'VE STILL GOT SOMETHING LEFT (9 FOCUS)
+#### You've Still Got Something Left (9 Focus)
 
 *You push an ally to use a heroic ability sooner than they normally would.* **Keywords:** Ranged
 
@@ -783,23 +785,27 @@ You gain any one perk of your choice. See Perks for more information.
 
 Choose one heroic ability from the following options.
 
-GO NOW AND SPEED WELL (11 FOCUS) *You direct an attack to strike true.*
+#### Go Now And Speed Well (11 Focus)
+
+*You direct an attack to strike true.*
 
 **Effect:** The target gains two surges and can use a signature or heroic ability as a free triggered action. They have a double edge on the power roll, ignore damage immunity, and increase the potency of effects by 1.
 
-FINISH THEM!(11 FOCUS) *You direct your ally to turn a devastating blow into a killing blow.* **Keywords:** Ranged
+#### Finish Them!(11 Focus)
+
+*You direct your ally to turn a devastating blow into a killing blow.* **Keywords:** Ranged
 
 **Trigger:** A non-leader or non-solo target creature becomes winded.
 
 **Effect:** The target is killed. The creature who winded the target can spend a Recovery.
 
-THE FLOODGATES OPEN (11 FOCUS)
+#### The Floodgates Open (11 Focus)
 
 *You direct your squad to strike in unision and with devastating effect.* **Keywords:** Ranged
 
 **Effect:** Each target gains a surge and uses a signature ability that has an edge with increased effect potency of 1, if applicable.
 
-I'LL OPEN AND YOU'LL CLOSE (11 FOCUS)
+#### I'll Open And You'll Close (11 Focus)
 
 *You create an opening for an ally.* **Keywords:** Melee, Ranged, Strike, Weapon
 
@@ -835,7 +841,9 @@ Choose one of the following abilities.
 
 **Effect:** Each target gains two surges and uses a signature ability with an edge as a free triggered action. After resolving their ability power rolls, each target can shift 2 and become hidden, even without cover or concealment, and even if observed.
 
-THEIR LACK OF FOCUS IS THEIR UNDOING (11 FOCUS) *You trick your enemies into attacking each other and confused by the aftermath* **Keywords:** Area, Magic, Weapon
+### Their Lack Of Focus Is Their Undoing (11 Focus)
+
+*You trick your enemies into attacking each other and confused by the aftermath* **Keywords:** Area, Magic, Weapon
 
 **Effect:** Each target uses a signature ability under your control and automatically achieves a tier 3 result. After resolving their attacks make a power roll against each target.
 
@@ -849,13 +857,15 @@ THEIR LACK OF FOCUS IS THEIR UNDOING (11 FOCUS) *You trick your enemies into att
 
 Choose one of the following abilities.
 
-BLOT OUT THE SUN!(11 FOCUS) *What makes a good soldier? The ability to fire four shots a*
+##### Blot Out The Sun!(11 Focus)
+
+*What makes a good soldier? The ability to fire four shots a*
 
 *minute in any weather.*
 
 **Effect:** Each target can make a ranged free strike with an edge against all marked enemies within range. Targets ignore any banes they have on their attack roll.
 
-COUNTERSTRATEGY (11 FOCUS)
+##### Counterstrategy (11 Focus)
 
 *I've identified a way to negate their strengths.* **Keywords:** --
 
@@ -882,7 +892,7 @@ Choose one of the following abilities.
 
 **Effect:** If you use this ability as part of the Charge action, you can move through enemies without them counting as difficult terrain as part of that action. You slide 1 any creature you move through.
 
-THAT ONE IS MINE!(11 FOCUS)
+#### That One Is Mine!(11 Focus)
 
 *You focus on making an enemy irrelevant.* **Keywords:** Melee, Ranged, Strike, Weapon
 

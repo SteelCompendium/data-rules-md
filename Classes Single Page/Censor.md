@@ -233,7 +233,7 @@ the head) of a creature who has died within the last 24 hours and who can speak 
 
 You gain the following ability.
 
-HANDS OF THE MAKER
+##### Hands Of The Maker
 
 *You can craft objects with the power of your mind!* **Keywords:** Magic
 

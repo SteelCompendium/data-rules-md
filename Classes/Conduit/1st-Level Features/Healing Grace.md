@@ -14,7 +14,7 @@ target: Self or one ally \|
 
 You gain the following ability, which you can use once on your turn.
 
-HEALING GRACE
+## Healing Grace
 
 *Your divine energy restores the righteous.* **Keywords:** Magic, Ranged
 

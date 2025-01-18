@@ -19,7 +19,7 @@ target: Special \|
 
 You gain the following ability.
 
-MOTIVATE EARTH
+## Motivate Earth
 
 | The earth rises, falls, or opens up at your command. |                                                |
 | ---------------------------------------------------- | ---------------------------------------------- |

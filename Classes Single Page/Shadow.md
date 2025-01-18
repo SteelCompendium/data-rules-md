@@ -132,7 +132,7 @@ Your choice of shadow college grants you one or more features as shown on the 1s
 
 You gain the following ability.
 
-BLACK ASH TELEPORT
+##### Black Ash Teleport
 
 | In a swirl of black ash, you step from one place to another. |
 | ------------------------------------------------------------ |
@@ -187,13 +187,13 @@ Your shadow college grants you a triggered action as shown on the College Trigge
 | Caustic Alchemy | Defensive Roll        |
 | Harlequin Mask  | Clever Trick          |
 
-CLEVER TRICK (1 INSIGHT)
+##### Clever Trick (1 Insight)
 
 *You sow a moment of confusion in combat, to your enemy's peril.* **Keywords:** Magic
 
 **Effect:** Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.
 
-DEFENSIVE ROLL
+##### Defensive Roll
 
 *When an enemy attacks, you roll with the impact to reduce the harm.* **Keywords:** --
 
@@ -215,7 +215,7 @@ DEFENSIVE ROLL
 
 You gain the following ability.
 
-HESITATION IS WEAKNESS (1 INSIGHT)
+#### Hesitation Is Weakness (1 Insight)
 
 *Keep up the attack. Never give them a moment's grace.* **Keywords:** --
 
@@ -272,7 +272,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** If an ally is adjacent to the target, the target takes extra damage equal to your Agility score.
 
-YOU WERE WATCHING THE WRONG ONE
+#### You Were Watching The Wrong One
 
 *They can't watch both of you at once.* **Keywords:** Melee, Strike, Weapon
 
@@ -428,7 +428,7 @@ Choose one of the following abilities.
 - *12-16:* **10 + A damage; you can teleport the target up to 3 squares**
 - *17+:* **14 + A damage; you can teleport the target up to 5 squares**
 
-TOO SLOW (5 INSIGHT)
+### Too Slow (5 Insight)
 
 ### *your Foe Made A Big Mistake.*
 
@@ -468,7 +468,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-MACHINATIONS OF SOUND (5 INSIGHT)
+##### Machinations Of Sound (5 Insight)
 
 *Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.* **Keywords:** Area, Magic, Ranged
 
@@ -480,7 +480,7 @@ MACHINATIONS OF SOUND (5 INSIGHT)
 
 **Effect:** This forced movement ignores stability. Instead, the forced movement is reduced by a number equal to the target's Intuition score.
 
-SO GULLIBLE (5 INSIGHT)
+##### So Gullible (5 Insight)
 
 *When your enemy strikes, you reveal you were in a different place all along.* **Keywords:** Attack, Melee, Ranged, Magic, Weapon **Type:** Free Triggered Action
 
@@ -496,7 +496,7 @@ As a 3rd-level shadow, you gain the following features.
 
 Given the opportunity to watch your foe, you can assess their vulnerabilities and pick the perfect moment to strike. You gain the following ability.
 
-CAREFUL OBSERVATION
+#### Careful Observation
 
 *A moment of focus leaves a foe firmly in your sights.* **Keywords:** --
 
@@ -506,13 +506,13 @@ maintain line of effect to them, and strike no other creature first, you gain a 
 
 Choose one heroic ability from the following options, each of which costs 7 insight to use.
 
-DANCER (7 INSIGHT)
+#### Dancer (7 Insight)
 
 *You enter a flow state that makes you nearly impossible to pin down.* **Keywords:** --
 
 **Effect:** Until the end of the encounter, whenever an enemy moves adjacent to you or damages you, you can take the Disengage move action as a free triggered action.
 
-MISDIRECTING STRIKE (7 INSIGHT)
+#### Misdirecting Strike (7 Insight)
 
 *Why are you looking at ME?!* **Keywords:** Melee, Ranged, Strike, Weapon
 
@@ -534,7 +534,7 @@ MISDIRECTING STRIKE (7 INSIGHT)
 - *12-16:* **12 + A damage;** A \< average\*\*, restrained (save ends)\*\*
 - *17+:* **16 + A damage;** A \< strong\*\*, restrained (save ends)\*\*
 
-STAGGERING BLOW (7 INSIGHT)
+### Staggering Blow (7 Insight)
 
 *There's no recovering from this.* **Keywords:** Melee, Ranged, Strike, Weapon
 
@@ -725,7 +725,9 @@ Choose one of the following abilities.
 
 A creature that drinks a balanced concoction can spend up to 2 Recoveries and gains acid immunity, fire immunity, or poison immunity equal to your level until the end of the encounter.
 
-### One Vial Makes You Faster (9 Insight) *the Liquid Is Still And Pale. It Might Have Been Meant For An*
+### One Vial Makes You Faster (9 Insight)
+
+*The liquid is still and pale. It might have been meant for an*
 
 *explosive.* **Keywords:** Ranged
 
@@ -827,7 +829,7 @@ You gain any one perk of your choice. See Perks for more information.
 
 Choose one heroic ability from the following options.
 
-ASSASSINATE (11 INSIGHT)
+#### Assassinate (11 Insight)
 
 *A practiced attack that will instantly kill an already weakened foe.* **Keywords:** Melee, Strike, Weapon
 
@@ -839,7 +841,7 @@ ASSASSINATE (11 INSIGHT)
 
 **Effect:** If the target is a non-minion, non-leader, non-solo creature who is winded after taking this ability's damage, they are reduced to 0 Stamina.
 
-SHADOWGRASP (11 INSIGHT)
+#### Shadowgrasp (11 Insight)
 
 *The shadows beneath you and your foes give way, allowing the shadow creature within you to grasp at your foes.* **Keywords:** Area, Magic
 
@@ -849,7 +851,7 @@ SHADOWGRASP (11 INSIGHT)
 - *12-16:* 16 **corruption damage; A \< \[average\] restrained (save ends)**
 - *17+:* 21 **corruption damage; A \< \[strong\] restrained (save ends)**
 
-SPEED OF SHADOWS (11 INSIGHT)
+#### Speed Of Shadows (11 Insight)
 
 *An advanced techique. Multiple strikes before they even notice they're dead.* **Keywords:** Magic
 
@@ -883,7 +885,7 @@ Your specialization grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-CACOPHONY OF CINDERS (11 INSIGHT)
+##### Cacophony Of Cinders (11 Insight)
 
 *You freely move and teleport, zipping to and fro, sending enemies and allies alike every which way.* **Keywords:** Magic, Melee, Strike, Weapon
 

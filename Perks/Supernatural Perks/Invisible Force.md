@@ -14,7 +14,7 @@ target: 1 size 1T unattended object
 
 You gain the following ability.
 
-INVISIBLE FORCE
+## Invisible Force
 
 *You manipulate a tiny object with your mind.* **Keywords:** Psionic
 

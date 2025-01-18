@@ -15,7 +15,7 @@ target: One mundane object
 
 You gain the following ability.
 
-RETURN TO FORMLESSNESS
+## Return To Formlessness
 
 *With the merest touch, you cause an object to turn to slag or ash.* **Keywords:** Fire, Magic, Melee
 

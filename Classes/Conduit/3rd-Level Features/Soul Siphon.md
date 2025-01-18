@@ -8,18 +8,18 @@ type: classes
 subtype: conduit
 kind: 3rd-level features
 ability_type: Action
-distance: 5 burst
-target: Each enemy in the area
+distance: Ranged 10
+target: One enemy
 ---
 
 # Soul Siphon (7 Piety)
 
 *A beam of energy connects a foe to a friend, draining life from one to heal the other.* **Keywords:** Magic, Ranged, Strike
 
-|                       |                                    |
-| :-------------------- | :--------------------------------- |
-| **Keywords:**         | **Type:** Action                   |
-| **Distance:** 5 burst | **Target:** Each enemy in the area |
+|                         |                       |
+| :---------------------- | :-------------------- |
+| **Keywords:**           | **Type:** Action      |
+| **Distance:** Ranged 10 | **Target:** One enemy |
 
 **Power Roll + Intuition:**
 
@@ -28,15 +28,3 @@ target: Each enemy in the area
 - *17+:* **15 + I corruption damage**
 
 **Effect:** One ally within distance can spend any number of Recoveries (no action required).
-
-WORDS OF WRATH AND GRACE (7 PIETY)
-
-*Your saint grants your enemies a vision of whatever they most fear.* **Keywords:** Area, Magic
-
-**Power Roll + Intuition:**
-
-- *11 or lower:* **2 holy damage**
-- *12-16:* **5 holy damage**
-- *17+:* **7 holy damage**
-
-**Effect:** Each ally in the area can spend a Recovery.

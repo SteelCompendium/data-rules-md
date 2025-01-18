@@ -1622,7 +1622,7 @@ The Arrow stared, wide-eyed at the Pillar. Even before the young man spoke, the 
 
 Hakaan heroes have access to the following traits.
 
-SIGNATURE TRAIT: BIG!
+#### SIGNATURE TRAIT: BIG!
 
 Your size is 1L.
 
@@ -4501,7 +4501,7 @@ the head) of a creature who has died within the last 24 hours and who can speak 
 
 You gain the following ability.
 
-HANDS OF THE MAKER
+###### HANDS OF THE MAKER
 
 *You can craft objects with the power of your mind!*
 **Keywords:** Magic
@@ -5953,7 +5953,7 @@ physically interact with the world, but they have a speed of 5 and can fly. Whil
 
 You gain the following ability.
 
-GRAVE SPEECH
+###### GRAVE SPEECH
 
 *You commune with the lingering soul of the recently dead.*
 
@@ -5972,7 +5972,7 @@ GRAVE SPEECH
 
 You gain the following ability.
 
-HANDS OF THE MAKER
+###### HANDS OF THE MAKER
 
 *You can craft objects with the power of your mind!*
 **Keywords:** Magic
@@ -6012,7 +6012,7 @@ As a respite activity, you can bless a weapon. Any creature who wields the weapo
 
 You gain the following ability, which you can use once on your turn.
 
-HEALING GRACE
+##### HEALING GRACE
 
 *Your divine energy restores the righteous.*
 **Keywords:** Magic, Ranged
@@ -6077,7 +6077,7 @@ Choose one of the following triggered actions. (*Quick Build:*  Word of Guidance
 
 **Spend 1 Piety:** The power roll gains a double edge.
 
-WORD OF JUDGMENT
+##### WORD OF JUDGMENT
 
 *Your holy word saps an attacking enemy's strength.*
 **Keywords:** Magic, Ranged
@@ -6275,7 +6275,7 @@ HOLY LASH *A tendril of divine energy shoots forth to draw in your foe.*
 
 **Effect:** You or one ally within distance gains temporary Stamina equal to your Intuition score.
 
-WITHER
+##### WITHER
 
 *A bolt of holy energy saps the life from a foe.*
 
@@ -6352,7 +6352,9 @@ o *12-16:* **3 sonic damage; push 2**
 - *12-16:* **6 + I holy damage;** A \< average\*\*, prone\*\*
 - *17+:* **9 + I holy damage;** A \< strong\*\*, prone and can't stand (save ends)\*\*
 
-VIOLENCE WILL NOT AID THEE (3 PIETY) *After some holy lightning, your enemy will think twice about their next attack.*
+#### VIOLENCE WILL NOT AID THEE (3 PIETY)
+
+*After some holy lightning, your enemy will think twice about their next attack.*
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
@@ -6491,7 +6493,7 @@ Choose one of your domains. You gain an ability from that domain as shown on the
 - Whenever a target makes a power roll, they can roll three dice and choose which two to use.
 - Whenever a target makes a power roll, they must roll three dice and use the lowest two.
 
-BLESSING OF INSIGHT (5 PIETY)
+#### BLESSING OF INSIGHT (5 PIETY)
 
 *The gods grant insight revealing where best to strike your enemies.*
 **Keywords:** Magic, Ranged
@@ -6504,7 +6506,7 @@ BLESSING OF INSIGHT (5 PIETY)
 
 **Effect:** Until the end of the encounter or until you are dying, each target gains a surge at the end of each of your turns.
 
-DIVINE COMEDY (5 PIETY)
+#### DIVINE COMEDY (5 PIETY)
 
 *You and your allies swap places to confound your foes.*
 **Keywords:** Area, Magic
@@ -6517,7 +6519,7 @@ DIVINE COMEDY (5 PIETY)
 
 **Effect:** Each target can choose another creature within 5 squares of them, then swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.
 
-THE GODS COMMAND, YOU OBEY (5 PIETY)
+#### THE GODS COMMAND, YOU OBEY (5 PIETY)
 
 *You speak with the voice of your saint, commanding your enemies.*
 **Keywords:** Magic, Ranged, Strike
@@ -6534,7 +6536,7 @@ THE GODS COMMAND, YOU OBEY (5 PIETY)
 - *12-16:* 7 + I **holy damage;** P \< average\*\*, before taking damage, the target uses an ability of your choice and you choose any targets for that ability\*\*
 - *17+:* 11 + I **holy damage;** P \< strong\*\*, before taking damage, the target shifts up to their speed, uses an ability of your choice, and you choose any targets for that ability\*\*
 
-MORNING LIGHT (5 PIETY)
+#### MORNING LIGHT (5 PIETY)
 
 *Light shines at your command, burning your foes and blessing your allies.*
 
@@ -6549,7 +6551,7 @@ MORNING LIGHT (5 PIETY)
 
 **Effect:** Each ally in the area deals fire damage equal to your Intuition score with their next strike made before the end of their next turn.
 
-NATURE JUDGES THEE (5 PIETY)
+#### NATURE JUDGES THEE (5 PIETY)
 
 *Mystical thorned vines appear at your bidding and bind your foes.*
 **Keywords:** Area, Magic, Ranged
@@ -6565,7 +6567,9 @@ NATURE JUDGES THEE (5 PIETY)
 - *12-16:* **3 damage;** A \< average\*\*, restrained (save ends)\*\*
 - *17+:* **7 damage;** A \< strong\*\*, restrained (save ends)\*\*
 
-OUR HEARTS, YOUR STRENGTH (5 PIETY) *An ally gains strength from their friends.*
+#### OUR HEARTS, YOUR STRENGTH (5 PIETY)
+
+*An ally gains strength from their friends.*
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -6620,7 +6624,7 @@ Additionally, whenever one target spends a Recovery, the other target can use a 
 - *12-16:* **5 lightning damage; vertical slide 2**
 - *17+:* **7 lightning damage; vertical slide 3**
 
-STATUE OF POWER (5 PIETY)
+#### STATUE OF POWER (5 PIETY)
 
 *A marble statue of your patron rises from the earth.*
 **Keywords:** Magic, Ranged
@@ -6633,7 +6637,7 @@ STATUE OF POWER (5 PIETY)
 
 **Effect:** A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you and your allies each gains a surge at the start of their turns. The statue is destroyed if it takes 20 or more damage. It is immune to poison and psychic damage.
 
-WELLSPRING OF GRACE (5 PIETY)
+#### WELLSPRING OF GRACE (5 PIETY)
 
 *A holy light is emitted from your body, healing your allies.*
 **Keywords:** Area, Magic
@@ -6712,7 +6716,7 @@ surges.
 
 **Effect:** One ally within distance can spend any number of Recoveries (no action required).
 
-WORDS OF WRATH AND GRACE (7 PIETY)
+#### WORDS OF WRATH AND GRACE (7 PIETY)
 
 *Your saint grants your enemies a vision of whatever they most fear.*
 **Keywords:** Area, Magic
@@ -6766,7 +6770,7 @@ Your divine presence causes those you deem worthy to recover quickly from a figh
 
 You gain the following ability.
 
-BLESSING OF SECRETS
+###### BLESSING OF SECRETS
 
 *You project an illusory aura that makes you and allies harder to notice.*
 **Keywords:** Magic
@@ -6957,7 +6961,7 @@ Choose one of your domains. You gain an ability from it as shown on the 6th-Leve
 | Trickery   | Invocation of Mystery      |
 | War        | Blade of the Heavens       |
 
-AURA OF SOULS (9 PIETY)
+###### AURA OF SOULS (9 PIETY)
 
 *A whirlwind of souls of the dead flies around you at your command.*
 **Keywords:** Area, Magic
@@ -6970,7 +6974,7 @@ AURA OF SOULS (9 PIETY)
 
 **Effect:** Until the end of the encounter or you start dying, whenever you end your turn, you can slide each creature in the aura a number of squares equal to your Intuition score. This forced movement ignores the Stability of allies.
 
-BLADE OF THE HEAVENS (9 PIETY)
+###### BLADE OF THE HEAVENS (9 PIETY)
 
 *A greatsword streams down from the sky, threatening to pin your foe.*
 **Keywords:** Magic, Ranged, Strike
@@ -6987,7 +6991,7 @@ BLADE OF THE HEAVENS (9 PIETY)
 - *12-16:* **12 + I damage; A \< \[average\] prone and restrained (save ends)**
 - *17+:* **16 + I damage; A \< \[strong\] prone and restrained (save ends)**
 
-BLESSING OF THE MIDDAY SUN (9 PIETY)
+###### BLESSING OF THE MIDDAY SUN (9 PIETY)
 
 *Your body emits a heat that bakes your enemies and inspires your allies.*
 **Keywords:** Area, Magic
@@ -7000,7 +7004,7 @@ BLESSING OF THE MIDDAY SUN (9 PIETY)
 
 **Effect:** Until the end of the encounter or you start dying, enemies in the aura take a bane on all power rolls and you and allies in the aura gain a surge at the end of your turns.
 
-CUIRASS OF THE GODS (9 PIETY)
+###### CUIRASS OF THE GODS (9 PIETY)
 
 *Your allies are covered in spiritual armor.*
 **Keywords:** Area, Magic, Ranged
@@ -7034,7 +7038,7 @@ CUIRASS OF THE GODS (9 PIETY)
 
 On each subsequent turn, you can use a free maneuver to move the machine a number of squares up to your Intuition score then repeat the power roll. The machine disappears at the end of the encounter and has 50 Stamina. It has poison all and psychic all damage immunity.
 
-INVOCATION OF MYSTERY (9 PIETY)
+#### INVOCATION OF MYSTERY (9 PIETY)
 
 *Now you see us ...*
 **Keywords:** Area, Magic
@@ -7046,7 +7050,7 @@ INVOCATION OF MYSTERY (9 PIETY)
 
 **Effect:** Each target is invisible until the start of your next turn.
 
-INVOCATION OF UNDOING (9 PIETY)
+#### INVOCATION OF UNDOING (9 PIETY)
 
 *You utter a secret word of destruction known only to deities.*
 
@@ -7064,7 +7068,7 @@ INVOCATION OF UNDOING (9 PIETY)
 
 **Effect:** If you choose, this ability can also deal damage to buildings and it can deal damage and push unattended objects.
 
-LAUDED BY GOD (9 PIETY)
+#### LAUDED BY GOD (9 PIETY)
 
 *You beseech the gods to give your allies what they need to win the day, and the gods answer.*
 **Keywords:** Magic, Ranged
@@ -7077,7 +7081,7 @@ LAUDED BY GOD (9 PIETY)
 
 **Effect:** Each ally gains 3 of their Heroic Resource.
 
-LIGHTNING LORD (9 PIETY)
+#### LIGHTNING LORD (9 PIETY)
 
 *Lightning bursts forth from your body in several directions.*
 **Keywords:** Area, Magic
@@ -7095,7 +7099,7 @@ LIGHTNING LORD (9 PIETY)
 
 **Effect:** The targets are force moved in order based on their proximity to you.
 
-REVITALIZING GRACE (9 PIETY)
+#### REVITALIZING GRACE (9 PIETY)
 
 *With a single movement, you restore your health and that of your allies.*
 **Keywords:** Area, magic
@@ -7230,7 +7234,7 @@ Lightning and thunder are infused in your body. When you deal damage to another 
 
 You gain the following ability.
 
-TRINITY OF TRICKERY (9 PIETY)
+###### TRINITY OF TRICKERY (9 PIETY)
 
 *Hey! I'm over here. No, here, numbskull.*
 
@@ -7281,7 +7285,7 @@ You gain any perk of your choice. See Perks for more information.
 
 Choose one heroic ability from the following options.
 
-ARISE!(11 PIETY)
+##### ARISE!(11 PIETY)
 
 *Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.*
 **Keywords:** Magic, Ranged
@@ -7294,7 +7298,7 @@ ARISE!(11 PIETY)
 
 **Effect:** The target can spend any number of Recoveries, end any effect that is ended by a saving throw or that ends at the end of their turn, and use the Stand Up maneuver as a free triggered action. Additionally, the target gains three surges at the start of each of their turns until the end of the encounter or they start dying.
 
-BLESSING OF THE BLADE (11 PIETY)
+##### BLESSING OF THE BLADE (11 PIETY)
 
 *The power of the gods is within you, friends. Allow me to unleash it.*
 
@@ -7303,7 +7307,7 @@ BLESSING OF THE BLADE (11 PIETY)
 
 **Effect:** Until the end of the encounter or you are dying, whenever you end your turn, each target gains three surges.
 
-BLESSING OF STEEL (11 PIETY)
+##### BLESSING OF STEEL (11 PIETY)
 
 *A protective aura defends your allies from harm.*
 **Keywords:** Area, Magic
@@ -7316,7 +7320,7 @@ BLESSING OF STEEL (11 PIETY)
 
 **Effect:** Until the end of the encounter or you are dying, ability power rolls against each target take a bane and each target has damage immunity 5.
 
-DRAG THE UNWORTHY (11 PIETY)
+##### DRAG THE UNWORTHY (11 PIETY)
 
 *You conjure an angel that moves a foe and heals your allies.*
 **Keywords:** Magic, Ranged, Strike
@@ -7395,7 +7399,7 @@ Choose one of your domains. You gain an ability from it as shown on the 9h-Level
 
 **Effect:** The target is blessed by fate until the end of the encounter or until you are dying. All tier 1 results on power rolls they make become tier 2 results and all tier 2 results become tier 3 results while blessed this way.
 
-BLESSING OF THE FORTRESS (11 PIETY)
+#### BLESSING OF THE FORTRESS (11 PIETY)
 
 *A magic circle extends out from you, barring foes from getting close.*
 **Keywords:** Area, Magic
@@ -7407,7 +7411,7 @@ BLESSING OF THE FORTRESS (11 PIETY)
 
 **Effect:** Until the end of the encounter or you are dying, each target can't enter the aura by moving or by being force moved by one of your enemies. Targets can be forced moved into the aura by your or your allies or be moved into the area because of your movement.
 
-DIVINE DRAGON (11 PIETY)
+#### DIVINE DRAGON (11 PIETY)
 
 *From nothing but divine will, you create a powerful ally.*
 **Keywords:** Magic, Ranged
@@ -7436,7 +7440,7 @@ You can use your maneuver to make the dragon move up to their speed or use the f
 - *12-16:* 5 + I **damage**
 - *17+:* 8 + I **damage**
 
-GODSTORM (11 PIETY)
+#### GODSTORM (11 PIETY)
 
 *You summon a divine storm that remains under your control.*
 **Keywords:** Area, Magic, Ranged
@@ -7468,7 +7472,7 @@ GODSTORM (11 PIETY)
 
 **Effect:** Until the end of the encounter or you are dying, the area is filled with magical darkness that your enemies can't see through, but you and your allies can.
 
-RADIANCE OF GRACE (11 PIETY)
+#### RADIANCE OF GRACE (11 PIETY)
 
 *Intense light emits from your body, healing your allies.*
 **Keywords:** Magic, Ranged
@@ -7791,7 +7795,7 @@ You instantly recognize illusions for what they are, you can see invisible creat
 
 You also gain the following ability.
 
-SHARED VOID SENSE
+###### SHARED VOID SENSE
 
 *You grant allies a taste of your unearthly vision.*
 **Keywords:** Magic, Ranged, Void
@@ -7814,7 +7818,7 @@ Additionally, whenever you touch a living plant that is not a Plant Creature, yo
 
 You gain the following ability.
 
-MOTIVATE EARTH
+###### MOTIVATE EARTH
 
 | The earth rises, falls, or opens up at your command. |     |
 | ---------------------------------------------------- | --- |
@@ -7835,7 +7839,7 @@ You can instead touch a doorway or other opening in a mundane dirt, stone, or me
 
 You gain the following ability.
 
-RETURN TO FORMLESSNESS
+###### RETURN TO FORMLESSNESS
 
 *With the merest touch, you cause an object to turn to slag or ash.*
 **Keywords:** Fire, Magic, Melee
@@ -7861,7 +7865,7 @@ Your elemental specialization grants you a triggered action as shown on the Spec
 | Green          | The Breath of Dawn Remembered |
 | Void           | A Subtle Relocation           |
 
-THE BREATH OF DAWN REMEMBERED
+###### THE BREATH OF DAWN REMEMBERED
 
 *The power you channel grants the ability to get back in the fight.*
 **Keywords:** Green, Magic, Ranged
@@ -7878,7 +7882,7 @@ THE BREATH OF DAWN REMEMBERED
 
 **Spend Essence:** The target can spend an additional Recovery for each essence spent.
 
-EXPLOSIVE ASSISTANCE
+###### EXPLOSIVE ASSISTANCE
 
 *You add a little magic to an ally's aggression at just the right time.*
 **Keywords:** Fire, Magic, Ranged
@@ -7895,7 +7899,7 @@ EXPLOSIVE ASSISTANCE
 
 **Spend 1 Essence:** The forced movement distance gains a bonus equal to twice your Reason score instead.
 
-SKIN LIKE CASTLE WALLS
+###### SKIN LIKE CASTLE WALLS
 
 *You make yourself or an ally covered in protective stone.*
 **Keywords:** Earth, Magic, Ranged
@@ -7912,7 +7916,7 @@ SKIN LIKE CASTLE WALLS
 
 **Spend 1 Essence:** If the damage has any potency effect associate with it, the potency is reduced by 1.
 
-A SUBTLE RELOCATION
+###### A SUBTLE RELOCATION
 
 *You call on the void to swallow and spit out an ally.*
 **Keywords:** Magic, Ranged, Void
@@ -8138,7 +8142,7 @@ You channel a range of heroic abilities, all of them fueled by your essence.
 
 Choose one heroic ability from the following options, each of which costs 3 essence to use. (*Quick Build:* The Flesh, a Crucible)
 
-BEHOLD THE MYSTERY (3 ESSENCE)
+###### BEHOLD THE MYSTERY (3 ESSENCE)
 
 *You open a rift into the void to harry your foes.*
 **Keywords:** Area, Magic, Ranged, Void
@@ -8156,7 +8160,7 @@ BEHOLD THE MYSTERY (3 ESSENCE)
 
 **Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
 
-THE FLESH, A CRUCIBLE (3 ESSENCE)
+###### THE FLESH, A CRUCIBLE (3 ESSENCE)
 
 *Fire engulfs a target of your choice and burns at your command.*
 **Keywords:** Fire, Magic, Ranged, Strike
@@ -8439,7 +8443,9 @@ Choose a new heroic ability from one of the following options, each of which cos
 
 **Persistent 1:** The area remains until the start of your next turn. You can move the area up to 5 squares as a maneuver. This ability ends if you lose line of effect to its area.
 
-SUBVERT THE GREEN WITHIN (5 ESSENCE) *Burrow into their brains and take control!*
+#### SUBVERT THE GREEN WITHIN (5 ESSENCE)
+
+*Burrow into their brains and take control!*
 **Keywords:** Green, Magic, Ranged, Strike, Void
 **Type:** Action
 **Distance:** Ranged 10
@@ -8454,7 +8460,7 @@ SUBVERT THE GREEN WITHIN (5 ESSENCE) *Burrow into their brains and take control!
 - *12-16:* **9 + R poison damage**
 - *17+:* **12 + R poison damage**
 
-TRANSLATED THROUGH FLAME (5 ESSENCE)
+#### TRANSLATED THROUGH FLAME (5 ESSENCE)
 
 *Your ally disappears, then reappears in a burst of fire!*
 **Keywords:** Fire, Magic, Ranged, Void
@@ -8473,7 +8479,7 @@ TRANSLATED THROUGH FLAME (5 ESSENCE)
 - *12-16:* **5 fire damage**
 - *17+:* **8 fire damage**
 
-VOLCANO'S EMBRACE (5 ESSENCE)
+#### VOLCANO'S EMBRACE (5 ESSENCE)
 
 *Wrap them up in fire and melting stone.*
 **Keywords:** Earth, Fire, Magic, Ranged, Strike
@@ -8519,7 +8525,7 @@ When you finish a respite, you can open a two-way portal that leads to any place
 
 You gain the following ability.
 
-THE EARTH ACCEPTS ME
+###### THE EARTH ACCEPTS ME
 
 *You can slip into the stone.*
 **Keywords:** Earth, Magic
@@ -8573,7 +8579,7 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 
 Each target begins to fade from existence (save ends). While fading from existence, a target initially takes a bane on power rolls. At the end of their first turn, they have a double bane on power rolls. At the end of their second turn, they fade from existence for 1 hour, reappearing in their original space or the nearest available space.
 
-MAW OF EARTH (7 ESSENCE)
+#### MAW OF EARTH (7 ESSENCE)
 
 *You open up the ground, unleashing a shower of stone and debris.*
 **Keywords:** Area, Earth, Magic, Ranged
@@ -8652,7 +8658,7 @@ While you have 3 or more essence and you aren't dying, you exude an aura of magi
 | Green          | Flowering Bed   |
 | Void           | Veiling Bed     |
 
-BURNING GROUNDS
+###### BURNING GROUNDS
 
 When you end your turn, each enemy in the aura takes fire damage equal to your Reason score.
 
@@ -8719,7 +8725,7 @@ Additionally, whenever you use a fire ability or are targeted by an ability that
 
 Choose one heroic ability from the following options.
 
-COMBUSTION DEFERRED (9 ESSENCE)
+##### COMBUSTION DEFERRED (9 ESSENCE)
 
 *Your flames dance from kindling to kindling to kindling.*
 **Keywords:** Fire, Magic, Ranged, Strike
@@ -8759,7 +8765,7 @@ COMBUSTION DEFERRED (9 ESSENCE)
 
 **Persistent 1:** The area persists until the start of your next turn and you can move it up to 5 squares. During your turn, you can roll power again as a maneuver without spending essence.
 
-SUBVERTED PERCEPTION OF SPACE (9 ESSENCE)
+#### SUBVERTED PERCEPTION OF SPACE (9 ESSENCE)
 
 *You rip an enemy's world in twain.*
 **Keywords:** Magic, Ranged, Strike, Void
@@ -8822,7 +8828,7 @@ You can spend 10 minutes to create a freeform magical wyrd for a variety of situ
 
 Choose a new heroic ability from one of the following options. Alternatively, you can choose one of the 9Essence Abilities you didn't select at 5th level (see 5th-Level Features).
 
-LUMINOUS CHAMPION ALOFT (9 ESSENCE)
+##### LUMINOUS CHAMPION ALOFT (9 ESSENCE)
 
 *They shone vibrantly, a beautiful diamond in the night sky.*
 
@@ -8878,7 +8884,9 @@ Additionally, the target receives 1 additional Heroic Resource whenever they gai
 
 **Effect:** If the target falls and takes damage as if their Agility score were 0 immediately after being teleported, the damage they take from falling is fire damage, and each enemy within 3 of where the target lands takes the same damage. The ground within 3 of where the target lands becomes difficult terrain.
 
-THE WODE REMEMBERS AND RETURNS (9 ESSENCE) *You create a terrarium, from canopy above to underbrush below.*
+#### THE WODE REMEMBERS AND RETURNS (9 ESSENCE)
+
+*You create a terrarium, from canopy above to underbrush below.*
 **Keywords:** Area, Earth, Green, Magic, Void
 
 **Type:** Action
@@ -9100,7 +9108,9 @@ Choose one heroic ability from the following options. Alternatively, you can cho
 
 **Persistent 2:** At the start of your turn, you can use this ability again as a maneuver without spending essence.
 
-THE GREEN DEFENDS ITS SERVANTS (11 ESSENCE) *A luminous green shield that shows its true beauty the more it cracks.*
+#### THE GREEN DEFENDS ITS SERVANTS (11 ESSENCE)
+
+*A luminous green shield that shows its true beauty the more it cracks.*
 **Keywords:** Green, Magic, Ranged
 
 **Type:** Maneuver
@@ -9413,7 +9423,7 @@ free triggered action to enter your animal form or hybrid form. You gain tempora
 
 **Spend 1 Rage:** If you are not dying, you can spend a Recovery.
 
-LINES OF FORCE
+##### LINES OF FORCE
 
 *You redirect the energy of motion.*
 **Keywords:** Magic, Melee
@@ -9428,7 +9438,7 @@ LINES OF FORCE
 
 **Spend 1 Rage:** The forced movement distance instead gains a bonus equal to twice your Might score.
 
-UNEARTHLY REFLEXES
+###### UNEARTHLY REFLEXES
 
 *Elusive as a hummingbird.*
 **Keywords:** --
@@ -9556,7 +9566,7 @@ Choose one heroic ability from the following options, each of which costs 3 rage
 - *12-16:* **8 damage; push 1**
 - *17+:* **11 damage; push 3**
 
-OUT OF THE WAY!(3 RAGE)
+#### OUT OF THE WAY!(3 RAGE)
 
 *Your enemies will get out of your way--whether they want to or not.*
 **Keywords:** Melee, Strike, Weapon
@@ -9596,7 +9606,7 @@ OUT OF THE WAY!(3 RAGE)
 
 The last target you damage takes extra damage equal to your Might score for every free strike you triggered during your move.
 
-YOUR ENTRAILS ARE YOUR EXTRAILS!(3 RAGE)
+#### YOUR ENTRAILS ARE YOUR EXTRAILS!(3 RAGE)
 
 *Hard for them to fight when they're busy holding in their giblets.*
 **Keywords:** Melee, Strike, Weapon
@@ -9619,7 +9629,7 @@ YOUR ENTRAILS ARE YOUR EXTRAILS!(3 RAGE)
 
 Choose one heroic ability from the following options, each of which costs 5 rage to use. (*Quick Build:* Blood for Blood)
 
-BLOOD FOR BLOOD!(5 RAGE)
+###### BLOOD FOR BLOOD!(5 RAGE)
 
 *A mighty strike leaves your foe reeling.*
 **Keywords:** Melee, Strike, Weapon
@@ -9638,7 +9648,7 @@ BLOOD FOR BLOOD!(5 RAGE)
 
 **Effect:** You can deal 1d6 damage to yourself to deal 1d6 bonus damage to the target.
 
-MAKE PEACE WITH YOUR GOD!(5 RAGE)
+###### MAKE PEACE WITH YOUR GOD!(5 RAGE)
 
 *Anger is an energy.*
 **Keywords:** --
@@ -9651,7 +9661,7 @@ MAKE PEACE WITH YOUR GOD!(5 RAGE)
 
 **Effect:** The next ability roll you make this turn automatically achieves a tier 3 result. You gain one surge.
 
-THUNDER ROAR (5 RAGE)
+###### THUNDER ROAR (5 RAGE)
 
 *A howl erupts from you that hurls your enemies back*.
 **Keywords:** Area, Melee, Weapon
@@ -9669,7 +9679,7 @@ THUNDER ROAR (5 RAGE)
 
 **Effect:** The targets are pushed one at a time, starting with the target closest to you.
 
-TO THE UTTERMOST END (5 RAGE)
+###### TO THE UTTERMOST END (5 RAGE)
 
 *You spend your life force to ensure their death.*
 **Keywords:** Melee, Strike, Weapon
@@ -9728,7 +9738,9 @@ Your primordial aspect grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-SPECIAL DELIVERY (5 RAGE) *You ready?*
+###### SPECIAL DELIVERY (5 RAGE)
+
+*You ready?*
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Maneuver
@@ -9765,7 +9777,7 @@ Additionally, you make one power roll that targets each enemy you come adjacent 
 
 Choose one of the following abilities.
 
-PHALANX BREAKER (5 RAGE)
+###### PHALANX BREAKER (5 RAGE)
 
 *Organizing your forces like feckless creatures of Law. Pitiful.*
 **Keywords:** Melee, Strike, Weapon
@@ -9824,7 +9836,7 @@ Choose one of the following abilities.
 
 **Effect:** The target can't be hidden from you for 24 hours. For the rest of the encounter, whenever the target moves, you can use a free triggered action to move.
 
-VISCERAL ROAR (5 RAGE)
+#### VISCERAL ROAR (5 RAGE)
 
 *The sound of the storm within you terrifies your opponents.*
 
@@ -9877,7 +9889,7 @@ You have a double edge on tests made to search for hidden creatures, discern hid
 
 Choose one heroic ability from the following options, each of which costs 7 rage to use.
 
-A DEMON UNLEASHED (7 RAGE)
+##### A DEMON UNLEASHED (7 RAGE)
 
 *Foes tremble at the sight of you.*
 **Keywords:** Magic
@@ -9890,7 +9902,9 @@ A DEMON UNLEASHED (7 RAGE)
 
 **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P **\<** strong is frightened until the end of their turn.
 
-FACE THE STORM!(7 RAGE) *Fight or flight? FIGHT!!*
+##### FACE THE STORM!(7 RAGE)
+
+*Fight or flight? FIGHT!!*
 **Keywords:** Magic
 
 **Type:** Maneuver
@@ -9901,7 +9915,9 @@ FACE THE STORM!(7 RAGE) *Fight or flight? FIGHT!!*
 
 **Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P **\<** average is taunted until the end of their next turn. Additionally, against any enemy taunted by you, your abilities deal additional damage equal to twice your Might score and gain a +1 bonus to potency.
 
-STEELBREAKER (7 RAGE) *See how useless their weapons are*!
+##### STEELBREAKER (7 RAGE)
+
+*See how useless their weapons are*!
 **Keywords:** Magic
 
 **Type:** Maneuver
@@ -9911,7 +9927,7 @@ STEELBREAKER (7 RAGE) *See how useless their weapons are*!
 
 **Effect:** You gain 20 Temporary Stamina.
 
-YOU ARE ALREADY DEAD (7 RAGE)
+##### YOU ARE ALREADY DEAD (7 RAGE)
 
 - *Slash. Walk away.*
     **Keywords:** Melee, Strike, Weapon
@@ -10025,7 +10041,7 @@ Choose one heroic ability from the following options.
 
 **Effect:** You can spend a Recovery.
 
-REBOUNDING STORM (9 RAGE)
+#### REBOUNDING STORM (9 RAGE)
 
 *You knock around enemies like playthings.*
 **Keywords:** Melee, Strike, Weapon
@@ -10086,11 +10102,13 @@ You gain a crafting, exploration, or intrigue perk of your choice. See Perks for
 
 Your specialization grants your choice of one of two abilities.
 
-6TH-LEVEL BERSERKER ABILITIES
+##### 6TH-LEVEL BERSERKER ABILITIES
 
 Choose one of the following abilities.
 
-AVALANCHE IMPACT (9 RAGE) *You leap, causing a shockwave that devastates foes.*
+###### AVALANCHE IMPACT (9 RAGE)
+
+*You leap, causing a shockwave that devastates foes.*
 
 **Keywords:** Area, Magic
 
@@ -10108,7 +10126,9 @@ AVALANCHE IMPACT (9 RAGE) *You leap, causing a shockwave that devastates foes.*
 - *12-16:* **7 damage; push 2**
 - *17+:* **11 damage; push 3**
 
-FORCE OF STORMS (9 RAGE) *You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.*
+###### FORCE OF STORMS (9 RAGE)
+
+*You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.*
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -10168,7 +10188,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-POUNCE (9 RAGE)
+###### POUNCE (9 RAGE)
 
 *You strike at the target, like the ultimate predator you are*
 
@@ -10187,7 +10207,7 @@ POUNCE (9 RAGE)
 
 **Effect:** You shift 4, bringing a grabbed target along with you. A creature grabbed this way takes damage equal to twice your Might score at the beginning of your turns.
 
-RIDERS ON THE STORM (9 RAGE)
+###### RIDERS ON THE STORM (9 RAGE)
 
 *Your focus your connection to the Primordial Chaos into a primordial storm.*
 **Keywords:** Animal, Area, Magic
@@ -10264,7 +10284,7 @@ You gain any one perk of your choice. See Perks for more information.
 
 Choose one heroic ability from the following options.
 
-ELEMENTAL FURY (11 RAGE)
+##### ELEMENTAL FURY (11 RAGE)
 
 *Your primordial energies make for instant retribution.*
 
@@ -10278,7 +10298,7 @@ ELEMENTAL FURY (11 RAGE)
 
 **Effect:** You gain 10 temporary Stamina. Select acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or you start dying, whenever an enemy damages you, they take 10 damage of the type selected. If this damage kills the enemy, you gain 10 Temporary Stamina.
 
-RELENTLESS DEATH (11 RAGE)
+##### RELENTLESS DEATH (11 RAGE)
 
 *You will not escape your fate.*
 **Keywords:** Magic, Melee, Strike, Weapon
@@ -10297,7 +10317,7 @@ RELENTLESS DEATH (11 RAGE)
 - *12-16:* **Targets with Stamina equal to or less than 9 + any weapon damage bonus you have die.**
 - *17+:* **Targets with Stamina equal to or less than 13 + any weapon damage bonus you have die.**
 
-OVERKILL (11 RAGE)
+##### OVERKILL (11 RAGE)
 
 *You strike so no damage is wasted.*
 **Keywords:** Magic, Melee, Strike, Weapon
@@ -10346,7 +10366,7 @@ Your specialization grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-DEATH COMES FOR YOU ALL!(11 RAGE)
+###### DEATH COMES FOR YOU ALL!(11 RAGE)
 
 *You use your weapon to create a destructive shockwave.*
 
@@ -10365,7 +10385,7 @@ DEATH COMES FOR YOU ALL!(11 RAGE)
 
 **Effect:** Any creatures force moved through an object by this ability take 10 damage.
 
-PRIMORDIAL VORTEX (11 RAGE)
+###### PRIMORDIAL VORTEX (11 RAGE)
 
 *You open a portal to the Primordial Chaos that pulls your foes to you.*
 **Keywords:** Area, Magic, Weapon
@@ -10388,7 +10408,7 @@ PRIMORDIAL VORTEX (11 RAGE)
 
 Choose one of the following abilities.
 
-PRIMORDIAL BANE (11 RAGE)
+###### PRIMORDIAL BANE (11 RAGE)
 
 *You attune the target to be weaker to a specific element.*
 **Keywords:** Magic, Melee, Strike, Weapon
@@ -10407,7 +10427,7 @@ PRIMORDIAL BANE (11 RAGE)
 
 **Effect:** Choose either acid, cold, corruption, fire, lightning, poison, or sonic damage. The target loses any damage immunity it has to that type and gains weakness 10 to that damage type(save ends).
 
-SHOWER OF BLOOD (11 RAGE)
+###### SHOWER OF BLOOD (11 RAGE)
 
 *You shock your foes with the brutality of your strike, resetting the pace of combat.*
 **Keywords:** Melee, Strike, Weapon
@@ -10430,7 +10450,7 @@ SHOWER OF BLOOD (11 RAGE)
 
 Choose one of the following abilities.
 
-DEATH RATTLE (11 RAGE)
+###### DEATH RATTLE (11 RAGE)
 
 *Fear channeled from the Primordial Chaos. Save or die!*
 
@@ -10448,7 +10468,7 @@ DEATH RATTLE (11 RAGE)
 - *12-16:* **6 psychic damage; kill all target minions and instantly kill 1 winded non-leader and non-solo targets of your choice**
 - *17+:* **10 psychic damage; kill all target minions, wind all non-leader and non-solo targets, and instantly kill a non-leader or non-solo target of your choice.**
 
-DELUGE (11 RAGE)
+###### DELUGE (11 RAGE)
 
 *You summon your primordial storm*
 **Keywords:** Animal, Magic
@@ -10528,7 +10548,7 @@ Your aspect benefits are always available to you, but you gain additional benefi
 
 Your stormwight kit's Animal Form feature grants you the following ability.
 
-ASPECT OF THE WILD
+###### ASPECT OF THE WILD
 
 *You assume the form of the animal who channels your rage.*
 
@@ -11369,7 +11389,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 
 **Effect:** While weakened this way, the target takes damage equal to your Intuition score when they use a supernatural or ability that costs Malice.
 
-IMPART FORCE (5 DISCIPLINE)
+#### IMPART FORCE (5 DISCIPLINE)
 
 *A single touch from you, and your enemy flies backward.*
 **Keywords:** Melee, Psionic, Strike, Weapon
@@ -11468,7 +11488,7 @@ Your null tradition grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-BLUR (5 DISCIPLINE)
+###### BLUR (5 DISCIPLINE)
 
 *You release stored time, allowing you to act twice.*
 
@@ -11499,7 +11519,7 @@ BLUR (5 DISCIPLINE)
 
 Choose one of the following abilities.
 
-ENTROPIC FIELD (5 DISCIPLINE)
+###### ENTROPIC FIELD (5 DISCIPLINE)
 
 *You drastically increase the local entropy.*
 **Keywords:** Area, Psionic, Weapon
@@ -11531,7 +11551,9 @@ ENTROPIC FIELD (5 DISCIPLINE)
 
 Choose one of the following abilities.
 
-GRAVITIC STRIKE (5 DISCIPLINE) *Your fist projects gravitic force that pulls a distant enemy closer.*
+###### GRAVITIC STRIKE (5 DISCIPLINE)
+
+*Your fist projects gravitic force that pulls a distant enemy closer.*
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -11546,7 +11568,7 @@ GRAVITIC STRIKE (5 DISCIPLINE) *Your fist projects gravitic force that pulls a d
 - *12-16:* **12 + A psychic damage; vertical pull 5**
 - *17+:* **16 + A psychic damage; vertical pull 7**
 
-KINETIC SHIELD (5 DISCIPLINE)
+###### KINETIC SHIELD (5 DISCIPLINE)
 
 *You manifest a force barrier that absorbs incoming kinetic energy.*
 **Keywords:** Psionic
@@ -11581,7 +11603,9 @@ Each time you start your turn, you can use a free triggered action to end one ef
 
 Choose one heroic ability from the following options, each of which costs 7 discipline to use.
 
-ABSORPTION FIELD (7 DISCIPLINE) *Your null field absorbs kinetic energy.*
+##### ABSORPTION FIELD (7 DISCIPLINE)
+
+*Your null field absorbs kinetic energy.*
 **Keywords:** Psionic
 
 **Type:** Maneuver
@@ -11592,7 +11616,7 @@ ABSORPTION FIELD (7 DISCIPLINE) *Your null field absorbs kinetic energy.*
 
 **Effect:** Until the end of the encounter, the area of your Null Field ability increases by 1. While the area is enlarged this way, each enemy in the area takes a bane on ability power rolls.
 
-MOLECULAR REARRANGEMENT FIELD (7 DISCIPLINE)
+##### MOLECULAR REARRANGEMENT FIELD (7 DISCIPLINE)
 
 *Your enemies' wounds open, your allies' wounds close.*
 **Keywords:** Psionic
@@ -11696,7 +11720,7 @@ If the heroes have more than hero with this feature, only one can benefit from t
 
 Choose one heroic ability from the following options.
 
-ANTICIPATING STRIKE (9 DISCIPLINE)
+##### ANTICIPATING STRIKE (9 DISCIPLINE)
 
 *You suddenly strike an enemy*
 **Keywords:** Melee, Psionic, Strike, Weapon
@@ -11718,7 +11742,7 @@ action.
 
 **Effect:** This strike resolves before the target's move or action.
 
-IRON GRIP (9 DISCIPLINE)
+##### IRON GRIP (9 DISCIPLINE)
 
 *You grab the target with near supernatural force*
 **Keywords:** Melee, Psionic, Strike, Weapon
@@ -11737,7 +11761,7 @@ IRON GRIP (9 DISCIPLINE)
 
 **Effect:** You can grab a target of any size. The target takes a bane on attempts to escape and takes damage equal to twice your Agility score whenever they attempt to escape.
 
-PHASE LEAP (9 DISCIPLINE)
+##### PHASE LEAP (9 DISCIPLINE)
 
 *You leap beyond reality, leaving an afterimage of yourself.*
 
@@ -11751,7 +11775,7 @@ PHASE LEAP (9 DISCIPLINE)
 
 **Effect:** You jump your speed without provoking opportunity attacks. Until the end of your next turn, an afterimage of yourself is left in the space you left. Enemies adjacent to your afterimage have a bane on all ability power rolls. Your abilities have line of effect from your afterimage as well as yourself.
 
-SYNAPTIC RESET (9 DISCIPLINE)
+##### SYNAPTIC RESET (9 DISCIPLINE)
 
 *You temporarily boost your aura to mitigate harmful effects.*
 
@@ -12034,7 +12058,7 @@ Choose one heroic ability from the following options.
 
 **Effect:** You count as 2 sizes larger for the purposes of the push.
 
-SYNAPTIC ANCHOR (11 DISCIPLINE)
+#### SYNAPTIC ANCHOR (11 DISCIPLINE)
 
 *You disrupt an enemy's strike and create a feedback loop in their mind, preventing them from focusing on future attacks.*
 
@@ -12066,7 +12090,7 @@ Your specialization grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-ARRESTOR CYCLE (11 DISCIPLINE)
+###### ARRESTOR CYCLE (11 DISCIPLINE)
 
 *You trap your foe in a looping cycle, where the relive the last few seconds over and over agian.*
 **Keywords:** Psionic
@@ -12087,7 +12111,7 @@ ARRESTOR CYCLE (11 DISCIPLINE)
 
 **Effect:** If the target resists the potency of this ability they take psychic damage equal to twice your Intuition score for every action they take until the end of their next turn.
 
-TIME LOOP (11 DISCIPLINE)
+###### TIME LOOP (11 DISCIPLINE)
 
 *You show shadows what true speed is.*
 **Keywords:** Psionic
@@ -12101,11 +12125,11 @@ TIME LOOP (11 DISCIPLINE)
 
 **Effect:** You take a bonus turn immediately after the triggering creature. This ability can only be used once per round.
 
-9TH-LEVEL CRYOKINETIC ABILITIES
+###### 9TH-LEVEL CRYOKINETIC ABILITIES
 
 Choose one of the following abilities.
 
-ABSOLUTE ZERO (11 DISCIPLINE)
+###### ABSOLUTE ZERO (11 DISCIPLINE)
 
 | You become the coldest thing in the timescape. |     |
 | ---------------------------------------------- | --- |
@@ -12124,7 +12148,7 @@ ABSOLUTE ZERO (11 DISCIPLINE)
 
 **Effect:** Until the end of the encounter or you become dying, you become an avatar of uttermost cold. You convert all damage you receive into cold damage, ignore the negative effects of dying, and add 2 potency to all of your effects.
 
-HEAT SINK (11 DISCIPLINE)
+###### HEAT SINK (11 DISCIPLINE)
 
 *You drain all the heat from the target.*
 **Keywords:** Melee, Psionic, Strike
@@ -12147,7 +12171,7 @@ HEAT SINK (11 DISCIPLINE)
 
 Choose one of the following abilities.
 
-INERTIAL ABSORPTION (11 DISCIPLINE)
+###### INERTIAL ABSORPTION (11 DISCIPLINE)
 
 *You absorb an attack to empower your body.*
 **Keywords:** Psionic
@@ -12161,7 +12185,9 @@ INERTIAL ABSORPTION (11 DISCIPLINE)
 
 **Effect:** You halve the damage, negate any effects on your associated with it, and gain three surges.
 
-REALITAS (11 DISCIPLINE) *Your essential hyperreality disrupts your enemy's connection to existence.*
+###### REALITAS (11 DISCIPLINE)
+
+*Your essential hyperreality disrupts your enemy's connection to existence.*
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -12338,7 +12364,7 @@ Your choice of shadow college grants you one or more features as shown on the 1s
 
 You gain the following ability.
 
-BLACK ASH TELEPORT
+###### BLACK ASH TELEPORT
 
 | In a swirl of black ash, you step from one place to another. |
 | ------------------------------------------------------------ |
@@ -12409,7 +12435,7 @@ Your shadow college grants you a triggered action as shown on the College Trigge
 | Caustic Alchemy | Defensive Roll        |
 | Harlequin Mask  | Clever Trick          |
 
-CLEVER TRICK (1 INSIGHT)
+###### CLEVER TRICK (1 INSIGHT)
 
 *You sow a moment of confusion in combat, to your enemy's peril.*
 **Keywords:** Magic
@@ -12423,7 +12449,7 @@ CLEVER TRICK (1 INSIGHT)
 
 **Effect:** Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.
 
-DEFENSIVE ROLL
+###### DEFENSIVE ROLL
 
 *When an enemy attacks, you roll with the impact to reduce the harm.*
 **Keywords:** --
@@ -12459,7 +12485,7 @@ DEFENSIVE ROLL
 
 You gain the following ability.
 
-HESITATION IS WEAKNESS (1 INSIGHT)
+##### HESITATION IS WEAKNESS (1 INSIGHT)
 
 *Keep up the attack. Never give them a moment's grace.*
 **Keywords:** --
@@ -12546,7 +12572,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** If an ally is adjacent to the target, the target takes extra damage equal to your Agility score.
 
-YOU WERE WATCHING THE WRONG ONE
+##### YOU WERE WATCHING THE WRONG ONE
 
 *They can't watch both of you at once.*
 **Keywords:** Melee, Strike, Weapon
@@ -12772,7 +12798,7 @@ Choose one of the following abilities.
 - *12-16:* **10 + A damage; you can teleport the target up to 3 squares**
 - *17+:* **14 + A damage; you can teleport the target up to 5 squares**
 
-TOO SLOW (5 INSIGHT)
+#### TOO SLOW (5 INSIGHT)
 
 #### *Your foe made a big mistake.*
 
@@ -12830,7 +12856,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-MACHINATIONS OF SOUND (5 INSIGHT)
+###### MACHINATIONS OF SOUND (5 INSIGHT)
 
 *Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.*
 **Keywords:** Area, Magic, Ranged
@@ -12848,7 +12874,7 @@ MACHINATIONS OF SOUND (5 INSIGHT)
 
 **Effect:** This forced movement ignores stability. Instead, the forced movement is reduced by a number equal to the target's Intuition score.
 
-SO GULLIBLE (5 INSIGHT)
+###### SO GULLIBLE (5 INSIGHT)
 
 *When your enemy strikes, you reveal you were in a different place all along.*
 **Keywords:** Attack, Melee, Ranged, Magic, Weapon
@@ -12870,7 +12896,7 @@ As a 3rd-level shadow, you gain the following features.
 
 Given the opportunity to watch your foe, you can assess their vulnerabilities and pick the perfect moment to strike. You gain the following ability.
 
-CAREFUL OBSERVATION
+##### CAREFUL OBSERVATION
 
 *A moment of focus leaves a foe firmly in your sights.*
 **Keywords:** --
@@ -12886,7 +12912,7 @@ maintain line of effect to them, and strike no other creature first, you gain a 
 
 Choose one heroic ability from the following options, each of which costs 7 insight to use.
 
-DANCER (7 INSIGHT)
+##### DANCER (7 INSIGHT)
 
 *You enter a flow state that makes you nearly impossible to pin down.*
 **Keywords:** --
@@ -12899,7 +12925,7 @@ DANCER (7 INSIGHT)
 
 **Effect:** Until the end of the encounter, whenever an enemy moves adjacent to you or damages you, you can take the Disengage move action as a free triggered action.
 
-MISDIRECTING STRIKE (7 INSIGHT)
+##### MISDIRECTING STRIKE (7 INSIGHT)
 
 *Why are you looking at ME?!*
 **Keywords:** Melee, Ranged, Strike, Weapon
@@ -12936,7 +12962,7 @@ MISDIRECTING STRIKE (7 INSIGHT)
 - *12-16:* **12 + A damage;** A \< average\*\*, restrained (save ends)\*\*
 - *17+:* **16 + A damage;** A \< strong\*\*, restrained (save ends)\*\*
 
-STAGGERING BLOW (7 INSIGHT)
+#### STAGGERING BLOW (7 INSIGHT)
 
 *There's no recovering from this.*
 **Keywords:** Melee, Ranged, Strike, Weapon
@@ -13192,7 +13218,9 @@ Choose one of the following abilities.
 
 A creature that drinks a balanced concoction can spend up to 2 Recoveries and gains acid immunity, fire immunity, or poison immunity equal to your level until the end of the encounter.
 
-#### ONE VIAL MAKES YOU FASTER (9 INSIGHT) *The liquid is still and pale. It might have been meant for an*
+#### ONE VIAL MAKES YOU FASTER (9 INSIGHT)
+
+*The liquid is still and pale. It might have been meant for an*
 
 *explosive.*
 **Keywords:** Ranged
@@ -13327,7 +13355,7 @@ You gain any one perk of your choice. See Perks for more information.
 
 Choose one heroic ability from the following options.
 
-ASSASSINATE (11 INSIGHT)
+##### ASSASSINATE (11 INSIGHT)
 
 *A practiced attack that will instantly kill an already weakened foe.*
 **Keywords:** Melee, Strike, Weapon
@@ -13346,7 +13374,7 @@ ASSASSINATE (11 INSIGHT)
 
 **Effect:** If the target is a non-minion, non-leader, non-solo creature who is winded after taking this ability's damage, they are reduced to 0 Stamina.
 
-SHADOWGRASP (11 INSIGHT)
+##### SHADOWGRASP (11 INSIGHT)
 
 *The shadows beneath you and your foes give way, allowing the shadow creature within you to grasp at your foes.*
 **Keywords:** Area, Magic
@@ -13363,7 +13391,7 @@ SHADOWGRASP (11 INSIGHT)
 - *12-16:* 16 **corruption damage; A \< \[average\] restrained (save ends)**
 - *17+:* 21 **corruption damage; A \< \[strong\] restrained (save ends)**
 
-SPEED OF SHADOWS (11 INSIGHT)
+##### SPEED OF SHADOWS (11 INSIGHT)
 
 *An advanced techique. Multiple strikes before they even notice they're dead.*
 **Keywords:** Magic
@@ -13411,7 +13439,7 @@ Your specialization grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-CACOPHONY OF CINDERS (11 INSIGHT)
+###### CACOPHONY OF CINDERS (11 INSIGHT)
 
 *You freely move and teleport, zipping to and fro, sending enemies and allies alike every which way.*
 **Keywords:** Magic, Melee, Strike, Weapon
@@ -13816,7 +13844,7 @@ In addition, you can spend 1 focus to take one of the following free triggered a
 
 Your skill at commanding your allies in combat grants you the following ability.
 
-"STRIKE NOW!"
+##### "STRIKE NOW!"
 
 *Your foe left an opening. You point this out to an ally!*
 **Keywords:** Ranged
@@ -13878,7 +13906,7 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 - *12-16:* **5 + M damage;** M \< average\*\*, dazed (save ends)\*\*
 - *17+:* **8 + M damage;** M \< strong\*\*, dazed (save ends)\*\*
 
-INSPIRING STRIKE (3 FOCUS)
+#### INSPIRING STRIKE (3 FOCUS)
 
 *Your attack gives an ally hope.*
 **Keywords:** Melee, Ranged, Strike, Weapon
@@ -13907,7 +13935,7 @@ INSPIRING STRIKE (3 FOCUS)
 
 **Effect:** Each target can move their speed.
 
-5-FOCUS ABILITY
+##### 5-FOCUS ABILITY
 
 Choose one heroic ability from the following options, each of which costs 5 focus to use. (*Quick Build:* Hammer and Anvil)
 
@@ -13929,7 +13957,7 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 
 **Effect:** If the target is reduced to 0 Stamina and a strike granted by this ability hasn't been made, the striker can pick a different target.
 
-THE MIND GAME (5 FOCUS)
+#### THE MIND GAME (5 FOCUS)
 
 *Your attack demoralizes your foe. Your allies begin to think you can win.*
 **Keywords:** Melee, Ranged, Strike, Weapon
@@ -13949,7 +13977,7 @@ THE MIND GAME (5 FOCUS)
 
 **Effect:** The first time any ally deals damage any target you've marked before the start of your next turn, that ally can spend a Recovery.
 
-NOW!(5 FOCUS)
+#### NOW!(5 FOCUS)
 
 *Your allies wait for your command--then unleash death!*
 
@@ -13962,7 +13990,7 @@ NOW!(5 FOCUS)
 
 **Effect:** Each target can make a free strike.
 
-THIS IS WHAT WE PLANNED FOR (5 FOCUS)
+#### THIS IS WHAT WE PLANNED FOR (5 FOCUS)
 
 *All those coordination drills you made them do finally pay off.*
 **Keywords:** Ranged
@@ -14032,7 +14060,7 @@ Choose one of the following abilities.
 
 **Mark Benefit:** For the rest of the encounter whenever you or an ally attacks a marked target, you can spend 2 focus to make the marked target free strike a creature of your choice within 5 squares of the marked target.
 
-TRY ME INSTEAD (5 FOCUS)
+#### TRY ME INSTEAD (5 FOCUS)
 
 *"Try picking on someone MY size."*
 **Keywords:** Melee, Strike, Weapon
@@ -14074,7 +14102,7 @@ Choose one of the following abilities.
 
 **Effect:** One ally adjacent to the target can spend a Recovery.
 
-THEIR TACTICS ARE SO PRIMITIVE (5 FOCUS)
+#### THEIR TACTICS ARE SO PRIMITIVE (5 FOCUS)
 
 *All that time you spent studying ancient battles paid off!*
 
@@ -14093,7 +14121,7 @@ THEIR TACTICS ARE SO PRIMITIVE (5 FOCUS)
 
 Choose one of the following abilities.
 
-NO DYING ON MY WATCH (5 FOCUS)
+###### NO DYING ON MY WATCH (5 FOCUS)
 
 *You prioritize saving an ally over your own safety.*
 **Keywords:** Ranged, Strike, Weapon
@@ -14113,7 +14141,7 @@ NO DYING ON MY WATCH (5 FOCUS)
 - *12-16:* R \< average\*\*, frightened of the triggering ally (save ends)\*\*
 - *17+:* R \< strong\*\*, frightened of the triggering ally (save ends)\*\*
 
-SQUAD! ON ME!(5 FOCUS)
+###### SQUAD! ON ME!(5 FOCUS)
 
 *Together we are invincible!*
 **Keywords:** Area
@@ -14140,7 +14168,7 @@ You are prepared for all eventualities. At the start of an encounter, you can us
 
 Choose one heroic ability from the following options, each of which costs 7 focus to use.
 
-DOUBLE ENVELOPMENT (7 FOCUS)
+##### DOUBLE ENVELOPMENT (7 FOCUS)
 
 *Historians will write about this day.*
 **Keywords:** --
@@ -14153,7 +14181,7 @@ DOUBLE ENVELOPMENT (7 FOCUS)
 
 **Effect:** Until the end of the encounter or you are dying, whenever you or any ally deals damage to a target marked by you, they gain two surges, which they can use immediately.
 
-FRONTAL ASSAULT (7 FOCUS)
+##### FRONTAL ASSAULT (7 FOCUS)
 
 *The purpose of a charge is to break their morale and force a retreat.*
 **Keywords:** --
@@ -14174,7 +14202,7 @@ FRONTAL ASSAULT (7 FOCUS)
 
 **Effect:** Until the end of the encounter or you are dying, whenever you or any ally deals damage to a target marked by you, if that target has R **\<** average, they are frightened of the damage dealer (save ends).
 
-STAY STRONG, AND FOCUS!(7 FOCUS)
+#### STAY STRONG, AND FOCUS!(7 FOCUS)
 
 *"We can do this! Keep faith and hold fast!"*
 **Keywords:** --
@@ -14259,7 +14287,9 @@ You, or any allies adjacent to you, can spend 1d6 stamina during their turn to e
 
 Choose one heroic ability from the following options.
 
-SQUAD! GEAR CHECK!(9 FOCUS) *You distract a foe while your allies secure their defensive gear.*
+##### SQUAD! GEAR CHECK!(9 FOCUS)
+
+*You distract a foe while your allies secure their defensive gear.*
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -14276,7 +14306,7 @@ SQUAD! GEAR CHECK!(9 FOCUS) *You distract a foe while your allies secure their d
 
 **Effect:** You and all allies in within 1 square of the target gain 10 Temporary Stamina.
 
-SQUAD! REMEMBER YOUR TRAINING!(9 FOCUS)
+##### SQUAD! REMEMBER YOUR TRAINING!(9 FOCUS)
 
 *You have drilled your squad on how to best use their gear and make them demonstrate their hard work.*
 **Keywords:** Ranged
@@ -14289,7 +14319,7 @@ SQUAD! REMEMBER YOUR TRAINING!(9 FOCUS)
 
 **Effect:** Each target gains one surge and uses a signature ability. All targets gain any benefits you have with kits, such as Improved Field Arsenal.
 
-YOU CAN SLEEP WHEN YOU'RE DEAD (9 FOCUS)
+##### YOU CAN SLEEP WHEN YOU'RE DEAD (9 FOCUS)
 
 *You inspire your allies to recover and gather their strength.*
 **Keywords:** Ranged
@@ -14302,7 +14332,7 @@ YOU CAN SLEEP WHEN YOU'RE DEAD (9 FOCUS)
 
 **Effect:** The target gains two surges and can spend a Recovery, remove any conditions or effects that are affecting them, and stand up if they are prone.
 
-YOU'VE STILL GOT SOMETHING LEFT (9 FOCUS)
+##### YOU'VE STILL GOT SOMETHING LEFT (9 FOCUS)
 
 *You push an ally to use a heroic ability sooner than they normally would.*
 **Keywords:** Ranged
@@ -14524,7 +14554,9 @@ You gain any one perk of your choice. See Perks for more information.
 
 Choose one heroic ability from the following options.
 
-GO NOW AND SPEED WELL (11 FOCUS) *You direct an attack to strike true.*
+##### GO NOW AND SPEED WELL (11 FOCUS)
+
+*You direct an attack to strike true.*
 
 **Keywords:** Ranged
 
@@ -14536,7 +14568,9 @@ GO NOW AND SPEED WELL (11 FOCUS) *You direct an attack to strike true.*
 
 **Effect:** The target gains two surges and can use a signature or heroic ability as a free triggered action. They have a double edge on the power roll, ignore damage immunity, and increase the potency of effects by 1.
 
-FINISH THEM!(11 FOCUS) *You direct your ally to turn a devastating blow into a killing blow.*
+##### FINISH THEM!(11 FOCUS)
+
+*You direct your ally to turn a devastating blow into a killing blow.*
 **Keywords:** Ranged
 
 **Type:** Free Triggered Action
@@ -14549,7 +14583,7 @@ FINISH THEM!(11 FOCUS) *You direct your ally to turn a devastating blow into a k
 
 **Effect:** The target is killed. The creature who winded the target can spend a Recovery.
 
-THE FLOODGATES OPEN (11 FOCUS)
+##### THE FLOODGATES OPEN (11 FOCUS)
 
 *You direct your squad to strike in unision and with devastating effect.*
 **Keywords:** Ranged
@@ -14562,7 +14596,7 @@ THE FLOODGATES OPEN (11 FOCUS)
 
 **Effect:** Each target gains a surge and uses a signature ability that has an edge with increased effect potency of 1, if applicable.
 
-I'LL OPEN AND YOU'LL CLOSE (11 FOCUS)
+##### I'LL OPEN AND YOU'LL CLOSE (11 FOCUS)
 
 *You create an opening for an ally.*
 **Keywords:** Melee, Ranged, Strike, Weapon
@@ -14612,7 +14646,9 @@ Choose one of the following abilities.
 
 **Effect:** Each target gains two surges and uses a signature ability with an edge as a free triggered action. After resolving their ability power rolls, each target can shift 2 and become hidden, even without cover or concealment, and even if observed.
 
-THEIR LACK OF FOCUS IS THEIR UNDOING (11 FOCUS) *You trick your enemies into attacking each other and confused by the aftermath*
+#### THEIR LACK OF FOCUS IS THEIR UNDOING (11 FOCUS)
+
+*You trick your enemies into attacking each other and confused by the aftermath*
 **Keywords:** Area, Magic, Weapon
 
 **Type:** Action
@@ -14633,7 +14669,9 @@ THEIR LACK OF FOCUS IS THEIR UNDOING (11 FOCUS) *You trick your enemies into att
 
 Choose one of the following abilities.
 
-BLOT OUT THE SUN!(11 FOCUS) *What makes a good soldier? The ability to fire four shots a*
+###### BLOT OUT THE SUN!(11 FOCUS)
+
+*What makes a good soldier? The ability to fire four shots a*
 
 *minute in any weather.*
 
@@ -14647,7 +14685,7 @@ BLOT OUT THE SUN!(11 FOCUS) *What makes a good soldier? The ability to fire four
 
 **Effect:** Each target can make a ranged free strike with an edge against all marked enemies within range. Targets ignore any banes they have on their attack roll.
 
-COUNTERSTRATEGY (11 FOCUS)
+###### COUNTERSTRATEGY (11 FOCUS)
 
 *I've identified a way to negate their strengths.*
 **Keywords:** --
@@ -14685,7 +14723,7 @@ Choose one of the following abilities.
 
 **Effect:** If you use this ability as part of the Charge action, you can move through enemies without them counting as difficult terrain as part of that action. You slide 1 any creature you move through.
 
-THAT ONE IS MINE!(11 FOCUS)
+##### THAT ONE IS MINE!(11 FOCUS)
 
 *You focus on making an enemy irrelevant.*
 **Keywords:** Melee, Ranged, Strike, Weapon
@@ -14897,7 +14935,7 @@ Your talent tradition grants you features as shown on the 1st-Level Tradition Fe
 
 You gain the following ability.
 
-ACCELERATE
+###### ACCELERATE
 
 *To your ally, it seems as though the world has slowed down.*
 
@@ -15063,7 +15101,7 @@ You manifest a variety of psionic powers to impact the environment, bolster your
 
 Select two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:*  Incinerate, Kinetic Grip)
 
-ENTROPIC BOLT
+###### ENTROPIC BOLT
 
 *You advance an enemy's age for a moment.*
 **Keywords:** Chronopathy, Psionic, Ranged, Strike
@@ -15082,7 +15120,7 @@ ENTROPIC BOLT
 
 **Strained:** You gain 1 clarity on a tier 2 or tier 3 result.
 
-INCINERATE
+###### INCINERATE
 
 *The air erupts into a column of smokeless flame.*
 **Keywords:** Area, Fire, Ranged, Psionic, Pyrokinesis
@@ -15100,7 +15138,7 @@ INCINERATE
 
 **Strained:** The size of the cube increases by 2, but the fire disappears at the end of your turn.
 
-HOARFROST
+###### HOARFROST
 
 *A row of the terrain freezes over ahead of you, turning hard and slick.*
 **Keywords:** Cryokinesis, Psionic, Ranged, Strike
@@ -15138,7 +15176,7 @@ HOARFROST
 
 **Strained:** You can't use this ability's effect, but you can vertical push the target.
 
-KINETIC PULSE
+##### KINETIC PULSE
 
 *The force of your mind hurls enemies backward.*
 **Keywords:** Area, Psionic, Telepathy
@@ -15242,7 +15280,9 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 - *12-16*\*\*: 6 + P psychic damage; I\*\* \< average\*\*, frightened (save ends)\*\*
 - *17+:* **9 + P psychic damage; I** \< strong\*\*, frightened (save ends)\*\*
 
-NOTHING EXCEEDS MY GRASP (3 CLARITY) *Be careful not to choke on your aspirations.*
+##### NOTHING EXCEEDS MY GRASP (3 CLARITY)
+
+*Be careful not to choke on your aspirations.*
 
 **Keywords:** Psionic, Ranged, Strike, Telekinesis
 **Type:** Action
@@ -15334,7 +15374,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 
 **Strained:** You can't use maneuvers (save ends).
 
-PERFECT CLARITY (5 CLARITY)
+#### PERFECT CLARITY (5 CLARITY)
 
 *You clear the mind of nothing but the goal.*
 **Keywords:** Psionic, Ranged, Telepathy
@@ -15389,7 +15429,7 @@ Your talent tradition grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-APPLIED CHRONOMETRICS (5 CLARITY)
+###### APPLIED CHRONOMETRICS (5 CLARITY)
 
 *Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.*
 **Keywords:** Chronopathy, Psionic, Ranged
@@ -15573,7 +15613,7 @@ Once on each of your turns, you can use a free maneuver to fire an orb at a crea
 
 **Strained:** You create five orbs. You are weakened while you have any orbs active.
 
-REFLECTOR FIELD (7 CLARITY)
+#### REFLECTOR FIELD (7 CLARITY)
 
 *A protective field reverses the momentum of incoming attacks.*
 **Keywords:** Area, Psionic, Telepathy
@@ -15588,7 +15628,7 @@ REFLECTOR FIELD (7 CLARITY)
 
 **Strained:** The size of the aura increases by 1. Each ability your aura reflects causes you to take 2d6 damage and makes you forget a memory, as determined in consultation with the Director.
 
-SOUL BURN (7 CLARITY)
+#### SOUL BURN (7 CLARITY)
 
 *You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*
 **Keywords:** Animapathy, Psionic, Ranged, Strike
@@ -15702,7 +15742,7 @@ Choose one heroic ability from the following options.
 
 **Strained:** The target gains two surges. You are weakened and slowed (save ends).
 
-HYPERSONIC (9 CLARITY)
+##### HYPERSONIC (9 CLARITY)
 
 *You move fast enough to turn around and watch your foes feel the aftermath.*
 **Keywords:** Area, Charge, Psionic, Telekinesis
@@ -15723,7 +15763,7 @@ HYPERSONIC (9 CLARITY)
 
 **Strained:** You and each target are slowed (EoT) on a tier 2 result or higher.
 
-MIND SNARE (9 CLARITY)
+##### MIND SNARE (9 CLARITY)
 
 *You latch onto your prey's brain and don't let go, like a song they can't get out of their head.*
 **Keywords:** Psionic, Ranged, Strike, Telepathic
@@ -15892,7 +15932,9 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-SYNAPTIC CONDITIONING (9 CLARITY) *It's a subtle mindset shift. It's not that they're your enemy you just don't like them!*
+###### SYNAPTIC CONDITIONING (9 CLARITY)
+
+*It's a subtle mindset shift. It's not that they're your enemy you just don't like them!*
 
 **Keywords:** Psionic, Melee, Telepathy
 
@@ -16011,8 +16053,9 @@ one or more Recoveries, all linked creatures can spend a Recovery.
 
 You have the following triggered action.
 
-#### STASIS SHIELD (3 CLARITY) *You freeze time just long enough to bring the victim to safety!*
+###### STASIS SHIELD (3 CLARITY)
 
+*You freeze time just long enough to bring the victim to safety!*
 **Keywords:** Psionics, Ranged
 
 **Type:** Triggered
@@ -16408,7 +16451,7 @@ You enter every performance with a set of routines at the ready. Routines are au
 
 You start off with the Choreography and Revitalizing Limerick routine ability. Your choice of troubadour class act then grants you additional routines.
 
-CHOREOGRAPHY
+##### CHOREOGRAPHY
 
 *Taps, kicks, steps. Now it's all "choreography."*
 **Keywords:** Area, Magic, Routine
@@ -16829,8 +16872,9 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 - *12-16:* **The target can shift up to 2 squares and make a free strike with an edge.**
 - *17+:* **The target can shift up to 3 squares and make a free strike with and edge, then can spend a Recovery.**
 
-#### FAKE YOUR DEATH (5 DRAMA) *O happy dagger, this is thy sheath!*
+#### FAKE YOUR DEATH (5 DRAMA)
 
+*O happy dagger, this is thy sheath!*
 **Keywords:** Magic
 
 **Type:** Maneuver
@@ -16919,8 +16963,9 @@ Your troubadour class act grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-#### CLASSIC CHANDELIER STUNT (5 DRAMA) *Audiences love this bit.*
+#### CLASSIC CHANDELIER STUNT (5 DRAMA)
 
+*Audiences love this bit.*
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -16954,7 +16999,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-GUEST STAR (5 DRAMA)
+###### GUEST STAR (5 DRAMA)
 
 *We offered them a percentage of the gross. So they're working for free!*
 **Keywords:** Magic, Ranged
@@ -16967,7 +17012,7 @@ GUEST STAR (5 DRAMA)
 
 **Effect:** Either a bystander within distance is uplifted by your magic, or a mysterious new hero appears in an unoccupied space to help out during the encounter. This guest star is controlled by you, has their own turn, shares your characteristics. Their stamina is maximum is half yours. They have no abilities other than your melee and ranged free strikes. When the target is reduced to 0 Stamina or at the end of the encounter, they retreat or revert to a bystander. An individual bystander can't be uplifted in this way more than once in an encounter.
 
-TWIST AT THE END (5 DRAMA)
+###### TWIST AT THE END (5 DRAMA)
 
 *You didn't see that coming, did you?!*
 **Keywords:** Magic, Ranged
@@ -16984,7 +17029,9 @@ TWIST AT THE END (5 DRAMA)
 
 Choose one of the following abilities.
 
-ENCORE (5 DRAMA) *Again! Again!*
+###### ENCORE (5 DRAMA)
+
+*Again! Again!*
 **Keywords:** Magic, Strike
 
 **Type:** Action
@@ -17128,7 +17175,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 **Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability on the same target for the next 2 rounds without spending drama.
 
-WE MEET AT LAST. LET'S FINISH THIS (7 DRAMA)
+#### WE MEET AT LAST. LET'S FINISH THIS (7 DRAMA)
 
 *Totus mundus agit histrionem.*
 **Keywords:** Magic, Ranged
@@ -17497,7 +17544,7 @@ You've put your mark on the artform for all class acts to follow. You gain a new
 
 You have access to two additional routines to use with Curtain Call.
 
-"MOONLIGHT SONATA"
+###### "MOONLIGHT SONATA"
 
 *Music pours out of your heart, filling the area with the utmost delicacy and without damper.*
 **Keywords:** Area, Magic
@@ -17541,7 +17588,7 @@ You gain any one perk of your choice. See Perks for more information.
 
 Choose one heroic ability from the following options.
 
-DRAMATIC REVEAL (11 DRAMA)
+##### DRAMATIC REVEAL (11 DRAMA)
 
 *A little stage trickery and where once stood a foe, now stands a friend!*
 **Keywords:** Magic
@@ -17567,7 +17614,7 @@ DRAMATIC REVEAL (11 DRAMA)
 
 **Effect:** Until the end of the encounter and while the target is winded, whenever the target takes damage, they can use a free triggered action to deal half the damage they received to the source of the damage.
 
-SAVED IN THE EDIT (11 DRAMA)
+#### SAVED IN THE EDIT (11 DRAMA)
 
 *Your weapon takes on the avatar of a legendary tool that can rewrite reality to your whims.*
 **Keywords:** Magic
@@ -17585,7 +17632,9 @@ SAVED IN THE EDIT (11 DRAMA)
 - The target's stability increases and speed decreases by a number of squares equal to your Presence score.
 - The target's speed increases and stability decreases by a number of squares equal to your Presence score.
 
-THE SHOW MUST GO ON (11 DRAMA) *You shine a bright light on the players on the stage and compel them to finish the performance*
+#### THE SHOW MUST GO ON (11 DRAMA)
+
+*You shine a bright light on the players on the stage and compel them to finish the performance*
 **Keywords:** Area, Magic, Ranged
 
 **Type:** Maneuver
@@ -17620,7 +17669,7 @@ Your class act grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-EXPERT FENCER (11 DRAMA)
+###### EXPERT FENCER (11 DRAMA)
 
 *If you can land it, the crowd goes wild.*
 **Keywords:** Charge, Melee, Strike, Weapon
@@ -17723,7 +17772,7 @@ Choose one of the following abilities.
 
 **Effect:** While affected by this ability, one ally can take a free strike against the target after each ability they use.
 
-RISING TENSION (11 DRAMA)
+#### RISING TENSION (11 DRAMA)
 
 *You narrate the tension of the scene and put all hope into your subject to turn things around.*
 **Keywords:** Magic, Ranged
@@ -18971,7 +19020,7 @@ You and the spirit can communication telepathically with with each other and sha
 
 You gain the following ability.
 
-INVISIBLE FORCE
+#### INVISIBLE FORCE
 
 *You manipulate a tiny object with your mind.*
 **Keywords:** Psionic
@@ -19583,7 +19632,7 @@ A bredbeddle stole your head! Normally, being beheaded by one of these giants is
 
 **Benefit:** You gain the following ability.
 
-SHARE HEAD
+#### SHARE HEAD
 
 *You don't have a head but can psionically borrow another.*
 **Keywords:** Psionic, Ranged
@@ -19740,8 +19789,9 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 
 **Benefit:** You gain the following heroic ability:
 
-#### PSYCHIC BLAST (COST: ALL YOUR HEROIC RESOURCES) *Psionic energy bursts from your body in an iridescent shimmer.*
+#### PSYCHIC BLAST (COST: ALL YOUR HEROIC RESOURCES)
 
+*Psionic energy bursts from your body in an iridescent shimmer.*
 **Keywords:** Area, Psionic
 
 **Type:** Action
@@ -22323,7 +22373,9 @@ You can craft the items found in Treasures. Each item notes its prerequisites, p
 
 ### FIND A CURE
 
-**Item Prerequisite:** Varies (see description) **Project Source:** None
+**Item Prerequisite:** Varies (see description)
+
+**Project Source:** None
 
 **Project Roll Characteristic:** Reason or Intuition **Project Goal:** Varies (see description)
 
@@ -22519,7 +22571,7 @@ resources to activate the ability. Once you use the ability, the armor loses it,
 
 **Dragon Soul II:** While you are winded, your head transforms into a dragon's head, and you gain the following ability.
 
-DRAGON'S FIRE
+###### DRAGON'S FIRE
 
 *You open your maw and unleash hell.*
 **Keywords:** Area, Magic, Melee
@@ -23496,7 +23548,7 @@ When you finish rolling, you can spend the points you earned on a reward from th
 | Fisher      |      | While undertaking the Fishing project, you   |
 |             |      | can ignore the results of one project roll.  |
 
-**FISHING EVENTS**
+##### **FISHING EVENTS**
 
 | 1   | While fishing, the hero reels in a talking fish. The fish  |
 | --- | ---------------------------------------------------------- |
@@ -24339,7 +24391,7 @@ While the eyes circle your head, you can use a maneuver to launch up to three of
 
 You also gain the following ability.
 
-HALLUCINATION FIELD
+###### HALLUCINATION FIELD
 
 *A blanket of illusion twists around you and your allies, making you seem as if you belong wherever you are.*
 **Keywords:** Psionic

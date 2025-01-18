@@ -18,7 +18,7 @@ As a troubadour, you gain the following features.
 
 [SCENE PARTNER](./Scene%20Partner.md)
 
-[CURTAIN CALL](./Curtain%20Call.md)
+[CURTAIN CALL](./Curtain%20Call/Curtain%20Call.md)
 
 [REVITALIZING LIMERICK](./Revitalizing%20Limerick.md)
 
@@ -56,7 +56,7 @@ As a troubadour, you gain the following features.
 
 [DRAMATIC REVERSAL (5 DRAMA)](./Dramatic%20Reversal.md)
 
-[FAKE YOUR DEATH (5 DRAMA) O happy dagger, this is thy sheath!](./Fake%20Your%20Death%20O%20Happy%20Dagger%20This%20Is%20Thy%20Sheath.md)
+[FAKE YOUR DEATH (5 DRAMA)](./Fake%20Your%20Death.md)
 
 [FLIP THE SCRIPT (5 DRAMA)](./Flip%20The%20Script.md)
 

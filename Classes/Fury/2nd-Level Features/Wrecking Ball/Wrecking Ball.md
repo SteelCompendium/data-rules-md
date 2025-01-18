@@ -35,4 +35,4 @@ Additionally, you make one power roll that targets each enemy you come adjacent 
 - *12-16:* **Push 2**
 - *17+:* **Push 3**
 
-[2ND-LEVEL REAVER ABILITY](./2nd-Level%20Reaver%20Ability.md)
+[2ND-LEVEL REAVER ABILITY](./2nd-Level%20Reaver%20Ability/2nd-Level%20Reaver%20Ability.md)

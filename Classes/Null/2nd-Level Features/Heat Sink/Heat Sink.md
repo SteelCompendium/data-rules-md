@@ -22,4 +22,4 @@ target: Self
 
 **Effect:** Until the start of your next turn, the area of your Null Field ability increases by 1. While the area is enlarged this way, you and your allies benefit from concealment while in the area. When you end your turn, each enemy in the aura takes cold damage equal to your Intuition score.
 
-[2ND-LEVEL METAKINETIC ABILITY](./2nd-Level%20Metakinetic%20Ability.md)
+[2ND-LEVEL METAKINETIC ABILITY](./2nd-Level%20Metakinetic%20Ability/2nd-Level%20Metakinetic%20Ability.md)

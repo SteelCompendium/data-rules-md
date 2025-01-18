@@ -262,7 +262,7 @@ physically interact with the world, but they have a speed of 5 and can fly. Whil
 
 You gain the following ability.
 
-GRAVE SPEECH
+##### Grave Speech
 
 *You commune with the lingering soul of the recently dead.*
 
@@ -272,7 +272,7 @@ GRAVE SPEECH
 
 You gain the following ability.
 
-HANDS OF THE MAKER
+##### Hands Of The Maker
 
 *You can craft objects with the power of your mind!* **Keywords:** Magic
 
@@ -306,7 +306,7 @@ As a respite activity, you can bless a weapon. Any creature who wields the weapo
 
 You gain the following ability, which you can use once on your turn.
 
-HEALING GRACE
+#### Healing Grace
 
 *Your divine energy restores the righteous.* **Keywords:** Magic, Ranged
 
@@ -352,7 +352,7 @@ Choose one of the following triggered actions. (*Quick Build:* Word of Guidance)
 
 **Spend 1 Piety:** The power roll gains a double edge.
 
-WORD OF JUDGMENT
+#### Word Of Judgment
 
 *Your holy word saps an attacking enemy's strength.* **Keywords:** Magic, Ranged
 
@@ -492,7 +492,7 @@ HOLY LASH *A tendril of divine energy shoots forth to draw in your foe.* **Keywo
 
 **Effect:** You or one ally within distance gains temporary Stamina equal to your Intuition score.
 
-WITHER
+#### Wither
 
 *A bolt of holy energy saps the life from a foe.*
 
@@ -540,7 +540,9 @@ o *12-16:* **3 sonic damage; push 2**
 - *12-16:* **6 + I holy damage;** A \< average\*\*, prone\*\*
 - *17+:* **9 + I holy damage;** A \< strong\*\*, prone and can't stand (save ends)\*\*
 
-VIOLENCE WILL NOT AID THEE (3 PIETY) *After some holy lightning, your enemy will think twice about their next attack.* **Keywords:** Magic, Ranged, Strike
+### Violence Will Not Aid Thee (3 Piety)
+
+*After some holy lightning, your enemy will think twice about their next attack.* **Keywords:** Magic, Ranged, Strike
 
 **Power Roll + Intuition:**
 
@@ -638,19 +640,19 @@ Choose one of your domains. You gain an ability from that domain as shown on the
 - Whenever a target makes a power roll, they can roll three dice and choose which two to use.
 - Whenever a target makes a power roll, they must roll three dice and use the lowest two.
 
-BLESSING OF INSIGHT (5 PIETY)
+### Blessing Of Insight (5 Piety)
 
 *The gods grant insight revealing where best to strike your enemies.* **Keywords:** Magic, Ranged
 
 **Effect:** Until the end of the encounter or until you are dying, each target gains a surge at the end of each of your turns.
 
-DIVINE COMEDY (5 PIETY)
+### Divine Comedy (5 Piety)
 
 *You and your allies swap places to confound your foes.* **Keywords:** Area, Magic
 
 **Effect:** Each target can choose another creature within 5 squares of them, then swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.
 
-THE GODS COMMAND, YOU OBEY (5 PIETY)
+### The Gods Command, You Obey (5 Piety)
 
 *You speak with the voice of your saint, commanding your enemies.* **Keywords:** Magic, Ranged, Strike
 
@@ -660,7 +662,7 @@ THE GODS COMMAND, YOU OBEY (5 PIETY)
 - *12-16:* 7 + I **holy damage;** P \< average\*\*, before taking damage, the target uses an ability of your choice and you choose any targets for that ability\*\*
 - *17+:* 11 + I **holy damage;** P \< strong\*\*, before taking damage, the target shifts up to their speed, uses an ability of your choice, and you choose any targets for that ability\*\*
 
-MORNING LIGHT (5 PIETY)
+### Morning Light (5 Piety)
 
 *Light shines at your command, burning your foes and blessing your allies.*
 
@@ -674,7 +676,7 @@ MORNING LIGHT (5 PIETY)
 
 **Effect:** Each ally in the area deals fire damage equal to your Intuition score with their next strike made before the end of their next turn.
 
-NATURE JUDGES THEE (5 PIETY)
+### Nature Judges Thee (5 Piety)
 
 *Mystical thorned vines appear at your bidding and bind your foes.* **Keywords:** Area, Magic, Ranged
 
@@ -684,7 +686,9 @@ NATURE JUDGES THEE (5 PIETY)
 - *12-16:* **3 damage;** A \< average\*\*, restrained (save ends)\*\*
 - *17+:* **7 damage;** A \< strong\*\*, restrained (save ends)\*\*
 
-OUR HEARTS, YOUR STRENGTH (5 PIETY) *An ally gains strength from their friends.* **Keywords:** Magic, Ranged
+### Our Hearts, Your Strength (5 Piety)
+
+*An ally gains strength from their friends.* **Keywords:** Magic, Ranged
 
 **Effect:** Until the end of the encounter or the target is dying, whenever the target starts their turn, they gain a bonus to speed and damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.
 
@@ -712,13 +716,13 @@ Additionally, whenever one target spends a Recovery, the other target can use a 
 - *12-16:* **5 lightning damage; vertical slide 2**
 - *17+:* **7 lightning damage; vertical slide 3**
 
-STATUE OF POWER (5 PIETY)
+### Statue Of Power (5 Piety)
 
 *A marble statue of your patron rises from the earth.* **Keywords:** Magic, Ranged
 
 **Effect:** A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you and your allies each gains a surge at the start of their turns. The statue is destroyed if it takes 20 or more damage. It is immune to poison and psychic damage.
 
-WELLSPRING OF GRACE (5 PIETY)
+### Wellspring Of Grace (5 Piety)
 
 *A holy light is emitted from your body, healing your allies.* **Keywords:** Area, Magic
 
@@ -770,7 +774,7 @@ surges.
 
 **Effect:** One ally within distance can spend any number of Recoveries (no action required).
 
-WORDS OF WRATH AND GRACE (7 PIETY)
+### Words Of Wrath And Grace (7 Piety)
 
 *Your saint grants your enemies a vision of whatever they most fear.* **Keywords:** Area, Magic
 
@@ -817,7 +821,7 @@ Your divine presence causes those you deem worthy to recover quickly from a figh
 
 You gain the following ability.
 
-BLESSING OF SECRETS
+##### Blessing Of Secrets
 
 *You project an illusory aura that makes you and allies harder to notice.* **Keywords:** Magic
 
@@ -976,13 +980,13 @@ Choose one of your domains. You gain an ability from it as shown on the 6th-Leve
 | Trickery   | Invocation of Mystery      |
 | War        | Blade of the Heavens       |
 
-AURA OF SOULS (9 PIETY)
+##### Aura Of Souls (9 Piety)
 
 *A whirlwind of souls of the dead flies around you at your command.* **Keywords:** Area, Magic
 
 **Effect:** Until the end of the encounter or you start dying, whenever you end your turn, you can slide each creature in the aura a number of squares equal to your Intuition score. This forced movement ignores the Stability of allies.
 
-BLADE OF THE HEAVENS (9 PIETY)
+##### Blade Of The Heavens (9 Piety)
 
 *A greatsword streams down from the sky, threatening to pin your foe.* **Keywords:** Magic, Ranged, Strike
 
@@ -992,13 +996,13 @@ BLADE OF THE HEAVENS (9 PIETY)
 - *12-16:* **12 + I damage; A \< \[average\] prone and restrained (save ends)**
 - *17+:* **16 + I damage; A \< \[strong\] prone and restrained (save ends)**
 
-BLESSING OF THE MIDDAY SUN (9 PIETY)
+##### Blessing Of The Midday Sun (9 Piety)
 
 *Your body emits a heat that bakes your enemies and inspires your allies.* **Keywords:** Area, Magic
 
 **Effect:** Until the end of the encounter or you start dying, enemies in the aura take a bane on all power rolls and you and allies in the aura gain a surge at the end of your turns.
 
-CUIRASS OF THE GODS (9 PIETY)
+##### Cuirass Of The Gods (9 Piety)
 
 *Your allies are covered in spiritual armor.* **Keywords:** Area, Magic, Ranged
 
@@ -1018,13 +1022,13 @@ CUIRASS OF THE GODS (9 PIETY)
 
 On each subsequent turn, you can use a free maneuver to move the machine a number of squares up to your Intuition score then repeat the power roll. The machine disappears at the end of the encounter and has 50 Stamina. It has poison all and psychic all damage immunity.
 
-INVOCATION OF MYSTERY (9 PIETY)
+### Invocation Of Mystery (9 Piety)
 
 *Now you see us ...* **Keywords:** Area, Magic
 
 **Effect:** Each target is invisible until the start of your next turn.
 
-INVOCATION OF UNDOING (9 PIETY)
+### Invocation Of Undoing (9 Piety)
 
 *You utter a secret word of destruction known only to deities.*
 
@@ -1035,13 +1039,13 @@ INVOCATION OF UNDOING (9 PIETY)
 
 **Effect:** If you choose, this ability can also deal damage to buildings and it can deal damage and push unattended objects.
 
-LAUDED BY GOD (9 PIETY)
+### Lauded By God (9 Piety)
 
 *You beseech the gods to give your allies what they need to win the day, and the gods answer.* **Keywords:** Magic, Ranged
 
 **Effect:** Each ally gains 3 of their Heroic Resource.
 
-LIGHTNING LORD (9 PIETY)
+### Lightning Lord (9 Piety)
 
 *Lightning bursts forth from your body in several directions.* **Keywords:** Area, Magic
 
@@ -1053,7 +1057,7 @@ LIGHTNING LORD (9 PIETY)
 
 **Effect:** The targets are force moved in order based on their proximity to you.
 
-REVITALIZING GRACE (9 PIETY)
+### Revitalizing Grace (9 Piety)
 
 *With a single movement, you restore your health and that of your allies.* **Keywords:** Area, magic
 
@@ -1169,7 +1173,7 @@ Lightning and thunder are infused in your body. When you deal damage to another 
 
 You gain the following ability.
 
-TRINITY OF TRICKERY (9 PIETY)
+##### Trinity Of Trickery (9 Piety)
 
 *Hey! I'm over here. No, here, numbskull.*
 

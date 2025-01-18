@@ -13,7 +13,7 @@ keyword_list:
   - Strike
   - Weapon
 ability_type: Action
-distance: Melee 1 or ranged 5
+distance: Ranged 5
 target: One creature
 ---
 
@@ -24,20 +24,10 @@ target: One creature
 |                                      |                          |
 | :----------------------------------- | :----------------------- |
 | **Keywords:** Ranged, Strike, Weapon | **Type:** Action         |
-| **Distance:** Melee 1 or ranged 5    | **Target:** One creature |
+| **Distance:** Ranged 5               | **Target:** One creature |
 
 **Power Roll + Agility:**
 
 - *11 or lower:* **8 + A damage;** A \< weak\*\*, restrained (save ends)\*\*
 - *12-16:* **12 + A damage;** A \< average\*\*, restrained (save ends)\*\*
 - *17+:* **16 + A damage;** A \< strong\*\*, restrained (save ends)\*\*
-
-STAGGERING BLOW (7 INSIGHT)
-
-*There's no recovering from this.* **Keywords:** Melee, Ranged, Strike, Weapon
-
-**Power Roll + Agility:**
-
-- *11 or lower:* **7 + A damage;** M \< weak\*\*, slowed (save ends)\*\*
-- *12-16:* **11 + A damage;** M \< average\*\*, prone and can't stand (save ends)\*\*
-- *17+:* **16 + A damage;** M \< strong\*\*, prone and can't stand (save ends)\*\*

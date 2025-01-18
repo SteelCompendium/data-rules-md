@@ -20,6 +20,8 @@ As a 2nd-level shadow, you gain the following features.
 
 [IN A PUFF OF ASH (5 INSIGHT)](./In%20A%20Puff%20Of%20Ash.md)
 
+[TOO SLOW (5 INSIGHT)](./Too%20Slow.md)
+
 [Your foe made a big mistake.](./Your%20Foe%20Made%20A%20Big%20Mistake/Your%20Foe%20Made%20A%20Big%20Mistake.md)
 
 [STICKY BOMB (5 INSIGHT)](./Sticky%20Bomb.md)

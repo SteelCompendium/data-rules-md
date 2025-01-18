@@ -202,7 +202,7 @@ You instantly recognize illusions for what they are, you can see invisible creat
 
 You also gain the following ability.
 
-SHARED VOID SENSE
+##### Shared Void Sense
 
 *You grant allies a taste of your unearthly vision.* **Keywords:** Magic, Ranged, Void
 
@@ -221,7 +221,7 @@ Additionally, whenever you touch a living plant that is not a Plant Creature, yo
 
 You gain the following ability.
 
-MOTIVATE EARTH
+##### Motivate Earth
 
 | The earth rises, falls, or opens up at your command. |     |
 | ---------------------------------------------------- | --- |
@@ -236,7 +236,7 @@ You can instead touch a doorway or other opening in a mundane dirt, stone, or me
 
 You gain the following ability.
 
-RETURN TO FORMLESSNESS
+##### Return To Formlessness
 
 *With the merest touch, you cause an object to turn to slag or ash.* **Keywords:** Fire, Magic, Melee
 
@@ -255,7 +255,7 @@ Your elemental specialization grants you a triggered action as shown on the Spec
 | Green          | The Breath of Dawn Remembered |
 | Void           | A Subtle Relocation           |
 
-THE BREATH OF DAWN REMEMBERED
+##### The Breath Of Dawn Remembered
 
 *The power you channel grants the ability to get back in the fight.* **Keywords:** Green, Magic, Ranged
 
@@ -265,7 +265,7 @@ THE BREATH OF DAWN REMEMBERED
 
 **Spend Essence:** The target can spend an additional Recovery for each essence spent.
 
-EXPLOSIVE ASSISTANCE
+##### Explosive Assistance
 
 *You add a little magic to an ally's aggression at just the right time.* **Keywords:** Fire, Magic, Ranged
 
@@ -275,7 +275,7 @@ EXPLOSIVE ASSISTANCE
 
 **Spend 1 Essence:** The forced movement distance gains a bonus equal to twice your Reason score instead.
 
-SKIN LIKE CASTLE WALLS
+##### Skin Like Castle Walls
 
 *You make yourself or an ally covered in protective stone.* **Keywords:** Earth, Magic, Ranged
 
@@ -285,7 +285,7 @@ SKIN LIKE CASTLE WALLS
 
 **Spend 1 Essence:** If the damage has any potency effect associate with it, the potency is reduced by 1.
 
-A SUBTLE RELOCATION
+##### A Subtle Relocation
 
 *You call on the void to swallow and spit out an ally.* **Keywords:** Magic, Ranged, Void
 
@@ -448,7 +448,7 @@ You channel a range of heroic abilities, all of them fueled by your essence.
 
 Choose one heroic ability from the following options, each of which costs 3 essence to use. (*Quick Build:* The Flesh, a Crucible)
 
-BEHOLD THE MYSTERY (3 ESSENCE)
+##### Behold The Mystery (3 Essence)
 
 *You open a rift into the void to harry your foes.* **Keywords:** Area, Magic, Ranged, Void
 
@@ -460,7 +460,7 @@ BEHOLD THE MYSTERY (3 ESSENCE)
 
 **Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
 
-THE FLESH, A CRUCIBLE (3 ESSENCE)
+##### The Flesh, A Crucible (3 Essence)
 
 *Fire engulfs a target of your choice and burns at your command.* **Keywords:** Fire, Magic, Ranged, Strike
 
@@ -677,7 +677,9 @@ Choose a new heroic ability from one of the following options, each of which cos
 
 **Persistent 1:** The area remains until the start of your next turn. You can move the area up to 5 squares as a maneuver. This ability ends if you lose line of effect to its area.
 
-SUBVERT THE GREEN WITHIN (5 ESSENCE) *Burrow into their brains and take control!* **Keywords:** Green, Magic, Ranged, Strike, Void **Type:** Action **Distance:** Ranged 10
+### Subvert The Green Within (5 Essence)
+
+*Burrow into their brains and take control!* **Keywords:** Green, Magic, Ranged, Strike, Void **Type:** Action **Distance:** Ranged 10
 
 **Effect:** The target uses their signature ability against a target of your choice. You then make a power roll against the target of this ability.
 
@@ -687,7 +689,7 @@ SUBVERT THE GREEN WITHIN (5 ESSENCE) *Burrow into their brains and take control!
 - *12-16:* **9 + R poison damage**
 - *17+:* **12 + R poison damage**
 
-TRANSLATED THROUGH FLAME (5 ESSENCE)
+### Translated Through Flame (5 Essence)
 
 *Your ally disappears, then reappears in a burst of fire!* **Keywords:** Fire, Magic, Ranged, Void
 
@@ -699,7 +701,7 @@ TRANSLATED THROUGH FLAME (5 ESSENCE)
 - *12-16:* **5 fire damage**
 - *17+:* **8 fire damage**
 
-VOLCANO'S EMBRACE (5 ESSENCE)
+### Volcano's Embrace (5 Essence)
 
 *Wrap them up in fire and melting stone.* **Keywords:** Earth, Fire, Magic, Ranged, Strike
 
@@ -738,7 +740,7 @@ When you finish a respite, you can open a two-way portal that leads to any place
 
 You gain the following ability.
 
-THE EARTH ACCEPTS ME
+##### The Earth Accepts Me
 
 *You can slip into the stone.* **Keywords:** Earth, Magic
 
@@ -772,7 +774,7 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 
 Each target begins to fade from existence (save ends). While fading from existence, a target initially takes a bane on power rolls. At the end of their first turn, they have a double bane on power rolls. At the end of their second turn, they fade from existence for 1 hour, reappearing in their original space or the nearest available space.
 
-MAW OF EARTH (7 ESSENCE)
+### Maw Of Earth (7 Essence)
 
 *You open up the ground, unleashing a shower of stone and debris.* **Keywords:** Area, Earth, Magic, Ranged
 
@@ -831,7 +833,7 @@ While you have 3 or more essence and you aren't dying, you exude an aura of magi
 | Green          | Flowering Bed   |
 | Void           | Veiling Bed     |
 
-BURNING GROUNDS
+##### Burning Grounds
 
 When you end your turn, each enemy in the aura takes fire damage equal to your Reason score.
 
@@ -898,7 +900,7 @@ Additionally, whenever you use a fire ability or are targeted by an ability that
 
 Choose one heroic ability from the following options.
 
-COMBUSTION DEFERRED (9 ESSENCE)
+#### Combustion Deferred (9 Essence)
 
 *Your flames dance from kindling to kindling to kindling.* **Keywords:** Fire, Magic, Ranged, Strike
 
@@ -924,7 +926,7 @@ COMBUSTION DEFERRED (9 ESSENCE)
 
 **Persistent 1:** The area persists until the start of your next turn and you can move it up to 5 squares. During your turn, you can roll power again as a maneuver without spending essence.
 
-SUBVERTED PERCEPTION OF SPACE (9 ESSENCE)
+### Subverted Perception Of Space (9 Essence)
 
 *You rip an enemy's world in twain.* **Keywords:** Magic, Ranged, Strike, Void
 
@@ -973,7 +975,7 @@ You can spend 10 minutes to create a freeform magical wyrd for a variety of situ
 
 Choose a new heroic ability from one of the following options. Alternatively, you can choose one of the 9Essence Abilities you didn't select at 5th level (see 5th-Level Features).
 
-LUMINOUS CHAMPION ALOFT (9 ESSENCE)
+#### Luminous Champion Aloft (9 Essence)
 
 *They shone vibrantly, a beautiful diamond in the night sky.*
 
@@ -1007,7 +1009,9 @@ Additionally, the target receives 1 additional Heroic Resource whenever they gai
 
 **Effect:** If the target falls and takes damage as if their Agility score were 0 immediately after being teleported, the damage they take from falling is fire damage, and each enemy within 3 of where the target lands takes the same damage. The ground within 3 of where the target lands becomes difficult terrain.
 
-THE WODE REMEMBERS AND RETURNS (9 ESSENCE) *You create a terrarium, from canopy above to underbrush below.* **Keywords:** Area, Earth, Green, Magic, Void
+### The Wode Remembers And Returns (9 Essence)
+
+*You create a terrarium, from canopy above to underbrush below.* **Keywords:** Area, Earth, Green, Magic, Void
 
 **Effect:** The affected area becomes dark and verdant with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The affected area is considered difficult terrain for enemies. Allies that end their turn in the affected area have cover.
 
@@ -1194,7 +1198,9 @@ Choose one heroic ability from the following options. Alternatively, you can cho
 
 **Persistent 2:** At the start of your turn, you can use this ability again as a maneuver without spending essence.
 
-THE GREEN DEFENDS ITS SERVANTS (11 ESSENCE) *A luminous green shield that shows its true beauty the more it cracks.* **Keywords:** Green, Magic, Ranged
+### The Green Defends Its Servants (11 Essence)
+
+*A luminous green shield that shows its true beauty the more it cracks.* **Keywords:** Green, Magic, Ranged
 
 **Effect:** You conjure an elemental shield that protects the target until the end of your next turn. While the ward is active, the target can take the Defend action as a maneuver on each of their turns. The target gains 30 temporary Stamina that lasts until depleted or the ward is no longer active. When this temporary Stamina disappears, the ward ends. When the ability ends, the ward explodes. Each enemy within 5 of the target takes 10 damage.
 

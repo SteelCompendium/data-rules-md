@@ -17,7 +17,7 @@ target: Self or one creature **Effect:** The target immediately shifts up to a n
 
 You gain the following ability.
 
-ACCELERATE
+## Accelerate
 
 *To your ally, it seems as though the world has slowed down.*
 

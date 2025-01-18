@@ -12,19 +12,18 @@ keyword_list:
   - Melee
   - Strike
   - Weapon
-ability_type: Action
-distance: Melee 1
-target: 2 creatures or objects
+ability_type: Free Triggered Action **Distance:** Melee 1
+target: 1 creature **Trigger:** A creature causes you to become winded or dying, or damages you while you are winded or dying.
 ---
 
 # Debilitating Strike (9 Rage)
 
 *You break the target's bones leaving them vulnerable.*
 
-|                                     |                                    |
-| :---------------------------------- | :--------------------------------- |
-| **Keywords:** Melee, Strike, Weapon | **Type:** Action                   |
-| **Distance:** Melee 1               | **Target:** 2 creatures or objects |
+|                                     |                                                                                                                                    |
+| :---------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Free Triggered Action **Distance:** Melee 1                                                                              |
+| **Distance:**                       | **Target:** 1 creature **Trigger:** A creature causes you to become winded or dying, or damages you while you are winded or dying. |
 
 **Power Roll + Might:**
 
@@ -42,14 +41,3 @@ target: 2 creatures or objects
 - *17+:* **13 + M damage**
 
 **Effect:** You can spend a Recovery.
-
-REBOUNDING STORM (9 RAGE)
-
-*You knock around enemies like playthings.* **Keywords:** Melee, Strike, Weapon
-
-- **Power Roll + Might:**
-- *11 or lower:* **9 damage; push 3**
-- *12-16:* **14 damage; push 5**
-- *17+:* **19 damage; push 7**
-
-**Effect:** When a target ends their forced movement in a creature or object they take damage as normal, but they then are pushed the remaining distance away from the creature or object they impacted.

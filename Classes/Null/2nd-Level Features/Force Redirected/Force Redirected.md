@@ -33,4 +33,4 @@ target: One creature
 - *12-16:* **12 + A damage; slide 3**
 - *17+:* **16 + A damage; slide 5**
 
-[2ND-LEVEL CRYOKINETIC ABILITY](./2nd-Level%20Cryokinetic%20Ability.md)
+[2ND-LEVEL CRYOKINETIC ABILITY](./2nd-Level%20Cryokinetic%20Ability/2nd-Level%20Cryokinetic%20Ability.md)

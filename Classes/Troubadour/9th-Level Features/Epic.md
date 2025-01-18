@@ -8,18 +8,18 @@ type: classes
 subtype: troubadour
 kind: 9th-level features
 ability_type: Maneuver
-distance: Ranged 10
-target: 1 ally
+distance: Melee 1 or Ranged 10
+target: 1 creature or object
 ---
 
 # Epic (11 Drama)
 
 *Your story tells tale of the villain's waning power and how the heroes rose to the occasion to stop them.* **Keywords:** Magic, Melee, Ranged
 
-|                         |                    |
-| :---------------------- | :----------------- |
-| **Keywords:**           | **Type:** Maneuver |
-| **Distance:** Ranged 10 | **Target:** 1 ally |
+|                                    |                                  |
+| :--------------------------------- | :------------------------------- |
+| **Keywords:**                      | **Type:** Maneuver               |
+| **Distance:** Melee 1 or Ranged 10 | **Target:** 1 creature or object |
 
 **Power Roll + Presence:**
 
@@ -28,9 +28,3 @@ target: 1 ally
 - *17+:* **Target has a double bane on all power rolls (save ends)**
 
 **Effect:** While affected by this ability, one ally can take a free strike against the target after each ability they use.
-
-RISING TENSION (11 DRAMA)
-
-*You narrate the tension of the scene and put all hope into your subject to turn things around.* **Keywords:** Magic, Ranged
-
-**Effect:** The target gains 3 of their heroic resource, has a double edge on a power roll of their choice made during their next turn, is no longer slowed or weakened if they were before, and can immediately take their turn after yours if they have not taken their turn already.

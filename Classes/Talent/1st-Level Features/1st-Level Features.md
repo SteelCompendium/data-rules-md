@@ -30,7 +30,7 @@ As a talent, you gain the following features.
 
 [TALENT ABILITIES](./Talent%20Abilities/Talent%20Abilities.md)
 
-[KINETIC GRIP](./Kinetic%20Grip.md)
+[KINETIC GRIP](./Kinetic%20Grip/Kinetic%20Grip.md)
 
 [MATERIALIZE](./Materialize.md)
 
@@ -38,7 +38,7 @@ As a talent, you gain the following features.
 
 [SPIRIT SWORD](./Spirit%20Sword/Spirit%20Sword.md)
 
-[AWE (3 CLARITY)](./Awe.md)
+[AWE (3 CLARITY)](./Awe/Awe.md)
 
 [PRECOGNITION (3 CLARITY)](./Precognition.md)
 
@@ -49,3 +49,5 @@ As a talent, you gain the following features.
 [INERTIA SOAK (5 CLARITY)](./Inertia%20Soak.md)
 
 [IRON (5 CLARITY)](./Iron.md)
+
+[PERFECT CLARITY (5 CLARITY)](./Perfect%20Clarity.md)

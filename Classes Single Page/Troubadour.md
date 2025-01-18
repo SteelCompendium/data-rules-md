@@ -133,7 +133,7 @@ You enter every performance with a set of routines at the ready. Routines are au
 
 You start off with the Choreography and Revitalizing Limerick routine ability. Your choice of troubadour class act then grants you additional routines.
 
-CHOREOGRAPHY
+#### Choreography
 
 *Taps, kicks, steps. Now it's all "choreography."* **Keywords:** Area, Magic, Routine
 
@@ -415,7 +415,9 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 - *12-16:* **The target can shift up to 2 squares and make a free strike with an edge.**
 - *17+:* **The target can shift up to 3 squares and make a free strike with and edge, then can spend a Recovery.**
 
-### Fake Your Death (5 Drama) *o Happy Dagger, This Is Thy Sheath!*
+### Fake Your Death (5 Drama)
+
+*O happy dagger, this is thy sheath!* **Keywords:** Magic
 
 **Effect:** You turn invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 bonus to speed and you ignore difficult terrain. The illusion melts into the ground and your invisibility ends at the end of your next turn, or earlier if the illusion is interacted with, if you take damage, or if you use an action or a maneuver.
 
@@ -483,7 +485,9 @@ Your troubadour class act grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-### Classic Chandelier Stunt (5 Drama) *audiences Love This Bit.*
+### Classic Chandelier Stunt (5 Drama)
+
+*Audiences love this bit.* **Keywords:** Melee, Strike, Weapon
 
 **Effect:** Each target shifts up to 5 squares, and can shift vertically. Both targets must end this movement adjacent to each other and on solid ground. Each target can then make a melee free strike that deals additional damage equal to twice their highest characteristic score.
 
@@ -503,13 +507,13 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-GUEST STAR (5 DRAMA)
+##### Guest Star (5 Drama)
 
 *We offered them a percentage of the gross. So they're working for free!* **Keywords:** Magic, Ranged
 
 **Effect:** Either a bystander within distance is uplifted by your magic, or a mysterious new hero appears in an unoccupied space to help out during the encounter. This guest star is controlled by you, has their own turn, shares your characteristics. Their stamina is maximum is half yours. They have no abilities other than your melee and ranged free strikes. When the target is reduced to 0 Stamina or at the end of the encounter, they retreat or revert to a bystander. An individual bystander can't be uplifted in this way more than once in an encounter.
 
-TWIST AT THE END (5 DRAMA)
+##### Twist At The End (5 Drama)
 
 *You didn't see that coming, did you?!* **Keywords:** Magic, Ranged
 
@@ -522,7 +526,9 @@ TWIST AT THE END (5 DRAMA)
 
 Choose one of the following abilities.
 
-ENCORE (5 DRAMA) *Again! Again!* **Keywords:** Magic, Strike
+##### Encore (5 Drama)
+
+*Again! Again!* **Keywords:** Magic, Strike
 
 **Effect:** You recreate and enact a strike you have observed this round. The strike can't be one that uses Malice. When you make the strike, you use your Presence score for any power rolls, and any damage you deal is sonic damage.
 
@@ -618,7 +624,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 **Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability on the same target for the next 2 rounds without spending drama.
 
-WE MEET AT LAST. LET'S FINISH THIS (7 DRAMA)
+### We Meet At Last. Let's Finish This (7 Drama)
 
 *Totus mundus agit histrionem.* **Keywords:** Magic, Ranged
 
@@ -906,7 +912,7 @@ You've put your mark on the artform for all class acts to follow. You gain a new
 
 You have access to two additional routines to use with Curtain Call.
 
-"MOONLIGHT SONATA"
+##### "moonlight Sonata"
 
 *Music pours out of your heart, filling the area with the utmost delicacy and without damper.* **Keywords:** Area, Magic
 
@@ -942,7 +948,7 @@ You gain any one perk of your choice. See Perks for more information.
 
 Choose one heroic ability from the following options.
 
-DRAMATIC REVEAL (11 DRAMA)
+#### Dramatic Reveal (11 Drama)
 
 *A little stage trickery and where once stood a foe, now stands a friend!* **Keywords:** Magic
 
@@ -954,7 +960,7 @@ DRAMATIC REVEAL (11 DRAMA)
 
 **Effect:** Until the end of the encounter and while the target is winded, whenever the target takes damage, they can use a free triggered action to deal half the damage they received to the source of the damage.
 
-SAVED IN THE EDIT (11 DRAMA)
+### Saved In The Edit (11 Drama)
 
 *Your weapon takes on the avatar of a legendary tool that can rewrite reality to your whims.* **Keywords:** Magic
 
@@ -965,7 +971,9 @@ SAVED IN THE EDIT (11 DRAMA)
 - The target's stability increases and speed decreases by a number of squares equal to your Presence score.
 - The target's speed increases and stability decreases by a number of squares equal to your Presence score.
 
-THE SHOW MUST GO ON (11 DRAMA) *You shine a bright light on the players on the stage and compel them to finish the performance* **Keywords:** Area, Magic, Ranged
+### The Show Must Go On (11 Drama)
+
+*You shine a bright light on the players on the stage and compel them to finish the performance* **Keywords:** Area, Magic, Ranged
 
 **Power Roll + Presence:** o *11 or lower:* 6 **damage; P \< \[weak\] can't willingly**
 
@@ -993,7 +1001,7 @@ Your class act grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-EXPERT FENCER (11 DRAMA)
+##### Expert Fencer (11 Drama)
 
 *If you can land it, the crowd goes wild.* **Keywords:** Charge, Melee, Strike, Weapon
 
@@ -1061,7 +1069,7 @@ Choose one of the following abilities.
 
 **Effect:** While affected by this ability, one ally can take a free strike against the target after each ability they use.
 
-RISING TENSION (11 DRAMA)
+### Rising Tension (11 Drama)
 
 *You narrate the tension of the scene and put all hope into your subject to turn things around.* **Keywords:** Magic, Ranged
 
