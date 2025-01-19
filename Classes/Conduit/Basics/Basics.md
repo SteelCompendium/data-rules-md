@@ -23,6 +23,12 @@ kind: basics
 
 **Strong Potency:** Intuition
 
-[Starting Stamina at 1st Level: 18](./Starting%20Stamina%20At%201st%20Level%2018.md)
+**Starting Stamina at 1st Level:** 18
 
-[Stamina Gained at 2nd and Higher Levels: 9](./Stamina%20Gained%20At%202nd%20And%20Higher%20Levels%209.md)
+**Stamina Gained at 2nd and Higher Levels:** 9
+
+**Recoveries:** 8
+
+**Skills:** Choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Read Person, Religion)
+
+[CONDUIT ADVANCEMENT](./Conduit%20Advancement.md)

@@ -17,5 +17,3 @@ As a 2nd-level fury, you gain the following features.
 [PERK](./Perk.md)
 
 [2ND-LEVEL ASPECT ABILITY](./2nd-Level%20Aspect%20Ability/2nd-Level%20Aspect%20Ability.md)
-
-[You ready?](./You%20Ready.md)

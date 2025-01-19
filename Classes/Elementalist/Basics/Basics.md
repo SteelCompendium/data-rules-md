@@ -25,4 +25,10 @@ kind: basics
 
 **Starting Stamina at 1st Level:** 18
 
-[Stamina Gained at 2nd and Higher Levels: 9](./Stamina%20Gained%20At%202nd%20And%20Higher%20Levels%209.md)
+**Stamina Gained at 2nd and Higher Levels:** 9
+
+**Recoveries:** 8
+
+**Skills:** You gain the Magic skill and can choose any three skills from the crafting or lore skill groups. (*Quick Build:* Magic, Alchemy, Blacksmithing, History)
+
+[ELEMENTALIST ADVANCEMENT](./Elementalist%20Advancement.md)

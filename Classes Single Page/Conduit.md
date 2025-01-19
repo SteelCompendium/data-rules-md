@@ -35,11 +35,11 @@ As a conduit, you heal and buff your allies, and debuff your foes while smiting 
 
 **Strong Potency:** Intuition
 
-### Starting Stamina At 1st Level: 18
+**Starting Stamina at 1st Level:** 18
 
-### Stamina Gained At 2nd And Higher Levels: 9
+**Stamina Gained at 2nd and Higher Levels:** 9
 
-## Recoveries: 8
+**Recoveries:** 8
 
 **Skills:** Choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Read Person, Religion)
 

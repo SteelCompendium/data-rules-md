@@ -19,7 +19,7 @@ You gain the following career benefits:
 
 - **Skills:** The Religion skill, plus two skills from the lore skill group (*Quick Build:* Religion, Culture, Magic)
 - **Project Points:** 240
-- **Perk:** One supernatural perk (*Quick Build:* Ritualist)
+- **Perk:** One supernatural perk (*Quick Build:* [[Ritualist]])
 
 ## Disciple Inciting Incidents
 

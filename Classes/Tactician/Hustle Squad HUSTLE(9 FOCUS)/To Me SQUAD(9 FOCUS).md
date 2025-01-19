@@ -6,7 +6,7 @@ name: To Me, Squad!
 cost: 9 Focus
 type: classes
 subtype: tactician
-kind: battleplan
+kind: hustle squad hustle(9 focus)
 ability_type: Action
 distance: Melee 1
 target: 1 creature

@@ -13,8 +13,6 @@ The talent is a master of psionics--a source of incredible power created through
 
 A talent is limited only by the strength of their mind. Powerful psionic heroes can have multiple active powers at once and change reality at will. But with this limitless potential comes a gamble. Every manifestation has a chance of harming the talent, and those who use too many too quickly die from the exertion.
 
-[BASICS](./Basics.md)
-
-[Recoveries: 8](./Recoveries%208/Recoveries%208.md)
+[BASICS](./Basics/Basics.md)
 
 [1ST-LEVEL FEATURES](./1st-Level%20Features/1st-Level%20Features.md)

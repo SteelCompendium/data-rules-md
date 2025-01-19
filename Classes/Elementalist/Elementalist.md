@@ -15,8 +15,6 @@ As an elementalist, you can unleash your wrath across a field of foes, put an en
 
 [BASICS](./Basics/Basics.md)
 
-[Recoveries: 8](./Recoveries%208/Recoveries%208.md)
-
 [1ST-LEVEL FEATURES](./1st-Level%20Features/1st-Level%20Features.md)
 
 [THE BREATH OF DAWN REMEMBERED](./The%20Breath%20Of%20Dawn%20Remembered/The%20Breath%20Of%20Dawn%20Remembered.md)

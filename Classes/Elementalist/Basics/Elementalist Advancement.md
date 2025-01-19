@@ -5,7 +5,7 @@ name_raw: Elementalist Advancement
 name: Elementalist Advancement
 type: classes
 subtype: elementalist
-kind: recoveries 8
+kind: basics
 ---
 
 # Elementalist Advancement

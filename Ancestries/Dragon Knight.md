@@ -10,7 +10,7 @@ keyword_list:
   - Magic
 ability_type: Action
 distance: 3 cube within 1
-target: 'All enemies **Power Roll + Might or Presence: - *11 or lower:*** 2 damage **- *12-16:*** 4 damage **- *17+:*** 6 damage\*\*'
+target: All enemies
 ---
 
 # Dragon Knight
@@ -175,10 +175,10 @@ You can use the following signature ability.
 
 *You let loose a mighty roar to shake your foes' spirits.*
 
-|                               |                                                                                                                                         |
-| :---------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
-| **Keywords:** Area, Magic     | **Type:** Action                                                                                                                        |
-| **Distance:** 3 cube within 1 | **Target:** All enemies **Power Roll + Might or Presence: - *11 or lower:*** 2 damage **- *12-16:*** 4 damage **- *17+:*** 6 damage\*\* |
+|                               |                         |
+| :---------------------------- | :---------------------- |
+| **Keywords:** Area, Magic     | **Type:** Action        |
+| **Distance:** 3 cube within 1 | **Target:** All enemies |
 
 - *11 or lower:* **2 damage**
 - *12-16:* **5 damage; push 1**
@@ -189,6 +189,12 @@ DRAGON BREATH (COSTS 2 POINTS) You can use the following signature ability.
 ## Dragon Breath
 
 *You expel energy to damage your foes.* **Keywords:** Area, Magic
+
+**Power Roll + Might or Presence:**
+
+- *11 or lower:* **2 damage**
+- *12-16:* **4 damage**
+- *17+:* **6 damage**
 
 **Effect:** You choose the ability's damage type from acid, cold, corruption, fire, lightning, or poison.
 

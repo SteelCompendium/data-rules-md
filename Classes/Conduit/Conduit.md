@@ -15,8 +15,6 @@ As a conduit, you heal and buff your allies, and debuff your foes while smiting 
 
 [BASICS](./Basics/Basics.md)
 
-[Recoveries: 8](./Recoveries%208/Recoveries%208.md)
-
 [1ST-LEVEL FEATURES](./1st-Level%20Features/1st-Level%20Features.md)
 
 [WORD OF GUIDANCE](./Word%20Of%20Guidance/Word%20Of%20Guidance.md)

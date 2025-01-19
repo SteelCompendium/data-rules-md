@@ -1185,7 +1185,9 @@ DRAGON BREATH (COSTS 2 POINTS) You can use the following signature ability.
 
 **Distance:** 3 cube within 1
 
-**Target:** All enemies \*\*Power Roll + Might or Presence:
+**Target:** All enemies
+
+**Power Roll + Might or Presence:**
 
 - *11 or lower:* **2 damage**
 - *12-16:* **4 damage**
@@ -2284,7 +2286,7 @@ Additionally, you gain the following signature ability.
 
 Commander of the *HOV First Get Behind Them*
 
-## Memonek
+**[[Memonek]]**
 
 The original servitor species of the synliiroi--evil psions with near god-like power--the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym "[[Time Raider|time raiders]]" was given to them by denizens of the lower worlds who, seeing the advanced technology they wield, concluded they must be from the future.
 
@@ -2408,7 +2410,7 @@ You gain one of the following signature abilities.
 
 #### CONCUSSIVE SLAM
 
-*You slam an invisible force down upon the target.*
+*You slam an [[Invisible Force|invisible force]] down upon the target.*
 
 **Keywords:** Psionic, Ranged, Strike
 
@@ -2863,7 +2865,7 @@ You gain the following career benefits:
 
 - **Skills:** The Religion skill, plus two skills from the lore skill group (*Quick Build:* Religion, Culture, Magic)
 - **Project Points:** 240
-- **Perk:** One supernatural perk (*Quick Build:* Ritualist)
+- **Perk:** One supernatural perk (*Quick Build:* [[Ritualist]])
 
 #### DISCIPLE INCITING INCIDENTS
 
@@ -5115,11 +5117,11 @@ As a conduit, you [[Heal|heal]] and buff your allies, and debuff your foes while
 
 **Strong Potency:** Intuition
 
-#### Starting Stamina at 1st Level: 18
+**Starting Stamina at 1st Level:** 18
 
-#### Stamina Gained at 2nd and Higher Levels: 9
+**Stamina Gained at 2nd and Higher Levels:** 9
 
-### Recoveries: 8
+**Recoveries:** 8
 
 **Skills:** Choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Read Person, Religion)
 
@@ -6991,9 +6993,9 @@ As an elementalist, you can unleash your wrath across a field of foes, put an en
 
 **Starting Stamina at 1st Level:** 18
 
-#### Stamina Gained at 2nd and Higher Levels: 9
+**Stamina Gained at 2nd and Higher Levels:** 9
 
-### Recoveries: 8
+**Recoveries:** 8
 
 **Skills:** You gain the Magic skill and can choose any three skills from the crafting or lore skill groups. (*Quick Build:*  Magic, Alchemy, Blacksmithing, History)
 
@@ -8295,7 +8297,7 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 | ? 12-16 9 damage; push 4                     |           |                             |                      |
 | ? 17 12 damage; push 5                       |           |                             |                      |
 
-#### Earthwalk
+**Earthwalk**
 
 [[Difficult Terrain|Difficult terrain]] composed of earth and stone doesn't cost the source extra movement.
 
@@ -8993,8 +8995,7 @@ Choose one of the following abilities.
 
 ###### SPECIAL DELIVERY (5 RAGE)
 
-#### *You ready?*
-
+*You ready?*
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Maneuver
@@ -12131,8 +12132,7 @@ Power Roll + Agility:
 
 ### STAGGERING BLOW (7 INSIGHT)
 
-#### *There's no recovering from this.*
-
+*There's no recovering from this.*
 **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Type:** Action
@@ -13548,7 +13548,7 @@ Choose one of the following abilities.
 
 **Mark Benefit:** For the rest of the encounter whenever you or an ally attacks a marked target, you can spend 2 focus to make the ability ignore damage immunity and deal additional damage equal to triple your Reason score.
 
-#### HUSTLE, SQUAD! HUSTLE!(9 FOCUS)
+### HUSTLE, SQUAD! HUSTLE!(9 FOCUS)
 
 *You and your allies coordinate to form a new battle line.*
 **Keywords:** Area
@@ -13933,7 +13933,7 @@ A talent is limited only by the strength of their mind. Powerful psionic heroes 
 
 **Stamina Gained at 2nd and Higher Levels:** 9
 
-### Recoveries: 8
+**Recoveries:** 8
 
 **Skills:** Psionics and Read Person, plus choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, Read Person, Empathize, Timescape)
 
@@ -14791,7 +14791,7 @@ As a 5th-level talent, you gain the following features.
 
 You've developed a strong psychic bond with your allies that has allowed you all to coordinate supernaturally.
 
-#### 5th-Level Tradition Feature
+**5th-Level Tradition Feature**
 
 | Tradition   | Feature                               |
 | ----------- | ------------------------------------- |
@@ -15116,7 +15116,7 @@ You gain any one perk of your choice. See Perks for more information
 
 You have a mastery over your tradition that reveals itself in little ways you don't normally think about.
 
-#### 8th-Level Tradition Feature
+**8th-Level Tradition Feature**
 
 | Tradition   | Feature                           |
 | ----------- | --------------------------------- |
@@ -16115,8 +16115,7 @@ Choose one of the following abilities.
 
 ## ENCORE (5 DRAMA)
 
-#### *Again! Again!*
-
+*Again! Again!*
 **Keywords:** Magic, Strike
 
 **Type:** Action
@@ -17588,8 +17587,7 @@ Power Roll + Might or Agility:
 
 - *11 or lower:* **3 + M or A damage**
 - *12-16:* **6 + M or A damage**
-
-#### *17+:* **13 + M or A damage**
+- *17+:* **13 + M or A damage**
 
 **Effect:** If you don't take a move action this turn, this strike deals extra damage equal to your Might or Agility score (your choice).
 
@@ -18108,7 +18106,7 @@ If the [[Familiar|familiar]] is destroyed, you can restore them as a respite act
 | Stamina 2 x your level |          |            |           | Size 1T / Stability 0 |
 | Speed 5                | Might -3 | Agility +2 | Reason +0 | Intuition +0          |
 
-## Telepathic
+**Telepathic**
 
 You and the spirit can communication telepathically with with each other and share senses over while you are within 10 squares of each other.
 
@@ -21069,12 +21067,12 @@ rejoin the fight. One wrong move could spell the end of the Clock!
 - **Patience:** 3
 - **Impression:** 3
 
-### Motivations
+**Motivations**
 
 - **Benevolence:** Zola's name, Honeycut, comes from the fact that she always gives her fellow thieves a bigger cut than her own on jobs.
 - **Protection:** The members of the Clock are the only family Zola's ever known. The guild's motto is "The Clock is always ticking," because they're always planning the next job and their ever-richer future. Zola doesn't want to be the guild's last master.
 
-### Pitfall
+**Pitfall**
 
 - **Higher Authority:** Zola has no interest in serving anyone other than herself, and she scoffs at the suggestion of taking orders.
 - **Revelry:** Zola is all business and has no time for frivolity, especially while living under Saxton's threat.
@@ -26498,14 +26496,14 @@ The bandit chief is a bully and a braggart, and most negotiate using intimidatio
 
 The bandit chief archetype can be used for any other local big shot, such as the privileged child of a local lord, an arrogant tavern darts champion, or any bully.
 
-### Motivations:
+**Motivations:**
 
 - **Freedom:** No one tells me what to do--not if they want to keep their head on their shoulders. And no one tells my toughs what to do, except ME!
 - **Greed:** Gold! I love the feel of shining, clinking coins running between my fingers. I never found something to spend it on that I like as much as the gold.
 - **Power:** I want a stronger hideout, more toughs, and a bigger share of the loot. Get me that, and I'll do your dirty work for you. You can keep your fancy titles and lands.
 - **Revelry:** If you don't get drunk after a raid, then why have a raid?
 
-### Pitfalls:
+**Pitfalls:**
 
 - **Higher Authority:** By order of the baron? *I* give the orders around here!
 - **Justice:** Only the weak whine for justice--the strong make their own rules.
@@ -26520,14 +26518,14 @@ While not an idealist, the knight is a loyal servant of their liege and a stickl
 
 The knight archetype can be used for any other local authority, such as a village elder, town guard officer, or academic professor.
 
-### Motivations:
+**Motivations:**
 
 - **Higher Authority:** That's above my pay grade. If my superiors sign off on it, then so do I.
 - **Justice:** Thank you for bringing this to my attention. I agree, this must be put right. The only question is how.
 - **Peace:** People like us, we fight so that the common folk don't have to. If I must, I'll draw the sword again, to keep the peace.
 - **Revelry:** Every agreement should be sealed with a toast. Huzzah!
 
-### Pitfalls:
+**Pitfalls:**
 
 - **Benevolence:** These people don't need charity, they need order. Let them go to the town hall, and they'll get a full belly in exchange for an honest day's work.
 - **Freedom:** None of us are free--from the lowliest servant on up. Even a [[Monarch|monarch]] has a duty to their people.
@@ -26542,14 +26540,14 @@ The guildmaster knows the value of a coin and that knowledge--inside information
 
 The guildmaster archetype can be used for any other local information broker, such as a cult leader, hag, or spy.
 
-### Motivations:
+**Motivations:**
 
 - **Benevolence:** The people can't take care of themselves. Somebody's got to look after them, the poor lambs.
 - **Discovery:** It would be highly illegal for you to show me those schematics you got from a [[Rival|rival]] guild. Likewise, it would be highly illegal for me to slide you this bag of gold.
 - **Power:** Who do you think will be in [[Charge|charge]] in the next age? The nobles? Pah! They still count their wealth in cows. No, whoever controls the information will rule the world--and I intend for it to be us.
 - **Protection:** We have [[Rival|rivals]]--hungry opportunists who will stop at nothing. If I want to protect my guild, I've got to do unto them before they do unto us.
 
-### Pitfalls:
+**Pitfalls:**
 
 - **Higher Authority:** My loyalty is to the guild--not the burgomaster, not the king, not Ajax himself. But don't tell them I said that.
 - **Justice:** We're reshaping the world here. Of course, some people who can't adapt are going to find themselves on the bottom, and they're going to blame us for it--but I had thought you were smarter than that.
@@ -26564,14 +26562,14 @@ The warlord has raised their banner, and troops flock to their cause. Some say t
 
 The warlord archetype can be used for any other locallevel threat, such as a vampire, hobgoblin bloodlord, or rebellious noble.
 
-### Motivations:
+**Motivations:**
 
 - **Freedom:** I'm not paying a coin to some weakling liege lord for the privilege of being told what to do. I've raised my banner. I defy anyone to pull it down.
 - **Legacy:** Did you see that young captain out there putting the fear of the gods into her troops? That's my kid, but she earned her title. Someday this will all be hers.
 - **Peace:** Look around you. Everywhere you look weakness, corruption, waste. Peace is a noble goal, but we won't have peace until the current regime is swept away.
 - **Vengeance:** Have you suffered like I have at the hands of that accursed villain? If so, then I'll gladly call you friend.
 
-### Pitfalls:
+**Pitfalls:**
 
 - **Benevolence:** Go back to your street corner and beg for alms if that's what you're after. You'll get nothing from me.
 - **Discovery:** What does that have to do with me? I'm a [[Soldier|soldier]], not a scholar.
@@ -26586,14 +26584,14 @@ The burgomaster's power comes from their constituents, and for the most part the
 
 The burgomaster archetype can be used for any other local ruler, such as a baron, governor, or a watch captain in a metropolis.
 
-### Motivations:
+**Motivations:**
 
 - **Greed:** Keep talking. I'm sure we can come to an agreement that benefits all parties. A rising tide and all that.
 - **Higher Authority:** No one can accuse me of being disloyal. What my duty demands, I do--but let's determine the most sensible way to go about it.
 - **Justice:** The rule of law must be preserved. If you have evidence of crimes, they must be punished.
 - **Protection:** The weak, the helpless ... they depend upon me and, to a lesser extent, civic-minded heroes like yourselves. Together we'll make sure the people come to no harm.
 
-### Pitfalls:
+**Pitfalls:**
 
 - **Vengeance:** In politics you have to have a short memory. Your enemy today may be your ally tomorrow. There's no need to make things personal.
 - **Discovery:** Trust me. No good is going to come from poking that particular beehive.
@@ -26608,14 +26606,14 @@ The virtuoso is the preeminent musician in the land perhaps a celebrated opera s
 
 The virtuoso archetype can be used for any other local celebrity, such as a master crafter, inspired artist, famous [[Gladiator|gladiator]], or world champion.
 
-### Motivations:
+**Motivations:**
 
 - **Freedom:** I follow my muse, my only master. Who would dare put handcuffs on art?
 - **Legacy:** Castles will crumble. Empires will fall. But if I can only produce a work worthy of my talents, my name will live forever.
 - **Peace:** In war, bronze statues are melted down for armor. Money is wasted on ballistae instead of ballads. War is a crime against the god of art.
 - **Revelry:** Yes, tonight let us celebrate! Inspiration looks down kindly on those who drink life to the dregs.
 
-### Pitfalls:
+**Pitfalls:**
 
 - **Greed:** You offer me money? Money comes to geniuses--it is our due. I can get it from a thousand admirers.
 - **Power:** I have no ambitions beyond this opera house. For me to leave this place, even for a palace or a throne ... it would be an [[Exile|exile]] for me.
@@ -26630,14 +26628,14 @@ The high priest may be a high-ranking member of their faith, but as they are qui
 
 The high priest archetype can be used for any other national authority, such as a count, judge, or general.
 
-### Motivations:
+**Motivations:**
 
 - **Benevolence:** We are agreed on this matter. If this threat puts people in danger, we must come to their rescue.
 - **Discovery:** Oh indeed? Um ... I would be interested in looking at that document further. Surely no harm can come from being aware of the snares and dangers in the world.
 - **Higher Authority:** Indeed, my appointed duty is to serve everyone--whether it be my deity, my liege, or the poorest person crying out in need.
 - **Justice:** Rest assured, the good will receive their just reward, and the evil will be punished. I will see to it.
 
-### Pitfalls:
+**Pitfalls:**
 
 - **Greed:** Don't offer that to me. Donate it to the faith, if you have no need of it.
 - **Legacy:** Me? I am no one. My good deeds, if I have any, are to my deity's credit, not my own.
@@ -26652,14 +26650,14 @@ As the duke gestures you to join him at his card table, spies whisper into his e
 
 The duke archetype can be used for any other royal counselor, such as an archmage, spymaster, vizier, or even a beloved jester.
 
-### Motivations:
+**Motivations:**
 
 - **Discovery:** My [[Agent|agents]] have brought me many whispers, but this is news to me. Who else knows of this?
 - **Higher Authority:** I must do as my liege commands.
 - **Peace:** We must have stability. I will sacrifice anything--and anyone--for this.
 - **Vengeance:** There is one--I will not speak their name--who thinks I have forgotten what they did to me. Someday they will discover that I have a long memory. Perhaps you have no love for this person either.
 
-### Pitfalls:
+**Pitfalls:**
 
 - **Benevolence:** Do you think I do what I do because I love my fellow people? Half of them are nitwits, and the other half are villains. But without them, I'd be the Duke of Nothing, so I must preserve them.
 - **Greed:** Put away your gold. I'm far too busy to spend it.
@@ -26674,14 +26672,14 @@ The dragon's tremendous might is only overshadowed by their boundless ambition a
 
 The dragon archetype can be used for any other kingdomlevel threat, such as a fire giant chief, a contender for a throne, or Lord Syuul.
 
-### Motivations:
+**Motivations:**
 
 - **Freedom:** Yes, my ambitions have been bound to the earth far too long. It's time I took flight.
 - **Greed:** Bring me tribute now, and when I rule I will not forget you.
 - **Protection:** My people have been mistreated for centuries. It ends now!
 - **Vengeance:** This land, these people, their treasures, rightfully mine. Stolen from me!
 
-### Pitfalls:
+**Pitfalls:**
 
 - **Legacy:** No heir will outlive me, no legend will remember my past glory ... for I shall never die!
 - **Peace:** You want to make peace? When there are still things in the world that are not yet mine?
@@ -26696,14 +26694,14 @@ Whether they're good or evil, the [[Monarch|monarch]] is accustomed to authority
 
 The [[Monarch|monarch]] archetype can be used for any other kingdom-level ruler, such as a tyrant, a theocracy's archpriest, or a republic's consul.
 
-### Motivations:
+**Motivations:**
 
 - **Benevolence:** It's not for nothing I'm called "the Good."
 - **Greed:** Your offer intrigues me. In truth, our coffers are not as full as I should like.
 - **Justice:** Ah, do the villains ignore my laws? They must be punished!
 - **Legacy:** If I should die, promise me this: you will serve my heir as loyally as you have served me.
 
-### Pitfalls:
+**Pitfalls:**
 
 - **Discovery:** Keep your secrets to yourself. I'm a [[Monarch|monarch]], not a spymaster.
 - **Freedom:** Freedom? Some of my disloyal subjects speak that word a little too often for my liking. I hope you're not one of them.
@@ -26718,14 +26716,14 @@ The lich spent centuries alone, studying and building their power ... but now th
 
 The lich archetype can be used for any other worldshaking threat, such as a would-be emperor or Count Rhodar von Glauer.
 
-### Motivations:
+**Motivations:**
 
 - **Discovery:** Give me that book at once! Your very touch pollutes it.
 - **Power:** Yes ... yes ... power! Ahahahaha! Bring me this power and you will be rewarded.
 - **Revelry:** Join my court for the coming feast! We shall know such entertainments as were never seen in this world before.
 - **Vengeance:** The world despised me ... banished me ... forgot me. The world shall regret it.
 
-### Pitfalls:
+**Pitfalls:**
 
 - **Benevolence:** Do you ask the [[Farmer|farmer]] to pity the wheat before it's harvested?
 - **Legacy:** I don't care what the common people think of me. The less they think of me the better, as long as they obey my commands.
@@ -26740,14 +26738,14 @@ The deity will listen to your prayers, and perhaps answer them as well--if the m
 
 The deity archetype can be used for any other worldtranscending power, such as Cthrion Uroniziir or Khorsekhef the Infinite.
 
-### Motivations:
+**Motivations:**
 
 - **Benevolence:** Worry not ... I have sent champions to save the world. Perhaps these champions ... are closer than you think.
 - **Legacy:** When that blessed day comes, all shall come before me to pray, and I shall offer my blessings to the world!
 - **Power:** Although I am all-powerful on the spiritual realm, my hands are bound in such worldly matters. But if you act for me, I can offer a little assistance.
 - **Protection:** Have faith, little one... none will be forgotten or left behind.
 
-### Pitfalls:
+**Pitfalls:**
 
 - **Discovery:** Mortal, what can you tell me that I do not know?
 - **Freedom:** True freedom lies in service to me. Surrender your freedom and I shall raise you up high.
@@ -26835,7 +26833,7 @@ The target site is well-defended, with patrols that change every few hours. The 
 
 Half the work of a successful infiltration is done before setting foot in the target building. If the heroes choose, they can make individual tests as part of the montage test before they enter the site. One round of montage tests can be made in this way. These tests don't affect the alarm level of the site.
 
-#### Preparation Challenges
+**Preparation Challenges**
 
 - **Bribe Guards:** The heroes can pay off guards to look the other way. On a success, the active hero's Wealth is lowered by 1. Suggested characteristic: Presence. Suggested skills: [[Criminal]] Underworld, Flirt, Persuade
 - **Find Blueprints:** Research secret entrances and littleknown passageways in forgotten libraries or wellguarded town halls. Suggested characteristics: Agility, Reason. Suggested skills: Architecture, Sneak, History
@@ -26843,7 +26841,7 @@ Half the work of a successful infiltration is done before setting foot in the ta
 - **Learn Guard Schedules:** Keep ears and eyes open and learn when guards go off duty. Suggested characteristics: Intuition, Reason. Suggested skills: Alertness, Eavesdrop, Track
 - **Make False Identities:** Prepare to [[Walk|walk]] right into the palace in plain sight. Suggested characteristics: Presence, Reason. Suggested skills: Disguise, Forgery, Lie
 
-#### Infiltration Challenges
+**Infiltration Challenges**
 
 When the heroes begin their infiltration, the alarm level of the site starts at 0. While infiltrating the site, whenever the heroes fail a test that is part of the montage test, the alarm level of the site increases, to a maximum of 2. When the heroes succeed at a test, the alarm level decreases, to a minimum of 0. All of the heroes' montage tests inside the site gain a number of banes equal to the current alarm level.
 

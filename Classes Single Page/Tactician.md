@@ -598,7 +598,7 @@ Choose one of the following abilities.
 
 **Mark Benefit:** For the rest of the encounter whenever you or an ally attacks a marked target, you can spend 2 focus to make the ability ignore damage immunity and deal additional damage equal to triple your Reason score.
 
-### Hustle, Squad! Hustle!(9 Focus)
+## Hustle, Squad! Hustle!(9 Focus)
 
 *You and your allies coordinate to form a new battle line.* **Keywords:** Area
 

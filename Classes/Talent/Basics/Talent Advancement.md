@@ -5,7 +5,7 @@ name_raw: Talent Advancement
 name: Talent Advancement
 type: classes
 subtype: talent
-kind: recoveries 8
+kind: basics
 ---
 
 # Talent Advancement

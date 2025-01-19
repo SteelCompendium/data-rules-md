@@ -6,7 +6,6 @@ name: Battleplan
 cost: 9 Focus
 type: classes
 subtype: tactician
-kind: battleplan
 distance: Ranged 10
 target: 3 creatures \|
 ---
@@ -26,9 +25,3 @@ target: 3 creatures \|
 **Effect:** Each target is marked by you. Immediately and for the rest of the encounter, the Director tells you if any marked enemies have damage immunity or weakness and what the value of either is. You and all allies within 3 squares of you gain two surges.
 
 **Mark Benefit:** For the rest of the encounter whenever you or an ally attacks a marked target, you can spend 2 focus to make the ability ignore damage immunity and deal additional damage equal to triple your Reason score.
-
-[HUSTLE, SQUAD! HUSTLE!(9 FOCUS)](<./Hustle%20Squad%20HUSTLE(9%20FOCUS)/Hustle%20Squad%20HUSTLE(9%20FOCUS).md>)
-
-[INSTANT RETALIATION (9 FOCUS)](./Instant%20Retaliation.md)
-
-[TO ME, SQUAD!(9 FOCUS)](<./To%20Me%20SQUAD(9%20FOCUS).md>)

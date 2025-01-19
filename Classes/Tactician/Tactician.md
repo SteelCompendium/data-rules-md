@@ -47,7 +47,9 @@ As a tactician, you have abilities that heal your allies and grant them increase
 
 [PANIC IN THEIR LINES (9 FOCUS)](./Panic%20In%20Their%20Lines/Panic%20In%20Their%20Lines.md)
 
-[BATTLEPLAN (9 FOCUS)](./Battleplan/Battleplan.md)
+[BATTLEPLAN (9 FOCUS)](./Battleplan.md)
+
+[HUSTLE, SQUAD! HUSTLE!(9 FOCUS)](<./Hustle%20Squad%20HUSTLE(9%20FOCUS)/Hustle%20Squad%20HUSTLE(9%20FOCUS).md>)
 
 [7TH-LEVEL FEATURES](./7th-Level%20Features/7th-Level%20Features.md)
 

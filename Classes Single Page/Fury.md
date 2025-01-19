@@ -371,7 +371,7 @@ Choose one of the following abilities.
 
 ##### Special Delivery (5 Rage)
 
-### *you Ready?*
+*You ready?* **Keywords:** Melee, Strike, Weapon
 
 **Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's stability, and the target takes no damage from the move. At the end of this movement, the target can make a free strike that deals additional damage equal to your Might score.
 

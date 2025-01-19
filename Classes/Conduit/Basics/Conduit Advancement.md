@@ -5,7 +5,7 @@ name_raw: Conduit Advancement
 name: Conduit Advancement
 type: classes
 subtype: conduit
-kind: recoveries 8
+kind: basics
 ---
 
 # Conduit Advancement

@@ -41,7 +41,7 @@ A talent is limited only by the strength of their mind. Powerful psionic heroes 
 
 **Stamina Gained at 2nd and Higher Levels:** 9
 
-## Recoveries: 8
+**Recoveries:** 8
 
 **Skills:** Psionics and Read Person, plus choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, Read Person, Empathize, Timescape)
 

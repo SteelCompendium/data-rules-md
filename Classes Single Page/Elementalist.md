@@ -40,9 +40,9 @@ As an elementalist, you can unleash your wrath across a field of foes, put an en
 
 **Starting Stamina at 1st Level:** 18
 
-### Stamina Gained At 2nd And Higher Levels: 9
+**Stamina Gained at 2nd and Higher Levels:** 9
 
-## Recoveries: 8
+**Recoveries:** 8
 
 **Skills:** You gain the Magic skill and can choose any three skills from the crafting or lore skill groups. (*Quick Build:* Magic, Alchemy, Blacksmithing, History)
 
@@ -950,7 +950,7 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 | ? 12-16 9 damage; push 4                     |           |                             |                      |
 | ? 17 12 damage; push 5                       |           |                             |                      |
 
-### Earthwalk
+**Earthwalk**
 
 Difficult terrain composed of earth and stone doesn't cost the source extra movement.
 
