@@ -14,6 +14,8 @@ How tall is a [[Polder|polder]]? How long does a [[Dwarf|dwarf]] live? The Ances
 
 [[Human|Humans]] have the potential to live a little longer on Orden than they do in the real world thanks to the presence of magic.
 
+## Ancestry Measurements
+
 | Ancestry          | Height inFeet/Inches | Weight inPounds | Life Expectancyin Years |
 | ----------------- | -------------------- | --------------- | ----------------------- |
 | [[Devil]]         | 5'0"-6'0"            | 120-250         | 70-120                  |
@@ -27,5 +29,3 @@ How tall is a [[Polder|polder]]? How long does a [[Dwarf|dwarf]] live? The Ances
 | [[Orc]]           | 5'6"-6'6"            | 150-300         | 50-90                   |
 | [[Polder]]        | 3'0"-3'6"            | 20-50           | 50-90                   |
 | [[Time Raider]]   | 5'0"-6'0"            | 120-250         | 50-90                   |
-
-## Ancestry Measurements

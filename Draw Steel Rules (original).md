@@ -811,6 +811,8 @@ Revenants are not on the table, since they live until destroyed or moving on aft
 
 Humans have the potential to live a little longer on Orden than they do in the real world thanks to the presence of magic.
 
+### ANCESTRY MEASUREMENTS
+
 | Ancestry | Height inFeet/Inches | Weight inPounds | Life Expectancyin Years |
 | --- | --- | --- | --- |
 | Devil | 5'0"-6'0" | 120-250 | 70-120 |
@@ -824,8 +826,6 @@ Humans have the potential to live a little longer on Orden than they do in the r
 | Orc | 5'6"-6'6" | 150-300 | 50-90 |
 | Polder | 3'0"-3'6" | 20-50 | 50-90 |
 | Time Raider | 5'0"-6'0" | 120-250 | 50-90 |
-
-### ANCESTRY MEASUREMENTS
 
 ## STARTING SIZE AND SPEED
 
