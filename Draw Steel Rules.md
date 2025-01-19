@@ -13532,7 +13532,7 @@ Power Roll + Might:
 
 Choose one of the following abilities.
 
-### BATTLEPLAN (9 FOCUS)
+##### BATTLEPLAN (9 FOCUS)
 
 *With new understanding of your foes, you create the perfect plan to win the encounter.*
 **Keywords:**
@@ -17583,7 +17583,7 @@ You wear no armor and wield a bow.
 
 **Target:** 1 creature
 
-Power Roll + Might or Agility:
+**Power Roll + Might or Agility:**
 
 - *11 or lower:* **3 + M or A damage**
 - *12-16:* **6 + M or A damage**
@@ -26836,7 +26836,7 @@ Half the work of a successful infiltration is done before setting foot in the ta
 **Preparation Challenges**
 
 - **Bribe Guards:** The heroes can pay off guards to look the other way. On a success, the active hero's Wealth is lowered by 1. Suggested characteristic: Presence. Suggested skills: [[Criminal]] Underworld, Flirt, Persuade
-- **Find Blueprints:** Research secret entrances and littleknown passageways in forgotten libraries or wellguarded town halls. Suggested characteristics: Agility, Reason. Suggested skills: Architecture, Sneak, History
+- **Find Blueprints:** Research secret entrances and little known passageways in forgotten libraries or well guarded town halls. Suggested characteristics: Agility, Reason. Suggested skills: Architecture, Sneak, History
 - **Identify Unguarded Entrance:** Find a forgotten back door or climbable window, or learn about one through contacts. Suggested characteristics: Agility, Intuition. Suggested skills: Alertness, Architecture, [[Criminal]] Underworld
 - **Learn Guard Schedules:** Keep ears and eyes open and learn when guards go off duty. Suggested characteristics: Intuition, Reason. Suggested skills: Alertness, Eavesdrop, Track
 - **Make False Identities:** Prepare to [[Walk|walk]] right into the palace in plain sight. Suggested characteristics: Presence, Reason. Suggested skills: Disguise, Forgery, Lie

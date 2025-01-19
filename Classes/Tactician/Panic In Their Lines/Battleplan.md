@@ -6,6 +6,7 @@ name: Battleplan
 cost: 9 Focus
 type: classes
 subtype: tactician
+kind: panic in their lines
 distance: Ranged 10
 target: 3 creatures \|
 ---

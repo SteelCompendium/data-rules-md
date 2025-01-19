@@ -26,3 +26,5 @@ Power Roll + Might: - *11 or lower:* **6 + M damage; slide 1** - *12-16:* **9 + 
 **Effect:** When a creature is moved into another creature by this ability, they perform a free strike against the creature they moved into.
 
 [6TH-LEVEL MASTERMIND ABILITIES](./6th-Level%20Mastermind%20Abilities.md)
+
+[BATTLEPLAN (9 FOCUS)](./Battleplan.md)

@@ -586,7 +586,7 @@ Power Roll + Might: - *11 or lower:* **6 + M damage; slide 1** - *12-16:* **9 + 
 
 Choose one of the following abilities.
 
-## Battleplan (9 Focus)
+#### Battleplan (9 Focus)
 
 *With new understanding of your foes, you create the perfect plan to win the encounter.* **Keywords:**
 
