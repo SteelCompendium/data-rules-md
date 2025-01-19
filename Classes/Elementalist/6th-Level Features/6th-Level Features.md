@@ -20,6 +20,4 @@ As a 6th-level elementalist, you gain the following features.
 
 [MAGMA TITAN (9 ESSENCE)](./Magma%20Titan.md)
 
-[METEOR (9 ESSENCE)](./Meteor.md)
-
-[THE WODE REMEMBERS AND RETURNS (9 ESSENCE)](./The%20Wode%20Remembers%20And%20Returns.md)
+[METEOR (9 ESSENCE)](./Meteor/Meteor.md)

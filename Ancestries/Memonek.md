@@ -4,130 +4,169 @@ title: Memonek
 name_raw: Memonek
 name: Memonek
 type: ancestries
+keywords: Psionic, Ranged, Strike
+keyword_list:
+  - Psionic
+  - Ranged
+  - Strike
+ability_type: Maneuver
+distance: Self or Melee 1
+target: Self or 1 ally
 ---
 
 # Memonek
 
-*"This world of yours. Ships of wood and swords of steel. It's so ... primitive. Like a fairy tale."*
+The original servitor species of the synliiroi--evil psions with near god-like power--the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym "[[Time Raider|time raiders]]" was given to them by denizens of the lower worlds who, seeing the advanced technology they wield, concluded they must be from the future.
 
-*"Where do you come from, lady, that our world seems a fable? You have no ships and swords?"*
+Extraordinarily rare in Orden, the [[Time Raider|time raiders]] thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
 
-*"We have them." Lady Urusistra cast a hand across the sky. "You see those stars? That is my home--the timescape. Our ships are great star freighters that ply the space lanes. And among those stars, light hits as hard as steel."*
+In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. [[Time Raider|Time raiders]] also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
 
-The native denizens of Axiom, the Plane of Uttermost Law, memonek dwell in a land with lakes and trees and birds and flowers. But on this alien world, the lakes are seas of mercury, the birds glitter with wings of glass stretched gossamer thin, and the flowers' petals are iridescent metal as flexible and fragile as any earthly rose.
+## On Time Raiders
 
-The minds of memonek are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like Orden where law and chaos mix,
+"You will tell me the location of the ship you came here in."
 
-a sickness comes over them--an uncontrollable sensation called emotion.
+Taxiarch Lycaon paced outside the ruined church. The four-armed woman with crystal eyes and flaming pink hair in a strip down the center of her shaved head sneered at him. She was chained to the ruin of a stone column outside the ruin of a stone church.
 
-## On Memonek
+"Is it that your brain is so small you must *talk* in order to *think*?" The woman's smile was a sneer.
 
-"You want to tell me what just happened?" Sir John asked. Count Revile avoided his gaze, then turned and stamped away across the bloody battlefield.
+Lycaon strode toward the alien, grabbed a length of chain around her waist and yanked on it, pulling it taut so the chain around her neck tightened. "You are going to die in any event," he said. "If you wish to deny me the pleasure of hearing you howl and scream for mercy, tell me what I want to know now and my dogs will kill you quickly."
 
-"I'm fine!" Revile shouted, all evidence to the contrary.
+Up close she could see the fine stitching along Lycaon's cheeks and forehead, the very slight differences in skin tone that showed his skin was not his own.
 
-"I know what I saw," John said as he followed his friend. "You went into a bloodlust. And it's not the first time. Whether you like it or not, whether I like it or not, I'm in charge of this mission. Either you tell me what's going on, or I have no choice. I *have* to conclude you're a danger to the team and cut you loose."
+"You seem to be made of *bits*," the alien said as she peered at Lycaon, her crystalline eyes catching and reflecting prismatic light. "And not the best bits. Leftovers? Is that what you are? A walking assemblage of cast-off scraps? Hahah, I thought the proteans were hideous. Someone should let them know! There are creatures even more foul-seeming and *useless* in the timescape."
 
-Revile stopped and turned to look at the rest of the party, recovering from their wounds. The memonek's white porcelain chest heaved as he tried to calm himself. His ceramic skin looked as strong as plate, but John knew it was brittle, fragile.
+The Taxiarch smiled to himself, nodded with respect at the woman's epithets. He placed his foot on a low piece of rubble, once part of the wall of the stone church, and leaned his arm on his knee. He was not dressed as the other war dogs. No black leather for him. He wore a gold breastplate with the embossed head of a ram molded into it, a white cape over his back. Gold greaves and red leather boots and gloves. The other war dogs only had patches of hair but his was long and blonde.
 
-Count Revile took a deep breath. "We call it *velloparatha*," he said. "In your tongue it would be ... world-sick ... or world-sickness? It is a thing that happens ... to my people ... when they come to your world. It is an illness of ... of feeling. Emotion."
+He struck a casual, jaunty pose. "Where is your worldship?" he said in a more reasonable voice. "Or came you here in a single-seater starskimmer?" At this, the alien's crystal eyes went wide, betraying surprise. "You see?" The Taxiarch said, impressed with himself. "I am not a primitive like these peasants, who hounded you because you are alien," he nodded at the folk of the small town watching from the stables some distance away. "I am Ajax's elite. Better than his chosen. I was *made* for victory." Indeed, Taxiarch Lycaon looked almost fully [[Human|human]]. Handsome and fit like a statue from Phaedros, which his model had almost certainly been inspired by. Unless you looked closely, there was no sign he was a product of the body banks. "If you agree to lead me to your vessel, I will let you go free."
 
-"Are you going mad?" John asked in a whisper.
+The alien sighed. "'Blaap blaap blaap,'" she said. "You should hear yourself. Like barking thrazz, you sound to me. Who holds your leash I wonder? For surely a microbrain such as you could not command any more than these rabble," she nodded her head at the other twenty or so war dogs.
 
-The memonek smiled ruefully. "It feels that way sometimes. I spent an hour this morning staring at an insect that landed on my finger--a grasshopper, the polder called it. I thought I had never seen a thing so perfect and beautiful. That was awe. As powerful as I have ever felt. In the battle today, anger--just as powerful.
+Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head smashed into the ruined column. She was dazed but she shook it off and laughed.
 
-"I thought I could resist it. When I arrived here and felt no different, I thought perhaps world-sickness was a legend. But it is a slow process, this illness, these insidious emotions."
+"Look how easily this one is goaded!" she said. She spat out dark blue blood and turned to the peasants gathered. "You people! Why do you let yourselves be cowed by these ... bits? Bits of people kludged together? Even the least of you is worth more than these."
 
-"No emotions where you're from?"
+"Perhaps from the air," Flight Captain Lyria offered, and she stroked the feathers of her giant hawk mount to calm it. "I could scout the forest around the ..."
 
-Count Revile shook his head. "Not like this. We are creatures of reason, we of Axiom. It is our art, our pride our religion sometimes, methinks. We have emotions. Joy, sadness, wonder, grief. Love. But they are ... a fashion. They do not *happen* to us. They are something we indulge in, out of propriety. Here... everything is order and chaos mixed--even in me. In me." Revile placed his hand on his chest.
+"No!" Taxiarch Lycaon pointed a finger at the hawklord and strode toward her. "*You* are the elite of Ajax's winged harriers, *I* am his chosen brigade commander. *We* are not scavengers! This one," he stabbed a gloved finger at the alien, "will come to heel, or I will give her to my war dogs." He turned to face the chained alien, who yawned. Lycaon seethed.
 
-"In the battle today," he said. "That anger was not directed at Ajax's War Dogs. It was directed at myself."
+"They may pull you apart," he said to her, and at this his squadron of [[Soldier|soldiers]], all in black leather and golden pauldrons, started making barking sounds. Then they laughed at each other.
 
-"At yourself? Why? What did you--"
+"Or I may let my crucibite melt the skin from your bones." At that, a war dog clad in leather from head to foot
 
-"John," the memonek said, and now it was his turn to whisper. "I was afraid. Afraid of ... of being wounded, of failing you, failing my friends ... of dying. And out of that fear came ... enormous anger--at myself. Anger that I was so weak, so ... useless. Anger so ... strong, so powerful ... I forgot who I was."
+wearing a heavy mask with glass circles where the eyes should be and some kind of canister over his mouth stepped forward. The long thin brass tube in his hands connected to a large metal tank on his back.
 
-John chuckled. "That's just ..." He smiled broadly. "That's normal, man. That's just normal. We all feel that way."
+"Shall I let you choose?" the Taxiarch said and drew a dagger from his belt. "I will cut off one finger. If you cry out, *I* kill you. If not, another finger. And if you cry out then ..."
 
-"What? No, you don't understand--"
+Slowly everyone assembled could make out the sounds of a conversation, quiet with a metallic ring to it. The voices got louder until eventually they could be heard.
 
-"Oh, I don't understand? Okay, let me guess--it felt like you were gonna piss yourself."
+"... should be ready for anything," one voice said, deep, commanding, and images started to form around and between the war dogs, the hawklord, and the Taxiarch. Like faded images in a manuscript they seemed, gaining pigment and clarity and, eventually, depth as their voices grew louder and clearer.
 
-"Yes!"
+"Oh, thank you for the brilliant tactical advice," another voice, high pitched, piped up.
 
-"Yeah, happens to all of us."
+Suddenly, the images became three dimensional, solid, and four heroes stood among them. A [[Human|human]] in working battle plate. A [[Polder|polder]] with twin rapiers in his hands. A tall willowy high elf with night-black skin and golden hair. And a [[Dragon Knight]]. The people of the town gasped when they saw him. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
 
-"Even you?!"
+The war dogs scrambled. For a moment, it seemed they might flee at this sudden intrusion, but the Taxiarch bellowed "Hold fast!" and they held their ground, uncertainty over the unknown threat of a band of heroes battling in each of them with the certain fear of their commander.
 
-Sir John shrugged. "Are you kidding? Sure. But it doesn't help. You still got a job to do. In fact, I'd say that is the job. Anyone can learn the blade." He placed his hand on the pommel of his sword. "Nothing special about that. It's learning to deal with the fear. That's the job--what separates the professionals from the amateurs."
+John immediately read the situation. It was a clear enough picture.
 
-Count Revile said nothing, just thinking.
+There was something about the war dogs. They loved Ajax's cruelty--reveled in it. John had crossed swords with other commanders in Ajax's army before. Ground Commander Vordokov was a professional--could be reasoned with, but he was an [[Orc|orc]].
 
-"Feeling better?"
+Not the war dogs--they were fanatics.
 
-Revile nodded. "I always recover afterward, but these outbursts come unbidden, like thunder from a clear sky."
+"What's this?" the Taxiarch called out with a hungry grin. "Allies of the alien?" He was projecting confidence. Trying to muster his wary [[Soldier|soldiers]].
 
-"Hmm. Yeah. Well, that explains what happened when you met Embers."
+Sir John ignored the war dog, tilted his head toward the alien. "Embers?"
 
-Count Revile did not like being reminded of that. He looked to the sky and shook his head. "I made a fool of myself."
+"A kuran'zoi," the high elf said, and the alien held her head up with pride. "A [[Time Raider|time raider]] from the upper worlds. What the truth is I cannot say, and no people are all one thing. But by reputation? They're intractable, ungovernable, they loathe authority, hate tyranny and are totally, utterly without fear."
 
-"Don't be so hard on yourself. If you're trying to seduce our void mage, you made a good start of it. She's three thousand years old, I've known her since I was fifteen. I don't think I've ever seen her *blush*. Anyway, now that I know what's going on, now that I know you're basically a giant teenager with overactive glands, I can relax a little."
+John watched the alien. They sneered their approval at Ember's summary. That was enough for Sir John, they could work out the details later. After everything they'd been through before, he trusted Embers implicitly.
 
-Sir John and Count Revile, both tacticians, stood together on the bloody battlefield, looking at each other.
+He could see the shape of the next moments play out, all he had to do was take the initiative. If he was right, the whole
 
-"John, I fear this may get worse before it gets better."
+thing would be over in seconds. There was no time to communicate. No time to plan, and everyone, *everyone* had to play their part.
 
-"So, just like everything else?" He clapped the memonek on the shoulder. "Don't worry, we'll get through it together. I'll let the others know. Once they understand, they'll help too. They'll probably just take the piss out of you. That'll help, you'll love that."
+John knew what came next, but he wasn't an assassin. He had his own part to play. He took a step forward, away from his teammates, and noted the Taxiarch didn't react. This spoke volumes. He locked eyes with his enemy.
 
-"You're a good friend, John."
+"She goes free," John commanded, his voice steel, "or you die here." He could feel the muscles tightening in his comrades, the whole company like a steel spring wound tight.
 
-"Heh. Is that you, or the world-sickness talking?"
+Lycaon cocked his head at Sir John and took a few foolish steps toward the tactician. He was just out of reach. But close enough.
 
-"Me, I think. The world-sickness would have me say ... you're a bastardly son of a bitch. But you're my bastardly son of a bitch." Count Revile smiled.
+"I see you are a man, like Ajax. Why do you lower yourself with these ... creatures?" the war dog Taxiarch looked at the elf, [[Polder|polder]], and [[Dragon Knight|dragon knight]]. "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you," his voice lowered almost to a whisper, "to be on the winning side for a change."
 
-John laughed and put his arm around his friend as they headed back to the party. "Funny. The world-sickness sounds a lot like me."
+Sir John took a deep breath, his body language changed and that was enough. Several things then happened at once, so quickly no one would later be able to say who acted first.
 
-## Memonek Benefits
+Ember's eyes flashed into a starfield. The [[Time Raider|time raider]]'s chains dissolved into starspace and reappeared around Flight Captain Lyria pinning her arms to her side. She was giving the hawklord an excuse to sit this one out. Gods, John was glad she was with them.
 
-Memonek heroes have access to the following traits.
+The [[Time Raider|time raider]]'s right upper hand shot out, as though she'd been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who'd chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
 
-### Signature Trait: Fall Lightly
+From the sun's shadow cast by Taxiarch Lycaon the [[Polder|polder]] Jackson Bootblack emerged, a rapier in each hand, and no one had seen him move from where he'd been a moment before.
 
-Your silicone body is low in density. Whenever you fall, you reduce the distance of the fall by 2 squares.
+At the same instant, a call--a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in John's heart--the Clarion Call of the last Storm Knight!
 
-### Signature Trait: Lightweight
+John hadn't hesitated, he'd already drawn his sword. "Alright, you patchwork son of a bitch." He charged Lycaon who fumbled with the short-sword on his belt.
 
-Your body is light for a creature of your height. Your size is considered 1S when being force moved by another creature.
+\*\*"\*\**Draw steel!"*
 
-### Purchased Memonek Traits
+## Time Raider Traits
 
-You have 4 ancestry points to spend on the following traits. (*Quick Build:* Lightning Nimbleness, Nonstop)
+[[Time Raider|Time raider]] heroes have access to the following traits.
 
-#### I Am Law (costs 1 Point)
+### Signature Trait: Four Arms
 
-Your lawful nature and quick reflexes give no quarter to enemies trying to get around you. Enemy creatures can't pass through your space unless you allow them to do so.
+Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [[Grab]] or [[Knockback]] maneuver against an adjacent creature, you can target an additional adjacent creature, using the same power roll for both targets. You can [[Grab|grab]] up to two creatures at a time.
 
-#### Systematic Mind (costs 1 Point)
+### Purchased Time Raider Traits
 
-You have an edge on tests to parse schematics, maps, and other systematic documentation that aren't inherently chaotic. In addition, you interact with any language you don't know as if you know a related language, whether or not you actually do.
+You have 2 ancestry points to spend on the following traits. (*Quick Build:* Beyond Sight, Psychic Scar: Psionic Bolt)
 
-#### Unphased (costs 1 Point)
+#### Beyondsight (costs 1 Point)
 
-Your ordered mind can't be caught off guard. You can't be surprised.
+As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that 1 square thick or less. While your vision is adjusted this way, you can't see and don't have line of effect to any creatures or objects within 1 square of you. You can return your vision to normal as a maneuver.
 
-#### Useful Emotion (costs 1 Point)
+#### Foresight (costs 1 Point)
 
-Velloparatha might hinder, but it also fuels your strikes. You know how to turn your pain into something your enemies feel. When combat starts, you gain one surge.
+Your senses extend past mundane obscuration and the veil of the future alike. You instinctively know the location of any concealed creatures who aren't hidden from you, negating the usual bane on strikes against them. Additionally, whenever you are targeted with a strike, you can use a triggered action to impose a bane on the power roll.
 
-#### Keeper Of Order (costs 2 Points)
+#### Psychic Scar (costs 1 Point)
 
-Your connection to Axiom, the plane of uttermost law, allows you manage chaos around you. When you or a creature adjacent to you makes a power roll, you can remove an edge or a bane on the roll as a free triggered action. You can only use this benefit once per round.
+Your mind is a formidable layer of defense, granting you psychic immunity equal to your level.
 
-#### Lightning Nimbleness (costs 2 Points)
+#### Psionic Gift (costs 2 Points)
 
-You can push your body to move at incredible speeds. Your speed is 7.
+You gain one of the following signature abilities.
 
-#### Nonstop (costs 2 Points)
+### Concussive Slam
 
-Your connection to Axiom allows you to regulate your movements, even when other creatures would be forced to pause. You can't be slowed.
+*You slam an invisible force down upon the target.*
+
+|                                       |                            |
+| :------------------------------------ | :------------------------- |
+| **Keywords:** Psionic, Ranged, Strike | **Type:** Maneuver         |
+| **Distance:** Self or Melee 1         | **Target:** Self or 1 ally |
+
+**Power Roll + Reason, Intuition, or Presence:**
+
+- *11 or lower:* **2 + R, I, or P damage**
+- *12-16:* **5 + R, I, or P damage; push 1**
+- *17+:* **7 + R, I, or P damage; push 2; M \< \[strong\] prone**
+
+## Psionic Bolt
+
+*You shoot forth a beam of psychic purple force that grips your target.* **Keywords:** Psionic, Ranged, Strike
+
+**Power Roll + Reason, Intuition, or Presence:**
+
+- *11 or lower:* **2 + R, I, or P psychic damage; slide 1**
+- *12-16:* **5 + R, I, or P psychic damage; slide 2**
+- *17+:* **7 + R, I, or P psychic damage; slide 3**
+
+### Minor Acceleration
+
+*You fill yourself or an ally with a burst of energy.* **Keywords:** Psionic, Melee
+
+**Effect:** The target's speed increases by an amount equal to your Reason, Intuition, or Presence score (your choice) until the start of your next turn.
+
+#### Unstoppable Mind (costs 2 Points)
+
+Your mind allows you to maintain your focus in any situation. You can't be dazed.

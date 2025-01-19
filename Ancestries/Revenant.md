@@ -17,7 +17,7 @@ target: 1 creature with your sigil
 
 *"Little late for that."*
 
-The dead walk among us. Some of them are happier about it than others.
+The dead [[Walk|walk]] among us. Some of them are happier about it than others.
 
 Unlike the necromantic rituals that produce wights and wraiths and zombies, revenants rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air--and, unlike their zombified cousins, they retain all their memories and personality from life.
 
@@ -53,7 +53,7 @@ There was a firm knock at the door to the safe house. A door which, from the out
 
 One of the four thieves opened a vial and dipped his dirk into the red oil within.
 
-"What is *that* gonna do? *She's already dead*!" Another knock at the hidden door. "Forget it. Let her knock. Grab as many as you can, and we'll go out the back."
+"What is *that* gonna do? *She's already dead*!" Another knock at the hidden door. "Forget it. Let her knock. [[Grab]] as many as you can, and we'll go out the back."
 
 The head thief ran for the door out the back of the safe house. He jerked it open--and the other thieves watched as a silver flash silently flared across his forehead. Through the open door, they could see the silhouette of the knight, her open hand held up in front of her.
 
@@ -138,8 +138,8 @@ Additionally, you gain the following signature ability.
 
 **Power Roll + Reason, Intuition, or Presence:**
 
-- *11 or lower:* 3 **+ R, I, or P damage; slide 1**
-- *12-16:* 5 **+ R, I, or P damage; slide 2**
-- *17+:* 8 **+ R, I, or P damage; slide 3**
+- *11 or lower:* **3 + R, I, or P damage; slide 1**
+- *12-16:* **5 + R, I, or P damage; slide 2**
+- *17+:* **8 + R, I, or P damage; slide 3**
 
 **Effect:** The sigil disappears from the creature.

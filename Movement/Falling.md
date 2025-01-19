@@ -10,7 +10,7 @@ type: movement
 
 When you fall 2 or more squares, you take 2 damage for each square you fall (to a maximum of 50 damage), then you land prone. When you fall, you reduce the effective height of the fall by a number of squares equal to your Agility score (minimum 0). Falling into liquid that is at least 1 square deep reduces the effective height of a fall by 4 squares.
 
-Falling is not forced movement, but being force moved downward is considered falling (see Forced Movement in Combat). Movement from falling doesn't provoke opportunity attacks (see Opportunity Attacks).
+Falling is not [[Forced Movement|forced movement]], but being force moved downward is considered falling (see [[Forced Movement]] in Combat). Movement from falling doesn't provoke opportunity attacks (see Opportunity Attacks).
 
 ## Falling Onto Another Creature
 

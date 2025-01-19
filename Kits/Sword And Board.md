@@ -4,7 +4,8 @@ title: Sword And Board
 name_raw: Sword And Board
 name: Sword And Board
 type: kits
-ability_type: Action **Distance:** Melee 1
+ability_type: Action
+distance: Melee 1
 target: 1 creature
 ---
 
@@ -21,17 +22,20 @@ You wear medium armor and wield a shield and a medium weapon.
 - **Stamina Bonus:** +9 per echelon
 - **Melee Damage Bonus:** +2/+2/+2
 - **Stability Bonus:** +1
-- **Disengage Bonus:** +1
+- **[[Disengage]] Bonus:** +1
 
 ## Signature Ability
 
-## Shield Bash
+### Shield Bash
 
 *In your hands, a shield isn't just for protection.* **Keywords:** Melee, Strike, Weapon
 
-|               |                                        |
-| :------------ | :------------------------------------- |
-| **Keywords:** | **Type:** Action **Distance:** Melee 1 |
-| **Distance:** | **Target:** 1 creature                 |
+|                       |                        |
+| :-------------------- | :--------------------- |
+| **Keywords:**         | **Type:** Action       |
+| **Distance:** Melee 1 | **Target:** 1 creature |
 
-**Power Roll + Might or Agility:** - *11 or lower:* 4 **+ M or A damage; push 1** - *12-16:* 7 **+ M or A damage; push 2** - *17+:* 9 **+ M or A damage; push 3; M \< \[strong\] prone**
+**Power Roll + Might or Agility:**
+
+*11 or lower:* **4 + M or A damage; push 1** *12-16:* **7 + M or A damage; push 2**\
+*17+:* **9 + M or A damage; push 3; M \< \[strong\] prone**

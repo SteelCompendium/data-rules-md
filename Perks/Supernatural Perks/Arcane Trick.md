@@ -5,24 +5,22 @@ name_raw: Arcane Trick
 name: Arcane Trick
 type: perks
 subtype: supernatural perks
-distance: Self
-target: Self \|
+ability_type: Action **Distance:** Self
+target: Self
 ---
 
 # Arcane Trick
 
 *You cast an entertaining spell that creates a minor but impressive magical effect.* **Keywords:** Magic
 
-| **Type:** Action                     |                                   |
-| ------------------------------------ | --------------------------------- |
-|                                      |                                   |
-| :----------------------------------- | :-------------------------------- |
-| **Keywords:**                        | **Type:**                         |
-| **Distance:** Self                   | **Target:** Self \|               |
+|               |                                     |
+| :------------ | :---------------------------------- |
+| **Keywords:** | **Type:** Action **Distance:** Self |
+| **Distance:** | **Target:** Self                    |
 
 **Effect:** Choose one of the following effects:
 
-- You teleport an unattended size 1T or 1S object within 1 square of you to an unoccupied space within 1 square of you.
+- You [[Teleport|teleport]] an unattended size 1T or 1S object within 1 square of you to an unoccupied space within 1 square of you.
 - Until the start of your next turn, a part of your body shoots a shower of harmless noisy sparks that give off light within 1 square of you.
 - You ignite or snuff out (your choice) every mundane light source within 1 square of you.
 - You make up to 1 pound of edible food you can touch taste delicious or disgusting.

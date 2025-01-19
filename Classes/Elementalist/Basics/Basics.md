@@ -25,8 +25,4 @@ kind: basics
 
 **Starting Stamina at 1st Level:** 18
 
-**Stamina Gained at 2nd and Higher Levels:** 9
-
-[Recoveries: 8](./Recoveries%208.md)
-
-[ELEMENTALIST ADVANCEMENT](./Elementalist%20Advancement.md)
+[Stamina Gained at 2nd and Higher Levels: 9](./Stamina%20Gained%20At%202nd%20And%20Higher%20Levels%209.md)

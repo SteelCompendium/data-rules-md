@@ -28,7 +28,7 @@ You wear light armor and wield a bow.
 - **Speed Bonus:** +1
 - **Ranged Damage Bonus:** +2/+2/+2
 - **Ranged Distance Bonus:** +7
-- **Disengage Bonus:** +1
+- **[[Disengage]] Bonus:** +1
 
 ## Signature Ability
 
@@ -41,8 +41,4 @@ You wear light armor and wield a bow.
 | **Keywords:** Ranged, Strike, Weapon | **Type:** Action                   |
 | **Distance:** Ranged 12              | **Target:** 2 creatures or objects |
 
-**Power Roll + Might or Agility:**
-
-- *11 or lower:* **4 damage**
-- *12-16:* 6 **damage**
-- *17+:* 8 **damage**
+Power Roll + Might or Agility: - *11 or lower:* **4 damage** - *12-16:* **6 damage** - *17+:* **8 damage**
