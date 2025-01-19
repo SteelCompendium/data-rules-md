@@ -21,3 +21,5 @@ target: Two creatures or objects
 | **Distance:** Ranged 10 | **Target:** Two creatures or objects |
 
 Power Roll + Reason: - *11 or lower:* **2 fire damage** - *12-16:* **4 fire damage** - *17+:* **6 fire damage**
+
+[GRASP OF BEYOND](./Grasp%20Of%20Beyond.md)

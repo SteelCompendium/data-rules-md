@@ -6,7 +6,6 @@ name: Invocation Of Mystery
 cost: 9 Piety
 type: classes
 subtype: conduit
-kind: gods machine
 ability_type: Maneuver
 distance: 4 Burst
 target: Self and all allies

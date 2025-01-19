@@ -21,7 +21,9 @@ As a tactician, you have abilities that heal your allies and grant them increase
 
 [HAMMER AND ANVIL (5 FOCUS)](./Hammer%20And%20Anvil.md)
 
-[THE MIND GAME (5 FOCUS)](./The%20Mind%20Game/The%20Mind%20Game.md)
+[THE MIND GAME (5 FOCUS)](./The%20Mind%20Game.md)
+
+[NOW!(5 FOCUS)](<./NOW(5%20FOCUS)/NOW(5%20FOCUS).md>)
 
 [2ND-LEVEL FEATURES](./2nd-Level%20Features/2nd-Level%20Features.md)
 

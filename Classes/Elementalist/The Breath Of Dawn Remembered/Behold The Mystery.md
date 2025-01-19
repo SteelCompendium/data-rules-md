@@ -23,7 +23,3 @@ distance: 3 cube within 10 **Target:** Each enemy in the area
 Power Roll + Reason: - *11 or lower:* **2 psychic damage** - *12-16:* **4 psychic damage** - *17+:* **6 psychic damage**
 
 **Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
-
-[THE FLESH, A CRUCIBLE (3 ESSENCE)](./The%20Flesh%20A%20Crucible.md)
-
-[INVIGORATING GROWTH (3 ESSENCE)](./Invigorating%20Growth.md)

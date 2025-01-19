@@ -286,7 +286,7 @@ Power Roll + Might: - *11 or lower:* **4 + M damage; R** \< weak\*\*, weakened (
 
 **Effect:** The first time any ally deals damage any target you've marked before the start of your next turn, that ally can spend a Recovery.
 
-#### Now!(5 Focus)
+## Now!(5 Focus)
 
 *Your allies wait for your command--then unleash death!* **Keywords:** | Ranged, Weapon
 
@@ -618,7 +618,7 @@ Choose one of the following abilities.
 
 Power Roll + Might: - *11 or lower:* **A \< \[weak\] dazed (save ends)** - *12-16:* **A \< \[average\] dazed (save ends)** - *17+:* **A\[strong\] dazed (save ends)**
 
-#### To Me, Squad!(9 Focus)
+### To Me, Squad!(9 Focus)
 
 *You lead your allies in a charge.* **Keywords:** Charge, Melee, Strike, Weapon
 

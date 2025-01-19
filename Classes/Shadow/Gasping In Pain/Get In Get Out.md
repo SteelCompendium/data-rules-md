@@ -25,5 +25,3 @@ target: \| One creature \|
 Power Roll + Agility: - *11 or lower:* **5 + A damage** - *12-16:* **8 + A damage** - *17+:* **11 + A damage**
 
 **Effect:** You can shift up to your speed, dividing that movement before or after your strike as desired.
-
-[TWO THROATS AT ONCE (3 INSIGHT)](./Two%20Throats%20At%20Once/Two%20Throats%20At%20Once.md)

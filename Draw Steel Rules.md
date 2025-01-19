@@ -4603,7 +4603,7 @@ Power Roll + Presence:
 - *12-16:* **6 psychic damage; slide 5**
 - *17+:* **8 psychic damage; slide 7**
 
-##### PAIN OF YOUR OWN MAKING (9 WRATH)
+### PAIN OF YOUR OWN MAKING (9 WRATH)
 
 *You reverse the effects from an evildoer.*
 **Keywords:** Magic, Ranged
@@ -6396,7 +6396,7 @@ Power Roll + Intuition:
 
 On each subsequent turn, you can use a free maneuver to move the machine a number of squares up to your Intuition score then repeat the power roll. The machine disappears at the end of the encounter and has 50 Stamina. It has poison all and psychic all damage immunity.
 
-##### INVOCATION OF MYSTERY (9 PIETY)
+### INVOCATION OF MYSTERY (9 PIETY)
 
 *Now you see us ...*
 **Keywords:** Area, Magic
@@ -6461,7 +6461,7 @@ Power Roll + Intuition:
 
 **Effect:** The targets are force moved in order based on their proximity to you.
 
-##### REVITALIZING GRACE (9 PIETY)
+### REVITALIZING GRACE (9 PIETY)
 
 *With a single movement, you restore your health and that of your allies.*
 **Keywords:** Area, magic
@@ -6801,7 +6801,7 @@ Power Roll + Intuition:
 - *12-16:* **5 + I damage**
 - *17+:* **8 + I damage**
 
-##### GODSTORM (11 PIETY)
+### GODSTORM (11 PIETY)
 
 *You summon a divine storm that remains under your control.*
 **Keywords:** Area, Magic, Ranged
@@ -7365,7 +7365,7 @@ Power Roll + Reason:
 - *12-16:* **4 fire damage**
 - *17+:* **6 fire damage**
 
-##### GRASP OF BEYOND
+###### GRASP OF BEYOND
 
 *You absorb the life energy of another creature and use it to [[Teleport|teleport]].*
 **Keywords:** Magic, Melee, Strike, Void
@@ -7500,7 +7500,7 @@ Power Roll + Reason:
 
 **[[Persistent]] 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
 
-##### THE FLESH, A CRUCIBLE (3 ESSENCE)
+#### THE FLESH, A CRUCIBLE (3 ESSENCE)
 
 *Fire engulfs a target of your choice and burns at your command.*
 **Keywords:** Fire, Magic, Ranged, Strike
@@ -7519,7 +7519,7 @@ Power Roll + Reason:
 
 **[[Persistent]] 1:** If the target is within distance at the start of your turn, make a power roll for this ability again.
 
-##### INVIGORATING GROWTH (3 ESSENCE)
+#### INVIGORATING GROWTH (3 ESSENCE)
 
 *Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
 **Keywords:** Green, Magic, Ranged, Strike
@@ -8067,7 +8067,7 @@ Power Roll + Reason:
 
 **[[Persistent]] 1:** The area persists until the start of your next turn and you can move it up to 5 squares. During your turn, you can roll power again as a maneuver without spending essence.
 
-##### SUBVERTED PERCEPTION OF SPACE (9 ESSENCE)
+### SUBVERTED PERCEPTION OF SPACE (9 ESSENCE)
 
 *You rip an enemy's world in twain.*
 **Keywords:** Magic, Ranged, Strike, Void
@@ -8182,7 +8182,7 @@ Power Roll + Reason:
 
 **Effect:** If the target falls and takes damage as if their Agility score were 0 immediately after being teleported, the damage they take from [[Falling|falling]] is fire damage, and each enemy within 3 of where the target lands takes the same damage. The ground within 3 of where the target lands becomes [[Difficult Terrain|difficult terrain]].
 
-##### THE WODE REMEMBERS AND RETURNS (9 ESSENCE)
+#### THE WODE REMEMBERS AND RETURNS (9 ESSENCE)
 
 *You create a terrarium, from canopy above to underbrush below.*
 **Keywords:** Area, Earth, Green, Magic, Void
@@ -10555,7 +10555,7 @@ Power Roll + Agility:
 
 **Effect:** While [[Weakened|weakened]] this way, the target takes damage equal to your Intuition score when they use a supernatural or ability that costs Malice.
 
-##### IMPART FORCE (5 DISCIPLINE)
+###### IMPART FORCE (5 DISCIPLINE)
 
 *A single touch from you, and your enemy flies backward.*
 **Keywords:** Melee, Psionic, Strike, Weapon
@@ -10908,7 +10908,7 @@ Power Roll + Agility:
 
 **Effect:** This strike resolves before the target's move or action.
 
-##### IRON GRIP (9 DISCIPLINE)
+## IRON GRIP (9 DISCIPLINE)
 
 *You [[Grab|grab]] the target with near supernatural force*
 **Keywords:** Melee, Psionic, Strike, Weapon
@@ -11034,7 +11034,7 @@ Power Roll + Reason:
 - *12-16:* **vertical slide 8**
 - *17+:* **vertical slide 10**
 
-##### WALL OF ICE (9 DISCIPLINE)
+### WALL OF ICE (9 DISCIPLINE)
 
 *You create a wall of ice.*
 **Keywords:** Area, Psionic, Ranged
@@ -11070,7 +11070,7 @@ Power Roll + Intuition:
 
 **Effect:** This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your force movement ends, but you keep moving through their space.
 
-##### IRON BODY (9 DISCIPLINE)
+###### IRON BODY (9 DISCIPLINE)
 
 *You focus until your body becomes as hard as iron.*
 
@@ -11819,7 +11819,7 @@ Power Roll + Agility:
 
 **Effect:** You can shift up to your speed, dividing that movement before or after your strike as desired.
 
-##### TWO THROATS AT ONCE (3 INSIGHT)
+#### TWO THROATS AT ONCE (3 INSIGHT)
 
 *A bargain.*
 **Keywords:** Melee, Ranged, Strike, Weapon
@@ -11963,7 +11963,7 @@ Power Roll + Agility:
 - *12-16:* **10 + A damage; you can [[Teleport|teleport]] the target up to 3 squares**
 - *17+:* **14 + A damage; you can [[Teleport|teleport]] the target up to 5 squares**
 
-##### TOO SLOW (5 INSIGHT)
+###### TOO SLOW (5 INSIGHT)
 
 *Your foe made a big mistake.*
 **Keywords:** Melee, Ranged, Strike, Weapon
@@ -12631,7 +12631,7 @@ Power Roll + Agility:
 
 **Effect:** On a critical hit, the target is [[Grabbed|grabbed]] by the demon and pulled through the portal before it closes, never to be seen again.
 
-##### 9TH-LEVEL CAUSTIC ALCHEMY ABILITIES
+#### 9TH-LEVEL CAUSTIC ALCHEMY ABILITIES
 
 Choose one of the following abilities.
 
@@ -13104,7 +13104,7 @@ Power Roll + Might:
 
 **Effect:** The first time any ally deals damage any target you've marked before the start of your next turn, that ally can spend a Recovery.
 
-##### NOW!(5 FOCUS)
+### NOW!(5 FOCUS)
 
 *Your allies wait for your command--then unleash death!*
 **Keywords:** | Ranged, Weapon
@@ -13586,7 +13586,7 @@ Power Roll + Might:
 - *12-16:* **A \< \[average\] [[Dazed|dazed]] (save ends)**
 - *17+:* **A\[strong\] [[Dazed|dazed]] (save ends)**
 
-##### TO ME, SQUAD!(9 FOCUS)
+#### TO ME, SQUAD!(9 FOCUS)
 
 *You lead your allies in a [[Charge|charge]].*
 **Keywords:** [[Charge]], Melee, Strike, Weapon
@@ -14598,7 +14598,7 @@ Power Roll + Reason:
 
 **Strained:** The size of the burst increases by 1 and you are [[Weakened|weakened]] until the end of your turn.
 
-##### LEVITY AND GRAVITY (5 CLARITY)
+#### LEVITY AND GRAVITY (5 CLARITY)
 
 *You raise the target into the air, then smother them against the ground.*
 **Keywords:** Psionic, Ranged, Strike, Telekinesis
@@ -18259,7 +18259,7 @@ You can choose your character's [[Complications|complication]], or you can roll 
 | 69   | [[Rival]]                                                  |
 | 70   | [[Rogue Talent]]                                           |
 | 71   | [[Runaway]]                                                |
-| 72   | [[Searching For A Cure\|Searching for a Cure]]             |
+| 72   | Searching for a Cure                                       |
 | 73   | [[Secret Identity]]                                        |
 | 74   | [[Secret Twin]]                                            |
 | 75   | [[Self Taught]]                                            |

@@ -6,7 +6,6 @@ name: God's Machine
 cost: 9 Piety
 type: classes
 subtype: conduit
-kind: gods machine
 ability_type: Action
 distance: Ranged 10
 target: Special
@@ -26,5 +25,3 @@ target: Special
 Power Roll + Intuition: - *11 or lower:* **3 damage** - *12-16:* **5 damage** - *17+:* **8 damage**
 
 On each subsequent turn, you can use a free maneuver to move the machine a number of squares up to your Intuition score then repeat the power roll. The machine disappears at the end of the encounter and has 50 Stamina. It has poison all and psychic all damage immunity.
-
-[INVOCATION OF MYSTERY (9 PIETY)](./Invocation%20Of%20Mystery.md)

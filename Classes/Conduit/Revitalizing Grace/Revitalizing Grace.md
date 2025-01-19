@@ -6,7 +6,7 @@ name: Revitalizing Grace
 cost: 9 Piety
 type: classes
 subtype: conduit
-kind: lightning lord
+kind: revitalizing grace
 ability_type: Action
 distance: Self and 4 burst
 target: Self and all allies
@@ -22,3 +22,7 @@ target: Self and all allies
 | **Distance:** Self and 4 burst | **Target:** Self and all allies |
 
 **Effect:** The target can spend any number of Recoveries, and end one effect that is ended by a saving throw or that ends at the end of their turn or use the Stand Up maneuver as a free triggered action.
+
+[SPIRIT STAMPEDE (9 PIETY)](./Spirit%20Stampede.md)
+
+[YOUR STORY ENDS HERE (9 PIETY)](./Your%20Story%20Ends%20Here.md)

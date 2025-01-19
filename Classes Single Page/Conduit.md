@@ -932,7 +932,7 @@ Power Roll + Intuition: - *11 or lower:* **3 damage** - *12-16:* **5 damage** - 
 
 On each subsequent turn, you can use a free maneuver to move the machine a number of squares up to your Intuition score then repeat the power roll. The machine disappears at the end of the encounter and has 50 Stamina. It has poison all and psychic all damage immunity.
 
-#### Invocation Of Mystery (9 Piety)
+## Invocation Of Mystery (9 Piety)
 
 *Now you see us ...* **Keywords:** Area, Magic
 
@@ -960,7 +960,7 @@ Power Roll + Intuition: - *11 or lower:* **6 lightning damage; push 1** - *12-16
 
 **Effect:** The targets are force moved in order based on their proximity to you.
 
-#### Revitalizing Grace (9 Piety)
+## Revitalizing Grace (9 Piety)
 
 *With a single movement, you restore your health and that of your allies.* **Keywords:** Area, magic
 

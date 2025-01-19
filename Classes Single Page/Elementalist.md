@@ -338,7 +338,7 @@ Power Roll + Reason: - *11 or lower:* **2 + R corruption damage** - *12-16:* **4
 
 Power Roll + Reason: - *11 or lower:* **2 fire damage** - *12-16:* **4 fire damage** - *17+:* **6 fire damage**
 
-#### Grasp Of Beyond
+##### Grasp Of Beyond
 
 *You absorb the life energy of another creature and use it to teleport.* **Keywords:** Magic, Melee, Strike, Void
 
@@ -400,7 +400,7 @@ Power Roll + Reason: - *11 or lower:* **2 psychic damage** - *12-16:* **4 psychi
 
 **Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
 
-#### The Flesh, A Crucible (3 Essence)
+### The Flesh, A Crucible (3 Essence)
 
 *Fire engulfs a target of your choice and burns at your command.* **Keywords:** Fire, Magic, Ranged, Strike
 
@@ -408,7 +408,7 @@ Power Roll + Reason: - *11 or lower:* **5 + R fire damage** - *12-16:* **8 + R f
 
 **Persistent 1:** If the target is within distance at the start of your turn, make a power roll for this ability again.
 
-#### Invigorating Growth (3 Essence)
+### Invigorating Growth (3 Essence)
 
 *Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.* **Keywords:** Green, Magic, Ranged, Strike
 
@@ -777,7 +777,7 @@ Power Roll + Reason: - *11 or lower*\*\*: 2 damage\*\* - *12-16:* **5 damage** -
 
 **Persistent 1:** The area persists until the start of your next turn and you can move it up to 5 squares. During your turn, you can roll power again as a maneuver without spending essence.
 
-#### Subverted Perception Of Space (9 Essence)
+## Subverted Perception Of Space (9 Essence)
 
 *You rip an enemy's world in twain.* **Keywords:** Magic, Ranged, Strike, Void
 
@@ -848,7 +848,7 @@ Power Roll + Reason: - *11 or lower*\*\*: teleport 4 squares\*\* - *12-16:* **te
 
 **Effect:** If the target falls and takes damage as if their Agility score were 0 immediately after being teleported, the damage they take from falling is fire damage, and each enemy within 3 of where the target lands takes the same damage. The ground within 3 of where the target lands becomes difficult terrain.
 
-#### The Wode Remembers And Returns (9 Essence)
+### The Wode Remembers And Returns (9 Essence)
 
 *You create a terrarium, from canopy above to underbrush below.* **Keywords:** Area, Earth, Green, Magic, Void
 

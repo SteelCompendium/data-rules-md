@@ -6,7 +6,7 @@ name: Spirit Stampede
 cost: 9 Piety
 type: classes
 subtype: conduit
-kind: lightning lord
+kind: revitalizing grace
 target: \| All enemies \|
 ---
 

@@ -6,7 +6,7 @@ name: This Is What We Planned For
 cost: 5 Focus
 type: classes
 subtype: tactician
-kind: the mind game
+kind: now(5 focus)
 ability_type: Maneuver
 distance: Ranged 10
 target: Two allies

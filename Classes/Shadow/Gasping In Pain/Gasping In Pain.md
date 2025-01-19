@@ -32,4 +32,6 @@ Power Roll + Agility: - *11 or lower:* **3 + A damage** - *12-16:* **5 + A damag
 
 [EVISCERATE (3 INSIGHT)](./Eviscerate.md)
 
-[GET IN GET OUT (3 INSIGHT)](./Get%20In%20Get%20Out/Get%20In%20Get%20Out.md)
+[GET IN GET OUT (3 INSIGHT)](./Get%20In%20Get%20Out.md)
+
+[TWO THROATS AT ONCE (3 INSIGHT)](./Two%20Throats%20At%20Once/Two%20Throats%20At%20Once.md)

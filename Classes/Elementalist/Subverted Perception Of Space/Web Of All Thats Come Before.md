@@ -6,7 +6,7 @@ name: Web Of All That's Come Before
 cost: 9 Essence
 type: classes
 subtype: elementalist
-kind: storm of sands
+kind: subverted perception of space
 ability_type: Action
 distance: 4 Cube within 10
 target: All enemies

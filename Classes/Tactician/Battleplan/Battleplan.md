@@ -29,4 +29,6 @@ target: 3 creatures \|
 
 [HUSTLE, SQUAD! HUSTLE!(9 FOCUS)](<./Hustle%20Squad%20HUSTLE(9%20FOCUS)/Hustle%20Squad%20HUSTLE(9%20FOCUS).md>)
 
-[INSTANT RETALIATION (9 FOCUS)](./Instant%20Retaliation/Instant%20Retaliation.md)
+[INSTANT RETALIATION (9 FOCUS)](./Instant%20Retaliation.md)
+
+[TO ME, SQUAD!(9 FOCUS)](<./To%20Me%20SQUAD(9%20FOCUS).md>)

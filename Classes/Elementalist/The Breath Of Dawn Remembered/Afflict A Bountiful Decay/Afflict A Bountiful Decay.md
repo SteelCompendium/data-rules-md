@@ -22,6 +22,4 @@ Power Roll + Reason: - *11 or lower:* **2 + R corruption damage** - *12-16:* **4
 
 **Effect:** You or one ally within distance can end one effect that is ended by a saving throw or that ends at the end of that creature's turn.
 
-[BIFURCATED CONFLAGRATION](./Bifurcated%20Conflagration.md)
-
-[GRASP OF BEYOND](./Grasp%20Of%20Beyond.md)
+[BIFURCATED CONFLAGRATION](./Bifurcated%20Conflagration/Bifurcated%20Conflagration.md)

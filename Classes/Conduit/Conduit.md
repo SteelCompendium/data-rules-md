@@ -41,13 +41,17 @@ As a conduit, you heal and buff your allies, and debuff your foes while smiting 
 
 [6TH-LEVEL FEATURES](./6th-Level%20Features/6th-Level%20Features.md)
 
-[GOD'S MACHINE (9 PIETY)](./Gods%20Machine/Gods%20Machine.md)
+[GOD'S MACHINE (9 PIETY)](./Gods%20Machine.md)
+
+[INVOCATION OF MYSTERY (9 PIETY)](./Invocation%20Of%20Mystery.md)
 
 [INVOCATION OF UNDOING (9 PIETY)](./Invocation%20Of%20Undoing.md)
 
 [LAUDED BY GOD (9 PIETY)](./Lauded%20By%20God.md)
 
-[LIGHTNING LORD (9 PIETY)](./Lightning%20Lord/Lightning%20Lord.md)
+[LIGHTNING LORD (9 PIETY)](./Lightning%20Lord.md)
+
+[REVITALIZING GRACE (9 PIETY)](./Revitalizing%20Grace/Revitalizing%20Grace.md)
 
 [7TH-LEVEL FEATURES](./7th-Level%20Features/7th-Level%20Features.md)
 

@@ -6,7 +6,7 @@ name: Your Story Ends Here
 cost: 9 Piety
 type: classes
 subtype: conduit
-kind: lightning lord
+kind: revitalizing grace
 ability_type: Action
 distance: Ranged 10
 target: 1 creature

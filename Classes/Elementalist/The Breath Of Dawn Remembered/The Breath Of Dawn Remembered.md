@@ -51,7 +51,11 @@ trigger: The target starts their turn or takes damage.
 
 [VISCOUS FIRE](./Viscous%20Fire/Viscous%20Fire.md)
 
-[BEHOLD THE MYSTERY (3 ESSENCE)](./Behold%20The%20Mystery/Behold%20The%20Mystery.md)
+[BEHOLD THE MYSTERY (3 ESSENCE)](./Behold%20The%20Mystery.md)
+
+[THE FLESH, A CRUCIBLE (3 ESSENCE)](./The%20Flesh%20A%20Crucible.md)
+
+[INVIGORATING GROWTH (3 ESSENCE)](./Invigorating%20Growth.md)
 
 [RIPPLES IN THE EARTH (3 ESSENCE)](./Ripples%20In%20The%20Earth/Ripples%20In%20The%20Earth.md)
 

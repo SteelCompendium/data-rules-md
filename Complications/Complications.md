@@ -81,7 +81,7 @@ type: complications
 | 69   | [[Rival]]                                                  |
 | 70   | [[Rogue Talent]]                                           |
 | 71   | [[Runaway]]                                                |
-| 72   | [[Searching For A Cure\|Searching for a Cure]]             |
+| 72   | Searching for a Cure                                       |
 | 73   | [[Secret Identity]]                                        |
 | 74   | [[Secret Twin]]                                            |
 | 75   | [[Self Taught]]                                            |

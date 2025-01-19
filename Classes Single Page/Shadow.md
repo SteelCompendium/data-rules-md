@@ -321,7 +321,7 @@ Power Roll + Agility: - *11 or lower:* **5 + A damage** - *12-16:* **8 + A damag
 
 **Effect:** You can shift up to your speed, dividing that movement before or after your strike as desired.
 
-#### Two Throats At Once (3 Insight)
+### Two Throats At Once (3 Insight)
 
 *A bargain.* **Keywords:** Melee, Ranged, Strike, Weapon
 
@@ -409,7 +409,7 @@ Choose one of the following abilities.
 
 Power Roll + Agility: - *11 or lower:* **6 + A damage; you can teleport the target 1 square** - *12-16:* **10 + A damage; you can teleport the target up to 3 squares** - *17+:* **14 + A damage; you can teleport the target up to 5 squares**
 
-#### Too Slow (5 Insight)
+##### Too Slow (5 Insight)
 
 *Your foe made a big mistake.* **Keywords:** Melee, Ranged, Strike, Weapon **Type:** Free Triggered Action
 

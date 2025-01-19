@@ -35,7 +35,9 @@ As an elementalist, you can unleash your wrath across a field of foes, put an en
 
 [5TH-LEVEL FEATURES](./5th-Level%20Features/5th-Level%20Features.md)
 
-[STORM OF SANDS (9 ESSENCE)](./Storm%20Of%20Sands/Storm%20Of%20Sands.md)
+[STORM OF SANDS (9 ESSENCE)](./Storm%20Of%20Sands.md)
+
+[SUBVERTED PERCEPTION OF SPACE (9 ESSENCE)](./Subverted%20Perception%20Of%20Space/Subverted%20Perception%20Of%20Space.md)
 
 [6TH-LEVEL FEATURES](./6th-Level%20Features/6th-Level%20Features.md)
 

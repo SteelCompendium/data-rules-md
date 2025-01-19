@@ -27,5 +27,3 @@ trigger: A creature deals damage to the target.
 **Effect:** The damage is halved. Then you roll power against the creature who dealt the damage.
 
 Power Roll + Might: - *11 or lower:* **A \< \[weak\] dazed (save ends)** - *12-16:* **A \< \[average\] dazed (save ends)** - *17+:* **A\[strong\] dazed (save ends)**
-
-[TO ME, SQUAD!(9 FOCUS)](<./To%20Me%20SQUAD(9%20FOCUS).md>)

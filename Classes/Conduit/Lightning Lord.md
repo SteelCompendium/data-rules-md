@@ -6,7 +6,6 @@ name: Lightning Lord
 cost: 9 Piety
 type: classes
 subtype: conduit
-kind: lightning lord
 keywords: Area, Magic
 keyword_list:
   - Area
@@ -27,9 +26,3 @@ target: All enemies
 Power Roll + Intuition: - *11 or lower:* **6 lightning damage; push 1** - *12-16:* **9 lightning damage; push 2** - *17+:* **13 lightning damage; push 3**
 
 **Effect:** The targets are force moved in order based on their proximity to you.
-
-[REVITALIZING GRACE (9 PIETY)](./Revitalizing%20Grace.md)
-
-[SPIRIT STAMPEDE (9 PIETY)](./Spirit%20Stampede.md)
-
-[YOUR STORY ENDS HERE (9 PIETY)](./Your%20Story%20Ends%20Here.md)

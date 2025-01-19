@@ -328,7 +328,7 @@ Power Roll + Agility: - *11 or lower:* **8 + A psychic damage;** M \< weak\*\*, 
 
 **Effect:** While weakened this way, the target takes damage equal to your Intuition score when they use a supernatural or ability that costs Malice.
 
-#### Impart Force (5 Discipline)
+##### Impart Force (5 Discipline)
 
 *A single touch from you, and your enemy flies backward.* **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Maneuver
 
