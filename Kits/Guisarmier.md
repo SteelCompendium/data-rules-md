@@ -12,7 +12,7 @@ The Guisarmier kit is for those who want to use a polearm for extended reach and
 
 ## Equipment
 
-You wear medium armor and wield a polearm.
+You wear [[Medium|medium]] armor and wield a polearm.
 
 ## Kit Bonuses
 

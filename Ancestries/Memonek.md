@@ -30,7 +30,7 @@ Taxiarch Lycaon paced outside the ruined church. The four-armed woman with cryst
 
 "Is it that your brain is so small you must *talk* in order to *think*?" The woman's smile was a sneer.
 
-Lycaon strode toward the alien, grabbed a length of chain around her waist and yanked on it, pulling it taut so the chain around her neck tightened. "You are going to die in any event," he said. "If you wish to deny me the pleasure of hearing you howl and scream for mercy, tell me what I want to know now and my dogs will kill you quickly."
+Lycaon strode toward the alien, [[Grabbed|grabbed]] a length of chain around her waist and yanked on it, pulling it taut so the chain around her neck tightened. "You are going to die in any event," he said. "If you wish to deny me the pleasure of hearing you howl and scream for mercy, tell me what I want to know now and my dogs will kill you quickly."
 
 Up close she could see the fine stitching along Lycaon's cheeks and forehead, the very slight differences in skin tone that showed his skin was not his own.
 
@@ -42,7 +42,7 @@ He struck a casual, jaunty pose. "Where is your worldship?" he said in a more re
 
 The alien sighed. "'Blaap blaap blaap,'" she said. "You should hear yourself. Like barking thrazz, you sound to me. Who holds your leash I wonder? For surely a microbrain such as you could not command any more than these rabble," she nodded her head at the other twenty or so war dogs.
 
-Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head smashed into the ruined column. She was dazed but she shook it off and laughed.
+Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head smashed into the ruined column. She was [[Dazed|dazed]] but she shook it off and laughed.
 
 "Look how easily this one is goaded!" she said. She spat out dark blue blood and turned to the peasants gathered. "You people! Why do you let yourselves be cowed by these ... bits? Bits of people kludged together? Even the least of you is worth more than these."
 
@@ -122,11 +122,11 @@ You have 2 ancestry points to spend on the following traits. (*Quick Build:* Bey
 
 #### Beyondsight (costs 1 Point)
 
-As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that 1 square thick or less. While your vision is adjusted this way, you can't see and don't have line of effect to any creatures or objects within 1 square of you. You can return your vision to normal as a maneuver.
+As a maneuver, you can adjust your vision to allow you to see through [[Mundane|mundane]] obstructions that 1 square thick or less. While your vision is adjusted this way, you can't see and don't have line of effect to any creatures or objects within 1 square of you. You can return your vision to normal as a maneuver.
 
 #### Foresight (costs 1 Point)
 
-Your senses extend past mundane obscuration and the veil of the future alike. You instinctively know the location of any concealed creatures who aren't hidden from you, negating the usual bane on strikes against them. Additionally, whenever you are targeted with a strike, you can use a triggered action to impose a bane on the power roll.
+Your senses extend past [[Mundane|mundane]] obscuration and the veil of the future alike. You instinctively know the location of any concealed creatures who aren't hidden from you, negating the usual bane on strikes against them. Additionally, whenever you are targeted with a strike, you can use a triggered action to impose a bane on the power roll.
 
 #### Psychic Scar (costs 1 Point)
 
@@ -149,7 +149,7 @@ You gain one of the following signature abilities.
 
 - *11 or lower:* **2 + R, I, or P damage**
 - *12-16:* **5 + R, I, or P damage; push 1**
-- *17+:* **7 + R, I, or P damage; push 2; M \< \[strong\] prone**
+- *17+:* **7 + R, I, or P damage; push 2; M \< \[strong\] [[Prone|prone]]**
 
 ## Psionic Bolt
 
@@ -169,4 +169,4 @@ You gain one of the following signature abilities.
 
 #### Unstoppable Mind (costs 2 Points)
 
-Your mind allows you to maintain your focus in any situation. You can't be dazed.
+Your mind allows you to maintain your focus in any situation. You can't be [[Dazed|dazed]].

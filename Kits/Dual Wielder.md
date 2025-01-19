@@ -15,7 +15,7 @@ The Dual Wielder kit is for folks who want to excel at using two weapons at the 
 
 ## Equipment
 
-You wear medium armor and wield a light weapon and a medium weapon.
+You wear [[Medium|medium]] armor and wield a light weapon and a [[Medium|medium]] weapon.
 
 ## Kit Bonuses
 

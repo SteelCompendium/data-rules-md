@@ -11,11 +11,11 @@ target: 1 creature
 
 # Sword And Board
 
-The Sword and Board kit doesn't just give you a shield--it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you can protect yourself and control the battlefield.
+The Sword and Board kit doesn't just give you a shield--it makes the shield part of your offensive arsenal. With a [[Medium|medium]] weapon in one hand and a block of steel or solid oak in the other, you can protect yourself and control the battlefield.
 
 ## Equipment
 
-You wear medium armor and wield a shield and a medium weapon.
+You wear [[Medium|medium]] armor and wield a shield and a [[Medium|medium]] weapon.
 
 ## Kit Bonuses
 
@@ -38,4 +38,4 @@ You wear medium armor and wield a shield and a medium weapon.
 **Power Roll + Might or Agility:**
 
 *11 or lower:* **4 + M or A damage; push 1** *12-16:* **7 + M or A damage; push 2**\
-*17+:* **9 + M or A damage; push 3; M \< \[strong\] prone**
+*17+:* **9 + M or A damage; push 3; M \< \[strong\] [[Prone|prone]]**

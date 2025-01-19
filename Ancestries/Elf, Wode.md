@@ -136,6 +136,6 @@ THE WODE [[Defend|DEFENDS]] (COSTS 2 POINTS) You have the following signature ab
 
 **Power Roll + Might or Agility:**
 
-- *11 or lower:* **2 + M or A damage; A \< \[weak\] slowed (save ends)**
-- *12-16:* **3 + M or A damage; A \< \[average\] slowed (save ends)**
-- *17+:* **5 + M or A damage; A \< \[strong\] restrained (save ends)**
+- *11 or lower:* **2 + M or A damage; A \< \[weak\] [[Slowed|slowed]] (save ends)**
+- *12-16:* **3 + M or A damage; A \< \[average\] [[Slowed|slowed]] (save ends)**
+- *17+:* **5 + M or A damage; A \< \[strong\] [[Restrained|restrained]] (save ends)**

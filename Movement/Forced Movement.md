@@ -42,7 +42,7 @@ You can force move another creature into yourself with a pull or a slide.
 
 ## Tracking Object Forced-movement Damage
 
-At the Director's discretion, mundane objects that are force moved into creatures or other objects take damage as if they were creatures. Sturdy objects can take damage as follows:
+At the Director's discretion, [[Mundane|mundane]] objects that are force moved into creatures or other objects take damage as if they were creatures. Sturdy objects can take damage as follows:
 
 - For each square a wood object occupies, it can take 3 damage before it is destroyed.
 - For each square a stone object occupies, it can take 6 damage before it is destroyed.
@@ -60,7 +60,7 @@ If you force move a creature downward into an object that doesn't break (includi
 
 ## Hurling Through Objects
 
-When you move a creature into a mundane object, the object can break depending on how many squares of forced movement remain:
+When you move a creature into a [[Mundane|mundane]] object, the object can break depending on how many squares of forced movement remain:
 
 - It costs 1 remaining square of forced movement to destroy 1 square of glass. The creature moved takes 1 damage.
 - It costs 3 remaining squares of forced movement to destroy 1 square of wood. The creature moved takes 3 damage.

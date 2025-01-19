@@ -16,7 +16,7 @@ target: 2 creatures or objects
 
 # Rapid-fire
 
-The Rapid-Fire kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting technique focuses on peppering foes at medium range.
+The Rapid-Fire kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting technique focuses on peppering foes at [[Medium|medium]] range.
 
 ## Equipment
 

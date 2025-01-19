@@ -180,7 +180,7 @@ When you start your turn while no creatures have line of effect to you, or while
 
 #### Fearless (costs 2 Points)
 
-Courage is all you know. You can't be frightened.
+Courage is all you know. You can't be [[Frightened|frightened]].
 
 #### Nimblestep (costs 2 Points)
 

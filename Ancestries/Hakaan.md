@@ -122,7 +122,7 @@ Your body is made to withstand the blows of your enemies. Your Might score count
 
 #### Great Fortitude (costs 2 Points)
 
-Your hearty constitution prevents you from losing strength. You can't be weakened.
+Your hearty constitution prevents you from losing strength. You can't be [[Weakened|weakened]].
 
 #### Doomsight (costs 2 Points)
 

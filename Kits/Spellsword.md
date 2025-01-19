@@ -12,7 +12,7 @@ The Spellsword kit combines melee attacks and a little bit of magic for warriors
 
 ## Equipment
 
-You wear light armor and wield a shield and a medium weapon.
+You wear light armor and wield a shield and a [[Medium|medium]] weapon.
 
 ## Kit Bonuses
 

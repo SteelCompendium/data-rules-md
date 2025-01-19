@@ -114,4 +114,4 @@ Your elf body and mind can't be contained for long. You succeed on saving throws
 
 #### Unstoppable Mind (costs 2 Points)
 
-Your mind allows you to maintain your focus in any situation. You can't be dazed.
+Your mind allows you to maintain your focus in any situation. You can't be [[Dazed|dazed]].

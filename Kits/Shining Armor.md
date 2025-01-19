@@ -12,7 +12,7 @@ The Shining Armor kit provides the most protection a kit can afford, providing y
 
 ## Equipment
 
-You wear heavy armor and wield a shield and a medium weapon.
+You wear heavy armor and wield a shield and a [[Medium|medium]] weapon.
 
 ## Kit Bonuses
 

@@ -12,7 +12,7 @@ If you want to be mobile and deal a lot of damage with melee attacks, then you s
 
 ## Equipment
 
-You wear light armor and wield a medium weapon.
+You wear light armor and wield a [[Medium|medium]] weapon.
 
 ## Kit Bonuses
 

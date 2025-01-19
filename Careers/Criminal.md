@@ -8,7 +8,7 @@ type: careers
 
 # Criminal
 
-You once worked as a bandit, insurgent, smuggler, outlaw, or even as an assassin. In defining your career, think about the following questions:
+You once worked as a bandit, insurgent, smuggler, [[Outlaw|outlaw]], or even as an assassin. In defining your career, think about the following questions:
 
 - What sorts of crimes did you commit, and why?
 - Did anyone help you perform your illicit activities?

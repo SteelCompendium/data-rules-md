@@ -14,7 +14,7 @@ type: ancestries
 
 Possessed of a strength that belies their size, dwarves have flesh infused with stone--a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel dwarves.
 
-Dwarves are the children of the elder god Ord, and a common phrase among dwarves is "Ord made the world"--their way of saying, "What will be, will be." They take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many dwarves leave their homes to see the world and seek glory in Ord's name.
+Dwarves are the children of the elder god Ord, and a common phrase among dwarves is "Ord made the world"--their way of saying, "What will be, will be." They take great pride in knowing that along with Aan, Eth, and Kul, their god created the [[Mundane|mundane]] world, and many dwarves leave their homes to see the world and seek glory in Ord's name.
 
 ## On Dwarves
 
@@ -62,7 +62,7 @@ You can carve a rune onto your skin and the magic within your body activates it.
 
 ### Purchased Dwarf Traits
 
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Grounded, Spark Off Your Skin)
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* [[Grounded]], Spark Off Your Skin)
 
 #### Grounded (costs 1 Point)
 
@@ -74,11 +74,11 @@ Your body is made to withstand the blows of your enemies. Your Might counts as 1
 
 #### Stone Singer (costs 1 Point)
 
-You have a magic connection to the earth. You can spend 1 uninterrupted hour singing and reshape any unworked, mundane stone within 3 squares of you. You can't destroy this stone, but you can move each square of it anywhere within 3 squares of you, piling it off to one side to dig a hole or building it all up to create a wall.
+You have a magic connection to the earth. You can spend 1 uninterrupted hour singing and reshape any unworked, [[Mundane|mundane]] stone within 3 squares of you. You can't destroy this stone, but you can move each square of it anywhere within 3 squares of you, piling it off to one side to dig a hole or building it all up to create a wall.
 
 #### Great Fortitude (costs 2 Points)
 
-Your hearty constitution prevents you from losing strength. You can't be weakened.
+Your hearty constitution prevents you from losing strength. You can't be [[Weakened|weakened]].
 
 #### Spark Off Your Skin (costs 2 Points)
 

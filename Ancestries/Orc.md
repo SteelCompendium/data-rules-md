@@ -92,7 +92,7 @@ When a creature deals damage to you that leaves you dying, you can make a [[Free
 
 ### Purchased Orc Traits
 
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Grounded, Glowing Recovery)
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* [[Grounded]], Glowing Recovery)
 
 #### Bloodfire Rush (costs 1 Point)
 
@@ -112,4 +112,4 @@ Your bloodfire allows you to regain your strength quicker than others. When you 
 
 #### Nonstop (costs 2 Points)
 
-Your bloodfire supplies you with a constant rush of adrenaline. You can't be slowed.
+Your bloodfire supplies you with a constant rush of adrenaline. You can't be [[Slowed|slowed]].

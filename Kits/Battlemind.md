@@ -12,7 +12,7 @@ Who says lightly armored heroes can't also be hard to move? You just need to emp
 
 ## Equipment
 
-You wear light armor and wield a medium weapon.
+You wear light armor and wield a [[Medium|medium]] weapon.
 
 ## Kit Bonuses
 

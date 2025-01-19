@@ -17916,7 +17916,7 @@ You can modify the narrative of a complication to better fit with your vision of
 
 Many of the details of each complication are purposefully left vague, so that you can connect it to the rest of your backstory. If your complication took place during "an attack" or "an accident," you decide the specific details of who or what attacked you, or what type of accident befell you. 
 
-### DETERMINE COMPLICATION
+## DETERMINE COMPLICATION
 
 You can choose your character's complication, or you can roll on the Complications table.
 

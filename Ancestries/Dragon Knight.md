@@ -35,7 +35,7 @@ A tall, broad draconian stepped into the light. He was old, his scales battle-sc
 
 The three [[Human|human]] bandits took a step back. One of the [[Dwarf|dwarves]] just sneered--then, sensing his [[Human|human]] compatriot's reluctance, turned to look at them. "What's this?" the lead [[Dwarf|dwarf]] growled.
 
-"Don't be cowards now!" the other [[Dwarf|dwarf]] said, a hint of joy in his voice. "Look what a *prize* we have caught!"
+"Don't be [[Coward|cowards]] now!" the other [[Dwarf|dwarf]] said, a hint of joy in his voice. "Look what a *prize* we have caught!"
 
 "We didn't ..." one bandit said, shaking. "We didn't know ..."
 
@@ -55,7 +55,7 @@ As one, the people in the tavern turned to look with undisguised awe at the drag
 
 A short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. "Excuse me, sir knight," the man said as the dragon knight walked past their table.
 
-The knight moved on, ignoring them. The man reached out and grabbed the massive draconian's arm. The knight wheeled on the peasant, looming over him.
+The knight moved on, ignoring them. The man reached out and [[Grabbed|grabbed]] the massive draconian's arm. The knight wheeled on the peasant, looming over him.
 
 The man bowed his head and touched his forelock. The two women with him curtseyed and tried to avoid making eye contact.
 
@@ -194,4 +194,4 @@ DRAGON BREATH (COSTS 2 POINTS) You can use the following signature ability.
 
 #### Wings (costs 2 Points)
 
-You possess wings powerful enough to take you airborne. While using your wings to [[Fly|fly]], you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall prone. While using your wings to [[Fly|fly]] at 1st, 2nd, and 3rd level, you have damage weakness 5.
+You possess wings powerful enough to take you airborne. While using your wings to [[Fly|fly]], you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall [[Prone|prone]]. While using your wings to [[Fly|fly]] at 1st, 2nd, and 3rd level, you have damage weakness 5.

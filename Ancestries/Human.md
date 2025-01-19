@@ -72,7 +72,7 @@ Your connection to the natural world allows you resist supernatural effects. You
 
 #### Perseverance (costs 1 Point)
 
-Giving up is for other people. You have an edge on tests that use the Endurance skill and when you are slowed, your speed is reduced to 3 instead of 2.
+Giving up is for other people. You have an edge on tests that use the Endurance skill and when you are [[Slowed|slowed]], your speed is reduced to 3 instead of 2.
 
 #### Resist The Unnatural (costs 1 Point)
 
@@ -80,7 +80,7 @@ Your connection to the natural world protects you from unnatural forces. When yo
 
 #### Determination (costs 2 Points)
 
-Your anatomical tolerance for pain allows you to push through difficult situations. If you are frightened, slowed, or weakened, you can use a maneuver to immediately end the condition.
+Your anatomical tolerance for pain allows you to push through difficult situations. If you are [[Frightened|frightened]], [[Slowed|slowed]], or [[Weakened|weakened]], you can use a maneuver to immediately end the condition.
 
 #### Staying Power (costs 2 Points)
 
