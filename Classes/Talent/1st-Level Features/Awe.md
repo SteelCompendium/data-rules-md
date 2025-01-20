@@ -7,17 +7,25 @@ cost: 3 Clarity
 type: classes
 subtype: talent
 kind: 1st-level features
-target: One ally or enemy **Type:** Action
+keywords: Psionic, Ranged, Strike, Telepathy
+keyword_list:
+  - Psionic
+  - Ranged
+  - Strike
+  - Telepathy
+ability_type: Action
+distance: Ranged 10
+target: One ally or enemy
 ---
 
 # Awe (3 Clarity)
 
-*You project psionic energy out to a creature and take on a new visage in their mind.* **Keywords:** Psionic, Ranged, Strike, Telepathy **Distance:** Ranged 10
+*You project psionic energy out to a creature and take on a new visage in their mind.*
 
-|               |                                                |
-| :------------ | :--------------------------------------------- |
-| **Keywords:** | **Type:**                                      |
-| **Distance:** | **Target:** One ally or enemy **Type:** Action |
+|                                                  |                               |
+| :----------------------------------------------- | :---------------------------- |
+| **Keywords:** Psionic, Ranged, Strike, Telepathy | **Type:** Action              |
+| **Distance:** Ranged 10                          | **Target:** One ally or enemy |
 
 **Effect:** Any ally targeted by this ability gains temporary Stamina equal to twice your Presence score, and can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.
 

@@ -645,6 +645,7 @@ Power Roll + Might or Agility:
 - *17+:* **7 + M or A damage**
 
 ##### RANGED WEAPON FREE STRIKE
+
 **Keywords:** Ranged, Strike, Weapon
 
 **Type:** Action
@@ -1149,7 +1150,7 @@ As a maneuver, you can recite the following oath. If you do, you succeed on savi
 
 *Until the last villain dies*
 
-###### DRACONIAN PRIDE (COSTS 2 POINTS)
+##### DRACONIAN PRIDE (COSTS 2 POINTS)
 
 You can use the following signature ability.
 
@@ -1174,6 +1175,7 @@ DRAGON BREATH (COSTS 2 POINTS) You can use the following signature ability.
 ### DRAGON BREATH
 
 *You expel energy to damage your foes.*
+
 **Keywords:** Area, Magic
 
 **Type:** Action
@@ -1391,6 +1393,7 @@ THE WODE DEFENDS (COSTS 2 POINTS) You have the following signature ability.
 ###### THE WODE DEFENDS
 
 *Thorny vines erupt into existence and attempt to bind your foe.*
+
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
@@ -1507,7 +1510,7 @@ You have senses that are keen and perceptive. You have an edge on Intuition test
 
 Accessing memories is as easy as living in the present for you. You have an edge on all tests made to recall lore.
 
-###### OTHERWORLDLY GRACE (COSTS 2 POINTS)
+##### OTHERWORLDLY GRACE (COSTS 2 POINTS)
 
 Your elf body and mind can't be contained for long. You succeed on saving throws when you get a 5 or higher.
 
@@ -2098,6 +2101,7 @@ You gain the following ability.
 ##### SHADOWMELD
 
 *You become an actual shadow.*
+
 **Keywords:** Magic
 
 **Type:** Maneuver
@@ -2257,6 +2261,7 @@ Additionally, you gain the following signature ability.
 #### DETONATE SIGIL
 
 *A magical sigil you placed on a creature explodes with energy.*
+
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
@@ -2424,6 +2429,7 @@ You gain one of the following signature abilities.
 ### PSIONIC BOLT
 
 *You shoot forth a beam of psychic purple force that grips your target.*
+
 **Keywords:** Psionic, Ranged, Strike
 
 **Type:** Action
@@ -2441,6 +2447,7 @@ You gain one of the following signature abilities.
 #### MINOR ACCELERATION
 
 *You fill yourself or an ally with a burst of energy.*
+
 **Keywords:** Psionic, Melee
 
 **Type:** Maneuver
@@ -3721,6 +3728,7 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 #### JUDGMENT
 
 *You utter a pray that outlines your foe in holy energy.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -3735,9 +3743,9 @@ If a judged creature uses an action and you have line of effect to them, you can
 
 When the judged creature is reduced to 0 Stamina, you can use a free triggered action to use this ability against a new target within distance.
 
-In addition, you can spend 1 judgment to take one of the following free triggered actions. You can't use more than one instance of a benefit per
+In addition, you can spend 1 judgment to take one of the following free triggered actions. You can't use more than one instance of a benefit per trigger.
 
-**Trigger:** - When an adjacent judged target shifts, you can make a melee free strike against them. The target doesn't shift and their speed becomes 0 until the end of this turn.
+- When an adjacent judged target shifts, you can make a melee free strike against them. The target doesn't shift and their speed becomes 0 until the end of this turn.
 - When a judged target makes a power roll, you can add a bane to the roll.
 - When a judged target within distance uses an ability with a potency against another creature, you reduce the potency of the ability by 1 for that creature (to a minimum of 0).
 
@@ -3825,6 +3833,7 @@ You gain the following ability.
 ##### FAITHFUL FRIEND
 
 *An animal spirit is drawn to you, sharing their senses and serving you faithfully.*
+
 **Keywords:** Magic
 
 **Type:** Action
@@ -3842,10 +3851,13 @@ You gain the following ability.
 ##### GRAVE SPEECH
 
 *You commune with the lingering soul of the recently dead.*
+
 **Keywords:** | Magic
 
 **Type:** | Maneuver |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Melee 1
 
 **Target:** | One dead creature |
@@ -3859,6 +3871,7 @@ You gain the following ability.
 ##### HANDS OF THE MAKER
 
 *You can craft objects with the power of your mind!*
+
 **Keywords:** Magic
 
 **Type:** Maneuver
@@ -3904,11 +3917,13 @@ Choose one signature ability from the following options. Signature abilities can
 #### BACK, BLASPHEMER!
 
 *You channel power through your weapon to repel foes.*
+
 **Keywords:** Area, Magic, Weapon
 
 **Type:** Action
 
 **Distance:** 2 cube within 1
+
 **Target:** Each enemy in the area
 
 **Power Roll + Presence:**
@@ -3920,6 +3935,7 @@ Choose one signature ability from the following options. Signature abilities can
 #### EVERY STEP ... DEATH!
 
 *You show your foe a glimpse of their fate after death.*
+
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
@@ -3939,6 +3955,7 @@ Choose one signature ability from the following options. Signature abilities can
 #### HALT, MISCREANT!
 
 *"Your race is run!"*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -3955,6 +3972,7 @@ Power Roll + Might:
 #### YOUR ALLIES CANNOT SAVE YOU!
 
 *"See how they abandon you!"*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -3982,6 +4000,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 ### BEHOLD, A SHIELD OF FAITH!(3 WRATH)
 
 *"Allow me to intercede."*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -4001,6 +4020,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 #### DRIVING ASSAULT (3 WRATH)
 
 *As you force your enemy back with your weapon, you use your faith to stay close.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -4020,6 +4040,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 #### THE GODS PUNISH AND DEFEND (3 WRATH)
 
 *You channel holy energy to smite a foe and heal an ally.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -4061,6 +4082,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 #### ARREST (5 WRATH)
 
 *"I got you, you son of a bitch."*
+
 **Keywords:** Magic, Melee, Strike, Weapon
 
 **Type:** Action
@@ -4080,10 +4102,13 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 ### BEHOLD THE FACE OF EVIL!(5 WRATH)
 
 *You show your enemies a vision of the true nature of one of their companions.*
+
 **Keywords:** Magic, Melee, Ranged, Strike, Weapon
 
 **Type:** Action
+
 **Distance:** Melee 1 or ranged 5
+
 **Target:** One creature
 
 Power Roll + Might:
@@ -4096,6 +4121,7 @@ Power Roll + Might:
 ### CENSORED (5 WRATH)
 
 *Judged and sentenced.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -4114,10 +4140,13 @@ Power Roll + Might:
 ## PURIFYING FIRE (5 WRATH)
 
 *The gods judge, fire cleanses.*
+
 **Keywords:** Magic, Melee, Ranged, Strike, Weapon
 
 **Type:** Action
+
 **Distance:** Melee 1 or ranged 5
+
 **Target:** One creature
 
 Power Roll + Might:
@@ -4182,6 +4211,7 @@ Choose one of the following abilities.
 ###### IT IS JUSTICE YOU FEAR (5 WRATH)
 
 *I am but a vessel. Your own deeds weigh upon you.*
+
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
@@ -4201,6 +4231,7 @@ Choose one of the following abilities.
 #### REVELATOR (5 WRATH)
 
 *You channel holy energy to harm unbelievers and reveal those hidden from your judgment.*
+
 **Keywords:** Area, Magic
 
 **Type:** Maneuver
@@ -4218,6 +4249,7 @@ Choose one of the following abilities.
 ## PRESCIENT GRACE (5 WRATH)
 
 *"Hah! I see your plan. It will not work!"*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Triggered
@@ -4233,6 +4265,7 @@ Choose one of the following abilities.
 #### WITH MY BLESSING (5 WRATH)
 
 *A word in prayer, and the gods show the way.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Action
@@ -4250,6 +4283,7 @@ Choose one of the following abilities.
 ###### BLESSING OF THE FAITHFUL (5 WRATH)
 
 *The gods reward your faith.*
+
 **Keywords:** Area, Magic
 
 **Type:** Maneuver
@@ -4263,6 +4297,7 @@ Choose one of the following abilities.
 ###### SENTENCED (5 WRATH)
 
 *I am the law!*
+
 **Keywords:** Magic, Melee, Strike, Weapon
 
 **Type:** Action
@@ -4293,6 +4328,7 @@ Choose one heroic ability from the following options, each of which costs 7 wrat
 ##### EDICT OF DISRUPTIVE ISOLATION (7 WRATH)
 
 *Gather not together in secret to conspire.*
+
 **Keywords:** Area, Magic
 
 **Type:** Maneuver
@@ -4306,6 +4342,7 @@ Choose one heroic ability from the following options, each of which costs 7 wrat
 #### EDICT OF PERFECT ORDER (7 WRATH)
 
 *Use not the fell arts!*
+
 **Keywords:** Area, Magic
 
 **Type:** Maneuver
@@ -4319,9 +4356,11 @@ Choose one heroic ability from the following options, each of which costs 7 wrat
 #### EDICT OF PURIFYING PACIFISM (7 WRATH)
 
 *Shed not the blood of innocents!*
+
 **Keywords:** Area, Magic
 
 **Type:** Maneuver
+
 **Distance:** 2 aura
 
 **Target:** Each enemy in the area
@@ -4331,6 +4370,7 @@ Choose one heroic ability from the following options, each of which costs 7 wrat
 #### EDICT OF STILLNESS (7 WRATH)
 
 *Flee not from just punishment.*
+
 **Keywords:** Area, Magic
 
 **Type:** Maneuver
@@ -4380,13 +4420,15 @@ Your divine presence causes those you deem worthy to recover quickly from a figh
 
 You gain the following ability.
 
-###### BLESSING OF SECRETS
+##### BLESSING OF SECRETS
 
 *You project an illusory aura that makes you and allies harder to notice.*
+
 **Keywords:** | Magic
 
-**Type:** | Maneuver |
-| --- | --- | --- | --- |
+**Type:** | Maneuver
+
+
 **Distance:** | Self and 3 aura
 
 **Target:** | Self and all allies |
@@ -4482,10 +4524,12 @@ Choose one heroic ability from the following options.
 #### GODS GRANT THEE STRENGTH (9 WRATH)
 
 *You channel divine force for movement that cannot be stopped.*
+
 **Keywords:** | Ranged
 
-**Type:** | Action |
-| --- | --- | --- | --- |
+**Type:** | Action
+
+
 **Distance:** | Ranged 10
 
 **Target:** | Self or 1 ally |
@@ -4495,10 +4539,12 @@ Choose one heroic ability from the following options.
 #### ORISON OF VICTORY (9 WRATH)
 
 *You channel your god's will to overcome hardship and inflict pain.*
+
 **Keywords:** | Area
 
-**Type:** | Maneuver |
-| --- | --- | --- | --- |
+**Type:** | Maneuver
+
+
 **Distance:** | 1 burst
 
 **Target:** | Self and all allies |
@@ -4513,6 +4559,7 @@ Power Roll + Presence:
 #### RIGHTEOUS JUDGMENT (9 WRATH)
 
 *You amplify the power of your judgment.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -4531,6 +4578,7 @@ Power Roll + Might:
 #### SHIELD OF THE RIGHTEOUS (9 WRATH)
 
 *You strike a foe and create a fleet of divine shields that protect your allies.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -4575,6 +4623,7 @@ Choose one of the following abilities.
 ### BEGONE!(9 WRATH)
 
 *You terrify your enemies into retreating, creating chaos in their ranks.*
+
 **Keywords:** Area, Magic
 
 **Type:** Action
@@ -4591,6 +4640,7 @@ Power Roll + Presence:
 ### PAIN OF YOUR OWN MAKING (9 WRATH)
 
 *You reverse the effects from an evildoer.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Free Triggered Action
@@ -4610,10 +4660,13 @@ Choose one of the following abilities.
 ###### EDICT OF PEACE (9 WRATH)
 
 *You anticipate your foes minor moves and deny them.*
+
 **Keywords:** | Aura, Magic
 
 **Type:** | Maneuver |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | 3 aura
 
 **Target:** | All enemies |
@@ -4623,10 +4676,13 @@ Choose one of the following abilities.
 #### THE BURDEN OF EVIL (9 WRATH)
 
 *Using the power of prophecy you disrupt your enemy's plans.*
+
 **Keywords:** | Magic, Ranged
 
 **Type:** | Maneuver |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Ranged 10
 
 **Target:** | 3 enemies |
@@ -4662,6 +4718,7 @@ Power Roll + Might:
 #### INTERCEDE (9 WRATH)
 
 *You take your ally's place. "Earn this!"*
+
 **Keywords:** Ranged
 
 **Type:** Free Triggered Action
@@ -4716,6 +4773,7 @@ You can maintain up to three bonds with your Invocation of the Heart feature. Ad
 #### GUIDED TO YOUR SIDE
 
 *You concentrate on a friend and teleport to them.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Action
@@ -4765,6 +4823,7 @@ You gain the following ability.
 #### TRINITY OF TRICKERY (9 WRATH)
 
 *Hey! I'm over here. No, here, numbskull.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -4836,10 +4895,13 @@ Choose one heroic ability from the following options.
 #### EXCOMMUNICATION (11 WRATH)
 
 *You curse your foe to become a bane to their allies.*
+
 **Keywords:** | Melee, Strike, Weapon
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Melee 1
 
 **Target:** | 1 creature |
@@ -4854,10 +4916,13 @@ Power Roll + Might:
 #### HAND OF THE GODS (11 WRATH)
 
 *You use your foe as a tool against your enemies.*
+
 **Keywords:** | Ranged, Strike, Weapon
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Ranged 10
 
 **Target:** | 1 creature |
@@ -4872,6 +4937,7 @@ Power Roll + Might:
 #### A PILLAR OF HOLY FIRE (11 WRATH)
 
 *Your enemy's guilt fuels a holy flame that burns your foes.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -4930,10 +4996,13 @@ Choose one of the following abilities.
 #### BANISH (11 WRATH)
 
 *You sever the target's tenuous connection to the world.*
+
 **Keywords:** | Melee, Strike, Weapon
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Melee 1
 
 **Target:** | 1 creature |
@@ -4971,6 +5040,7 @@ Choose one of the following abilities.
 #### BLESSING AND A CURSE (11 WRATH)
 
 *The gods bless and damn in equal measures.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Triggered Action
@@ -4986,6 +5056,7 @@ Choose one of the following abilities.
 ### FULFILL YOUR DESTINY (11 WRATH)
 
 *Your have looked at various futures and only this one works.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Triggered Action
@@ -4993,6 +5064,7 @@ Choose one of the following abilities.
 **Distance:** Ranged 10
 
 **Target:** 1 ally
+
 **Trigger:** You or another hero ends their turn.
 
 **Effect:** The target takes their turn after the triggering hero. The target removes all negative effects. During their turn, the target has a double edge on all power rolls.
@@ -5004,6 +5076,7 @@ Choose one of the following abilities.
 ###### APOSTATE (11 WRATH)
 
 *You channel holy energy to seal an enemy's fate.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -5022,6 +5095,7 @@ Power Roll + Might:
 ### EDICT OF UNYIELDING RESOLVE (11 WRATH)
 
 *You and your allies are clad in shimmering armor.*
+
 **Keywords:** Aura, Magic
 
 **Type:** Maneuver
@@ -5276,10 +5350,13 @@ You gain the following ability.
 ##### FAITHFUL FRIEND
 
 *An animal spirit is drawn to you, sharing their senses and serving you faithfully.*
+
 **Keywords:** | Magic
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Self
 
 **Target:** | Self |
@@ -5292,9 +5369,10 @@ physically interact with the world, but they have a speed of 5 and can fly. Whil
 
 You gain the following ability.
 
-###### GRAVE SPEECH
+##### GRAVE SPEECH
 
 *You commune with the lingering soul of the recently dead.*
+
 **Keywords:** Magic
 
 **Type:** Maneuver
@@ -5309,13 +5387,16 @@ You gain the following ability.
 
 You gain the following ability.
 
-###### HANDS OF THE MAKER
+##### HANDS OF THE MAKER
 
 *You can craft objects with the power of your mind!*
+
 **Keywords:** | Magic
 
 **Type:** | Maneuver |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Self
 
 **Target:** | Self |
@@ -5350,9 +5431,10 @@ As a respite activity, you can bless a weapon. Any creature who wields the weapo
 
 You gain the following ability, which you can use once on your turn.
 
-##### HEALING GRACE
+#### HEALING GRACE
 
 *Your divine energy restores the righteous.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -5377,6 +5459,7 @@ You gain the following ability, which can be used as a ranged free strike.
 #### RAY OF WRATH
 
 *You unleash a blast of holy light upon your foe.*
+
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
@@ -5399,6 +5482,7 @@ Choose one of the following triggered actions. (*Quick Build:*  Word of Guidance
 ### WORD OF GUIDANCE
 
 *You invigorate an attacking ally with divine energy.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Triggered
@@ -5416,6 +5500,7 @@ Choose one of the following triggered actions. (*Quick Build:*  Word of Guidance
 #### WORD OF JUDGMENT
 
 *Your holy word saps an attacking enemy's strength.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Triggered
@@ -5487,6 +5572,7 @@ Select two signature abilities from the following options. Signature abilities c
 #### BLESSED LIGHT
 
 *Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.*
+
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
@@ -5505,10 +5591,13 @@ Power Roll + Intuition:
 #### DRAIN
 
 *You drain the energy from your target and revitalize yourself or an ally.*
+
 **Keywords:** | Magic, Melee, Strike
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Melee 1
 
 **Target:** | One creature |
@@ -5538,6 +5627,7 @@ Power Roll + Intuition:
 #### LIGHTFALL
 
 *A rain of holy light scours your enemies and repositions your allies.*
+
 **Keywords:** Area, Magic
 
 **Type:** Action
@@ -5556,10 +5646,13 @@ Power Roll + Intuition:
 #### SACRIFICIAL OFFER
 
 *Divine magic tears at your foe and defends a nearby friend.*
+
 **Keywords:** | Magic, Ranged, Strike
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Ranged 10
 
 **Target:** | One creature |
@@ -5574,6 +5667,7 @@ Power Roll + Intuition:
 #### STAGGERING CURSE
 
 *A blast of judgment disorients your foe.*
+
 **Keywords:** Magic, Melee, Strike
 
 **Type:** Action
@@ -5590,6 +5684,7 @@ Power Roll + Intuition:
 #### WARRIOR'S PRAYER
 
 *Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.*
+
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
@@ -5612,6 +5707,7 @@ Power Roll + Intuition:
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
+
 **Distance:** Ranged 10
 
 **Target:** One creature or object
@@ -5637,6 +5733,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 **Keywords:** Area, Magic, Ranged
 
 **Type:** Action
+
 **Distance:** 3 cube within 10
 
 **Target:** Each enemy in the area
@@ -5653,6 +5750,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 #### FONT OF WRATH (3 PIETY)
 
 *A brilliant column of holy light appears on the battlefield, striking out at nearby enemies.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Action
@@ -5666,6 +5764,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 #### JUDGMENT'S HAMMER (3 PIETY)
 
 *Your divine fury is a hammer that crashes down upon the unrighteous.*
+
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
@@ -5683,6 +5782,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 #### VIOLENCE WILL NOT AID THEE (3 PIETY)
 
 *After some holy lightning, your enemy will think twice about their next attack.*
+
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
@@ -5706,6 +5806,7 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 #### CORRUPTION'S CURSE (5 PIETY)
 
 *Cursed by you, your enemy takes more damage from your allies.*
+
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
@@ -5727,6 +5828,7 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
+
 **Distance:** Ranged 10
 
 **Target:** One creature
@@ -5740,6 +5842,7 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 #### FAITH IS OUR ARMOR (5 PIETY)
 
 *The heroes' armor glows with golden light, granting divine protection.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -5757,6 +5860,7 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 #### SERMON OF GRACE (5 PIETY)
 
 *You inspire your allies with tales of your saint's great deeds.*
+
 **Keywords:** Area, Magic
 
 **Type:** Action
@@ -5807,11 +5911,13 @@ Choose one of your domains. You gain an ability from that domain as shown on the
 ### BLESSING OF FATE AND DESTINY (5 PIETY)
 
 *Your enemies suffer their fate; your allies embrace their destiny!*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Action
 
 **Distance:** Ranged 10
+
 **Target:** Three creatures, including self
 
 **Effect:** Choose one of the following effects, which lasts until the end of the encounter or until you are dying:
@@ -5822,6 +5928,7 @@ Choose one of your domains. You gain an ability from that domain as shown on the
 ### BLESSING OF INSIGHT (5 PIETY)
 
 *The gods grant insight revealing where best to strike your enemies.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -5835,9 +5942,11 @@ Choose one of your domains. You gain an ability from that domain as shown on the
 ### DIVINE COMEDY (5 PIETY)
 
 *You and your allies swap places to confound your foes.*
+
 **Keywords:** Area, Magic
 
 **Type:** Maneuver
+
 **Distance:** 5 burst
 
 **Target:** Each ally in the area
@@ -5847,10 +5956,13 @@ Choose one of your domains. You gain an ability from that domain as shown on the
 ### THE GODS COMMAND, YOU OBEY (5 PIETY)
 
 *You speak with the voice of your saint, commanding your enemies.*
+
 **Keywords:** | Magic, Ranged, Strike
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Ranged 10
 
 **Target:** | One creature |
@@ -5864,6 +5976,7 @@ Choose one of your domains. You gain an ability from that domain as shown on the
 #### MORNING LIGHT (5 PIETY)
 
 *Light shines at your command, burning your foes and blessing your allies.*
+
 **Keywords:** Area, Magic
 
 **Type:** Action
@@ -5882,11 +5995,13 @@ Power Roll + Intuition:
 #### NATURE JUDGES THEE (5 PIETY)
 
 *Mystical thorned vines appear at your bidding and bind your foes.*
+
 **Keywords:** Area, Magic, Ranged
 
 **Type:** Action
 
 **Distance:** 3 cube within 10
+
 **Target:** Each enemy in the area
 
 Power Roll + Intuition:
@@ -5897,6 +6012,7 @@ Power Roll + Intuition:
 #### OUR HEARTS, YOUR STRENGTH (5 PIETY)
 
 *An ally gains strength from their friends.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -5910,6 +6026,7 @@ Power Roll + Intuition:
 #### REAP (5 PIETY)
 
 *The gods reward those who smite their foes.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -5923,6 +6040,7 @@ Power Roll + Intuition:
 #### SACRED BOND (5 PIETY)
 
 *You forge a divine connection between two creatures.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -5938,11 +6056,13 @@ Additionally, whenever one target spends a Recovery, the other target can use a 
 #### SAINT'S TEMPEST (5 PIETY)
 
 *A raging storm appears, striking your foes with lightning and throwing them around with wind.*
+
 **Keywords:** Area, Magic, Ranged
 
 **Type:** Action
 
 **Distance:** 3 cube within 10
+
 **Target:** Each enemy in the area
 
 Power Roll + Intuition:
@@ -5953,10 +6073,17 @@ Power Roll + Intuition:
 #### STATUE OF POWER (5 PIETY)
 
 *A marble statue of your patron rises from the earth.*
+
 **Keywords:** | Magic, Ranged |
-| --- | --- |
-**Distance:** | Ranged 10 |
-**Type:** | Maneuver |
+| --- | ---
+
+
+**Distance:** | Ranged 10
+
+
+**Type:** | Maneuver
+
+
 **Target:** | Special |
 
 **Effect:** A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you and your allies each gains a surge at the start of their turns. The statue is destroyed if it takes 20 or more damage. It is immune to poison and psychic damage.
@@ -5964,6 +6091,7 @@ Power Roll + Intuition:
 #### WELLSPRING OF GRACE (5 PIETY)
 
 *A holy light is emitted from your body, healing your allies.*
+
 **Keywords:** Area, Magic
 
 **Type:** Action
@@ -5993,11 +6121,13 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 #### FEAR OF THE GODS (7 PIETY)
 
 *Your divine magic makes a creature appear as what your enemies fear most.*
+
 **Keywords:** Area, Magic, Ranged
 
 **Type:** Action
 
 **Distance:** 5 cube within 10
+
 **Target:** Each enemy in the area
 
 Power Roll + Intuition:
@@ -6024,6 +6154,7 @@ Power Roll + Intuition:
 #### SOUL SIPHON (7 PIETY)
 
 *A beam of energy connects a foe to a friend, draining life from one to heal the other.*
+
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
@@ -6042,6 +6173,7 @@ Power Roll + Intuition:
 ### WORDS OF WRATH AND GRACE (7 PIETY)
 
 *Your saint grants your enemies a vision of whatever they most fear.*
+
 **Keywords:** Area, Magic
 
 **Type:** Action
@@ -6101,6 +6233,7 @@ You gain the following ability.
 ##### BLESSING OF SECRETS
 
 *You project an illusory aura that makes you and allies harder to notice.*
+
 **Keywords:** Magic
 
 **Type:** Maneuver
@@ -6178,6 +6311,7 @@ Choose one heroic ability from the following options.
 ##### BEACON OF GRACE (9 PIETY)
 
 *You ignite a foe with holy radiance, rewarding allies who attack them.*
+
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
@@ -6196,6 +6330,7 @@ Power Roll + Intuition:
 ##### PENANCE (9 PIETY)
 
 *If you won't kneel, the gods shall make you.*
+
 **Keywords:** Area, Magic, Ranged
 
 **Type:** Action
@@ -6212,6 +6347,7 @@ Power Roll + Intuition:
 #### SANCTUARY (9 PIETY)
 
 *You send yourself or an ally to a divine manifold for an instant so they may regain their health.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -6225,6 +6361,7 @@ Power Roll + Intuition:
 #### VESSEL OF RETRIBUTION (9 PIETY)
 
 *You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -6278,10 +6415,13 @@ Choose one of your domains. You gain an ability from it as shown on the 6th-Leve
 #### AURA OF SOULS (9 PIETY)
 
 *A whirlwind of souls of the dead flies around you at your command.*
+
 **Keywords:** Area, Magic
 
 **Type:** Maneuver |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** 4 Aura
 
 **Target:** All creatures |
@@ -6291,10 +6431,13 @@ Choose one of your domains. You gain an ability from it as shown on the 6th-Leve
 #### BLADE OF THE HEAVENS (9 PIETY)
 
 *A greatsword streams down from the sky, threatening to pin your foe.*
+
 **Keywords:** | Magic, Ranged, Strike
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Ranged 5
 
 **Target:** | 1 creature |
@@ -6307,6 +6450,7 @@ Power Roll + Intuition:
 #### BLESSING OF THE MIDDAY SUN (9 PIETY)
 
 *Your body emits a heat that bakes your enemies and inspires your allies.*
+
 **Keywords:** Area, Magic
 
 **Type:** Maneuver
@@ -6320,6 +6464,7 @@ Power Roll + Intuition:
 #### CUIRASS OF THE GODS (9 PIETY)
 
 *Your allies are covered in spiritual armor.*
+
 **Keywords:** Area, Magic, Ranged
 
 **Type:** Maneuver
@@ -6333,6 +6478,7 @@ Power Roll + Intuition:
 ### GOD'S MACHINE (9 PIETY)
 
 *You conjure a whirring tank made of blades and metal.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Action
@@ -6353,6 +6499,7 @@ On each subsequent turn, you can use a free maneuver to move the machine a numbe
 ### INVOCATION OF MYSTERY (9 PIETY)
 
 *Now you see us ...*
+
 **Keywords:** Area, Magic
 
 **Type:** Maneuver
@@ -6385,6 +6532,7 @@ Power Roll + Intuition:
 ### LAUDED BY GOD (9 PIETY)
 
 *You beseech the gods to give your allies what they need to win the day, and the gods answer.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -6402,6 +6550,7 @@ Power Roll + Intuition:
 **Keywords:** Area, Magic
 
 **Type:** Action
+
 **Distance:** Three 10 x 1 lines within 1
 
 **Target:** All enemies
@@ -6416,6 +6565,7 @@ Power Roll + Intuition:
 ### REVITALIZING GRACE (9 PIETY)
 
 *With a single movement, you restore your health and that of your allies.*
+
 **Keywords:** Area, magic
 
 **Type:** Action
@@ -6429,10 +6579,13 @@ Power Roll + Intuition:
 #### SPIRIT STAMPEDE (9 PIETY)
 
 *Animal spirits run through the battlefield, trampling your foes.*
+
 **Keywords:** | Magic, Area, Ranged
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | 10 x 2 line within 5
 
 **Target:** | All enemies |
@@ -6445,6 +6598,7 @@ Power Roll + Intuition:
 #### YOUR STORY ENDS HERE (9 PIETY)
 
 *You bend the fate of a foe, willing them to die.*
+
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
@@ -6503,6 +6657,7 @@ You can maintain up to three bonds with your Invocation of the Heart feature. Ad
 #### GUIDED TO YOUR SIDE
 
 *You concentrate on a friend and teleport to them.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Action
@@ -6554,6 +6709,7 @@ You gain the following ability.
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
+
 **Distance:** Self or Ranged 10
 
 **Target:** Self or 1 ally
@@ -6601,10 +6757,13 @@ Choose one heroic ability from the following options.
 ##### ARISE!(11 PIETY)
 
 *Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Action |
-| --- | --- |
+| --- | ---
+
+
 **Distance:** Self or Ranged 10
 
 **Target:** Self or 1 ally |
@@ -6621,10 +6780,13 @@ Choose one heroic ability from the following options.
 ##### BLESSING OF STEEL (11 PIETY)
 
 *A protective aura defends your allies from harm.*
+
 **Keywords:** Area, Magic
 
 **Type:** Maneuver |
-| --- | --- |
+| --- | ---
+
+
 **Distance:** Self and 5 aura
 
 **Target:** Self and all allies |
@@ -6634,9 +6796,11 @@ Choose one heroic ability from the following options.
 ##### DRAG THE UNWORTHY (11 PIETY)
 
 *You conjure an angel that moves a foe and heals your allies.*
+
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
+
 **Distance:** Ranged 10
 
 **Target:** 1 creature or object
@@ -6687,6 +6851,7 @@ Choose one of your domains. You gain an ability from it as shown on the 9h-Level
 ### ALACRITY OF THE HEART (11 PIETY)
 
 *You speak inspiring words to a friend and inspire them to incredible feats.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -6700,6 +6865,7 @@ Choose one of your domains. You gain an ability from it as shown on the 9h-Level
 ## BEND FATE (11 PIETY)
 
 *The gods know you must prevail.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Action
@@ -6713,6 +6879,7 @@ Choose one of your domains. You gain an ability from it as shown on the 9h-Level
 ### BLESSING OF THE FORTRESS (11 PIETY)
 
 *A magic circle extends out from you, barring foes from getting close.*
+
 **Keywords:** Area, Magic
 
 **Type:** Maneuver
@@ -6726,6 +6893,7 @@ Choose one of your domains. You gain an ability from it as shown on the 9h-Level
 ### DIVINE DRAGON (11 PIETY)
 
 *From nothing but divine will, you create a powerful ally.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Action
@@ -6753,6 +6921,7 @@ Power Roll + Intuition:
 ### GODSTORM (11 PIETY)
 
 *You summon a divine storm that remains under your control.*
+
 **Keywords:** Area, Magic, Ranged
 
 **Type:** Action
@@ -6771,6 +6940,7 @@ Power Roll + Intuition:
 #### NIGHT FALLS (11 PIETY)
 
 *You summon darkness that thwarts only your foes.*
+
 **Keywords:** Area, Magic, Ranged
 
 **Type:** Action
@@ -6784,6 +6954,7 @@ Power Roll + Intuition:
 #### RADIANCE OF GRACE (11 PIETY)
 
 *Intense light emits from your body, healing your allies.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Action
@@ -6797,6 +6968,7 @@ Power Roll + Intuition:
 #### RIGHTEOUS PHALANX (11 PIETY)
 
 *A wall of spinning swords and knives appears where you wish.*
+
 **Keywords:** Area, Magic, Ranged
 
 **Type:** Action
@@ -6810,6 +6982,7 @@ Power Roll + Intuition:
 #### SOLAR FLARE (11 PIETY)
 
 *You call down a sphere of fire that burns your foes to ash.*
+
 **Keywords:** Area, Magic, Ranged
 
 **Type:** Action
@@ -6829,6 +7002,7 @@ their turn there, they take 15 damage.
 #### THORN CAGE (11 PIETY)
 
 *Vines burst forth from the ground and bind your foe, slowly closing around them.*
+
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
@@ -6847,13 +7021,18 @@ Power Roll + Intuition:
 ### WORD OF FINAL REDEMPTION (11 PIETY)
 
 *Your death will fuel our victory.*
+
 **Keywords:** | Magic, Ranged
 
 **Type:** | Free Triggered Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Ranged 10
 
-**Target:** | 1 enemy |
+**Target:** | 1 enemy
+
+
 **Trigger:** | The target dies. |  |  |
 
 **Effect:** Before the target dies, you can look at their stat block and use one ability that is an action or maneuver. If the action normally costs a heroic resource or Malice, they can still use it without any cost. For the purposes of this ability, your allies and enemies are the target's allies and enemies, and you decide who their ability targets.
@@ -6861,6 +7040,7 @@ Power Roll + Intuition:
 #### WORD OF WEAKENING (11 PIETY)
 
 *You utter a divine word that makes a foe brittle.*
+
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
@@ -7015,6 +7195,7 @@ You gain the following ability, which can be used as a ranged free strike.
 #### HURL ELEMENT
 
 *You cast a ball of elemental energy at an unsuspecting foe.*
+
 **Keywords:** Magic, Ranged, Strike
 
 **Type:** Action
@@ -7048,9 +7229,10 @@ If you take damage equal to or greater than 5 x your Reason score in one turn, y
 
 You have the following ability:
 
-##### PRACTICAL MAGIC
+#### PRACTICAL MAGIC
 
 *Your mastery of elemental power lets you customize your conjurations.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -7087,6 +7269,7 @@ You also gain the following ability.
 #### SHARED VOID SENSE
 
 *You grant allies a taste of your unearthly vision.*
+
 **Keywords:** Magic, Ranged, Void
 
 **Type:** Maneuver
@@ -7110,6 +7293,7 @@ You gain the following ability.
 ##### MOTIVATE EARTH
 
 *The earth rises, falls, or opens up at your command.*
+
 **Keywords:** Earth, Magic, Melee
 
 **Type:** Action
@@ -7128,13 +7312,16 @@ You can instead touch a doorway or other opening in a mundane dirt, stone, or me
 
 You gain the following ability.
 
-###### RETURN TO FORMLESSNESS
+##### RETURN TO FORMLESSNESS
 
 *With the merest touch, you cause an object to turn to slag or ash.*
+
 **Keywords:** | Fire, Magic, Melee
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Melee 1
 
 **Target:** | One mundane object |
@@ -7157,6 +7344,7 @@ Your elemental specialization grants you a triggered action as shown on the Spec
 ### THE BREATH OF DAWN REMEMBERED
 
 *The power you channel grants the ability to get back in the fight.*
+
 **Keywords:** Green, Magic, Ranged
 
 **Type:** Triggered
@@ -7174,13 +7362,18 @@ Your elemental specialization grants you a triggered action as shown on the Spec
 #### EXPLOSIVE ASSISTANCE
 
 *You add a little magic to an ally's aggression at just the right time.*
+
 **Keywords:** | Fire, Magic, Ranged
 
 **Type:** | Triggered |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Ranged 10
 
-**Target:** | Self or one ally |
+**Target:** | Self or one ally
+
+
 **Trigger:** | The target force moves a creature or object. |  |  |
 
 **Effect:** The forced movement distance gains a bonus equal to your Reason score.
@@ -7190,6 +7383,7 @@ Your elemental specialization grants you a triggered action as shown on the Spec
 #### SKIN LIKE CASTLE WALLS
 
 *You make yourself or an ally covered in protective stone.*
+
 **Keywords:** Earth, Magic, Ranged
 
 **Type:** Triggered
@@ -7207,6 +7401,7 @@ Your elemental specialization grants you a triggered action as shown on the Spec
 #### A SUBTLE RELOCATION
 
 *You call on the void to swallow and spit out an ally.*
+
 **Keywords:** Magic, Ranged, Void
 
 **Type:** Triggered
@@ -7279,10 +7474,13 @@ Select two signature abilities from the following options. Signature abilities c
 #### AFFLICT A BOUNTIFUL DECAY
 
 *Your curse causes a foe's flesh to rot off as spores that aid your allies.*
+
 **Keywords:** Green, Rot, Magic, Ranged, Strike
+
 **Distance:** Ranged 10
 
 **Target:** One creature
+
 **Type:** Action
 
 Power Roll + Reason:
@@ -7295,6 +7493,7 @@ Power Roll + Reason:
 ##### BIFURCATED CONFLAGRATION
 
 *Two jets of flame lance out at your command.*
+
 **Keywords:** Fire, Magic, Ranged, Strike
 
 **Type:** Action
@@ -7311,6 +7510,7 @@ Power Roll + Reason:
 ###### GRASP OF BEYOND
 
 *You absorb the life energy of another creature and use it to teleport.*
+
 **Keywords:** Magic, Melee, Strike, Void
 
 **Type:** Action
@@ -7330,6 +7530,7 @@ Power Roll + Reason:
 #### THE GREEN WITHIN, THE GREEN WITHOUT
 
 *Whipping vines erupt from a foe's body to grasp at another close by.*
+
 **Keywords:** Green, Magic, Ranged, Strike
 
 **Type:** Action
@@ -7365,6 +7566,7 @@ Power Roll + Reason:
 #### RAY OF AGONIZING SELF REFLECTION
 
 *You inflict pain and doubt in equal measure.*
+
 **Keywords:** Magic, Ranged, Strike, Void
 
 **Type:** Action
@@ -7381,11 +7583,13 @@ Power Roll + Reason:
 #### UNQUIET GROUND
 
 *A sudden storm of detritus assaults your foes and leaves them struggling to move.*
+
 **Keywords:** Area, Earth, Magic, Ranged
 
 **Type:** Action
 
 **Distance:** 2 cube within 10
+
 **Target:** Each enemy in the area
 
 Power Roll + Reason:
@@ -7423,11 +7627,13 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 #### BEHOLD THE MYSTERY (3 ESSENCE)
 
 *You open a rift into the void to harry your foes.*
+
 **Keywords:** Area, Magic, Ranged, Void
 
 **Type:** Action
 
 **Distance:** 3 cube within 10
+
 **Target:** Each enemy in the area
 
 Power Roll + Reason:
@@ -7440,6 +7646,7 @@ Power Roll + Reason:
 #### THE FLESH, A CRUCIBLE (3 ESSENCE)
 
 *Fire engulfs a target of your choice and burns at your command.*
+
 **Keywords:** Fire, Magic, Ranged, Strike
 
 **Type:** Action
@@ -7458,6 +7665,7 @@ Power Roll + Reason:
 #### INVIGORATING GROWTH (3 ESSENCE)
 
 *Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
+
 **Keywords:** Green, Magic, Ranged, Strike
 
 **Type:** Action
@@ -7476,6 +7684,7 @@ Power Roll + Reason:
 #### RIPPLES IN THE EARTH (3 ESSENCE)
 
 *Like a stone dropped into a pond, waves in the earth radiate from you.*
+
 **Keywords:** Area, Earth, Magic
 
 **Type:** Action
@@ -7498,11 +7707,13 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 ###### CONFLAGRATION (5 ESSENCE)
 
 *A storm of fire descends upon your enemies.*
+
 **Keywords:** Area, Fire, Magic, Ranged
 
 **Type:** Action
 
 **Distance:** 3 cube within 10
+
 **Target:** Each enemy in the area
 
 Power Roll + Reason:
@@ -7515,6 +7726,7 @@ Power Roll + Reason:
 #### INSTANTANEOUS EXCAVATION (5 ESSENCE)
 
 *The surface of the world around you opens up at your command.*
+
 **Keywords:** Earth, Magic, Ranged
 
 **Type:** Maneuver
@@ -7535,6 +7747,7 @@ Power Roll + Reason:
 #### NO MORE THAN A BREEZE (5 ESSENCE)
 
 *The material substance of a creature shreds away at your command.*
+
 **Keywords:** Magic, Ranged, Void
 
 **Type:** Maneuver
@@ -7550,11 +7763,13 @@ Power Roll + Reason:
 ### TEST OF RAIN (5 ESSENCE)
 
 *You call down a rain that burns your enemies and restores your allies.*
+
 **Keywords:** Area, Green, Magic, Ranged
 
 **Type:** Action
 
 **Distance:** 3 cube within 10
+
 **Target:** Each enemy in the area
 
 Power Roll + Reason:
@@ -7609,9 +7824,10 @@ Your body is strengthened by your mind's connection to the element of permanence
 
 You gain the following ability.
 
-###### THERE IS NO SPACE BETWEEN
+##### THERE IS NO SPACE BETWEEN
 
 *Knowledge of the mystery reveals two spaces are the same space.*
+
 **Keywords:** Magic, Ranged, Void
 
 **Type:** Maneuver
@@ -7658,10 +7874,13 @@ Choose a new heroic ability from one of the following options, each of which cos
 #### O FLOWER AID, O EARTH DEFEND (5 ESSENCE)
 
 *Revitalizing plants and jagged stones grow, helping allies and hindering foes.*
+
 **Keywords:** Area, Earth, Green, Magic, Ranged
+
 **Distance:** 3 cube within 10
 
 **Target:** Special
+
 **Type:** Maneuver
 
 **Effect:** Until the start of your next turn, the area gains the following effects:
@@ -7675,9 +7894,11 @@ Choose a new heroic ability from one of the following options, each of which cos
 SUBVERT THE GREEN WITHIN (5 ESSENCE) *Burrow into their brains and take control!*
 
 **Keywords:** Green, Magic, Ranged, Strike, Void
+
 **Distance:** Ranged 10
 
 **Target:** One creature
+
 **Type:** Action
 
 **Effect:** The target uses their signature ability against a target of your choice. You then make a power roll against the target of this ability.
@@ -7690,6 +7911,7 @@ Power Roll + Reason:
 #### TRANSLATED THROUGH FLAME (5 ESSENCE)
 
 *Your ally disappears, then reappears in a burst of fire!*
+
 **Keywords:** Fire, Magic, Ranged, Void
 
 **Type:** Action
@@ -7708,6 +7930,7 @@ Power Roll + Reason:
 ### VOLCANO'S EMBRACE (5 ESSENCE)
 
 *Wrap them up in fire and melting stone.*
+
 **Keywords:** Earth, Fire, Magic, Ranged, Strike
 
 **Type:** Action
@@ -7750,9 +7973,10 @@ When you finish a respite, you can open a two-way portal that leads to any place
 
 You gain the following ability.
 
-###### THE EARTH ACCEPTS ME
+##### THE EARTH ACCEPTS ME
 
 *You can slip into the stone.*
+
 **Keywords:** Earth, Magic
 
 **Type:** Action
@@ -7770,6 +7994,7 @@ You gain the following ability.
 ##### REMEMBER GROWTH AND SUN AND RAIN
 
 *You stir any wood's memory and learn what it has seen.*
+
 **Keywords:** Green, Magic, Melee
 
 **Type:** Action
@@ -7808,6 +8033,7 @@ Each target begins to fade from existence (save ends). While fading from existen
 #### MAW OF EARTH (7 ESSENCE)
 
 *You open up the ground, unleashing a shower of stone and debris.*
+
 **Keywords:** Area, Earth, Magic, Ranged
 
 **Type:** Action
@@ -7826,6 +8052,7 @@ Power Roll + Reason:
 #### SWARM OF SPIRITS (7 ESSENCE)
 
 *Guardian animal spirits surround you to harry your foes and bolster your allies.*
+
 **Keywords:** Area, Green, Magic
 
 **Type:** Action
@@ -7846,6 +8073,7 @@ Power Roll + Reason:
 #### WALL OF FIRE (7 ESSENCE)
 
 *A blazing, beautifully organized inferno erupts at your command.*
+
 **Keywords:** Area, Fire, Magic, Ranged
 
 **Type:** Maneuver
@@ -7974,6 +8202,7 @@ Power Roll + Reason:
 ### STORM OF SANDS (9 ESSENCE)
 
 *Dirt and debris start to swirl into a dark, pulsing hurricane.*
+
 **Keywords:** Area, Earth, Magic, Ranged
 
 **Type:** Action
@@ -7994,6 +8223,7 @@ Power Roll + Reason:
 ### SUBVERTED PERCEPTION OF SPACE (9 ESSENCE)
 
 *You rip an enemy's world in twain.*
+
 **Keywords:** Magic, Ranged, Strike, Void
 
 **Type:** Action
@@ -8012,6 +8242,7 @@ Power Roll + Reason:
 #### WEB OF ALL THAT'S COME BEFORE (9 ESSENCE)
 
 *Threads you've been weaving through your adventures fray into a vibrant, pearlescent web.*
+
 **Keywords:** Area, Green, Magic, Ranged
 
 **Type:** Action
@@ -8057,7 +8288,9 @@ Choose a new heroic ability from one of the following options. Alternatively, yo
 *They shone vibrantly, a beautiful diamond in the night sky.*
 
 **Keywords:** Fire, Green, Magic, Ranged, Void
+
 **Type:** Maneuver
+
 **Distance:** Self or Ranged 10
 
 **Target:** Self or 1 Ally
@@ -8069,9 +8302,11 @@ Choose a new heroic ability from one of the following options. Alternatively, yo
 #### MAGMA TITAN (9 ESSENCE)
 
 *Their body swells with lava, mud, and might, towering over their enemies.*
+
 **Keywords:** Earth, Fire, Green, Magic, Ranged
 
 **Type:** Maneuver
+
 **Distance:** Self or Ranged 10
 
 **Target:** Self or 1 ally
@@ -8089,7 +8324,9 @@ Choose a new heroic ability from one of the following options. Alternatively, yo
 #### METEOR (9 ESSENCE)
 
 *You teleport the target into the air and let the ground do the rest.*
+
 **Keywords:** Area, Earth, Fire, Magic, Ranged, Void
+
 **Type:** Action
 
 **Distance:** Ranged 10
@@ -8106,6 +8343,7 @@ Power Roll + Reason:
 #### THE WODE REMEMBERS AND RETURNS (9 ESSENCE)
 
 *You create a terrarium, from canopy above to underbrush below.*
+
 **Keywords:** Area, Earth, Green, Magic, Void
 
 **Type:** Action
@@ -8152,7 +8390,7 @@ You gain any one perk of your choice. See Perks for more information.
 
 Your specialization grants you a feature as shown on the 8th-Level Elementalist Specialization Features table.
 
-##### **8TH-LEVEL ELEMENTALIST SPECIALIZATION FEATURES**
+##### 8TH-LEVEL ELEMENTALIST SPECIALIZATION FEATURES
 
 | Specialization | Feature |
 | --- | --- |
@@ -8188,10 +8426,13 @@ You gain the following ability:
 ##### SUMMON SOURCE OF EARTH
 
 *The ground rumbles as they burst forth, ready to serve.*
+
 **Keywords:** Earth, Magic, Persistent
 
 **Type:** Action |
-| --- | --- |
+| --- | ---
+
+
 **Distance:** Ranged 10
 
 **Target:** Special |
@@ -8235,6 +8476,7 @@ Choose one heroic ability from the following options.
 #### HEART OF THE WODE (11 ESSENCE)
 
 *You call forth one of the Great Tree's many splinters to provide for your every need.*
+
 **Keywords:** Green, Magic, Ranged
 
 **Type:** Action
@@ -8248,10 +8490,13 @@ Choose one heroic ability from the following options.
 #### MUSE OF FIRE (11 ESSENCE)
 
 *The fire burns hot enough to sear the face of any god watching.*
+
 **Keywords:** Area, Fire, Magic
 
 **Type:** Action |
-| --- | --- |
+| --- | ---
+
+
 **Distance:** 5 cube within 10
 
 **Target:** All enemies |
@@ -8268,10 +8513,13 @@ o *11 or lower*: 7 **fire damage; Director loses 2 Malice**
 #### RETURN TO OBLIVION (11 ESSENCE)
 
 *You create a tear in reality that could consume everything that slips inside of it.*
+
 **Keywords:** Area, Magic, Ranged, Void
 
 **Type:** Action |
-| --- | --- |
+| --- | ---
+
+
 **Distance:** Ranged 10
 
 **Target:** Special |
@@ -8312,6 +8560,7 @@ Choose one heroic ability from the following options. Alternatively, you can cho
 #### THE EARTH REJECTS YOU (11 ESSENCE)
 
 *Everyone and everything gets blown away in a hail of rocks and debris.*
+
 **Keywords:** Area, Earth, Magic, Ranged
 
 **Type:** Action
@@ -8330,10 +8579,13 @@ Power Roll + Reason:
 #### THE GREEN DEFENDS ITS SERVANTS (11 ESSENCE)
 
 *A luminous green shield that shows its true beauty the more it cracks.*
+
 **Keywords:** | Green, Magic, Ranged
 
 **Type:** | Maneuver |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Self or Ranged 10
 
 **Target:** | Self or 1 ally |
@@ -8345,10 +8597,13 @@ Power Roll + Reason:
 #### PRISM (11 ESSENCE)
 
 *In one act, you split your essence, allowing you to cast multiple effects at once.*
+
 **Keywords:** | Magic, Void
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Self
 
 **Target:** | Self |
@@ -8358,6 +8613,7 @@ Power Roll + Reason:
 #### UNQUENCHABLE FIRE (11 ESSENCE)
 
 *You let fly a fiery missile braided with every primal element at your disposal.*
+
 **Keywords:** Fire, Magic, Ranged, Strike
 
 **Type:** Action
@@ -8580,13 +8836,18 @@ Your primordial aspect grants you a triggered action as shown on the Aspect Trig
 #### FURIOUS CHANGE
 
 *In your* anger, you revert to a more bestial form.
+
 **Keywords:** 
 
 **Type:** |
-| --- | --- |
+| --- | ---
+
+
 **Distance:** 
 
-**Target:** |
+**Target:** 
+
+
 **Trigger:** |  |
 | You lose Stamina and are not dying. |  |
 
@@ -8597,13 +8858,18 @@ Your primordial aspect grants you a triggered action as shown on the Aspect Trig
 #### LINES OF FORCE
 
 *You redirect the energy of motion.*
+
 **Keywords:** | Magic, Melee
 
 **Type:** | Triggered |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Melee 1
 
-**Target:** | Self or one creature |
+**Target:** | Self or one creature
+
+
 **Trigger:** | The target would be force moved. |  |  |
 
 **Effect:** You can select a new target of the same size or smaller within distance to be force moved instead, and you can turn that forced movement into a push instead. You become the source of the forced movement and decide where the new target's destination. Additionally, the forced movement distance gains a bonus equal to your Might score.
@@ -8613,6 +8879,7 @@ Your primordial aspect grants you a triggered action as shown on the Aspect Trig
 #### UNEARTHLY REFLEXES
 
 *Elusive as a hummingbird.*
+
 **Keywords:** --
 
 **Type:** Triggered
@@ -8620,6 +8887,7 @@ Your primordial aspect grants you a triggered action as shown on the Aspect Trig
 **Distance:** Self
 
 **Target:** Self
+
 **Trigger:** You take damage.
 
 **Effect: Effect:** You take half damage from the attack and can shift up to a number of squares equal to your Agility score.
@@ -8645,6 +8913,7 @@ Choose one signature ability from the following options. Signature abilities can
 #### BRUTAL SLAM
 
 *The heavy impact of your weapon attacks drives your foes ever backward.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -8661,6 +8930,7 @@ Power Roll + Might:
 ### HIT AND RUN
 
 *Keeping in constant motion helps you slip out of reach after a brutal assault.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -8679,11 +8949,13 @@ Power Roll + Might:
 ### IMPALED!
 
 *You plunge your weapon into your enemy like a boar upon a spit.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
 
 **Distance:** Melee 1
+
 **Target:** One creature of your size or smaller
 
 Power Roll + Might:
@@ -8694,6 +8966,7 @@ Power Roll + Might:
 #### TO THE DEATH!
 
 *Your reckless assault leaves you tactically vulnerable.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -8720,6 +8993,7 @@ Choose one heroic ability from the following options, each of which costs 3 rage
 #### BACK!(3 RAGE)
 
 *Surrounded? The fools!*
+
 **Keywords:** Area, Melee, Weapon
 
 **Type:** Action
@@ -8736,10 +9010,13 @@ Power Roll + Might:
 #### OUT OF THE WAY!(3 RAGE)
 
 *Your enemies will get out of your way--whether they want to or not.*
+
 **Keywords:** | Melee, Strike, Weapon
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Melee 1
 
 **Target:** | One creature |
@@ -8754,10 +9031,13 @@ Power Roll + Might:
 #### TIDE OF DEATH (3 RAGE)
 
 *Teach them the folly of lining up for you.*
+
 **Keywords:** | Melee, Weapon
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Self
 
 **Target:** | Self |
@@ -8774,6 +9054,7 @@ The last target you damage takes extra damage equal to your Might score for ever
 #### YOUR ENTRAILS ARE YOUR EXTRAILS!(3 RAGE)
 
 *Hard for them to fight when they're busy holding in their giblets.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -8796,6 +9077,7 @@ Choose one heroic ability from the following options, each of which costs 5 rage
 ### BLOOD FOR BLOOD!(5 RAGE)
 
 *A mighty strike leaves your foe reeling.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -8814,10 +9096,13 @@ Power Roll + Might:
 #### MAKE PEACE WITH YOUR GOD!(5 RAGE)
 
 *Anger is an energy.*
+
 **Keywords:** 
 
 **Type:** |
-| --- | --- |
+| --- | ---
+
+
 **Distance:** 
 
 **Target:** |
@@ -8828,11 +9113,13 @@ Power Roll + Might:
 #### THUNDER ROAR (5 RAGE)
 
 *A howl erupts from you that hurls your enemies back*.
+
 **Keywords:** Area, Melee, Weapon
 
 **Type:** Action
 
 **Distance:** 5 x 1 line within 1
+
 **Target:** Each enemy in the area
 
 Power Roll + Might:
@@ -8845,10 +9132,13 @@ Power Roll + Might:
 #### TO THE UTTERMOST END (5 RAGE)
 
 *You spend your life force to ensure their death.*
+
 **Keywords:** | Melee, Strike, Weapon
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Melee 1
 
 **Target:** | One creature |
@@ -8903,6 +9193,7 @@ Choose one of the following abilities.
 ###### SPECIAL DELIVERY (5 RAGE)
 
 *You ready?*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Maneuver
@@ -8916,6 +9207,7 @@ Choose one of the following abilities.
 ### WRECKING BALL (5 RAGE)
 
 *It is easier to destroy than to create. Much easier, in fact!*
+
 **Keywords:** Melee, Weapon
 
 **Type:** Maneuver
@@ -8940,6 +9232,7 @@ Choose one of the following abilities.
 ### PHALANX BREAKER (5 RAGE)
 
 *Organizing your forces like feckless creatures of Law. Pitiful.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -8958,10 +9251,13 @@ Power Roll + Might:
 ### RRRAAAGHH!(5 RAGE)
 
 *Death! Deeaaath!!*
+
 **Keywords:** | Melee, Strike, Weapon
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Melee 1
 
 **Target:** | One creature |
@@ -8979,6 +9275,7 @@ Choose one of the following abilities.
 #### APEX PREDATOR (5 RAGE)
 
 *I will hunt you down.*
+
 **Keywords:** Animal, Melee, Strike, Weapon
 
 **Type:** Action
@@ -9001,6 +9298,7 @@ Power Roll + Might:
 **Keywords:** Animal, Area, Magic
 
 **Type:** Action
+
 **Distance:** 2 burst
 
 **Target:** Each enemy in the area
@@ -9049,6 +9347,7 @@ Choose one heroic ability from the following options, each of which costs 7 rage
 ##### A DEMON UNLEASHED (7 RAGE)
 
 *Foes tremble at the sight of you.*
+
 **Keywords:** Magic
 
 **Type:** Maneuver
@@ -9062,6 +9361,7 @@ Choose one heroic ability from the following options, each of which costs 7 rage
 ##### FACE THE STORM!(7 RAGE)
 
 *Fight or flight? FIGHT!!*
+
 **Keywords:** Magic
 
 **Type:** Maneuver
@@ -9075,9 +9375,11 @@ Choose one heroic ability from the following options, each of which costs 7 rage
 #### STEELBREAKER (7 RAGE)
 
 *See how useless their weapons are*!
+
 **Keywords:** Magic
 
 **Type:** Maneuver
+
 **Distance:** Self
 
 **Target:** Self
@@ -9087,6 +9389,7 @@ Choose one heroic ability from the following options, each of which costs 7 rage
 #### YOU ARE ALREADY DEAD (7 RAGE)
 
 *Slash. Walk away.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -9164,6 +9467,7 @@ Choose one heroic ability from the following options.
 #### DEBILITATING STRIKE (9 RAGE)
 
 *You break the target's bones leaving them vulnerable.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -9182,12 +9486,15 @@ Power Roll + Might:
 ## MY TURN!(9 RAGE)
 
 *You quickly strike back at a foe.*
+
 **Keywords:** Melee, Strike, Weapon
+
 **Type:** Free Triggered Action
 
 **Distance:** Melee 1
 
 **Target:** 1 creature
+
 **Trigger:** A creature causes you to become winded or dying, or damages you while you are winded or dying.
 
 Power Roll + Might:
@@ -9200,6 +9507,7 @@ Power Roll + Might:
 #### REBOUNDING STORM (9 RAGE)
 
 *You knock around enemies like playthings.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -9218,6 +9526,7 @@ Power Roll + Might:
 ### TO STONE!(9 RAGE)
 
 *You channel the Primordial Chaos into blows that petrify your foe, literally.*
+
 **Keywords:** Magic, Melee, Strike, Weapon
 
 **Type:** Action
@@ -9264,6 +9573,7 @@ Choose one of the following abilities.
 ### AVALANCHE IMPACT (9 RAGE)
 
 *You leap, causing a shockwave that devastates foes.*
+
 **Keywords:** Area, Magic
 
 **Type:** Move
@@ -9282,6 +9592,7 @@ Power Roll + Might:
 ### FORCE OF STORMS (9 RAGE)
 
 *You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -9304,9 +9615,11 @@ Choose one of the following abilities.
 ### DEATH STRIKE (9 RAGE)
 
 *Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Free Triggered Action
+
 **Distance:** Melee 1
 
 **Target:** Self
@@ -9318,6 +9631,7 @@ Choose one of the following abilities.
 ### SEEK AND DESTROY (9 RAGE)
 
 *You break through the enemy lines to make an example.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -9347,6 +9661,7 @@ Choose one of the following abilities.
 **Keywords:** Animal, Magic, Melee, Strike, Weapon
 
 **Type:** Action
+
 **Distance:** Melee 1
 
 **Target:** 1 creature
@@ -9361,6 +9676,7 @@ Power Roll + Might:
 #### RIDERS ON THE STORM (9 RAGE)
 
 *Your focus your connection to the Primordial Chaos into a primordial storm.*
+
 **Keywords:** Animal, Area, Magic
 
 **Type:** Maneuver
@@ -9438,10 +9754,13 @@ Choose one heroic ability from the following options.
 ##### ELEMENTAL FURY (11 RAGE)
 
 *Your primordial energies make for instant retribution.*
+
 **Keywords:** | Magic
 
 **Type:** | Maneuver |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Self
 
 **Target:** | Self |
@@ -9451,6 +9770,7 @@ Choose one heroic ability from the following options.
 #### RELENTLESS DEATH (11 RAGE)
 
 *You will not escape your fate.*
+
 **Keywords:** Magic, Melee, Strike, Weapon
 
 **Type:** Action
@@ -9469,6 +9789,7 @@ Power Roll + Might:
 #### OVERKILL (11 RAGE)
 
 *You strike so no damage is wasted.*
+
 **Keywords:** Magic, Melee, Strike, Weapon
 
 **Type:** Action
@@ -9487,9 +9808,11 @@ Power Roll + Might:
 #### PRIMORDIAL FURY (11 RAGE)
 
 *Your rage manifests into primordial power.*
+
 **Distance:** Melee 1
 
 **Target:** Self
+
 **Keywords:** Magic
 
 **Type:** Maneuver
@@ -9517,10 +9840,13 @@ Choose one of the following abilities.
 ###### DEATH COMES FOR YOU ALL!(11 RAGE)
 
 *You use your weapon to create a destructive shockwave.*
+
 **Keywords:** | Area, Magic, Weapon
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | 3 burst
 
 **Target:** | All enemies
@@ -9539,6 +9865,7 @@ Power Roll + Might:
 #### PRIMORDIAL VORTEX (11 RAGE)
 
 *You open a portal to the Primordial Chaos that pulls your foes to you.*
+
 **Keywords:** Area, Magic, Weapon
 
 **Type:** Action
@@ -9561,6 +9888,7 @@ Choose one of the following abilities.
 ### PRIMORDIAL BANE (11 RAGE)
 
 *You attune the target to be weaker to a specific element.*
+
 **Keywords:** Magic, Melee, Strike, Weapon
 
 **Type:** Action
@@ -9579,6 +9907,7 @@ Power Roll + Might:
 #### SHOWER OF BLOOD (11 RAGE)
 
 *You shock your foes with the brutality of your strike, resetting the pace of combat.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -9618,9 +9947,11 @@ Power Roll + Might:
 #### DELUGE (11 RAGE)
 
 *You summon your primordial storm*
+
 **Keywords:** Animal, Magic
 
 **Type:** Action
+
 **Distance:** 5 cube within 10
 
 **Target:** All enemies
@@ -9824,6 +10155,7 @@ Your primordial damage type is fire.
 ### WING BUFFET
 
 *Foes who try to close around you do so at their peril.*
+
 **Keywords:** Area, Melee, Weapon
 
 **Type:** Action
@@ -9890,6 +10222,7 @@ Your primordial damage type is corruption.
 #### DRIVING POUNCE
 
 *Your enemies try in vain to fall back from your pouncing attack.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -9957,6 +10290,7 @@ Your primordial damage type is lightning.
 #### PROBING ATTACK
 
 *A savage assault forces your foes back.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -10069,10 +10403,13 @@ You project a psionic field of order around your body, dampening the effects of 
 #### NULL FIELD
 
 *You intuit where an incoming attack will strike, reducing its effects.*
+
 **Keywords:** | Psionic
 
 **Type:** | Maneuver |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | 1 aura
 
 **Target:** | All enemies |
@@ -10094,13 +10431,18 @@ Your instincts for danger let you predict attacks before they happen.
 #### INERTIAL SHIELD
 
 *You intuit where an incoming attack will strike, reducing its effects.*
+
 **Keywords:** | Psionic
 
 **Type:** | Triggered |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Self
 
-**Target:** | Self |
+**Target:** | Self
+
+
 **Trigger:** | You take damage. |  |  |
 
 **Effect:** You halve the damage.
@@ -10200,6 +10542,7 @@ Select two signature abilities from the following options. Signature abilities c
 ###### DANCE OF BLOWS
 
 *You strike everywhere at once, tricking an enemy into moving out of position.*
+
 **Keywords:** Area, Melee, Psionic, Weapon
 
 **Type:** Action
@@ -10218,6 +10561,7 @@ Power Roll + Agility:
 #### FASTER THAN THE EYE
 
 *You strike so quickly that your hands become a blur.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -10236,6 +10580,7 @@ Power Roll + Agility:
 #### INERTIAL STEP
 
 *You flit about the battlefield with an opportunistic strike.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -10254,6 +10599,7 @@ Power Roll + Agility:
 #### JOINT LOCK
 
 *You contort your enemy's body into a stance they struggle to escape from.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -10270,6 +10616,7 @@ Power Roll + Agility:
 #### KINETIC STRIKE
 
 *Your opponent staggers. They cannot ignore you.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -10286,6 +10633,7 @@ Power Roll + Agility:
 #### MAGNETIC STRIKE
 
 *The force of your blow extends past the limits of your body, pulling your enemy closer.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -10302,6 +10650,7 @@ Power Roll + Agility:
 #### PHASE INVERSION STRIKE
 
 *You step momentarily out of phase as you pull an enemy through you.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -10320,6 +10669,7 @@ Power Roll + Agility:
 #### PRESSURE POINTS
 
 *You strike at key nerve clusters to leave your foe staggered.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -10344,6 +10694,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 ### CHRONAL SPIKE (3 DISCIPLINE)
 
 *You foresee the best moment to strike, then exploit it.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -10362,6 +10713,7 @@ Power Roll + Agility:
 ### PSYCHIC PULSE (3 DISCIPLINE)
 
 *A burst of psionic energy interferes with your enemy's synapses.*
+
 **Keywords:** Area, Psionic
 
 **Type:** Maneuver
@@ -10375,6 +10727,7 @@ Power Roll + Agility:
 #### RELENTLESS NEMESIS (3 DISCIPLINE)
 
 *You strike, and for the next few moments, your enemy can't escape you.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -10393,6 +10746,7 @@ Power Roll + Agility:
 #### STUNNING BLOW (3 DISCIPLINE)
 
 *You focus your psionic technique into a debilitating concussive punch.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -10413,6 +10767,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 ###### ARCANE DISRUPTOR (5 DISCIPLINE)
 
 *Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -10431,7 +10786,9 @@ Power Roll + Agility:
 ###### IMPART FORCE (5 DISCIPLINE)
 
 *A single touch from you, and your enemy flies backward.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
+
 **Type:** Maneuver
 
 **Distance:** Melee 1
@@ -10467,6 +10824,7 @@ Power Roll + Agility:
 #### A SQUAD UNTO MYSELF (5 DISCIPLINE)
 
 *You move so quickly, it seems as though an army assaulted your foes.*
+
 **Keywords:** Area, Melee, Psionic, Weapon
 
 **Type:** Action
@@ -10527,6 +10885,7 @@ Choose one of the following abilities.
 #### BLUR (5 DISCIPLINE)
 
 *You release stored time, allowing you to act twice.*
+
 **Keywords:** Psionic
 
 **Type:** Maneuver
@@ -10561,10 +10920,13 @@ Choose one of the following abilities.
 ###### ENTROPIC FIELD (5 DISCIPLINE)
 
 *You drastically increase the local entropy.*
+
 **Keywords:** Area, Psionic, Weapon
 
 **Type:** Action
+
 **Distance:** 3 cube within 1
+
 **Target:** Each enemy in the area
 
 Power Roll + Agility:
@@ -10575,6 +10937,7 @@ Power Roll + Agility:
 #### HEAT SINK (5 DISCIPLINE)
 
 *You absorb ambient heat, coating the ground in frost and precipitating snow from the air*
+
 **Keywords:** Psionic
 
 **Type:** Maneuver
@@ -10592,6 +10955,7 @@ Choose one of the following abilities.
 #### GRAVITIC STRIKE (5 DISCIPLINE)
 
 *Your fist projects gravitic force that pulls a distant enemy closer.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -10608,10 +10972,13 @@ Power Roll + Agility:
 #### KINETIC SHIELD (5 DISCIPLINE)
 
 *You manifest a force barrier that absorbs incoming kinetic energy.*
+
 **Keywords:** | Psionic
 
 **Type:** | Maneuver |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Self
 
 **Target:** | Self |
@@ -10642,6 +11009,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 ### ABSORPTION FIELD (7 DISCIPLINE)
 
 *Your null field absorbs kinetic energy.*
+
 **Keywords:** Psionic
 
 **Type:** Maneuver
@@ -10655,6 +11023,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 ### MOLECULAR REARRANGEMENT FIELD (7 DISCIPLINE)
 
 *Your enemies' wounds open, your allies' wounds close.*
+
 **Keywords:** Psionic
 
 **Type:** Maneuver
@@ -10668,6 +11037,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 #### STABILIZING FIELD (7 DISCIPLINE)
 
 *You project order, making it harder for your enemies to interfere with you and your allies.*
+
 **Keywords:** Psionic
 
 **Type:** Maneuver
@@ -10681,6 +11051,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 #### SYNAPSE FIELD (7 DISCIPLINE)
 
 *Attacks made by allies in your null field disrupt your enemies' thoughts, causing psychic pain.*
+
 **Keywords:** Psionic
 
 **Type:** Maneuver
@@ -10758,12 +11129,15 @@ Choose one heroic ability from the following options.
 ## ANTICIPATING STRIKE (9 DISCIPLINE)
 
 *You suddenly strike an enemy*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Free Triggered
+
 **Distance:** Melee 1
 
 **Target:** 1 creature
+
 **Trigger:** The target creature begins to move or takes an action.
 
 Power Roll + Agility:
@@ -10776,6 +11150,7 @@ Power Roll + Agility:
 ## IRON GRIP (9 DISCIPLINE)
 
 *You grab the target with near supernatural force*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -10846,10 +11221,13 @@ Choose one of the following abilities.
 #### INTERPHASE (9 DISCIPLINE)
 
 *You slip into a faster timestream, appearing to act more quickly.*
+
 **Keywords:** Psionic
 
 **Type:** Action |
-| --- | --- |
+| --- | ---
+
+
 **Distance:** Self
 
 **Target:** Self
@@ -10861,6 +11239,7 @@ Choose one of the following abilities.
 ### PHASE STEP (9 DISCIPLINE)
 
 *You weaken your connection to this manifold, allowing you to move through and damage enemies.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -10883,6 +11262,7 @@ Choose one of the following abilities.
 ### ICE PILLARS (9 DISCIPLINE)
 
 *You cause pillars of ice to erupt from the ground and launch your foes into the air.*
+
 **Keywords:** Ranged, Psionic
 
 **Type:** Action
@@ -10899,6 +11279,7 @@ Power Roll + Reason:
 ### WALL OF ICE (9 DISCIPLINE)
 
 *You create a wall of ice.*
+
 **Keywords:** Area, Psionic, Ranged
 
 **Type:** Action
@@ -10916,6 +11297,7 @@ Choose one of the following abilities.
 ###### GRAVITIC CHARGE (9 DISCIPLINE)
 
 *You channel your discipline into momentum that defies gravity.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Maneuver
@@ -10977,15 +11359,15 @@ If the action is ranged, you can extend the distance by a number of squares equa
 
 If the action force moves a target, you can increase the force movement effects by a number of squares equal to your Intuition score.
 
-###### EXPANDED POWER (3 DISCIPLINE)
+##### EXPANDED POWER (3 DISCIPLINE)
 
 If the action targets an area, you can increase the area by 1.
 
-###### SHARED POWER (5 DISCIPLINE)
+##### SHARED POWER (5 DISCIPLINE)
 
 If the action targets individual creatures or objects, you can target 1 additional target within distance.
 
-###### MAGNIFIED POWER (5 DISCIPLINE)
+##### MAGNIFIED POWER (5 DISCIPLINE)
 
 Increase the potency of an effect by your Intuition score.
 
@@ -11036,6 +11418,7 @@ Choose one heroic ability from the following options.
 #### ARCANE PURGE (11 DISCIPLINE)
 
 *You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -11054,6 +11437,7 @@ Power Roll + Agility:
 #### PHASE HURL (11 DISCIPLINE)
 
 *You throw your foe out of phase with this manfold, causing them to harm other enemies as they return.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -11072,10 +11456,13 @@ Power Roll + Agility:
 #### SCALAR STRIKE (11 DISCIPLINE)
 
 *You use your null field to warp reality and make yourself larger for a single, devastating strike.*
+
 **Keywords:** | Area, Psionic
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | 3 cube within 1
 
 **Target:** | All enemies |
@@ -11091,6 +11478,7 @@ o *11 or lower:* **12 psychic damage; push 3**
 #### SYNAPTIC ANCHOR (11 DISCIPLINE)
 
 *You disrupt an enemy's strike and create a feedback loop in their mind, preventing them from focusing on future attacks.*
+
 **Keywords:** Psionic
 
 **Type:** Free Triggered
@@ -11098,6 +11486,7 @@ o *11 or lower:* **12 psychic damage; push 3**
 **Distance:** Self
 
 **Target:** Self or 1 creature
+
 **Trigger:** The target takes damage from another creature's ability while in your Null Field.
 
 **Effect:** You halve the damage, and the creature who used the triggering ability suffers **I < [average] dazed (save ends).** While the attacker is dazed, they take psychic damage equal to your Intuition score whenever they take an action.
@@ -11121,6 +11510,7 @@ Choose one of the following abilities.
 #### ARRESTOR CYCLE (11 DISCIPLINE)
 
 *You trap your foe in a looping cycle, where the relive the last few seconds over and over agian.*
+
 **Keywords:** Psionic
 
 **Type:** Free triggered action
@@ -11141,12 +11531,15 @@ Power Roll + Intuition:
 ### TIME LOOP (11 DISCIPLINE)
 
 *You show shadows what true speed is.*
+
 **Keywords:** Psionic
 
 **Type:** Free triggered
+
 **Distance:** Self
 
 **Target:** Self
+
 **Trigger:** Another creature ends their turn.
 
 **Effect:** You take a bonus turn immediately after the triggering creature. This ability can only be used once per round.
@@ -11158,10 +11551,14 @@ Choose one of the following abilities.
 #### ABSOLUTE ZERO (11 DISCIPLINE)
 
 | You become the coldest thing in the timescape. |  |
-| --- | --- |
+| --- | ---
+
+
 **Keywords:** Psionic
 
-**Type:** Maneuver |
+**Type:** Maneuver
+
+
 **Distance:** Self
 
 **Target:** Self |
@@ -11177,9 +11574,11 @@ Choose one of the following abilities.
 #### HEAT SINK (11 DISCIPLINE)
 
 *You drain all the heat from the target.*
+
 **Keywords:** Melee, Psionic, Strike
 
 **Type:** Maneuver
+
 **Distance:** Melee 1
 
 **Target:** 1 creature
@@ -11198,13 +11597,18 @@ Choose one of the following abilities.
 ###### INERTIAL ABSORPTION (11 DISCIPLINE)
 
 *You absorb an attack to empower your body.*
+
 **Keywords:** | Psionic
 
 **Type:** | Free triggered |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Self
 
-**Target:** | Self |
+**Target:** | Self
+
+
 **Trigger:** |  | Another creature damages you with an ability. |  |
 
 **Effect:** You halve the damage, negate any effects on your associated with it, and gain three surges.
@@ -11212,6 +11616,7 @@ Choose one of the following abilities.
 #### REALITAS (11 DISCIPLINE)
 
 *Your essential hyperreality disrupts your enemy's connection to existence.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -11384,12 +11789,14 @@ Your choice of shadow college grants you one or more features as shown on the 1s
 
 You gain the following ability.
 
-###### BLACK ASH TELEPORT
+##### BLACK ASH TELEPORT
 
 *In a swirl of black ash, you step from one place to another.*
+
 **Keywords:** Magic
 
 **Type:** Maneuver
+
 **Distance:** Self
 
 **Target:** Self
@@ -11402,12 +11809,14 @@ You gain the following ability.
 
 You gain the following ability.
 
-###### COAT THE BLADE
+##### COAT THE BLADE
 
 *Just a little poison goes a long way.*
+
 **Distance:** Self
 
 **Target:** Self
+
 **Keywords:** --
 
 **Type:** Maneuver
@@ -11423,6 +11832,7 @@ You gain the following ability.
 ##### I'M NO THREAT
 
 *Taking on the illusory countenance of another creature gives you an advantage on subterfuge.*
+
 **Keywords:** Magic
 
 **Type:** Maneuver
@@ -11456,14 +11866,20 @@ Your shadow college grants you a triggered action as shown on the College Trigge
 ###### CLEVER TRICK (1 INSIGHT)
 
 *You sow a moment of confusion in combat, to your enemy's peril.*
+
 **Keywords:** | Magic
 
 **Type:** | Triggered |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Self
 
-**Target:** | Self |
-**Trigger:** An enemy targets you with a strike |  |  |
+**Target:** | Self
+
+
+**Trigger:** An enemy targets you with a strike |  |
+
 
 **Trigger:** An enemy targets you with a strike.
 
@@ -11472,14 +11888,20 @@ Your shadow college grants you a triggered action as shown on the College Trigge
 #### DEFENSIVE ROLL
 
 *When an enemy attacks, you roll with the impact to reduce the harm.*
+
 **Keywords:** 
 
 **Type:** |
-| --- | --- |
+| --- | ---
+
+
 **Distance:** 
 
-**Target:** |
-**Trigger:** Another creature damages you |
+**Target:** 
+
+
+**Trigger:** Another creature damages you
+
 
 **Trigger:** Another creature damages you.
 
@@ -11490,10 +11912,13 @@ Your shadow college grants you a triggered action as shown on the College Trigge
 ##### IN ALL THIS CONFUSION
 
 *You vanish in a plume of black smoke to avoid danger.*
+
 **Keywords:** | Magic
 
 **Type:** | Triggered |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Self
 
 **Target:** | Self
@@ -11511,6 +11936,7 @@ You gain the following ability.
 ##### HESITATION IS WEAKNESS (1 INSIGHT)
 
 *Keep up the attack. Never give them a moment's grace.*
+
 **Keywords:** --
 
 **Type:** Free triggered action
@@ -11538,6 +11964,7 @@ Choose one signature ability from the following options. Signature abilities can
 ### GASPING IN PAIN
 
 *Your precise strikes let your allies take advantage of a target's agony.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -11556,6 +11983,7 @@ Power Roll + Agility:
 #### I WORK BETTER ALONE
 
 *It's better, just you and me. Isn't it?*
+
 **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Type:** Action
@@ -11574,11 +12002,13 @@ Power Roll + Agility:
 #### TEAMWORK HAS ITS PLACE
 
 *You attack an enemy, distracting them long enough for an ally to stab them.*
+
 **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Type:** Action
 
 **Distance:** Melee 1 or ranged 5
+
 **Target:** One creature or object
 
 Power Roll + Agility:
@@ -11618,10 +12048,13 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 #### DISORIENTING STRIKE (3 INSIGHT)
 
 *Your attack leaves them reeling, allowing you to follow up.*
+
 **Keywords:** | Melee, Strike, Weapon
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Melee 1
 
 **Target:** | One creature |
@@ -11653,10 +12086,13 @@ Power Roll + Agility:
 #### GET IN GET OUT (3 INSIGHT)
 
 *Move unexpectedly, strike fast, and be gone!*
+
 **Keywords:** | Melee, Strike, Weapon
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Melee 1
 
 **Target:** | One creature |
@@ -11671,11 +12107,13 @@ Power Roll + Agility:
 #### TWO THROATS AT ONCE (3 INSIGHT)
 
 *A bargain.*
+
 **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Type:** Action
 
 **Distance:** Melee 1 or ranged 5
+
 **Target:** Two creatures or objects
 
 Power Roll + Agility:
@@ -11690,6 +12128,7 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 ### COUP DE GRACE (5 INSIGHT)
 
 *Your blade might be the last thing they see.*
+
 **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Type:** Action
@@ -11706,6 +12145,7 @@ Power Roll + Agility:
 ### ONE HUNDRED THROATS (5 INSIGHT)
 
 *As you move across the battlefield, every foe within reach feels your wrath.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -11724,6 +12164,7 @@ Power Roll + Agility:
 ### SET-UP (5 INSIGHT)
 
 *Your friends will thank you.*
+
 **Keywords:** Ranged, Strike, Weapon
 
 **Type:** Action
@@ -11740,10 +12181,13 @@ Power Roll + Agility:
 ### SHADOWSTRIKE (5 INSIGHT)
 
 *They have no idea what the college taught you.*
+
 **Keywords:** | Magic, Melee, Ranged
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Self; see below
 
 **Target:** | Self |
@@ -11795,7 +12239,9 @@ Choose one of the following abilities.
 ###### IN A PUFF OF ASH (5 INSIGHT)
 
 *You enchant a strike with your teleportation magic.*
+
 **Keywords:** Magic, Melee, Ranged, Strike, Weapon
+
 **Type:** Action
 
 **Distance:** Melee 1 or ranged 5
@@ -11810,7 +12256,9 @@ Power Roll + Agility:
 ###### TOO SLOW (5 INSIGHT)
 
 *Your foe made a big mistake.*
+
 **Keywords:** Melee, Ranged, Strike, Weapon
+
 **Type:** Free Triggered Action
 
 **Distance:** Self; see below
@@ -11828,9 +12276,11 @@ Choose one of the following abilities.
 ## STICKY BOMB (5 INSIGHT)
 
 *Explosives are best when they're attached to an enemy.*
+
 **Keywords:** Ranged
 
 **Type:** Action
+
 **Distance:** Ranged 10
 
 **Target:** One creature
@@ -11851,6 +12301,7 @@ Power Roll + Agility:
 **Type:** Action
 
 **Distance:** 3 cube within 10
+
 **Target:** Each creature in the area
 
 Power Roll + Agility:
@@ -11867,11 +12318,13 @@ Choose one of the following abilities.
 ###### MACHINATIONS OF SOUND (5 INSIGHT)
 
 *Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.*
+
 **Keywords:** Area, Magic, Ranged
 
 **Type:** Maneuver
 
 **Distance:** 3 cube within 10
+
 **Target:** Each enemy in the area
 
 Power Roll + Agility:
@@ -11884,6 +12337,7 @@ Power Roll + Agility:
 #### SO GULLIBLE (5 INSIGHT)
 
 *When your enemy strikes, you reveal you were in a different place all along.*
+
 **Keywords:** Attack, Melee, Ranged, Magic, Weapon
 
 **Type:** Free Triggered Action
@@ -11891,6 +12345,7 @@ Power Roll + Agility:
 **Distance:** Self; see below
 
 **Target:** Self
+
 **Trigger:** An enemy strikes you.
 
 **Effect:** You use your Clever Trick ability with no insight cost, causing the creature who made the triggering strike to target an illusory image of you. You appear in an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
@@ -11906,6 +12361,7 @@ Given the opportunity to watch your foe, you can assess their vulnerabilities an
 #### CAREFUL OBSERVATION
 
 *A moment of focus leaves a foe firmly in your sights.*
+
 **Keywords:** --
 
 **Type:** Maneuver
@@ -11923,6 +12379,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 #### DANCER (7 INSIGHT)
 
 *You enter a flow state that makes you nearly impossible to pin down.*
+
 **Keywords:** --
 
 **Type:** Maneuver
@@ -11936,6 +12393,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 #### MISDIRECTING STRIKE (7 INSIGHT)
 
 *Why are you looking at ME?!*
+
 **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Type:** Action
@@ -11971,6 +12429,7 @@ Power Roll + Agility:
 ### STAGGERING BLOW (7 INSIGHT)
 
 *There's no recovering from this.*
+
 **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Type:** Action
@@ -12003,6 +12462,7 @@ While you are hiding, you cause the area to absorb noise and blur minor movement
 #### NIGHT WATCH
 
 *A steely dagger from out of the blue knocks another weapon off course.*
+
 **Keywords:** Ranged, Weapon
 
 **Type:** Triggered
@@ -12068,6 +12528,7 @@ Choose one heroic ability from the following options.
 ##### BLACKOUT (9 INSIGHT)
 
 *You cause a plume of shadow to erupt from your eyes and blot out the sun.*
+
 **Keywords:** Area, Magic
 
 **Type:** Maneuver
@@ -12081,6 +12542,7 @@ Choose one heroic ability from the following options.
 ## INTO THE SHADOWS (9 INSIGHT)
 
 *You sweep your foe off their feet and plunge them into a world of absolute darkness.*
+
 **Keywords:** Magic, Melee, Strike, Weapon
 
 **Type:** Action
@@ -12118,6 +12580,7 @@ Power Roll + Agility:
 ### YOU TALK TOO MUCH (9 INSIGHT)
 
 *Silence is a virtue. A knife pinning their mouth shut is the next best thing.*
+
 **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Type:** Action
@@ -12164,6 +12627,7 @@ Choose one of the following abilities.
 ### BLACK ASH ERUPTION (9 INSIGHT)
 
 *You shove an enemy into a cloud of black ash that launches them into the air.*
+
 **Keywords:** Magic, Melee, Strike, Weapon
 
 **Type:** Action
@@ -12182,9 +12646,11 @@ Power Roll + Agility:
 #### CINDERSTORM (9 INSIGHT)
 
 *You extend your power to those that trust you, and you trust they'll be able to find their way out of the dark.*
+
 **Keywords:** Magic
 
 **Type:** Maneuver
+
 **Distance:** Self and 4 Burst
 
 **Target:** Self and all Allies
@@ -12198,9 +12664,11 @@ Choose one of the following abilities.
 ###### ONE VIAL MAKES YOU BETTER (9 INSIGHT)
 
 *This quick brew crackles and pops violently yet emits a sickly-sweet aroma.*
+
 **Keywords:** Ranged
 
 **Type:** Maneuver
+
 **Distance:** Self or Ranged 10
 
 **Target:** 3 creatures
@@ -12212,6 +12680,7 @@ A creature that drinks a balanced concoction can spend up to 2 Recoveries and ga
 ### ONE VIAL MAKES YOU FASTER (9 INSIGHT)
 
 *The liquid is still and pale. It might have been meant for an explosive.*
+
 **Keywords:** Ranged
 
 **Type:** Action
@@ -12236,6 +12705,7 @@ Choose one of the following abilities.
 #### LOOK!(9 INSIGHT)
 
 *You distract your foes, allowing your allies to take advantage of the shocking truth.*
+
 **Keywords:** Area, Magic
 
 **Type:** Maneuver
@@ -12320,9 +12790,11 @@ You have Area immunity equal to your Agility score. You also gain access to the 
 ##### TIME BOMB
 
 *The longer it cooks, the bigger the boom.*
+
 **Keywords:** Area
 
 **Type:** Free Maneuver
+
 **Distance:** 2 cube within 10
 
 **Target:** All enemies
@@ -12344,6 +12816,7 @@ Choose one heroic ability from the following options.
 #### ASSASSINATE (11 INSIGHT)
 
 *A practiced attack that will instantly kill an already weakened foe.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -12362,9 +12835,11 @@ Power Roll + Agility:
 ### SHADOWGRASP (11 INSIGHT)
 
 *The shadows beneath you and your foes give way, allowing the shadow creature within you to grasp at your foes.*
+
 **Keywords:** Area, Magic
 
 **Type:** Action
+
 **Distance:** 2 Burst
 
 **Target:** All enemies
@@ -12377,10 +12852,13 @@ Power Roll + Agility:
 #### SPEED OF SHADOWS (11 INSIGHT)
 
 *An advanced techique. Multiple strikes before they even notice they're dead.*
+
 **Keywords:** | Magic
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Self
 
 **Target:** | Self |
@@ -12390,6 +12868,7 @@ Power Roll + Agility:
 #### THEY ALWAYS LINE UP (11 INSIGHT)
 
 *You fire a projectile so fast that it passes through a line of foes, hamstringing them.*
+
 **Keywords:** Area, Ranged, Weapon
 
 **Type:** Action
@@ -12424,6 +12903,7 @@ Choose one of the following abilities.
 ###### CACOPHONY OF CINDERS (11 INSIGHT)
 
 *You freely move and teleport, zipping to and fro, sending enemies and allies alike every which way.*
+
 **Keywords:** Magic, Melee, Strike, Weapon
 
 **Type:** Action
@@ -12442,6 +12922,7 @@ Power Roll + Agility:
 ### DEMON DOOR (11 INSIGHT)
 
 *You teleport in place, leaving the portal open long enough for a massive demon hand to reach through.*
+
 **Keywords:** Magic, Melee, Strike, Weapon
 
 **Type:** Action
@@ -12457,16 +12938,18 @@ Power Roll + Agility:
 
 **Effect:** On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.
 
-#### 9TH-LEVEL CAUSTIC ALCHEMY ABILITIES
+##### 9TH-LEVEL CAUSTIC ALCHEMY ABILITIES
 
 Choose one of the following abilities.
 
 #### CHAIN REACTION (11 INSIGHT)
 
 *One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.*
+
 **Keywords:** Ranged
 
 **Type:** Action
+
 **Distance:** Ranged 10
 
 **Target:** 1 creature or object
@@ -12481,6 +12964,7 @@ Power Roll + Agility:
 #### TO THE STARS (11 INSIGHT)
 
 *You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*
+
 **Keywords:** Melee, Ranged, Strike
 
 **Type:** Action
@@ -12503,6 +12987,7 @@ Choose one of the following abilities.
 ### I AM YOU (11 INSIGHT)
 
 *Your mask reflects your foe's face. Surely, they won't need it much longer.*
+
 **Keywords:** Magic
 
 **Type:** Maneuver
@@ -12514,6 +12999,7 @@ Choose one of the following abilities.
 **Effect:** Until the end of the encounter, you gain the target's speed (unless yours is faster), Speed keywords, and damage immunities (using yours if you have the same and yours are higher), and you have access to the target's signature ability, using their bonus to any power roll.
 
 *After everything you've been through together, you twist the blade and make the pain extra personal.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -12692,13 +13178,18 @@ Your tactical doctrine grants you a triggered action as shown on the Doctrine Tr
 ##### ADVANCED TACTICS
 
 *Your leadership aids an ally.*
+
 **Keywords:** | Ranged
 
 **Type:** | Triggered |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Ranged 10
 
-**Target:** | Any creature |
+**Target:** | Any creature
+
+
 **Trigger:** | The target deals damage to another creature. |  |  |
 
 **Effect:** The target gains two surges, which they can use on the triggering damage.
@@ -12708,6 +13199,7 @@ Your tactical doctrine grants you a triggered action as shown on the Doctrine Tr
 ##### OVERWATCH
 
 *Under your direction, an ally waits for just the right moment to strike.*
+
 **Keywords:** Ranged
 
 **Type:** Triggered
@@ -12725,6 +13217,7 @@ Your tactical doctrine grants you a triggered action as shown on the Doctrine Tr
 ##### PARRY
 
 *Your quick reflexes cost an enemy the precision they seek.*
+
 **Keywords:** Melee, Weapon
 
 **Type:** Triggered
@@ -12767,9 +13260,11 @@ You know how to focus the attention of your allies as you push them toward victo
 #### MARK
 
 *You draw your allies' attention to a specific foe--with devastating effect.*
+
 **Keywords:** Ranged
 
 **Type:** Maneuver
+
 **Distance:** Ranged 10
 
 **Target:** One creature
@@ -12826,6 +13321,7 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 ###### BATTLE CRY (3 FOCUS)
 
 *You shout a phrase that galvanizes your team.*
+
 **Keywords:** Ranged
 
 **Type:** Maneuver
@@ -12842,11 +13338,13 @@ Power Roll + Reason:
 ###### CONCUSSIVE STRIKE (3 FOCUS)
 
 *Your precise strike leaves your foe struggling to respond.*
+
 **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Type:** Action
 
 **Distance:** Melee 1 or ranged 5
+
 **Target:** One creature or object
 
 Power Roll + Might:
@@ -12857,11 +13355,13 @@ Power Roll + Might:
 ###### INSPIRING STRIKE (3 FOCUS)
 
 *Your attack gives an ally hope.*
+
 **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Type:** Action
 
 **Distance:** Melee 1 or ranged 5
+
 **Target:** One creature or object
 
 Power Roll + Might:
@@ -12872,11 +13372,14 @@ Power Roll + Might:
 ###### SQUAD! FORWARD!(3 FOCUS)
 
 *On your command, you and your allies force back the enemy line.*
+
 **Keywords:** 
 
 **Type:** |
 | --- | --- |
-| Ranged | Maneuver |
+| Ranged | Maneuver
+
+
 **Distance:** Ranged 10
 
 **Target:** Self and two allies |
@@ -12890,11 +13393,13 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 ###### HAMMER AND ANVIL (5 FOCUS)
 
 *"Let's not argue about who's the hammer and who's the anvil!"*
+
 **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Type:** Action
 
 **Distance:** Melee 1 or ranged 5
+
 **Target:** One creature or object
 
 Power Roll + Might:
@@ -12907,11 +13412,13 @@ Power Roll + Might:
 ###### THE MIND GAME (5 FOCUS)
 
 *Your attack demoralizes your foe. Your allies begin to think you can win.*
+
 **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Type:** Action
 
 **Distance:** Melee 1 or ranged 5
+
 **Target:** One creature or object **Effect:** You mark the target.
 
 Power Roll + Might:
@@ -12924,10 +13431,13 @@ Power Roll + Might:
 ###### NOW!(5 FOCUS)
 
 *Your allies wait for your command--then unleash death!*
+
 **Keywords:** | Ranged, Weapon
 
 **Type:** | Maneuver |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Ranged 5
 
 **Target:** | Three allies |
@@ -12937,6 +13447,7 @@ Power Roll + Might:
 ###### THIS IS WHAT WE PLANNED FOR (5 FOCUS)
 
 *All those coordination drills you made them do finally pay off.*
+
 **Keywords:** Ranged
 
 **Type:** Maneuver
@@ -12992,9 +13503,11 @@ Choose one of the following abilities.
 #### FOG OF WAR (5 FOCUS)
 
 *Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.*
+
 **Keywords:** Ranged
 
 **Type:** Maneuver
+
 **Distance:** Ranged 10
 
 **Target:** 2 creatures
@@ -13006,9 +13519,11 @@ Choose one of the following abilities.
 #### TRY ME INSTEAD (5 FOCUS)
 
 *"Try picking on someone MY size."*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
+
 **Distance:** Melee 1
 
 **Target:** One creature
@@ -13027,6 +13542,7 @@ Choose one of the following abilities.
 ### I'VE GOT YOUR BACK (5 FOCUS)
 
 *Your enemy will think twice about attacking your friend.*
+
 **Keywords:** Ranged, Strike, Weapon
 
 **Type:** Action
@@ -13046,6 +13562,7 @@ Choose one of the following abilities.
 ### THEIR TACTICS ARE SO PRIMITIVE (5 FOCUS)
 
 *All that time you spent studying ancient battles paid off!*
+
 **Keywords:** Ranged
 
 **Type:** Maneuver
@@ -13065,6 +13582,7 @@ Choose one of the following abilities.
 #### NO DYING ON MY WATCH (5 FOCUS)
 
 *You prioritize saving an ally over your own safety.*
+
 **Keywords:** Ranged, Strike, Weapon
 
 **Type:** Triggered
@@ -13085,6 +13603,7 @@ Power Roll + Might:
 #### SQUAD! ON ME!(5 FOCUS)
 
 *Together we are invincible!*
+
 **Keywords:** Area
 
 **Type:** Maneuver
@@ -13110,6 +13629,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 ##### DOUBLE ENVELOPMENT (7 FOCUS)
 
 *Historians will write about this day.*
+
 **Keywords:** --
 
 **Type:** Maneuver
@@ -13123,6 +13643,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 #### FRONTAL ASSAULT (7 FOCUS)
 
 *The purpose of a charge is to break their morale and force a retreat.*
+
 **Keywords:** --
 
 **Type:** Maneuver
@@ -13136,9 +13657,11 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 #### ROUT (7 FOCUS)
 
 *The tide begins to turn.*
+
 **Keywords:** --
 
 **Type:** Maneuver
+
 **Distance:** Self
 
 **Target:** Self
@@ -13148,6 +13671,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 #### STAY STRONG, AND FOCUS!(7 FOCUS)
 
 *"We can do this! Keep faith and hold fast!"*
+
 **Keywords:** --
 
 **Type:** Maneuver
@@ -13233,6 +13757,7 @@ Choose one heroic ability from the following options.
 #### SQUAD! GEAR CHECK!(9 FOCUS)
 
 *You distract a foe while your allies secure their defensive gear.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -13251,6 +13776,7 @@ Power Roll + Might:
 ### SQUAD! REMEMBER YOUR TRAINING!(9 FOCUS)
 
 *You have drilled your squad on how to best use their gear and make them demonstrate their hard work.*
+
 **Keywords:** Ranged
 
 **Type:** Action
@@ -13264,6 +13790,7 @@ Power Roll + Might:
 ### YOU CAN SLEEP WHEN YOU'RE DEAD (9 FOCUS)
 
 *You inspire your allies to recover and gather their strength.*
+
 **Keywords:** Ranged
 
 **Type:** Action
@@ -13277,11 +13804,14 @@ Power Roll + Might:
 ### YOU'VE STILL GOT SOMETHING LEFT (9 FOCUS)
 
 *You push an ally to use a heroic ability sooner than they normally would.*
+
 **Keywords:** 
 
 **Type:** |
 | --- | --- |
-| Ranged | Action |
+| Ranged | Action
+
+
 **Distance:** Ranged 10
 
 **Target:** 1 ally |
@@ -13311,6 +13841,7 @@ Choose one of the following abilities.
 ###### COORDINATED EXECUTION (9 FOCUS)
 
 *You direct your ally to make a killing blow.*
+
 **Keywords:** Ranged
 
 **Type:** Free Triggered Action
@@ -13326,6 +13857,7 @@ Choose one of the following abilities.
 ##### PANIC IN THEIR LINES (9 FOCUS)
 
 *You confuse your foes, causing them to turn on each other.*
+
 **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Type:** Action
@@ -13348,11 +13880,14 @@ Choose one of the following abilities.
 ##### BATTLEPLAN (9 FOCUS)
 
 *With new understanding of your foes, you create the perfect plan to win the encounter.*
+
 **Keywords:** 
 
 **Type:** |
 | --- | --- |
-| Ranged | Maneuver |
+| Ranged | Maneuver
+
+
 **Distance:** Ranged 10
 
 **Target:** 3 creatures |
@@ -13364,6 +13899,7 @@ Choose one of the following abilities.
 #### HUSTLE, SQUAD! HUSTLE!(9 FOCUS)
 
 *You and your allies coordinate to form a new battle line.*
+
 **Keywords:** Area
 
 **Type:** Maneuver
@@ -13381,6 +13917,7 @@ Choose one of the following abilities.
 ##### INSTANT RETALIATION (9 FOCUS)
 
 *You parry with almost supernatural speed.*
+
 **Keywords:** Melee, Weapon
 
 **Type:** Free Triggered Action
@@ -13401,6 +13938,7 @@ Power Roll + Might:
 #### TO ME, SQUAD!(9 FOCUS)
 
 *You lead your allies in a charge.*
+
 **Keywords:** Charge, Melee, Strike, Weapon
 
 **Type:** Action
@@ -13505,9 +14043,11 @@ Choose one heroic ability from the following options.
 ##### GO NOW AND SPEED WELL (11 FOCUS)
 
 *You direct an attack to strike true.*
+
 **Keywords:** Ranged
 
 **Type:** Action
+
 **Distance:** Ranged 10
 
 **Target:** Self or 1 ally
@@ -13517,6 +14057,7 @@ Choose one heroic ability from the following options.
 ### FINISH THEM!(11 FOCUS)
 
 *You direct your ally to turn a devastating blow into a killing blow.*
+
 **Keywords:** Ranged
 
 **Type:** Free Triggered Action
@@ -13532,11 +14073,14 @@ Choose one heroic ability from the following options.
 ### THE FLOODGATES OPEN (11 FOCUS)
 
 *You direct your squad to strike in unision and with devastating effect.*
+
 **Keywords:** 
 
 **Type:** |
 | --- | --- |
-| Ranged | Action |
+| Ranged | Action
+
+
 **Distance:** Ranged 10
 
 **Target:** 3 allies |
@@ -13546,6 +14090,7 @@ Choose one heroic ability from the following options.
 ### I'LL OPEN AND YOU'LL CLOSE (11 FOCUS)
 
 *You create an opening for an ally.*
+
 **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Type:** Action
@@ -13583,6 +14128,7 @@ Choose one of the following abilities.
 #### SQUAD! HIT AND RUN!(11 FOCUS)
 
 *I had to pry this secret from the shadow colleges.*
+
 **Keywords:** Ranged
 
 **Type:** Action
@@ -13596,6 +14142,7 @@ Choose one of the following abilities.
 #### THEIR LACK OF FOCUS IS THEIR UNDOING (11 FOCUS)
 
 *You trick your enemies into attacking each other and confused by the aftermath*
+
 **Keywords:** Area, Magic, Weapon
 
 **Type:** Action
@@ -13618,6 +14165,7 @@ Choose one of the following abilities.
 #### BLOT OUT THE SUN!(11 FOCUS)
 
 *What makes a good soldier? The ability to fire four shots a minute in any weather.*
+
 **Keywords:** Ranged, Strike, Weapon
 
 **Type:** Action
@@ -13631,6 +14179,7 @@ Choose one of the following abilities.
 #### COUNTERSTRATEGY (11 FOCUS)
 
 *I've identified a way to negate their strengths.*
+
 **Keywords:** --
 
 **Type:** Action
@@ -13648,6 +14197,7 @@ Choose one of the following abilities.
 ### NO ESCAPE (11 FOCUS)
 
 *Nothing will stop you from reaching your foe.*
+
 **Keywords:** Charge, Melee, Strike, Weapon
 
 **Type:** Action
@@ -13668,6 +14218,7 @@ Power Roll + Might:
 ## THAT ONE IS MINE!(11 FOCUS)
 
 *You focus on making an enemy irrelevant.*
+
 **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Type:** Action
@@ -13811,6 +14362,7 @@ You gain the following ability, which can be used as a ranged free strike.
 *A telepathic bolt instantly zaps a creature's brain.*
 
 **Keywords:** Psionic, Ranged, Strike, Telepathy
+
 **Type:** Action
 
 **Distance:** Ranged 10
@@ -13869,6 +14421,7 @@ You gain the following ability.
 ##### AGAIN
 
 *You step back a split second to see if things play out a little differently.*
+
 **Keywords:** Psionic, Ranged
 
 **Type:** Triggered
@@ -13888,13 +14441,18 @@ You gain the following ability.
 ##### FEEDBACK LOOP
 
 *Creating a brief psychic link between a foe and their target gives that foe a taste of their own medicine.*
+
 **Keywords:** | Psionic, Ranged
 
 **Type:** | Triggered |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Ranged 10
 
-**Target:** | One creature |
+**Target:** | One creature
+
+
 **Trigger:** | The target deals damage to an ally. |  |  |
 
 **Effect:** The target takes psychic damage equal to half the triggering damage.
@@ -13906,11 +14464,13 @@ You gain the following ability.
 ##### MINOR TELEKINESIS
 
 *Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*
+
 **Keywords:** Psionic, Ranged
 
 **Type:** Maneuver
 
 **Distance:** Ranged 10
+
 **Target:** Self, or a size 1 creature or object
 
 **Effect:** You slide the target up to a number of squares equal to your Reason score.
@@ -13926,6 +14486,7 @@ You gain the following ability.
 ##### REMOTE ASSISTANCE
 
 *An ally gains the benefit of your intellect.*
+
 **Keywords:** Psionic, Ranged
 
 **Type:** Maneuver
@@ -13942,9 +14503,10 @@ You gain the following ability.
 
 You gain the following ability.
 
-###### REPEL
+##### REPEL
 
 *They aren't going anywhere, but you might!*
+
 **Keywords:** Psionic, Ranged
 
 **Type:** Triggered
@@ -14014,10 +14576,16 @@ Select two signature abilities from the following options. Signature abilities c
 #### ENTROPIC BOLT
 
 *You advance an enemy's age for a moment.*
+
 **Keywords:** Chronopathy, Psionic, Ranged, Strike
+
 **Type:** | Action |
-| --- | --- |
-**Distance:** | Ranged 10 |
+| --- | ---
+
+
+**Distance:** | Ranged 10
+
+
 **Target:** | One creature or object |
 
 Power Roll + Presence:
@@ -14034,8 +14602,11 @@ Power Roll + Presence:
 *The air erupts into a column of smokeless flame.*
 
 **Keywords:** Area, Fire, Ranged, Psionic, Pyrokinesis
+
 **Type:** Action
+
 **Distance:** 3 cube within 10
+
 **Target:** Each enemy in the area
 
 Power Roll + Reason:
@@ -14050,7 +14621,9 @@ Power Roll + Reason:
 #### HOARFROST
 
 *A row of the terrain freezes over ahead of you, turning hard and slick.*
+
 **Keywords:** Cryokinesis, Psionic, Ranged, Strike
+
 **Type:** Action
 
 **Distance:** Ranged 10
@@ -14067,6 +14640,7 @@ Power Roll + Reason:
 #### KINETIC GRIP
 
 *You lift and hurl your foe away from you.*
+
 **Keywords:** Melee, Psionic, Telekinesis
 
 **Type:** Action
@@ -14087,6 +14661,7 @@ Power Roll + Reason:
 #### KINETIC PULSE
 
 *The force of your mind hurls enemies backward.*
+
 **Keywords:** Area, Psionic, Telepathy
 
 **Type:** Action
@@ -14105,7 +14680,9 @@ Power Roll + Reason:
 #### MATERIALIZE
 
 *You picture an object in your mind and give it form in the world, directly above your opponent's head.*
+
 **Keywords:** Psionic, Ranged, Resopathy, Strike
+
 **Type:** Action
 
 **Distance:** Ranged 10
@@ -14124,7 +14701,9 @@ Power Roll + Reason:
 #### OPTIC BLAST
 
 *Your eyes emit rays of powerful enervating force.*
+
 **Keywords:** Metamorphosis, Psionic, Ranged, Strike
+
 **Type:** Action
 
 **Distance:** Ranged 10
@@ -14143,7 +14722,9 @@ Power Roll + Reason:
 ##### SPIRIT SWORD
 
 *You form a blade of mind energy and stab your target, invigorating yourself.*
+
 **Keywords:** Animapathy, Melee, Psionic, Strike
+
 **Type:** Action
 
 **Distance:** Melee 2
@@ -14170,10 +14751,13 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 #### AWE (3 CLARITY)
 
 *You project psionic energy out to a creature and take on a new visage in their mind.*
+
 **Keywords:** Psionic, Ranged, Strike, Telepathy
+
 **Distance:** Ranged 10
 
 **Target:** One ally or enemy
+
 **Type:** Action
 
 **Effect:** Any ally targeted by this ability gains temporary Stamina equal to twice your Presence score, and can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.
@@ -14186,7 +14770,9 @@ Power Roll + Presence:
 ## NOTHING EXCEEDS MY GRASP (3 CLARITY)
 
 *Be careful not to choke on your aspirations.*
+
 **Keywords:** Psionic, Ranged, Strike, Telekinesis
+
 **Type:** Action
 
 **Distance:** Ranged 10
@@ -14203,6 +14789,7 @@ Power Roll + Reason:
 #### PRECOGNITION (3 CLARITY)
 
 *You give a target a glimpse into the future so that they're ready for what comes next.*
+
 **Keywords:** Chronopathy, Melee, Psionic
 
 **Type:** Action
@@ -14216,10 +14803,13 @@ Power Roll + Reason:
 #### SMOLDER (3 CLARITY)
 
 *Smoke flows from your enemy like tears as their skin begins to blacken and flake.*
+
 **Keywords:** Psionic, Pyrokinesis, Ranged, Strike
+
 **Distance:** Ranged 10
 
 **Target:** One creature
+
 **Type:** Action
 
 **Effect:** The target takes damage before this ability imposes any weakness effect. The damage type and the weakness for this ability must be chosen from one of the following: acid, corruption, or fire.
@@ -14236,10 +14826,13 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 ### FLASHBACK (5 CLARITY)
 
 *The target is thrown several seconds back through time, and gets to do it all again.*
+
 **Keywords:** Chronopathy, Psionic, Ranged
+
 **Distance:** Ranged 10
 
 **Target:** Self or one ally
+
 **Type:** Maneuver
 
 **Effect:** The target immediately uses an ability they've previously used this round without spending any heroic resources.
@@ -14249,6 +14842,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 #### INERTIA SOAK (5 CLARITY)
 
 *Your psionic energy surrounds the target and pushes everything else away from them.*
+
 **Keywords:** Psionic, Ranged, Telekinesis
 
 **Type:** Maneuver
@@ -14264,7 +14858,9 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 #### IRON (5 CLARITY)
 
 *The target's skin turns to hard, dark metal, impenetrable and dense.*
+
 **Keywords:** Metamorphosis, Psionic, Ranged
+
 **Type:** Maneuver
 
 **Distance:** Ranged 10
@@ -14278,6 +14874,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 #### PERFECT CLARITY (5 CLARITY)
 
 *You clear the mind of nothing but the goal.*
+
 **Keywords:** Psionic, Ranged, Telepathy
 
 **Type:** Maneuver
@@ -14333,9 +14930,13 @@ Choose one of the following abilities.
 ###### APPLIED CHRONOMETRICS (5 CLARITY)
 
 *Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.*
+
 **Keywords:** Chronopathy, Psionic, Ranged
+
 **Type:** Maneuver |
-| --- |
+| ---
+
+
 **Distance:** Ranged 10
 
 **Target:** Special |
@@ -14353,8 +14954,11 @@ Choose one of the following abilities.
 #### SLOW (5 CLARITY)
 
 *Perhaps they wonder why everyone else is moving so quickly?*
+
 **Keywords:** Chronopathy, Psionic, Ranged
+
 **Type:** Maneuver
+
 **Distance:** Ranged 10
 
 **Target:** Three creatures or objects
@@ -14376,6 +14980,7 @@ Choose one of the following abilities.
 #### GRAVITIC BURST (5 CLARITY)
 
 *Everyone get away from me!*
+
 **Keywords:** Area, Psionic, Telekinesis
 
 **Type:** Action
@@ -14394,7 +14999,9 @@ Power Roll + Reason:
 #### LEVITY AND GRAVITY (5 CLARITY)
 
 *You raise the target into the air, then smother them against the ground.*
+
 **Keywords:** Psionic, Ranged, Strike, Telekinesis
+
 **Type:** Action
 
 **Distance:** Ranged 10
@@ -14417,8 +15024,11 @@ Choose one of the following abilities.
 ###### OVERWHELM (5 CLARITY)
 
 *You overload their senses, turning all their subconscious thoughts into conscious ones.*
+
 **Keywords:** Psionic, Ranged, Strike, Telepathy
+
 **Type:** Action
+
 **Distance:** Ranged 10
 
 **Target:** One creature
@@ -14434,6 +15044,7 @@ Choose one of the following abilities.
 ### SYNAPTIC OVERRIDE (5 CLARITY)
 
 *You gain control over an enemy's nervous system. How pleasant for them.*
+
 **Keywords:** Psionic, Ranged, Telepathy
 
 **Type:** Action
@@ -14468,6 +15079,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 *You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.*
 
 **Keywords:** Chronopathy, Psionic, Ranged, Strike
+
 **Type:** Action
 
 **Distance:** Ranged 10
@@ -14489,9 +15101,11 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 *Three spheres of solid psionic energy float around you.*
 
 **Keywords:** Psionic, Ranged, Strike, Telekinesis
+
 **Distance:** Self; see below
 
 **Target:** Self
+
 **Type:** Action
 
 **Effect:** You create three size 1T orbs that orbit your body. Each orb you provides you with cumulative damage immunity 1. Whenever you take damage, you lose 1 orb.
@@ -14509,6 +15123,7 @@ Once on each of your turns, you can use a free maneuver to fire an orb at a crea
 #### REFLECTOR FIELD (7 CLARITY)
 
 *A protective field reverses the momentum of incoming attacks.*
+
 **Keywords:** Area, Psionic, Telepathy
 
 **Type:** Action
@@ -14524,8 +15139,11 @@ Once on each of your turns, you can use a free maneuver to fire an orb at a crea
 #### SOUL BURN (7 CLARITY)
 
 *You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*
+
 **Keywords:** Animapathy, Psionic, Ranged, Strike
+
 **Type:** Action
+
 **Distance:** Ranged 10
 
 **Target:** One creature
@@ -14623,6 +15241,7 @@ Choose one heroic ability from the following options.
 ##### EXOTHERMIC SHIELD (9 CLARITY)
 
 *You encase the target in psionic flame and allow them to flicker without fear of burning out.*
+
 **Keywords:** Pyrokinesis, Psionic
 
 **Type:** Maneuver
@@ -14638,6 +15257,7 @@ Choose one heroic ability from the following options.
 ##### HYPERSONIC (9 CLARITY)
 
 *You move fast enough to turn around and watch your foes feel the aftermath.*
+
 **Keywords:** Area, Charge, Psionic, Telekinesis
 
 **Type:** Action
@@ -14658,6 +15278,7 @@ Power Roll + Reason:
 ##### MIND SNARE (9 CLARITY)
 
 *You latch onto your prey's brain and don't let go, like a song they can't get out of their head.*
+
 **Keywords:** Psionic, Ranged, Strike, Telepathic
 
 **Type:** Action
@@ -14680,10 +15301,13 @@ Power Roll + Reason:
 ##### SOULBOUND (9 CLARITY)
 
 *You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.*
+
 **Keywords:** Animapathy, Psionic, Ranged, Strike
+
 **Distance:** Ranged 10
 
 **Target:** 2 enemies
+
 **Type:** Action
 
 - **Power Roll + Presence:** o *11 or lower:* **8 damage; A < [weak] directly stitched to other target (save ends)**
@@ -14722,7 +15346,7 @@ If the ability is ranged, you can extend the distance by 5. If the ability is me
 
 If the ability force moves a target, you can increase the force movement effects by a number of squares equal to your Reason or Presence score.
 
-###### EXPANDED POWER (3 CLARITY)
+##### EXPANDED POWER (3 CLARITY)
 
 If the ability targets an area, you can increase the area by 1.
 
@@ -14745,6 +15369,7 @@ Choose one of the following abilities.
 ###### FATE (9 CLARITY)
 
 *Your foe gets a glimpse of how it will all end for them.*
+
 **Keywords:** Chronopathy, Psionic, Melee
 
 **Type:** Action
@@ -14765,9 +15390,11 @@ Power Roll + Presence:
 ###### STASIS FIELD (9 CLARITY)
 
 *Keep everything as it was. Ignore everything that will be.*
+
 **Keywords:** Area, Chronopathy, Psionic, Ranged
 
 **Type:** Action
+
 **Distance:** 4 Cube within 10
 
 **Target:** Special **Effect:** The affected area becomes frozen in time until the start of your next turn. All objects within the affected area are restrained and can't fall until the effect ends. Creatures and objects that are reduced to 0 Stamina or would die/be destroyed while in an affected square stay alive until the effect ends. Roll power, targeting all enemies within the affected area.
@@ -14786,9 +15413,11 @@ Choose one of the following abilities.
 ###### GRAVITIC WELL (9 CLARITY)
 
 *You bend the gravity into a fine point and pull your foes towards it.*
+
 **Keywords:** Area, Psionic, Ranged, Telekinesis
 
 **Type:** Action
+
 **Distance:** 4 Cube within 10
 
 **Target:** All enemies and objects **Power Roll + Reason:**
@@ -14804,6 +15433,7 @@ Choose one of the following abilities.
 ###### GREATER KINETIC GRIP (9 CLARITY)
 
 *You raise the tree or the behemoth, and without breaking a sweat, they soar faster than they should.*
+
 **Keywords:** Melee, Psionic, Telekinesis
 
 **Type:** Action
@@ -14828,6 +15458,7 @@ Choose one of the following abilities.
 ###### SYNAPTIC CONDITIONING (9 CLARITY)
 
 *It's a subtle mindset shift. It's not that they're your enemy you just don't like them!*
+
 **Keywords:** Psionic, Melee, Telepathy
 
 **Type:** Action
@@ -14924,10 +15555,13 @@ You have the following ability.
 ###### LEVITATION FIELD
 
 *You manipulate the air around your allies so that they can move as freely through the sky as you can.*
+
 **Keywords:** | Area, Psionics
 
 **Type:** | Maneuver |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | 3 burst
 
 **Target:** | All allies |
@@ -14947,6 +15581,7 @@ You have the following triggered action.
 ###### STASIS SHIELD (3 CLARITY)
 
 *You freeze time just long enough to bring the victim to safety!*
+
 **Keywords:** Psionics, Ranged
 
 **Type:** Triggered
@@ -14954,6 +15589,7 @@ You have the following triggered action.
 **Distance:** Self or Ranged 10
 
 **Target:** Self or 1 creature or object
+
 **Trigger:** The target takes damage.
 
 **Effect:** The target is teleported to an unoccupied square adjacent to you, taking no damage or additional effects if this movement would put them out of harm's way. **Strained:** You can't target yourself if you are strained. You take the damage and any additional effects in place of the target.
@@ -14969,7 +15605,9 @@ Choose one heroic ability from the following options.
 ##### DOUBT (11 CLARITY)
 
 *You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive*
+
 **Keywords:** Animapathy, Ranged, Strike, Psionic
+
 **Type:** Action
 
 **Distance:** Ranged 10
@@ -14989,6 +15627,7 @@ Choose one heroic ability from the following options.
 ##### MINDWIPE (11 CLARITY)
 
 *You attempt to make them forget all of their training.*
+
 **Keywords:** Psionic, Melee, Strike, Telepathy
 
 **Type:** Action
@@ -15009,6 +15648,7 @@ Power Roll + Reason:
 ##### REJUVENATE (11 CLARITY)
 
 *You reshape the flow of time in the target's body to an earlier state.*
+
 **Keywords:** Chronopathy, Psionic
 
 **Type:** Maneuver
@@ -15028,6 +15668,7 @@ Power Roll + Reason:
 ##### STEEL (11 CLARITY)
 
 *The target's skin becomes chrome and tough. They become an unstoppable titanium titan.*
+
 **Keywords:** Metamorphosis, Psionic
 
 **Type:** Maneuver
@@ -15087,7 +15728,9 @@ Choose one of the following abilities.
 *You lean on future heroism to assist you in the now.*
 
 **Keywords:** Area, Chronopathy, Psionic
+
 **Type:** Maneuver
+
 **Distance:** 2 Burst
 
 **Target:** All allies
@@ -15101,6 +15744,7 @@ Choose one of the following abilities.
 ###### GRAVITIC NOVA (11 CLARITY)
 
 *Unbridled psionic energy erupts from your body and flashes outward.*
+
 **Keywords:** Area, Psionic, Telekinesis
 
 **Type:** Action
@@ -15121,6 +15765,7 @@ Power Roll + Reason:
 ###### FULCRUM (11 CLARITY)
 
 *You use fine precision to manipulate the creatures around you.*
+
 **Keywords:** Area, Psionic, Telekinesis
 
 **Type:** Action
@@ -15144,6 +15789,7 @@ Choose one of the following abilities.
 ###### RESONANT MIND SPIKE (11 CLARITY)
 
 *A telepathic bolt empowered by every mind within your reach fired directly into your foe's head.*
+
 **Keywords:** Psionic, Ranged, Strike, Telepathy
 
 **Type:** Action
@@ -15165,7 +15811,9 @@ Choose one of the following abilities.
 *You send a message to the world and allow their responses into your present company's minds.*
 
 **Keywords:** Area, Psionic, Telepathy
+
 **Type:** Action
+
 **Distance:** 3 burst
 
 **Target:** Special
@@ -15314,6 +15962,7 @@ You start off with the Choreography and Revitalizing Limerick routine ability. Y
 ### CHOREOGRAPHY
 
 *Taps, kicks, steps. Now it's all "choreography."*
+
 **Keywords:** Area, Magic, Routine
 
 **Type:** No action
@@ -15327,6 +15976,7 @@ You start off with the Choreography and Revitalizing Limerick routine ability. Y
 #### REVITALIZING LIMERICK
 
 *There once was a man from Capital....*
+
 **Keywords:** Area, Magic, Routine
 
 **Type:** No action
@@ -15356,6 +16006,7 @@ You gain the following routine ability, usable with your Curtain Call feature.
 ##### ACROBATICS
 
 *Folks love a good tumble.*
+
 **Keywords:** Area, Magic, Routine
 
 **Type:** No action
@@ -15373,6 +16024,7 @@ You gain the following routine ability, usable with your Curtain Call feature.
 ##### BLOCKING
 
 *No, no, no, you lose the audience that way. Try it like this ...*
+
 **Keywords:** Area, Magic, Routine
 
 **Type:** No action
@@ -15387,13 +16039,16 @@ You gain the following routine ability, usable with your Curtain Call feature.
 
 You gain the following ability.
 
-###### DRAMATIC MONOLOGUE
+##### DRAMATIC MONOLOGUE
 
 *It doesn't need to make sense. Just say it with emotionality.*
+
 **Keywords:** | Magic, Ranged
 
 **Type:** | Maneuver |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Ranged 10
 
 **Target:** | Special |
@@ -15413,6 +16068,7 @@ You gain the following ability.
 ##### POWER CHORD
 
 *Your instrument rings true and your music blows everyone away.*
+
 **Keywords:** Area, Magic
 
 **Type:** Maneuver
@@ -15433,6 +16089,7 @@ You gain the following ability.
 ##### STAR POWER
 
 *You're the one they came to see!*
+
 **Keywords:** --
 
 **Type:** Maneuver
@@ -15454,6 +16111,7 @@ You gain the following routine abilities, each of which is usable with your Curt
 *All for thunder motherrr!* ?*Run and hide for coverrr!*?
 
 **Keywords:** Magic, Ranged, Strike, Routine
+
 **Type:** No action
 
 **Distance:** Ranged 10
@@ -15470,6 +16128,7 @@ Power Roll + Presence:
 ##### "BALLAD OF THE BEAST"
 
 *Teeth are bare!* ?*Eyes black!* ?*No escaping the beast!*?
+
 **Keywords:** Area, Magic, Routine
 
 **Type:** No action
@@ -15495,6 +16154,7 @@ Your troubadour class act grants you a triggered action as shown on the Class Ac
 ###### HARMONIZE (3 DRAMA)
 
 *Give the chorus a little punch.*
+
 **Keywords:** --
 
 **Type:** Triggered
@@ -15516,6 +16176,7 @@ Your troubadour class act grants you a triggered action as shown on the Class Ac
 **Keywords:** --
 
 **Type:** Triggered
+
 **Distance:** Melee 1
 
 **Target:** Self or one ally
@@ -15527,6 +16188,7 @@ Your troubadour class act grants you a triggered action as shown on the Class Ac
 #### TURNABOUT IS FAIR PLAY
 
 *All's fair in love and whatever.*
+
 **Keywords:** --
 
 **Type:** Triggered
@@ -15556,6 +16218,7 @@ Choose one signature ability from the following options. Signature abilities can
 #### ARTFUL FLOURISH
 
 *And they said practicing fencing was a waste!*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -15576,6 +16239,7 @@ Power Roll + Agility:
 #### CUTTING SARCASM
 
 *There you are, radiating your usual charisma.*
+
 **Keywords:** Magic, Ranged, Strike, Weapon
 
 **Type:** Action
@@ -15592,10 +16256,13 @@ Power Roll + Presence:
 #### INSTIGATOR
 
 *I didn't do it! What?*
+
 **Keywords:** | Melee, Strike, Weapon
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Melee 1
 
 **Target:** | One creature |
@@ -15610,6 +16277,7 @@ Power Roll + Presence:
 ###### WITTY BANTER
 
 *A lyrical (and physical) jab insults an enemy and inspires an ally.*
+
 **Keywords:** Magic, Melee, Ranged, Strike
 
 **Type:** Action
@@ -15638,11 +16306,13 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 #### HARSH CRITIC (3 DRAMA)
 
 *Just one bad review will ruin their day.*
+
 **Keywords:** Magic, Melee, Ranged, Strike
 
 **Type:** Action
 
 **Distance:** Melee 1 or ranged 10
+
 **Target:** One creature or object
 
 Power Roll + Presence:
@@ -15655,6 +16325,7 @@ Power Roll + Presence:
 ### HYPNOTIC OVERTONES (3 DRAMA)
 
 *You produce an entrancing note that twists the senses in a spectacular fashion.*
+
 **Keywords:** Area, Magic
 
 **Type:** Action
@@ -15673,11 +16344,13 @@ Power Roll + Presence:
 ### QUICK REWRITE (3 DRAMA)
 
 *You write something unforeseen into the scene that hinders your enemy.*
+
 **Keywords:** Area, Magic, Ranged
 
 **Type:** Action
 
 **Distance:** 3 cube within 10
+
 **Target:** Each enemy in the area
 
 Power Roll + Presence:
@@ -15690,10 +16363,13 @@ Power Roll + Presence:
 #### UPSTAGE (3 DRAMA)
 
 *As you bob and weave through the crowd, you can't help but leave the audience wanting more.*
+
 **Keywords:** | Melee, Strike, Weapon
 
 **Type:** | Maneuver |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Self; see below
 
 **Target:** | Self |
@@ -15712,6 +16388,7 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 #### DRAMATIC REVERSAL (5 DRAMA)
 
 *Give the audience a surprise.*
+
 **Keywords:** Area, Magic
 
 **Type:** Action
@@ -15728,6 +16405,7 @@ Power Roll + Presence:
 #### FAKE YOUR DEATH (5 DRAMA)
 
 *O happy dagger, this is thy sheath!*
+
 **Keywords:** Magic
 
 **Type:** Maneuver
@@ -15741,6 +16419,7 @@ Power Roll + Presence:
 #### FLIP THE SCRIPT (5 DRAMA)
 
 *You try a different take on events, justifying the new locations everyone ended up in.*
+
 **Keywords:** Area, Magic
 
 **Type:** Action
@@ -15754,6 +16433,7 @@ Power Roll + Presence:
 #### METHOD ACTING (5 DRAMA)
 
 *They're so hurt by your performance, you sort of start to believe it yourself.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -15818,6 +16498,7 @@ Choose one of the following abilities.
 #### CLASSIC CHANDELIER STUNT (5 DRAMA)
 
 *Audiences love this bit.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -15854,10 +16535,13 @@ Choose one of the following abilities.
 ### GUEST STAR (5 DRAMA)
 
 *We offered them a percentage of the gross. So they're working for free!*
+
 **Keywords:** | Magic, Ranged
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Ranged 10
 
 **Target:** | Special |
@@ -15885,6 +16569,7 @@ Choose one of the following abilities.
 ## ENCORE (5 DRAMA)
 
 *Again! Again!*
+
 **Keywords:** Magic, Strike
 
 **Type:** Action
@@ -15898,10 +16583,13 @@ Choose one of the following abilities.
 #### TOUGH CROWD (5 DRAMA)
 
 *Your fans don't seem to like the opening act ...*
+
 **Keywords:** | Area, Magic, Ranged
 
 **Type:** | Maneuver |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | 3 cube within 10
 
 **Target:** | Special |
@@ -15944,6 +16632,7 @@ You gain the following routine abilities, each of which is usable with your Curt
 #### FIRE UP THE NIGHT
 
 *Maybe you and I* ?*We can still bring the light!* ?
+
 **Keywords:** Area, Magic, Routine
 
 **Type:** No action
@@ -15957,6 +16646,7 @@ You gain the following routine abilities, each of which is usable with your Curt
 #### NEVERENDING HERO
 
 *And toniiight we can truly say* ?*They will alllways find a way!*?
+
 **Keywords:** Area, Magic, Routine
 
 **Type:** No action
@@ -15974,6 +16664,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 #### EXTENSIVE REWRITES (7 DRAMA)
 
 *No, this isn't right. That foe was over there!*
+
 **Keywords:** Area, Magic, Ranged
 
 **Type:** Maneuver
@@ -16011,8 +16702,11 @@ Power Roll + Presence:
 #### VIRTUOSO'S SOLO (7 DRAMA)
 
 *Your performance travels and doesn't stop moving until your audience is completely rocked.*
+
 **Keywords:** Magic, Melee, Ranged, Strike, Weapon
+
 **Type:** Action
+
 **Distance:** Melee 1 or ranged 10
 
 **Target:** One creature or object
@@ -16027,6 +16721,7 @@ Power Roll + Presence:
 ### WE MEET AT LAST. LET'S FINISH THIS (7 DRAMA)
 
 *Totus mundus agit histrionem.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -16113,6 +16808,7 @@ WE CAN'T BE UPSTAGED! You gain the following routine.
 **Keywords:** Area, Magic
 
 **Type:** Routine
+
 **Distance:** 5 Aura
 
 **Target:** Self and all allies
@@ -16146,9 +16842,11 @@ You gain the following routine.
 ###### TAKE TWO!
 
 *One more, and this time make it interesting.*
+
 **Keywords:** Area, Magic
 
 **Type:** Routine
+
 **Distance:** 5 Aura
 
 **Target:** Self and all allies
@@ -16162,6 +16860,7 @@ Choose one heroic ability from the following options.
 #### ACTION HERO (9 DRAMA)
 
 *You wield your weapon faster than anyone can perceive, leaving everyone around you within an inch of their lives.*
+
 **Keywords:** Area, Melee, Weapon
 
 **Type:** Action
@@ -16180,6 +16879,7 @@ Power Roll + Agility:
 #### CONTINUITY ERROR (9 DRAMA)
 
 *Your subject is accidentally written into two places at once.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -16193,6 +16893,7 @@ Power Roll + Agility:
 ### LOVE SONG (9 DRAMA)
 
 *You play a small ditty that plants yourself inside your target's heart.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -16206,6 +16907,7 @@ Power Roll + Agility:
 #### PATTER SONG (9 DRAMA)
 
 *Dazzle them with your fancy patter and they forget where they were.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -16234,6 +16936,7 @@ You have access to the following routine to use with Curtain Call.
 #### SPOTLIGHT
 
 *The audience is watching, so you better give them a show.*
+
 **Keywords:** Area, Magic
 
 **Type:** Routine
@@ -16255,6 +16958,7 @@ Choose one of the following abilities.
 #### BLOOD ON THE STAGE (9 DRAMA)
 
 *It's love and blood or drama and blood. Either way there's always blood.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -16271,6 +16975,7 @@ Power Roll + Agility:
 ### FIGHT CHOREOGRAPHY (9 DRAMA)
 
 *You and your partner make a flashy show of derring-do, then back to your corners.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -16288,6 +16993,7 @@ Choose one of the following abilities.
 #### FEEDBACK (9 DRAMA)
 
 *Your music pounds the crowd to the beat until their hearts can't stand it anymore.*
+
 **Keywords:** Area, Magic
 
 **Type:** Action
@@ -16304,6 +17010,7 @@ Power Roll + Presence:
 ### LEGENDARY DRUM FILL (9 DRAMA)
 
 *You start a drumroll that roars like thunder with every impact the heroes make.*
+
 **Keywords:** Area, Magic
 
 **Type:** Maneuver
@@ -16321,6 +17028,7 @@ Choose one of the following abilities.
 #### A CHANGE OF HEART (9 DRAMA)
 
 *The surprise reveal that changes everything they thought they knew.*
+
 **Keywords:** Area, Magic
 
 **Type:** Action
@@ -16337,6 +17045,7 @@ Power Roll + Presence:
 #### YOU'RE ALL MY UNDERSTUDIES (9 DRAMA)
 
 *It's important for everyone to know each other's lines, just in case....*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -16396,6 +17105,7 @@ You have access to two additional routines to use with Curtain Call.
 ### "MOONLIGHT SONATA"
 
 *Music pours out of your heart, filling the area with the utmost delicacy and without damper.*
+
 **Keywords:** Area, Magic
 
 **Type:** Routine
@@ -16409,6 +17119,7 @@ You have access to two additional routines to use with Curtain Call.
 #### "RADICAL FANTASIA"
 
 ? *Viras my Viras will you hold their hands as they cryyyaaaiigh?* ?
+
 **Keywords:** Area, Magic
 
 **Type:** Routine
@@ -16440,10 +17151,13 @@ Choose one heroic ability from the following options.
 #### DRAMATIC REVEAL (11 DRAMA)
 
 *A little stage trickery and where once stood a foe, now stands a friend!*
+
 **Keywords:** | Magic
 
 **Type:** | Maneuver |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Self
 
 **Target:** | Self |
@@ -16453,6 +17167,7 @@ Choose one heroic ability from the following options.
 #### POWER BALLAD (11 DRAMA)
 
 *A song for the broken hearted wraps itself around the target and blossoms into a ward of thorns.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -16466,6 +17181,7 @@ Choose one heroic ability from the following options.
 #### SAVED IN THE EDIT (11 DRAMA)
 
 *Your weapon takes on the avatar of a legendary tool that can rewrite reality to your whims.*
+
 **Keywords:** Magic
 
 **Type:** Maneuver
@@ -16484,6 +17200,7 @@ Choose one heroic ability from the following options.
 ### THE SHOW MUST GO ON (11 DRAMA)
 
 *You shine a bright light on the players on the stage and compel them to finish the performance*
+
 **Keywords:** Area, Magic, Ranged
 
 **Type:** Maneuver
@@ -16520,6 +17237,7 @@ Choose one of the following abilities.
 ###### EXPERT FENCER (11 DRAMA)
 
 *If you can land it, the crowd goes wild.*
+
 **Keywords:** Charge, Melee, Strike, Weapon
 
 **Type:** Action
@@ -16538,6 +17256,7 @@ Power Roll + Agility:
 #### RENEGOTIATED CONTRACT (11 DRAMA)
 
 *No, no. You don't die until the sequel.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -16561,6 +17280,7 @@ Choose one of the following abilities.
 #### JAM SESSION(11 DRAMA)
 
 *Your jam session breeds new genres that compel everyone to get up and move.*
+
 **Keywords:** Area, Magic
 
 **Type:** Action
@@ -16579,6 +17299,7 @@ Power Roll + Presence:
 #### MELT THEIR FACES (11 DRAMA)
 
 *The power of music rips through the reality around the target and blows them away.*
+
 **Keywords:** Magic, Melee, Ranged, Strike
 
 **Type:** Action
@@ -16601,6 +17322,7 @@ Choose one of the following abilities.
 ### EPIC (11 DRAMA)
 
 *Your story tells tale of the villain's waning power and how the heroes rose to the occasion to stop them.*
+
 **Keywords:** Magic, Melee, Ranged
 
 **Type:** Maneuver
@@ -16619,6 +17341,7 @@ Power Roll + Presence:
 ### RISING TENSION (11 DRAMA)
 
 *You narrate the tension of the scene and put all hope into your subject to turn things around.*
+
 **Keywords:** Magic, Ranged
 
 **Type:** Maneuver
@@ -16841,6 +17564,7 @@ You wear no armor and wield a bow.
 #### EXPLODING ARROW
 
 *Your ammunition explodes with magical energy.*
+
 **Keywords:** Magic, Ranged, Strike, Weapon
 
 **Type:** Action
@@ -16876,6 +17600,7 @@ You wear light armor and wield a medium weapon.
 ### UNMOORING
 
 *Your weapon unleashes psionic energy that reduces your target's weight.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -16910,6 +17635,7 @@ You wear light armor and wield one or two light weapons.
 ### FADE
 
 *A stab, and a few quick, careful steps back.*
+
 **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Type:** Action
@@ -16943,6 +17669,7 @@ You wear medium armor and wield a light weapon and a medium weapon.
 #### DOUBLE STRIKE
 
 *Why strike once when you could do it twice?*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -16976,6 +17703,7 @@ You wear medium armor and wield a polearm.
 ### FORWARD THRUST, BACKWARD SMASH
 
 *In your hands, the haft is as good as the head.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -17009,6 +17737,7 @@ You wear no armor and wield only your unarmed strikes.
 #### BATTLE GRACE
 
 *You feint to move your enemies into perfect position.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -17077,6 +17806,7 @@ You wear no armor and wield a heavy weapon.
 #### DEVASTATING RUSH
 
 *The faster you move, the harder you hit.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -17112,6 +17842,7 @@ You wear no armor and wield only your unarmed strikes.
 ### LET'S DANCE
 
 *Keeping your enemies stumbling around the battlefield is second nature to you.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -17149,6 +17880,7 @@ You wear light armor, and wield a shield and a light weapon.
 ##### SHOCK AND AWE
 
 *You execute a brutal strike that leaves your foe reeling.*
+
 **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Type:** Action
@@ -17254,9 +17986,11 @@ You wear light armor, and wield a polearm and several ensnaring weapons.
 #### NET AND STAB
 
 *The well-thrown net that follows your main attack leaves your foes right where you want them.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
+
 **Distance:** Melee 2
 
 **Target:** 1 creature
@@ -17285,6 +18019,7 @@ You wear heavy armor and wield a shield and a medium weapon.
 ### PROTECTIVE ATTACK
 
 *The strength of your assault makes it impossible for your foe to ignore you.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -17355,6 +18090,7 @@ You wear light armor and wield a shield and a medium weapon.
 ### LEAPING LIGHTNING
 
 *Lightning jumps from your weapon as you strike to harm a nearby foe.*
+
 **Keywords:** Magic, Melee, Strike, Weapon
 
 **Type:** Action
@@ -17391,9 +18127,11 @@ You wear light armor and wield a polearm.
 ### WHERE I WANT YOU
 
 *When your stick speaks, your enemy moves.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
+
 **Distance:** Melee 2
 
 **Target:** 1 creature
@@ -17423,6 +18161,7 @@ You wear light armor and wield a medium weapon.
 ### FANCY FOOTWORK
 
 *All combat is a dance--and you'll be the one leading.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -17458,6 +18197,7 @@ You wear medium armor and wield a shield and a medium weapon.
 ##### SHIELD BASH
 
 *In your hands, a shield isn't just for protection.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -17492,6 +18232,7 @@ You wear heavy armor and wield a light weapon.
 #### WEAKENING BRAND
 
 *The impact of your weapon brands your target for destruction.*
+
 **Keywords:** Magic, Melee, Strike, Weapon
 
 **Type:** Action
@@ -17528,6 +18269,7 @@ You wear no armor and wield a whip.
 ### EXTENSION OF MY ARM
 
 *When you draw your whip back after an attack, your enemy comes ever closer.*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -17814,9 +18556,11 @@ You gain the following ability.
 ### ARCANE TRICK
 
 *You cast an entertaining spell that creates a minor but impressive magical effect.*
+
 **Keywords:** Magic
 
 **Type:** Action
+
 **Distance:** Self
 
 **Target:** Self
@@ -17855,9 +18599,10 @@ You and the spirit can communication telepathically with with each other and sha
 
 You gain the following ability.
 
-#### INVISIBLE FORCE
+### INVISIBLE FORCE
 
 *You manipulate a tiny object with your mind.*
+
 **Keywords:** Psionic
 
 **Type:** Maneuver
@@ -17872,9 +18617,10 @@ You gain the following ability.
 
 You gain the following ability.
 
-#### PSYCHIC WHISPER
+### PSYCHIC WHISPER
 
 *You send a one-way telepathic message to a friend.*
+
 **Keywords:** Psionic
 
 **Type:** Maneuver
@@ -18133,10 +18879,13 @@ Your mentor taught you everything, and you trusted them implicitly--until they w
 **Benefit:** Your mentor taught you the Corrupt Spirit maneuver, which, in retrospect, should have aroused your suspicion.
 
 #### CORRUPT SPIRIT
+
 **Keywords:** | Magic
 
 **Type:** | Maneuver |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Self
 
 **Target:** | Self |
@@ -18466,6 +19215,7 @@ A bredbeddle stole your head! Normally, being beheaded by one of these giants is
 #### SHARE HEAD
 
 *You don't have a head but can psionically borrow another.*
+
 **Keywords:** Psionic, Ranged
 
 **Type:** Maneuver
@@ -18509,10 +19259,14 @@ You can see ghosts and spirits that others just don't sense. They're constantly 
 **Benefit and Drawback:** Incorporeal undead within 10 squares of you can communicate telepathically with you. Additionally, you can use the Contact Spirits ability.
 
 | CONTACT SPIRITS |  |
-| --- | --- |
+| --- | ---
+
+
 **Keywords:** Magic
 
-**Type:** Action |
+**Type:** Action
+
+
 **Distance:** Self
 
 **Target:** Self |
@@ -18622,6 +19376,7 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 #### PSYCHIC BLAST (COST: ALL YOUR HEROIC RESOURCES)
 
 *Psionic energy bursts from your body in an iridescent shimmer.*
+
 **Keywords:** Area, Psionic
 
 **Type:** Action
@@ -18837,9 +19592,11 @@ You were trained as an officer, but you no longer serve. Did you flee a battle? 
 #### ISSUE ORDER
 
 *"Move or die, folks."*
+
 **Keywords:** Ranged
 
 **Type:** Action
+
 **Distance:** Range 10
 
 **Target:** One ally
@@ -18933,6 +19690,7 @@ You nearly lost your life at sea, but then you heard the voice. Someone ... some
 ### ROGUE WAVE
 
 *You summon a wave of water to batter your foe.*
+
 **Keywords:** Attack, Magic, Ranged
 
 **Type:** Action
@@ -20014,9 +20772,11 @@ Power Roll + Might or Agility:
 You attempt to grab a creature using the following ability:
 
 ### GRAB
+
 **Keywords:** Melee
 
 **Type:** Maneuver
+
 **Distance:** Melee 1
 
 **Target:** 1 creature no more than 1 size larger than you
@@ -20036,12 +20796,14 @@ Using the Hide maneuver, you attempt to hide from other creatures who aren't obs
 
 You attempt to shove an adjacent creature using the following ability:
 
-#### KNOCKBACK
+### KNOCKBACK
+
 **Keywords:** Melee, Weapon
 
 **Type:** Maneuver
 
 **Distance:** Melee 1
+
 **Target:** 1 creature no more than 1 size larger than you
 
 Power Roll + Might:
@@ -20116,6 +20878,7 @@ Every hero has two standard free strike abilities available to them. Your class 
 A melee weapon free strike is a melee strike made with an unarmed strike or an improvised weapon. A ranged weapon free strike is a ranged strike made with an improvised weapon. At the Director's discretion, the damage type of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage.
 
 #### MELEE WEAPON FREE STRIKE
+
 **Keywords:** Charge, Melee, Strike, Weapon
 
 **Type:** Action
@@ -20130,6 +20893,7 @@ Power Roll + Might or Agility:
 - *17+:* **7 + M or A damage**
 
 ### RANGED WEAPON FREE STRIKE
+
 **Keywords:** Ranged, Strike, Weapon
 
 **Type:** Action
@@ -21242,9 +22006,11 @@ Power Roll + Highest Characteristic:
 #### DRAGON'S FIRE
 
 *You open your maw and unleash hell.*
+
 **Keywords:** Area, Magic, Melee
 
 **Type:** Action
+
 **Distance:** 5 x 1 line within 1
 
 **Target:** Each enemy in the line
@@ -21318,7 +22084,7 @@ Implements are jewelry, orbs, staffs, tomes, wands, weapons, and other objects u
 
 **Warding I:** You gain a +6 Stamina bonus.
 
-###### 5TH-LEVEL IMPLEMENT ENHANCEMENT
+##### 5TH-LEVEL IMPLEMENT ENHANCEMENT
 
 **Item Prerequisites:** An implement with a 1st-level enhancement; varies
 
@@ -21445,7 +22211,7 @@ properties
 
 **Wingbane:** Whenever you damage a flying creature using this weapon, that creature is also bleeding (save ends). While bleeding in this way, the creature takes 1 damage per square they fly. If the creature starts and ends their turn on the same solid surface, the bleeding condition ends.
 
-###### 5TH-LEVEL WEAPON ENHANCEMENT
+##### 5TH-LEVEL WEAPON ENHANCEMENT
 
 **Item Prerequisites:** A weapon with a 1st-level enhancement; varies
 
@@ -21474,11 +22240,15 @@ properties
 ###### STOP RIGHT THERE
 
 *Their momentum, your impact.*
+
 **Keywords:** Melee, Strike, Weapon
+
 **Type:** Free Triggered Action
+
 **Distance:** Melee 1
 
 **Target:** 1 enemy
+
 **Trigger:** The target moves into a space adjacent to you.
 
 **Effect**: The target takes 5 damage.
@@ -21546,9 +22316,11 @@ properties
 ### NOVA
 
 *I am an eternal flame, baby!*
+
 **Keywords:** Area, Magic, Melee
 
 **Type:** Action
+
 **Distance:** 3 burst
 
 **Target:** All enemies **Power Roll + Highest Characteristic:**
@@ -21948,6 +22720,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 ##### BLACK ASH DART
 
 *A diamond-shaped dart holds a shimmering black vial at its core.*
+
 **Keywords:** Magic
 
 **Item Prerequisites:** Three vials of black ash from the College of Black Ash
@@ -21966,6 +22739,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 ##### BLOOD ESSENCE VIAL
 
 *A brittle glass tube has a ruby set atop it, attached by a hinge.*
+
 **Keywords:** Potion, Psionic
 
 **Item Prerequisites:** A ruby purloined from a vampire **Project Source:** Texts or lore in Proto-Ctholl **Project Roll Characteristic:** Agility or Reason **Project Goal:** 45
@@ -21975,6 +22749,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 ##### CATAPULT DUST
 
 *A small leather pouch is filled with this fine blue powder.*
+
 **Keywords:** Magic
 
 **Item Prerequisites:** An ounce of witherite crystal **Project Source:** Texts or lore in Caelian **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 45
@@ -21984,6 +22759,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 ##### GIANT'S-BLOOD FLAME
 
 *A small pot is filled with a viscous, ochre oil that smells of sulfur and burnt hair.*
+
 **Keywords:** Magic, Oil **Item Prerequisites:** One vial of fire giant blood **Project Source:** Texts or lore in Caelian **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 45
 
 **Effect:** As a maneuver, you coat a weapon in this oil and ignite it. The weapon burns persistently and without harming itself until it is extinguished as a maneuver. Whenever you use a weapon that is ignited this way with a weapon ability, you deal an extra 2 fire damage with rolled damage.
@@ -21993,6 +22769,7 @@ Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating 
 ##### GROWTH POTION
 
 *This thick, green liquid tastes of licorice and potatoes.*
+
 **Keywords:** Magic, Potion **Item Prerequisites:** Five ounces of seagrass **Project Source:** Texts or lore in Caelian **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 45
 
 **Effect:** As a maneuver, you can drink this potion or pour it over an object of size 2 or smaller, causing the target's size to increase by 1. If you are the target, your current Stamina and Stability are doubled, you gain an edge on Might tests, and your weapon abilities deal extra rolled damage equal to your highest characteristic score. You shrink back to your original size after 3 rounds, halving your current Stamina and Stability, and losing the potion's other benefits. Objects maintain their new size permanently.
@@ -22000,6 +22777,7 @@ Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating 
 ##### HEALING POTION
 
 *Thick and red, this liquid tastes of sour beer.*
+
 **Keywords:** Magic, Potion **Item Prerequisites:** One ounce of costmary leaves **Project Source:** Texts or lore in Caelian **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 45
 
 **Effect:** When you drink this potion as a maneuver, you regain Stamina equal to your recovery value without spending a Recovery.
@@ -22007,6 +22785,7 @@ Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating 
 ##### IMP'S TONGUE
 
 *The tongue of an imp has been dried and preserved. Yuck.*
+
 **Keywords:** Magic **Item Prerequisites:** One imp's tongue **Project Source:** Texts or lore in Caelian **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 45
 
 **Effect:** As a maneuver, you place the imp's tongue on your own tongue, causing it to reconstitute and attach itself to your tongue. While attached, the Imp's Tongue allows you to speak any language and understand any language spoken to you. This benefit ends after 1 hour, when the tongue is absorbed into your body.
@@ -22014,6 +22793,7 @@ Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating 
 ##### LACHOMP TOOTH
 
 *A thumb-sized serrated tooth seems to scratch your flesh in some way whenever it is handled.*
+
 **Keywords:** Psionic
 
 **Item Prerequisites:** A leftover carcass of a lachomp meal **Project Source:** Texts or lore in Caelian **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 45 (yields 1d3 teeth)
@@ -22027,6 +22807,7 @@ Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating 
 ##### MIRROR TOKEN
 
 *A gold-rimmed, mirror-faced coin trembles in the hand as if it were repelled by your touch.*
+
 **Keywords:** Psionic
 
 **Item Prerequisites:** Three sheets of glass, sunbaked gold dust
@@ -22038,6 +22819,7 @@ Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating 
 ##### POCKET HOMUNCULUS
 
 *A densely interlocking sphere of clockwork gears features facets that show the countenance of the item's wielder.*
+
 **Keywords:** Psionic
 
 **Item Prerequisites:** A strip of starmetal coated in the blood of the item's crafter 
@@ -22054,6 +22836,7 @@ While you have line of effect to your homunculus, you can use a maneuver to issu
 ##### PORTABLE CLOUD
 
 *This thin glass sphere holds a tiny roiling cloud.*
+
 **Keywords:** Magic
 
 - **Item Prerequisites:** Ten ounces of rainwater from a sacred fey grove, plus optional prerequisites (see below)
@@ -22070,6 +22853,7 @@ Enterprising mages within various thieves' guilds have developed variations of t
 ##### PROFESSOR VERATISMO'S QUAFF 'N HUFF SNUFF
 
 *This tiny compact holds a colorless powder with the slightest astringent smell.*
+
 **Keywords:** Potion, Psionic
 
 **Item Prerequisites:** The roots of a just-budded nightshade
@@ -22081,6 +22865,7 @@ Enterprising mages within various thieves' guilds have developed variations of t
 ##### SNAPDRAGON
 
 *This delicate orange blossom has a sickly-sweet smell.*
+
 **Keywords:** Magic
 
 **Item Prerequisites:** Fifty snapdragon seeds **Project Source:** Texts or lore in Yllyric **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 45 (yields 1d6 + 1 snapdragons)
@@ -22094,6 +22879,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 ##### BREATH OF DAWN
 
 *A glass flask contains a whirl of gentle sunlight.*
+
 **Keywords:** Psionic
 
 **Item Prerequisites:** The breath of a mystic sage captured at sunrise
@@ -22105,6 +22891,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 ##### BULL SHOT
 
 *Tiny chips of white bone float within this dark potion, which carries the scent of beef broth.*
+
 **Keywords:** Magic, Potion
 
 **Item Prerequisites:** One vial of pure bovine essence **Project Source:** Texts or lore in Caelian **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 90
@@ -22114,6 +22901,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 ##### CHOCOLATE OF IMMOVABILITY
 
 *This decadent-looking treat feels strangely heavy in the hand.*
+
 **Keywords:** Magic
 
 **Item Prerequisites:** A chocolate made by a gnome confectioner
@@ -22125,6 +22913,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 ##### CONCEALMENT POTION
 
 *This dark, viscous liquid tastes like burnt leaves.*
+
 **Keywords:** Potion, Psionic
 
 **Item Prerequisites:** One ounce of sap from a tree damaged by psionic fire 
@@ -22140,6 +22929,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 ##### PURIFIED JELLY
 
 *This clear, pasty substance has a bitter aroma.*
+
 **Keywords:** Potion, Psionic
 
 **Item Prerequisites:** Three ounces of algae from glacial water
@@ -22153,6 +22943,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 ##### SCROLL OF RESURRECTION
 
 *This scroll is marked by sigils of power, death, and life.*
+
 **Keywords:** Magic, Scroll
 
 **Item Prerequisites:** A sheet of paper infused with the dust of a painite
@@ -22168,6 +22959,7 @@ A creature with a willing soul returns to life at the end of the respite with fu
 ##### SCROLL OF SHADOW FRIENDSHIP
 
 *This yellowed parchment bears the rough figures of creatures, with the shadows of those figures seeming to shift.*
+
 **Keywords:** Magic, Scroll 
 **Item Prerequisites:** Your own shadow, captured during a full moon 
 **Project Source:** Texts or lore in Caelian 
@@ -22179,6 +22971,7 @@ A creature with a willing soul returns to life at the end of the respite with fu
 ##### TELEMAGNET
 
 *A short iron wand shaped of interlocking segments leaks greasy black oil from its joints.*
+
 **Keywords:** Psionic
 
 **Item Prerequisites:** A shard of prismacore, one ounce of ferrous metal
@@ -22199,6 +22992,7 @@ If you pull a size 1T object adjacent to you, you can catch it.
 ##### VIAL OF ETHEREAL ATTACK
 
 *Clear liquid seems to constantly churn within an obsidian vial, even when at rest.*
+
 **Keywords:** Psionic
 
 **Item Prerequisites:** A signed agreement with a ghost, a large obsidian disc
@@ -22216,6 +23010,7 @@ This section presents 3rd-echelon consumable treasures in alphabetical order.
 ##### ANAMORPHIC LARVA
 
 *A cloudy glass vial holds a writhing monstrous grub.*
+
 **Keywords:** Psionic
 
 **Item Prerequisites:** A grub steeped in voiceless talker bile
@@ -22231,6 +23026,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 ##### BOTTLED PARADOX
 
 *Liquid constantly swirls within a cut glass bottle that is ice cold to the touch.*
+
 **Keywords:** Magic, Potion
 
 **Item Prerequisites:** One month of lifespan from the creator or another willing creature, ground sapphire 
@@ -22246,6 +23042,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 ##### G'ALLIOS VISITING CARD
 
 *A card bearing the Eighth City Advocacy Services crest smells faintly of smoke and spices.*
+
 **Keywords:** Magic 
 
 **Item Prerequisites:** One vial of archdevil's blood, an expired contract
@@ -22261,6 +23058,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 ##### PERSONAL EFFIGY
 
 *This tiny humanoid effigy appears unnervingly lifelike, and is always warm to the touch.*
+
 **Keywords:** Magic
 
 **Item Prerequisites:** One minute of contact with the creature the effigy is tied to 
@@ -22276,6 +23074,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 ##### STYGIAN LIQUOR
 
 *This muddy brown whiskey tastes of peat and death.*
+
 **Keywords:** Magic, Potion 
 
 **Item Prerequisites:** One ounce of scrapings from a coven's used cauldron 
@@ -22291,6 +23090,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 ##### TIMESPLITTER
 
 *This spiked crystal makes a beautiful ringing sound when first touched.*
+
 **Keywords:** Psionic 
 
 **Item Prerequisites:** A time crystal 
@@ -22310,6 +23110,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 ##### WARD TOKEN
 
 *This smoothly polished quartz stone feels strangely warm to the touch.*
+
 **Keywords:** Psionic 
 
 **Item Prerequisites:** A small quartz 
@@ -22325,6 +23126,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 ##### WELLNESS TONIC
 
 *This thick purple liquid has a bitter scent that lingers.*
+
 **Keywords:** Potion, Psionic 
 
 **Item Prerequisites:** One ounce of troll's blood, two ounces of raw honey 
@@ -22344,6 +23146,7 @@ This section presents 4th-echelon consumable treasures in alphabetical order.
 ##### BREATH OF CREATION
 
 *A glass flask holds a roiling storm of astral plasma.*
+
 **Keywords:** Psionic
 
 **Item Prerequisites:** The captured breath of a god, an ounce of condensed dreams
@@ -22361,6 +23164,7 @@ Each time you use another Breath of Creation, you can create a new demiplane or 
 ##### ELIXIR OF SAINT ELSPETH
 
 *This thick red liquid smells of cinnamon.*
+
 **Keywords:** Magic, Potion
 
 **Item Prerequisites:** One ounce of blood of Saint Aurelynx 
@@ -22376,6 +23180,7 @@ Each time you use another Breath of Creation, you can create a new demiplane or 
 ##### PAGE FROM THE INFINITE LIBRARY: SOLARIS
 
 *This page is covered with writing and diagrams detailing the release of limitless energy--and the dangers of doing so.*
+
 **Keywords:** Magic
 
 **Item Prerequisites:** One vial of sacred ink, blessed parchment
@@ -22389,6 +23194,7 @@ Each time you use another Breath of Creation, you can create a new demiplane or 
 ##### RESTORATIVE OF THE BRIGHT COURT
 
 *An ornately decorated golden vial smells of summer rain and subtle zesty fruits.*
+
 **Keywords:** Magic
 
 **Item Prerequisites:** One year of lifespan from the creator or another willing creature, the laughter of a young hero 
@@ -22414,6 +23220,7 @@ This section presents 1st-echelon trinket treasures in alphabetical order.
 ##### COLOR CLOAK (BLUE)
 
 *This silky-blue hooded cloak is emblazoned with a golden Anjali sigil meaning "ice."*
+
 **Keywords:** Magic, Neck 
 
 **Item Prerequisites:** A pint of blue ichor, soul chalk 
@@ -22431,6 +23238,7 @@ Additionally, when you are targeted by any effect that deals cold damage, you ca
 ##### COLOR CLOAK (RED)
 
 *This woolen red hooded cloak is emblazoned with a golden Anjali sigil meaning "fire."*
+
 **Keywords:** Magic, Neck
 
 **Item Prerequisites:** A pint of red ichor, soul chalk 
@@ -22448,6 +23256,7 @@ Additionally, when you are targeted by any effect that deals fire damage, you ca
 ##### COLOR CLOAK (YELLOW)
 
 *This rubbery, yellow hooded cloak is emblazoned with a golden Anjali sigil meaning "lightning."*
+
 **Keywords:** Magic, Neck 
 
 **Item Prerequisites:** A pint of yellow ichor, soul chalk
@@ -22465,6 +23274,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 ##### DEADWEIGHT
 
 *Though this humanoid femur is coated in lead, it feels impossibly heavy for its size.*
+
 **Keywords:** Magic
 
 **Item Prerequisites:** One humanoid femur, one bar of lead laced with starmetal
@@ -22480,6 +23290,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 ##### DISPLACING REPLACEMENT BRACER
 
 *A wooden bangle is etched with an ambigram sigil of the Zaliac word for "transfer."*
+
 **Keywords:** Arms, Psionic
 
 **Item Prerequisites:** Petrified wood from a tree that has not been observed since falling
@@ -22495,6 +23306,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 ##### DIVINE VINE
 
 *A coil of emerald-green vines is topped with the jaws of an enormous Venus flytrap.*
+
 **Keywords:** Magic 
 
 **Item Prerequisites:** Three withered mundane vines, a tree's blessing 
@@ -22510,6 +23322,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 ##### FLAMESHADE GLOVES
 
 *These finely stitched gloves appear to flicker in and out of reality when first handled.*
+
 **Keywords:** Hands, Psionic
 
 **Item Prerequisites:** A humanoid's shadow disconnected from its source
@@ -22527,6 +23340,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 ##### GECKO GLOVES
 
 *These scaled gloves have palms and fingers covered in nearinvisible sticky hairs.*
+
 **Keywords:** Hands, Magic 
 
 **Item Prerequisites:** Ten gecko tails 
@@ -22542,6 +23356,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 ##### GYROTOQUE
 
 *This tight-fitting cap is topped with a freely spinning bauble.*
+
 **Keywords:** Head, Psionic
 
 **Item Prerequisites:** A lodestone that has been struck by lightning
@@ -22554,6 +23369,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 ##### HELLCHARGER HELM
 
 *A steel helm is set with two curved ebony horns, a crackling plume of fire floating between them.*
+
 **Keywords:** Head, Magic 
 
 **Item Prerequisites:** One broken contract, one ingot of steel
@@ -22569,6 +23385,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 ##### MASK OF THE MANY
 
 *A plain white mask is lined with soft black velvet--which smells faintly of blood.*
+
 **Keywords:** Head, Magic 
 
 **Item Prerequisites:** One used death shroud 
@@ -22584,6 +23401,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 ##### QUANTUM SATCHEL
 
 *A woven metal drawstring seals this plain-looking leather bag, which is affixed with an opal brooch.*
+
 **Keywords:** Magic
 
 **Item Prerequisites:** One uncut opal 
@@ -22599,6 +23417,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 ##### UNBINDER BOOTS
 
 *A pair of ornately embroidered leather boots are covered in images of broken chains.*
+
 **Keywords:** Feet, Magic
 
 **Item Prerequisites:** One battered gold chain of at least fifty links
@@ -22618,6 +23437,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 ##### BASTION BELT
 
 *This thick leather belt features a bone clasp and feels unusually heavy when handled.*
+
 **Keywords:** Magic, Waist
 
 **Item Prerequisites:** A giant's tooth 
@@ -22633,6 +23453,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 ##### EVILEST EYE
 
 *A perfectly preserved eyeball hangs unnervingly from a gold chain.*
+
 **Keywords:** Neck, Psionic 
 
 **Item Prerequisites:** An eyeball from a pirate captain who drowned at sea 
@@ -22648,6 +23469,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 ##### INSIGHTFUL CROWN
 
 *Shaped of polished crystal, this shimmering circlet shifts through myriad colors in the presence of strong emotions.*
+
 **Keywords:** Head, Psionic 
 
 **Item Prerequisites:** One measure of pure crystal, a jarred memory of true joy 
@@ -22663,6 +23485,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 ##### KEY OF INQUIRY
 
 *A foot-long platinum key is set with three opals.*
+
 **Keywords:** Psionic
 
 **Item Prerequisites:** The finger bone of a creature with telepathy, three black opals
@@ -22678,6 +23501,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 ##### MEDIATOR'S CHARM
 
 *A fancy gold earring is set with a small ruby.*
+
 **Keywords:** Head, Psionic
 
 **Item Prerequisites:** The gold nib of a fountain pen used to sign a major treaty or compact, a ruby once worn by a devil
@@ -22692,6 +23516,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 ##### NECKLACE OF THE BAYOU
 
 *A worn leather circlet bears a lizard-shaped pendant of rotting wood.*
+
 **Keywords:** Magic, Neck 
 
 **Item Prerequisites:** One gallon of swamp water, the limbs of four different newts
@@ -22707,6 +23532,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 ##### SCANNERSTONE
 
 *This flat, palm-sized triangular stone is decorated with a starfield of tiny gems.*
+
 **Keywords:** Psionic
 
 **Item Prerequisites:** A piece of polished obsidian, seven flawless pea-sized diamonds
@@ -22722,6 +23548,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 ##### STOP-'N-GO COIN
 
 *A small, featureless coin is solid green on one side and solid red on the other.*
+
 **Keywords:** Magic
 
 **Item Prerequisites:** A coin minted during an earthquake 
@@ -22747,6 +23574,7 @@ This section presents 3rd-echelon trinket treasures in alphabetical order.
 ##### BRACERS OF STRIFE
 
 *Each of these metallic blue bracers ends in an oversized glove.*
+
 **Keywords:** Arms, Magic
 
 **Item Prerequisites:** The severed hand of a giant 
@@ -22762,6 +23590,7 @@ This section presents 3rd-echelon trinket treasures in alphabetical order.
 ##### MASK OF OVERSIGHT
 
 *This angular electrum mask is set with an excess of eye holes and a horrifying maw.*
+
 **Keywords:** Head, Magic
 
 **Item Prerequisites:** An overmind egg, the skin of any shapeshifter
@@ -22779,6 +23608,7 @@ While the eyes circle your head, you can use a maneuver to launch up to three of
 ##### MIRAGE BAND
 
 *A sable blue circlet shimmers with finely woven threads of sparkling white.*
+
 **Keywords:** Head, Psionic
 
 **Item Prerequisites:** A spool of mindspider silk, an ingot of white gold
@@ -22796,9 +23626,11 @@ You also gain the following ability.
 ###### HALLUCINATION FIELD
 
 *A blanket of illusion twists around you and your allies, making you seem as if you belong wherever you are.*
+
 **Distance:** Ranged 10
 
 **Target:** Self and any ally
+
 **Keywords:** Psionic
 
 **Type:** Maneuver
@@ -22808,6 +23640,7 @@ You also gain the following ability.
 ##### NULLFIELD RESONATOR RING
 
 *This simple band of copper vibrates slightly when handled.*
+
 **Keywords:** Psionic, Ring 
 
 **Item Prerequisites:** A wafer of gallium arsenide 
@@ -22825,6 +23658,7 @@ Additionally, you gain the following ability.
 #### NULLRING STRIKE
 
 *Your punch delivers a devastating burst of psionic energy.*
+
 **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Type:** Action
@@ -22843,6 +23677,7 @@ Power Roll + Might or Agility:
 ##### SHIFTING RING
 
 *This silvery metal ring seems to momentarily vanish when observed from certain angles.*
+
 **Keywords:** Psionic, Ring
 
 **Item Prerequisites:** Five ounces of diamond dust, one nugget of pure silver
@@ -22862,6 +23697,7 @@ This section presents 4th-echelon trinket treasures in alphabetical order.
 ##### GRAVEKEEPER'S LANTERN
 
 *This ancient wooden tablet is inscribed with eldritch runes and stained with dark blood.*
+
 **Keywords:** Magic
 
 **Item Prerequisites:** The powdered jawbone of a powerful spellcaster, wood from a tree marking multiple graves 
@@ -22883,6 +23719,7 @@ A trapped spirit remains in the lantern for 10 minutes. They remember being trap
 ##### PSI BLADE
 
 *This wide metal bracer is set with a glowing gemstone.*
+
 **Keywords:** Arms, Psionic 
 
 **Item Prerequisites:** Steel alloy, one fine-cut topaz 
@@ -22926,6 +23763,7 @@ Magical and psionic armor and shields are the primary tools of heroes always rea
 ##### ADAPTIVE SECOND SKIN OF TOXINS
 
 *This suit is shaped of tough leather and set with thousands of tiny barbs on the inside, all thankfully pain-free to the touch.*
+
 **Keywords:** Light Armor, Magic
 
 **Item Prerequisites:** Five rabid honey badger pelts, the quills of a hedgehog
@@ -22945,6 +23783,7 @@ Magical and psionic armor and shields are the primary tools of heroes always rea
 ##### CHAIN OF THE SEA AND SKY
 
 *This set of heavy chain mail is created to allow free movement in extreme environments without sacrificing protection.*
+
 **Keywords:** Heavy Armor, Magic 
 
 **Item Prerequisites:** A set of wings from a flying carp, a set of chain mail rusted by seawater 
@@ -22964,6 +23803,7 @@ Magical and psionic armor and shields are the primary tools of heroes always rea
 ##### GRAND SCARAB
 
 *The bluish-purple carapace and wings of a gigantic scarab beetle have been formed into an ornate breastplate.*
+
 **Keywords:** Magic, Medium Armor
 
 **Item Prerequisites:** A giant scarab beetle carapace 
@@ -22983,6 +23823,7 @@ Magical and psionic armor and shields are the primary tools of heroes always rea
 ##### KING'S ROAR
 
 *A sunmetal kite shield bears the face of a lion on its front, its mouth opening wider over the course of battle.*
+
 **Keywords:** Magic, Shield 
 
 **Item Prerequisites:** A ballad of heroism, two ingots of sunmetal 
@@ -23002,6 +23843,7 @@ Magical and psionic armor and shields are the primary tools of heroes always rea
 ##### KURAN'ZOI PRISMSCALE
 
 *Each scale of this iridescent armor shimmers with the faint image of a frozen moment of time.*
+
 **Keywords:** Medium Armor, Psionic 
 
 **Item Prerequisites:** The eyes of a time raider who died valiantly in battle 
@@ -23023,6 +23865,7 @@ squares deals damage to you, you can use a triggered action to capture a moment 
 ##### PAPER TRAPPINGS
 
 *This delicate robe is made from thousands of pages torn from books, intricately folded together without a single thread to bind them.*
+
 **Keywords:** Light Armor, Magic 
 
 **Item Prerequisites:** Ten pages from each of a hundred different books 
@@ -23042,6 +23885,7 @@ squares deals damage to you, you can use a triggered action to capture a moment 
 ##### SHROUDED MEMORY
 
 *This midnight-dark leather coat is embossed with fractal patterns that appear different each time they are observed.*
+
 **Keywords:** Light Armor, Psionic
 
 **Item Prerequisites:** The will of a deceased person with no heirs
@@ -23061,6 +23905,7 @@ squares deals damage to you, you can use a triggered action to capture a moment 
 ##### SPINY TURTLE
 
 *This heavy mechanized plate armor of gnomish make is designed to create its own cover on the battlefield.*
+
 **Keywords:** Heavy Armor, Magic 
 
 **Item Prerequisites:** Ten steel gears from an ancient construct
@@ -23080,6 +23925,7 @@ squares deals damage to you, you can use a triggered action to capture a moment 
 ##### STAR-HUNTER
 
 *Shimmering light flows like liquid along this suit of crystalline armor.*
+
 **Keywords:** Heavy Armor, Psionic 
 
 **Item Prerequisites:** Fifty pounds of astral ice, one pint of supercooled mercury 
@@ -23099,6 +23945,7 @@ squares deals damage to you, you can use a triggered action to capture a moment 
 ##### TELEKINETIC BULWARK
 
 *An unseen force seems to draw this steel shield toward nearby creatures.*
+
 **Keywords:** Psionic, Shield
 
 **Item Prerequisites:** Three ingots of steel, six crystals that resonate with psionic power
@@ -23122,6 +23969,7 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 ##### ABJURER'S BASTION
 
 *An ornate ring is set with a large diamond that swirls with blue light, and whose inner surface is etched with protective runes.*
+
 **Keywords:** Implement, Magic 
 
 **Item Prerequisites:** A diamond ring 
@@ -23141,6 +23989,7 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 ##### BRITTLEBREAKER
 
 *This crystal wand thrums with power, yet is so thin and brittle that it feels as if even a slight squeeze will shatter it.*
+
 **Keywords:** Psionic, Wand
 
 **Item Prerequisites:** Three ounces of shattered quartz 
@@ -23160,6 +24009,7 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 ##### CHALDORB
 
 *A perfectly clear sphere is embossed with fine ivory and crystal that is frigid to the touch.*
+
 **Keywords:** Implement, Magic 
 
 **Item Prerequisites:** An ounce of primordial ice, an ounce of mammoth-ivory shards 
@@ -23179,6 +24029,7 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 ##### ETHER-FUELED VESSEL
 
 *This bronze bottle has been shaped into the form of a ghostly figure.*
+
 **Keywords:** Implement, Psionic 
 
 **Item Prerequisites:** Incense distilled from the essence of ether 
@@ -23200,6 +24051,7 @@ creature with a supernatural ability, they become insubstantial to you until the
 ##### FOESENSE LENSES
 
 *These spectacles feature pink-tinted glass lenses held in a silver frame.*
+
 **Keywords:** Implement, Psionic  
 
 **Item Prerequisites:** Two clear lenses carved from volcanic glass  
@@ -23219,6 +24071,7 @@ creature with a supernatural ability, they become insubstantial to you until the
 ##### GEOMETRIC MANIPULATOR
 
 *This tiny gold sphere is made up of intricately interlocking rings and plates.*
+
 **Keywords:** Magic, Orb  
 
 **Item Prerequisites:** Fourteen gold rings each two inches in diameter
@@ -23238,6 +24091,7 @@ creature with a supernatural ability, they become insubstantial to you until the
 ##### WORDS BECOME WONDERS AT NEXT BREATH
 
 *This ornate high elf tome seems to sigh each time it is opened.*
+
 **Keywords:** Implement, Magic
 
 **Item Prerequisites:** Written permission from a high elf magistrate
@@ -23261,6 +24115,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 ##### AUTHORITY'S END
 
 *This twelve-foot chain is composed entirely of broken links held together by unseen power.*
+
 **Keywords:** Psionic, Whip  
 
 **Item Prerequisites:** A lash used to punish a mutineer  
@@ -23280,6 +24135,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 ##### BLADE OF QUINTESSENCE
 
 *This crystal blade houses a stormy vortex of fire, ice, and lightning.*
+
 **Keywords:** Magic, Medium Weapon
 
 **Item Prerequisites:** A ruby hardened in the fires of the City of Brass, a sapphire that has been struck by lightning
@@ -23298,6 +24154,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 ##### BLADE OF THE LUXURIOUS FOP
 
 *Despite sporting an outrageously ornate hilt adorned with far too many jewels, this blade remains perfectly balanced.*
+
 **Keywords:** Light Weapon, Magic
 
 **Item Prerequisites:** A personal blessing from the greatest duelist in the land, six fake and extremely shiny gemstones
@@ -23317,6 +24174,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 ##### DISPLACER
 
 *This crystal battleaxe seems to pull at the hands that wield it, as if anxious to leap across the battlefield.*
+
 **Keywords:** Medium Weapon, Psionic  
 
 **Item Prerequisites:** An ancient bronze gear covered in indecipherable runes  
@@ -23336,6 +24194,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 ##### EXECUTIONER'S BLADE
 
 *This blade exudes a faint hum that grows louder as its quarry weakens.*
+
 **Keywords:** Heavy Weapon, Psionic  
 
 **Item Prerequisites:** The skull of a convicted criminal  
@@ -23355,6 +24214,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 ##### ICEMAKER MAUL
 
 *The head of this platinum hammer is cold to the touch, and encases whatever it strikes in a thin layer of ice.*
+
 **Keywords:** Heavy Weapon, Magic
 
 **Item Prerequisites:** Eight iron bars cooled in a glacier,
@@ -23376,6 +24236,7 @@ the branch of an ancient evergreen
 ##### KNIFE OF NINE
 
 *This ivory dagger features nine faintly glowing indentations along the blade.*
+
 **Keywords:** Light Weapon, Psionic
 
 **Item Prerequisites:** Eighteen daggers--nine taken from personal enemies and nine gifted by friends  
@@ -23395,6 +24256,7 @@ the branch of an ancient evergreen
 ##### LANCE OF THE SUNDERED STAR
 
 *This needle-like lance is cast of shimmering metal, and induces a yearning for the skies in those who handle it.*
+
 **Keywords:** Magic, Polearm  
 
 **Item Prerequisites:** Night-blooming flower petals, a starmetal meteorite  
@@ -23414,6 +24276,7 @@ the branch of an ancient evergreen
 ##### MOLTEN CONSTRICTOR
 
 *This flexible black-iron net burns with the heat of a volcano.*
+
 **Keywords:** Magic, Net  
 
 **Item Prerequisites:** Four iron bars coated in magma slag  
@@ -23433,6 +24296,7 @@ the branch of an ancient evergreen
 ##### ONEROUS BOW
 
 *This mechanized bow is set with magical reservoirs that carry the faint tang of toxins.*
+
 **Keywords:** Bow, Magic
 
 **Item Prerequisites:** A venom sac from a giant spider, one valok gyroscope
@@ -23452,6 +24316,7 @@ the branch of an ancient evergreen
 ##### STEELTONGUE
 
 *This sinuous whip reflects all light off its plated steel surfaces.*
+
 **Keywords:** Magic, Whip
 
 **Item Prerequisites:** One hundred steel arrowheads stained with blood
@@ -23471,6 +24336,7 @@ the branch of an ancient evergreen
 ##### THIRD EYE SEEKER
 
 *The shifting patterns on this bow's crystalline grip resemble dozens of blinking eyes.*
+
 **Keywords:** Bow, Psionic  
 
 **Item Prerequisites:** Heart strings of a tapir, a pound of tiger's eye gemstones
@@ -23490,6 +24356,7 @@ the branch of an ancient evergreen
 ##### THUNDERHEAD BIDENT
 
 *This bident is made from two pieces of moon metal twisted together, and hums like a tuning fork.*
+
 **Keywords:** Magic, Medium Weapon  
 
 **Item Prerequisites:** A jar of captured thunder, two ingots of moon metal
@@ -23509,6 +24376,7 @@ the branch of an ancient evergreen
 ##### WETWORK
 
 *When first held, this naginata whispers the names of its past victims.*
+
 **Keywords:** Polearm, Psionic  
 
 **Item Prerequisites:** A folded metal blade infused with blood
@@ -23532,6 +24400,7 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 ##### BLOODBOUND BAND
 
 *This ring appears to be traced by dried blood, which returns each time it is rubbed away.*
+
 **Keywords:** Magic, Ring  
 
 **Item Prerequisites:** A pair of obituaries that each mention the subject of the other  
@@ -23551,6 +24420,7 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 ##### BLOODY HAND WRAPS
 
 *These rough hand wraps are stained with blood that never comes clean.*
+
 **Keywords:** Hands, Psionic
 
 **Item Prerequisites:** One cotton bolt soaked in the blood of six adventurers
@@ -23570,6 +24440,7 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 ##### LIGHTNING TREADS
 
 *Sparks strike from these boots whenever they touch the ground, increasing in number as the wearer gathers speed.*
+
 **Keywords:** Feet, Magic  
 
 **Item Prerequisites:** One jar of lightning  
@@ -23589,6 +24460,7 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 ##### REVENGER'S WRAP
 
 *When first handled, this tattered cloak fills the mind with thoughts of revenge.*
+
 **Keywords:** Neck, Magic
 
 **Item Prerequisites:** A cloak worn by a murdered monarch
@@ -23608,6 +24480,7 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 ##### THIEF OF JOY
 
 *This burnished copper torc thrums with a sense of judgment.*
+
 **Keywords:** Neck, Psionic
 
 **Item Prerequisites:** A pound of feathers, a pound of bricks from the Seven Cities of Hell
@@ -23637,6 +24510,7 @@ Typically, one creature never holds onto an artifact for too long. Most of these
 #### BLADE OF A THOUSAND YEARS
 
 *This fabled sword features a hilt made of glittering starlight, out of which its gleaming metal blade extends.*
+
 **Keywords:** Magic; Light, Medium, or Heavy Weapon
 
 Whether drawn from a stone, gifted by a lake spirit, forged by a god, or used to kill one, there is a sword that exists outside of time and space. It is always where it needs to be precisely when it needs to be there--then is gone in a flash when the need for it has waned. The sword is depicted in art, song, and story across many living cultures--and even more frequently among those long buried, often after proving the deciding factor in a battle. It's been wielded by numerous heroes of legend, and even more who have slipped into the forgotten shadows of history.
@@ -23656,6 +24530,7 @@ Though its size and make are often debated, the sword is consistently described 
 #### ENCEPTER
 
 *A bejeweled scepter with a spiraling porcelain handle balances an orb of light above its crown.*
+
 **Keywords:** Magic
 
 This scepter waits high in the sky, resting within an endlessly raging cyclone. It waits for the one who will unify all people under its light. It awaits its champion.
@@ -23677,6 +24552,7 @@ Encepter. Creatures remain lassoed until the lasso is released or until a new li
 #### MORTAL COIL
 
 *This floating helix of golden metal spins ever faster as it activates, crackling with crimson sparks.*
+
 **Keywords:** Psionic
 
 Change is the engine of existence. Permanence begets stagnation. When the past refuses to relinquish control, a path must be cleared for the future. Energized by the flickering of minds and souls passing through the void, the Mortal Coil taps into the entropic potential inherent in every living creature to cast a shadow capable of felling even gods. For the true gift of life is death, and gifts are meant to be given.
@@ -23925,9 +24801,11 @@ Choose one of the following benefits:
 - **Come Out to Play:** You gain the Come Out to Play ability, which can be paid for using the heroic resource of your class:
 
 COSTS 1 HEROIC RESOURCE: COME OUT TO PLAY *Come out to play-yay!*
+
 **Keywords:** Area, Magic
 
 **Type:** Maneuver
+
 **Distance:** 5 burst
 
 **Target:** All enemies hidden from you
@@ -24000,6 +24878,7 @@ Choose one of the following benefits:
 ##### COSTS 3 HEROIC RESOURCES: HOLY TERROR
 
 *Return to your grave!*
+
 **Keywords:** Area, Magic
 
 **Type:** Maneuver
@@ -24034,6 +24913,7 @@ Choose one of the following benefits.
 ##### COSTS 5 HEROIC RESOURCES: SHOWSTOPPER
 
 *Show's over, kids!*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -24083,6 +24963,7 @@ Choose one of the following benefits:
 - **Charge!** You gain the Charge! ability, which can be paid for using the heroic resource of your class:
 
 COSTS 9 HEROIC RESOURCES: CHARGE! *Follow me!*
+
 **Keywords:** --
 
 **Type:** Action
@@ -24160,6 +25041,7 @@ Choose one of the following benefits:
 ##### COSTS 7 HEROIC RESOURCES: THE HARDER THEY FALL
 
 *Timber!*
+
 **Keywords:** Melee, Strike, Weapon
 
 **Type:** Action
@@ -24201,6 +25083,7 @@ Choose one of the following benefits:
 ##### TIMELY DISTRACTION
 
 *Coming through with hot soup! I better watch out for that banana peel!*
+
 **Keywords:** --
 
 **Type:** Triggered
@@ -24208,6 +25091,7 @@ Choose one of the following benefits:
 **Distance:** Ranged 10
 
 **Target:** 1 creature
+
 **Trigger:** An ally makes a test to lie to, pickpocket, hide from, or sneak by a creature within distance and doesn't like the result
 
 **Effect:** You momentarily attract the creature's notice. Your ally can reroll their test. Once you have used Timely Distraction, you can't use it again on the same creature for at least 1 hour.
@@ -24227,10 +25111,13 @@ Choose one of the following benefits:
 - **Knightly Challenge:** You gain the Knightly Challenge ability, which can be paid for using the heroic resource of your class:
 
 COSTS 5 HEROIC RESOURCES: KNIGHTLY CHALLENGE *Have at thee!*
+
 **Keywords:** | Melee, Strike, Weapon
 
 **Type:** | Action |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---
+
+
 **Distance:** | Melee 1
 
 **Target:** | 1 creature |
@@ -24392,9 +25279,11 @@ Choose one of the following benefits.
 - **Devil's Opera:** You gain the following ability, which can be paid for using a heroic resource of your class:
 
 COSTS 9 HEROIC RESOURCES: THE DEVIL'S CHORD *Helloooo Orden!*
+
 **Keywords:** Area, Magic
 
 **Type:** Action
+
 **Distance:** 5 burst
 
 **Target:** All creatures except you
@@ -24613,7 +25502,7 @@ Your choice of your Might or Agility score increases by 1, to a maximum of 6.
 
 Choose one of the following additional benefits.
 
-##### THEORETICAL WARRIOR
+#### THEORETICAL WARRIOR
 
 - **Bounce Back Fast:** When you rest for at least 8 hours, you can gain the benefit of a Respite. Once you have done so, you can't do so again until you have taken a normal Respite.
 - **Reserves of Strength :** Your recovery value is half your Stamina.
@@ -26767,3 +27656,4 @@ This encounter should introduce or hint at the villain the heroes face during th
 The encounter you craft should be connected to the first adventure you plan to run. Keep this first one simple, and let each player get used to running the hero. You can always have a couple reinforcements arrive if the encounter is too easy!
 
 If you've got time, you can keep playing, or wrap it up and start planning your next session.
+
