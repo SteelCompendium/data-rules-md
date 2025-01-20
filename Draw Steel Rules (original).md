@@ -1164,7 +1164,9 @@ You can use the following signature ability.
 
 **Distance:** 1 burst
 
-**Target:** All enemies **Power Roll + Might or Presence:**
+**Target:** All enemies 
+
+**Power Roll + Might or Presence:**
 
 - *11 or lower:* **2 damage**
 - *12-16:* **5 damage; push 1**
@@ -3579,8 +3581,6 @@ If you want to create an area of effect in a specific area, you must have line o
 
 Whenever your character moves or when you or another creature are force moved, that movement is typically in a straight line. Abilities that allow you to move or to forcibly move another creature often talk about moving straight toward or away from another creature or an object. Although a line of travel must be straight, it doesn't have to travel a straight line of squares on the grid.
 
-![](_page_58_Picture_18.jpeg)
-
 ### GROUND
 
 Some abilities affect or refer to a hero or their targets being "on the ground." In this case, the ground means any surface that a person could normally stand, sit, or lay upon. The ground can be a castle floor, the earthen road, a metal platform, or the deck of a ship.
@@ -4097,7 +4097,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 **Effect:** If the target makes a strike against a creature while grabbed by you, you can then spend 3 wrath to deal holy damage to them equal to your Presence score and change the target of the strike to another target within the strike's distance.
 
-##### BEHOLD THE FACE OF EVIL!(5 WRATH)
+##### BEHOLD THE FACE OF EVIL! (5 WRATH)
 
 *You show your enemies a vision of the true nature of one of their companions.*
 
@@ -4615,7 +4615,7 @@ Your specialization grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-### BEGONE!(9 WRATH)
+### BEGONE! (9 WRATH)
 
 *You terrify your enemies into retreating, creating chaos in their ranks.*
 
@@ -4941,7 +4941,7 @@ Power Roll + Might:
 
 **Effect:** While dazed, the target deals holy damage equal to twice your Presence score to other enemies within 2 squares of them at the end of your turn.
 
-#### YOUR ALLIES TURN ON YOU!(11 WRATH)
+#### YOUR ALLIES TURN ON YOU! (11 WRATH)
 
 *You turn your enemy's ire to the target.*
 
@@ -4999,7 +4999,7 @@ Power Roll + Might:
 
 **Effect:** The target is banished to another manifold in the timescape and removed from the encounter. While removed the only action they can take is to make saving throws. While banished, whenever the target rolls to save against any effect they take 10 holy damage. If they are reduced to 0 Stamina while banished, they are lost to the timescape. This ability has an edge against demons, devils, undead, and creatures not native to Orden. If you know the true name of the target this ability has a double edge.
 
-## TERROR MANIFEST(11 WRATH)
+## TERROR MANIFEST (11 WRATH)
 
 *I know what you fear.*
 
@@ -6720,14 +6720,13 @@ You gain any perk of your choice. See Perks for more information.
 
 Choose one heroic ability from the following options.
 
-##### ARISE!(11 PIETY)
+##### ARISE! (11 PIETY)
 
 *Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.*
 
 **Keywords:** Magic, Ranged
 
-**Type:** Action 
-| --- | ---
+**Type:** Action
 
 **Distance:** Self or Ranged 10
 
@@ -6748,8 +6747,7 @@ Choose one heroic ability from the following options.
 
 **Keywords:** Area, Magic
 
-**Type:** Maneuver 
-| --- | ---
+**Type:** Maneuver
 
 **Distance:** Self and 5 aura
 
@@ -8383,8 +8381,7 @@ You gain the following ability:
 
 **Keywords:** Earth, Magic, Persistent
 
-**Type:** Action 
-| --- | ---
+**Type:** Action
 
 **Distance:** Ranged 10
 
@@ -8446,8 +8443,7 @@ Choose one heroic ability from the following options.
 
 **Keywords:** Area, Fire, Magic
 
-**Type:** Action 
-| --- | ---
+**Type:** Action
 
 **Distance:** 5 cube within 10
 
@@ -8747,9 +8743,9 @@ As your rage grows, your primordial cunning intensifies, granting benefits from 
 | 2 | Add your Agility to the distance you achieve on the Knockback maneuver. |
 | 4 | Gain one surge the first time on a turn that you slide a creature. |
 | 6 | Gain an edge on Agility tests and the Knockback maneuver. |
-| 8(Level 4) | Gain two surges the first time on a turn that you slide a creature. |
-| 10(Level 7) | Gain a double edge on Agility tests and the Knockback maneuver. |
-| 12(Level 10) | o Add your Agility to the distance of any forced movement power roll result.o Gain 10 Temporary Stamina when you use a heroic ability. |
+| 8 (Level 4) | Gain two surges the first time on a turn that you slide a creature. |
+| 10 (Level 7) | Gain a double edge on Agility tests and the Knockback maneuver. |
+| 12 (Level 10) | o Add your Agility to the distance of any forced movement power roll result.o Gain 10 Temporary Stamina when you use a heroic ability. |
 
 ##### PRIMORDIAL STRENGTH
 
@@ -8764,9 +8760,9 @@ As your rage grows, your primordial strength intensifies, granting benefits from
 | 2 | Add your Might to the distance you achieve on the Knockback maneuver. |
 | 4 | Gain one surge the first time on a turn that you push a creature. |
 | 6 | Gain an edge on Might tests and the Knockback maneuver. |
-| 8(Level 4) | Gain two surges the first time on a turn that you push a creature. |
-| 10(Level 7) | Gain a double edge on Might tests and the Knockback maneuver. |
-| 12(Level 10) | o Add your Might to the distance of any forced movement power roll result.o Gain 10 Temporary Stamina when you use a heroic ability. |
+| 8 (Level 4) | Gain two surges the first time on a turn that you push a creature. |
+| 10 (Level 7) | Gain a double edge on Might tests and the Knockback maneuver. |
+| 12 (Level 10) | o Add your Might to the distance of any forced movement power roll result.o Gain 10 Temporary Stamina when you use a heroic ability. |
 
 ##### RELENTLESS HUNTER
 
@@ -8934,7 +8930,7 @@ You fight with an array of heroic abilities, all of which cost rage to fuel them
 
 Choose one heroic ability from the following options, each of which costs 3 rage to use. (*Quick Build:* Back)
 
-#### BACK!(3 RAGE)
+#### BACK! (3 RAGE)
 
 *Surrounded? The fools!*
 
@@ -8951,7 +8947,7 @@ Power Roll + Might:
 - *12-16:* **8 damage; push 1**
 - *17+:* **11 damage; push 3**
 
-#### OUT OF THE WAY!(3 RAGE)
+#### OUT OF THE WAY! (3 RAGE)
 
 *Your enemies will get out of your way--whether they want to or not.*
 
@@ -8991,7 +8987,7 @@ Power Roll + Might:
 
 The last target you damage takes extra damage equal to your Might score for every free strike you triggered during your move.
 
-#### YOUR ENTRAILS ARE YOUR EXTRAILS!(3 RAGE)
+#### YOUR ENTRAILS ARE YOUR EXTRAILS! (3 RAGE)
 
 *Hard for them to fight when they're busy holding in their giblets.*
 
@@ -9014,7 +9010,7 @@ Power Roll + Might:
 
 Choose one heroic ability from the following options, each of which costs 5 rage to use. (*Quick Build:* Blood for Blood)
 
-### BLOOD FOR BLOOD!(5 RAGE)
+### BLOOD FOR BLOOD! (5 RAGE)
 
 *A mighty strike leaves your foe reeling.*
 
@@ -9033,7 +9029,7 @@ Power Roll + Might:
 
 **Effect:** You can deal 1d6 damage to yourself to deal 1d6 bonus damage to the target.
 
-#### MAKE PEACE WITH YOUR GOD!(5 RAGE)
+#### MAKE PEACE WITH YOUR GOD! (5 RAGE)
 
 *Anger is an energy.*
 
@@ -9183,7 +9179,7 @@ Power Roll + Might:
 - *12-16:* **4 damage;** A < average**, dazed (save ends)**
 - *17+:* **6 damage;** A < strong**, dazed (save ends)**
 
-### RRRAAAGHH!(5 RAGE)
+### RRRAAAGHH! (5 RAGE)
 
 *Death! Deeaaath!!*
 
@@ -9291,7 +9287,7 @@ Choose one heroic ability from the following options, each of which costs 7 rage
 
 **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P **<** strong is frightened until the end of their turn.
 
-##### FACE THE STORM!(7 RAGE)
+##### FACE THE STORM! (7 RAGE)
 
 *Fight or flight? FIGHT!!*
 
@@ -9416,7 +9412,7 @@ Power Roll + Might:
 
 **Effect:** While the target is slowed they take 1 damage for every square they move, including from forced movement.
 
-## MY TURN!(9 RAGE)
+## MY TURN! (9 RAGE)
 
 *You quickly strike back at a foe.*
 
@@ -9456,7 +9452,7 @@ Power Roll + Might:
 
 **Effect:** When a target ends their forced movement in a creature or object they take damage as normal, but they then are pushed the remaining distance away from the creature or object they impacted.
 
-### TO STONE!(9 RAGE)
+### TO STONE! (9 RAGE)
 
 *You channel the Primordial Chaos into blows that petrify your foe, literally.*
 
@@ -9768,7 +9764,7 @@ Your specialization grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-###### DEATH COMES FOR YOU ALL!(11 RAGE)
+###### DEATH COMES FOR YOU ALL! (11 RAGE)
 
 *You use your weapon to create a destructive shockwave.*
 
@@ -9831,7 +9827,7 @@ Power Roll + Might:
 - *12-16:* **16 + M damage**
 - *17+:* **21 + M damage**
 
-**Effect:** Choose either acid, cold, corruption, fire, lightning, poison, or sonic damage. The target loses any damage immunity it has to that type and gains weakness 10 to that damage type(save ends).
+**Effect:** Choose either acid, cold, corruption, fire, lightning, poison, or sonic damage. The target loses any damage immunity it has to that type and gains weakness 10 to that damage type (save ends).
 
 #### SHOWER OF BLOOD (11 RAGE)
 
@@ -10046,9 +10042,9 @@ As your rage grows, you gain benefits as noted on the Boren Growing Rage table. 
 | 2 | You can grab up to 2 creatures and gain a surge whenever you attack a creature you have grabbed. |
 | 4 | Gain one surge the first time on a turn that you grab a creature. |
 | 6 | You have an edge on power rolls for the Knockback and Grab maneuvers, and creatures have a bane on power rolls made to escape being grabbed by you. |
-| 8(Level 4) | Gain two surges the first time on a turn that you grab a creature. |
-| 10(Level 7) | You have an edge on power rolls for the Knockback and Grab maneuvers, and creatures have a double bane on power rolls made to escape being grabbed by you. |
-| 12(Level 10) | o Add your Might to potency of any ability against a creature you have grabbed.o Gain 10 Temporary Stamina when you use a heroic ability. |
+| 8 (Level 4) | Gain two surges the first time on a turn that you grab a creature. |
+| 10 (Level 7) | You have an edge on power rolls for the Knockback and Grab maneuvers, and creatures have a double bane on power rolls made to escape being grabbed by you. |
+| 12 (Level 10) | o Add your Might to potency of any ability against a creature you have grabbed.o Gain 10 Temporary Stamina when you use a heroic ability. |
 
 #### CORVEN
 
@@ -10111,9 +10107,9 @@ As your rage grows, you gain benefits as noted on the Corven Growing Rage table.
 | 2 | When you take the Disengage move action, you can add your Agility score to the distance you can shift. |
 | 4 | Gain one surge the first time on a turn that you shift. |
 | 6 | You have an edge on Agility tests and the power roll for the Escape Grab and Knockback maneuvers. |
-| 8(Level 4) | Gain two surges the first time on a turn that you shift. |
+| 8 (Level 4) | Gain two surges the first time on a turn that you shift. |
 | 10 | You have a double edge on Agility tests and power |
-| (Level 7)12(Level 10) | rolls for the Escape Grab and Knockback maneuvers. |
+| (Level 7)12 (Level 10) | rolls for the Escape Grab and Knockback maneuvers. |
 |  | o Reduce the potency of any effects targeting you by 2. |
 |  | o Gain 10 Temporary Stamina when you use a heroic ability. |
 
@@ -10181,9 +10177,9 @@ As your rage grows, you gain benefits as noted on the Raden Growing Rage table. 
 | --- | --- |
 | 4 | Gain one surge the first time on a turn that you shift. |
 | 6 | You have an edge on Agility tests, the Escape Grab maneuver, and the Knockback maneuver. |
-| 8(Level 4) | Gain one surge the first time on a turn that you shift. |
-| 10(Level 7) | You have a double edge on Agility tests, the Escape Grab maneuver, and the Knockback maneuver |
-| 12(Level 10) | Reduce the potency of any effects targeting you by 2.Gain 10 Temporary Stamina when you use a heroic ability. |
+| 8 (Level 4) | Gain one surge the first time on a turn that you shift. |
+| 10 (Level 7) | You have a double edge on Agility tests, the Escape Grab maneuver, and the Knockback maneuver |
+| 12 (Level 10) | Reduce the potency of any effects targeting you by 2.Gain 10 Temporary Stamina when you use a heroic ability. |
 
 #### VUKEN
 
@@ -10244,9 +10240,9 @@ As your rage grows, you gain benefits as noted on the Vuken Growing Rage table. 
 | 2 | You can target one additional creature when using the Knockback maneuver. |
 | 4 | Gain one surge the first time on a turn that you push a creature or knock another creature prone. |
 | 6 | You have an edge on Agility tests and the Knockback maneuver. |
-| 8(Level 4) | Gain two surges the first time on a turn that you push a creature or knock another creature prone. |
-| 10(Level 7) | You have a double edge on Agility tests and the Knockback maneuver. |
-| 12(Level 10) | o Add your Agility to the distance of any forced movement power roll result.o Gain 10 Temporary Stamina when you use a heroic ability. |
+| 8 (Level 4) | Gain two surges the first time on a turn that you push a creature or knock another creature prone. |
+| 10 (Level 7) | You have a double edge on Agility tests and the Knockback maneuver. |
+| 12 (Level 10) | o Add your Agility to the distance of any forced movement power roll result.o Gain 10 Temporary Stamina when you use a heroic ability. |
 
 ## NULL
 
@@ -10390,9 +10386,9 @@ As your discipline grows, your psionic mastery of your body intensifies, grantin
 | 2 | When you take the Knockback maneuver you canDisengage as a free triggered action, either beforeor after the maneuver. |
 | 4 | You gain one surge the first time on a turn that youmove at least 1 square as part of an ability. |
 | 6 | You gain an edge on the power rolls for Grab andKnockback maneuvers. |
-| 8(Level 4) | You gain two surges the first time on a turn thatyou move at least 1 square as part of an ability. |
-| 10(Level 7) | You gain a double edge on the power roll for theGrab and Knockback maneuvers. |
-| 12(Level 10) | o You add your Intuition score to the distance ofany forced movement you create.o You gain 10 Temporary Stamina when you use aheroic ability. |
+| 8 (Level 4) | You gain two surges the first time on a turn thatyou move at least 1 square as part of an ability. |
+| 10 (Level 7) | You gain a double edge on the power roll for theGrab and Knockback maneuvers. |
+| 12 (Level 10) | o You add your Intuition score to the distance ofany forced movement you create.o You gain 10 Temporary Stamina when you use aheroic ability. |
 
 ##### CRYOKINETIC MASTERY
 
@@ -10407,9 +10403,9 @@ As your discipline grows, your psionic mastery of your body intensifies, grantin
 | 2 | You can target one additional creature when using the Knockback maneuver. |
 | 4 | You gain one surge the first time on a turn that you grab a target or an enemy moves at least 1 square in your Null Field. |
 | 6 | You gain an edge on the power rolls for the Grab and Knockback maneuvers. |
-| 8(Level 4) | You gain two surges the first time on a turn that you grab a target or an enemy moves at least 1 square in your Null Field. |
-| 10(Level 7) | You gain a double edge on the power rolls for the Grab and Knockback maneuvers. |
-| 12(Level 10) | o You add your Intuition score to the distance of any forced movement you inflict.o You gain 10 Temporary Stamina when you use a heroic ability. |
+| 8 (Level 4) | You gain two surges the first time on a turn that you grab a target or an enemy moves at least 1 square in your Null Field. |
+| 10 (Level 7) | You gain a double edge on the power rolls for the Grab and Knockback maneuvers. |
+| 12 (Level 10) | o You add your Intuition score to the distance of any forced movement you inflict.o You gain 10 Temporary Stamina when you use a heroic ability. |
 
 ##### METAKINETIC MASTERY
 
@@ -10427,9 +10423,9 @@ As your discipline grows, your psionic mastery of your body intensifies, grantin
 | --- | --- |
 | 4 | You gain one surge the first time in a round that you take damage or are force moved, even if you resist the effect. |
 | 6 | You gain an edge on the power rolls for the Grab and Knockback maneuvers. |
-| 8(Level 4) | You gain two surges the first time in a round that you take damage or are force moved, even if you resist the effect. |
-| 10(Level 7) | You gain a double edge on the power rolls for the Grab and Knockback maneuvers. |
-| 12(Level 10) | o You add your Intuition score to the distance of any forced movement you inflict.o Gain 10 Temporary Stamina when you use a heroic ability. |
+| 8 (Level 4) | You gain two surges the first time in a round that you take damage or are force moved, even if you resist the effect. |
+| 10 (Level 7) | You gain a double edge on the power rolls for the Grab and Knockback maneuvers. |
+| 12 (Level 10) | o You add your Intuition score to the distance of any forced movement you inflict.o Gain 10 Temporary Stamina when you use a heroic ability. |
 
 #### NULL SPEED
 
@@ -11146,8 +11142,7 @@ Choose one of the following abilities.
 
 **Keywords:** Psionic
 
-**Type:** Action 
-| --- | ---
+**Type:** Action
 
 **Distance:** Self
 
@@ -11155,7 +11150,9 @@ Choose one of the following abilities.
 
 **Distance:** Self
 
-**Target:** Self **Effect:** You can use three signature abilities. These actions have an edge.
+**Target:** Self 
+
+**Effect:** You can use three signature abilities. These actions have an edge.
 
 ### PHASE STEP (9 DISCIPLINE)
 
@@ -12597,7 +12594,7 @@ Power Roll + Agility:
 
 Choose one of the following abilities.
 
-#### LOOK!(9 INSIGHT)
+#### LOOK! (9 INSIGHT)
 
 *You distract your foes, allowing your allies to take advantage of the shocking truth.*
 
@@ -13259,7 +13256,7 @@ Power Roll + Might:
 - *12-16:* **5 + M damage; you or one ally within 10 squares can spend a Recovery**
 - *17+:* **8 + M damage; you or one ally within 10 squares can spend a Recovery, and each of you gains an edge on the next ability power roll they make in the encounter**
 
-###### SQUAD! FORWARD!(3 FOCUS)
+###### SQUAD! FORWARD! (3 FOCUS)
 
 *On your command, you and your allies force back the enemy line.*
 
@@ -13306,7 +13303,9 @@ Power Roll + Might:
 
 **Distance:** Melee 1 or ranged 5
 
-**Target:** One creature or object **Effect:** You mark the target.
+**Target:** One creature or object 
+
+**Effect:** You mark the target.
 
 Power Roll + Might:
 - *11 or lower:* **4 + M damage; R** < weak**, weakened (save ends)**
@@ -13315,7 +13314,7 @@ Power Roll + Might:
 
 **Effect:** The first time any ally deals damage any target you've marked before the start of your next turn, that ally can spend a Recovery.
 
-###### NOW!(5 FOCUS)
+###### NOW! (5 FOCUS)
 
 *Your allies wait for your command--then unleash death!*
 
@@ -13485,7 +13484,7 @@ Power Roll + Might:
 - *12-16:* **R** < average**, frightened of the triggering ally (save ends)**
 - *17+:* **R** < strong**, frightened of the triggering ally (save ends)**
 
-#### SQUAD! ON ME!(5 FOCUS)
+#### SQUAD! ON ME! (5 FOCUS)
 
 *Together we are invincible!*
 
@@ -13553,7 +13552,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 
 **Effect:** Until the end of the encounter or you are dying, whenever you or any ally deals damage to a target marked by you, if that target has R **<** average, they are frightened of the damage dealer (save ends).
 
-#### STAY STRONG, AND FOCUS!(7 FOCUS)
+#### STAY STRONG, AND FOCUS! (7 FOCUS)
 
 *"We can do this! Keep faith and hold fast!"*
 
@@ -13639,7 +13638,7 @@ You, or any allies adjacent to you, can spend 1d6 stamina during their turn to e
 
 Choose one heroic ability from the following options.
 
-#### SQUAD! GEAR CHECK!(9 FOCUS)
+#### SQUAD! GEAR CHECK! (9 FOCUS)
 
 *You distract a foe while your allies secure their defensive gear.*
 
@@ -13658,7 +13657,7 @@ Power Roll + Might:
 
 **Effect:** You and all allies in within 1 square of the target gain 10 Temporary Stamina.
 
-### SQUAD! REMEMBER YOUR TRAINING!(9 FOCUS)
+### SQUAD! REMEMBER YOUR TRAINING! (9 FOCUS)
 
 *You have drilled your squad on how to best use their gear and make them demonstrate their hard work.*
 
@@ -13775,7 +13774,7 @@ Choose one of the following abilities.
 
 **Mark Benefit:** For the rest of the encounter whenever you or an ally attacks a marked target, you can spend 2 focus to make the ability ignore damage immunity and deal additional damage equal to triple your Reason score.
 
-#### HUSTLE, SQUAD! HUSTLE!(9 FOCUS)
+#### HUSTLE, SQUAD! HUSTLE! (9 FOCUS)
 
 *You and your allies coordinate to form a new battle line.*
 
@@ -13814,7 +13813,7 @@ Power Roll + Might:
 - *12-16:* **A < [average] dazed (save ends)**
 - *17+:* **A[strong] dazed (save ends)**
 
-#### TO ME, SQUAD!(9 FOCUS)
+#### TO ME, SQUAD! (9 FOCUS)
 
 *You lead your allies in a charge.*
 
@@ -13933,7 +13932,7 @@ Choose one heroic ability from the following options.
 
 **Effect:** The target gains two surges and can use a signature or heroic ability as a free triggered action. They have a double edge on the power roll, ignore damage immunity, and increase the potency of effects by 1.
 
-### FINISH THEM!(11 FOCUS)
+### FINISH THEM! (11 FOCUS)
 
 *You direct your ally to turn a devastating blow into a killing blow.*
 
@@ -14001,7 +14000,7 @@ Your specialization grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-#### SQUAD! HIT AND RUN!(11 FOCUS)
+#### SQUAD! HIT AND RUN! (11 FOCUS)
 
 *I had to pry this secret from the shadow colleges.*
 
@@ -14038,7 +14037,7 @@ Power Roll + Might:
 
 Choose one of the following abilities.
 
-#### BLOT OUT THE SUN!(11 FOCUS)
+#### BLOT OUT THE SUN! (11 FOCUS)
 
 *What makes a good soldier? The ability to fire four shots a minute in any weather.*
 
@@ -14091,7 +14090,7 @@ Power Roll + Might:
 
 **Effect:** If you use this ability as part of the Charge action, you can move through enemies without them counting as difficult terrain as part of that action. You slide 1 any creature you move through.
 
-## THAT ONE IS MINE!(11 FOCUS)
+## THAT ONE IS MINE! (11 FOCUS)
 
 *You focus on making an enemy irrelevant.*
 
@@ -14452,8 +14451,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 **Keywords:** Chronopathy, Psionic, Ranged, Strike
 
-**Type:** Action 
-| --- | ---
+**Type:** Action
 
 **Distance:** Ranged 10
 
@@ -15266,7 +15264,9 @@ Power Roll + Presence:
 
 **Distance:** 4 Cube within 10
 
-**Target:** Special **Effect:** The affected area becomes frozen in time until the start of your next turn. All objects within the affected area are restrained and can't fall until the effect ends. Creatures and objects that are reduced to 0 Stamina or would die/be destroyed while in an affected square stay alive until the effect ends. Roll power, targeting all enemies within the affected area.
+**Target:** Special 
+
+**Effect:** The affected area becomes frozen in time until the start of your next turn. All objects within the affected area are restrained and can't fall until the effect ends. Creatures and objects that are reduced to 0 Stamina or would die/be destroyed while in an affected square stay alive until the effect ends. Roll power, targeting all enemies within the affected area.
 
 Power Roll + Presence:
 - *11 or lower:* **P < [weak] speed is 0 until the effect ends**
@@ -15289,7 +15289,9 @@ Choose one of the following abilities.
 
 **Distance:** 4 Cube within 10
 
-**Target:** All enemies and objects **Power Roll + Reason:**
+**Target:** All enemies and objects 
+
+**Power Roll + Reason:**
 
 - *11 or lower:* **6 damage; vertical pull 5 towards center of area**
 - *12-16:* **9 damage; vertical pull 7 towards center of area**
@@ -15433,7 +15435,9 @@ You have the following ability.
 
 **Target:** All allies 
 
-**Effect:** Each target adds the Flying keyword to their speed until the start of your next turn. You and each target can then shift up to their speed. While flying, the target's stability is reduced to 0 and can't be increased further. **Spend 5 Clarity:** The effects last for 1 hour instead.
+**Effect:** Each target adds the Flying keyword to their speed until the start of your next turn. You and each target can then shift up to their speed. While flying, the target's stability is reduced to 0 and can't be increased further. 
+
+**Spend 5 Clarity:** The effects last for 1 hour instead.
 
 ##### MINDLINK
 
@@ -15459,7 +15463,9 @@ You have the following triggered action.
 
 **Trigger:** The target takes damage.
 
-**Effect:** The target is teleported to an unoccupied square adjacent to you, taking no damage or additional effects if this movement would put them out of harm's way. **Strained:** You can't target yourself if you are strained. You take the damage and any additional effects in place of the target.
+**Effect:** The target is teleported to an unoccupied square adjacent to you, taking no damage or additional effects if this movement would put them out of harm's way. 
+
+**Strained:** You can't target yourself if you are strained. You take the damage and any additional effects in place of the target.
 
 ##### UNIVERSAL CONNECTION
 
@@ -15544,7 +15550,9 @@ Power Roll + Reason:
 
 **Target:** Self or 1 ally
 
-**Effect:** The target has damage immunity 5 and cannot be slowed or weakened until the start of your next turn. Whenever the target force moves a creature or object while they have this effect, the distance increases by 5. **Strained:** You cannot use maneuvers (save ends).
+**Effect:** The target has damage immunity 5 and cannot be slowed or weakened until the start of your next turn. Whenever the target force moves a creature or object while they have this effect, the distance increases by 5. 
+
+**Strained:** You cannot use maneuvers (save ends).
 
 ### 9TH-LEVEL FEATURES
 
@@ -15641,7 +15649,9 @@ Power Roll + Reason:
 
 **Target:** All enemies and objects
 
-**Effect:** Each target is vertically pushed 4. Roll power to determine the distance the ability affects. **Power Roll + Reason:**
+**Effect:** Each target is vertically pushed 4. Roll power to determine the distance the ability affects. 
+
+**Power Roll + Reason:**
 
 - *11 or lower:* **2 Burst**
 - *12-16:* **3 Burst**
@@ -15671,7 +15681,9 @@ Choose one of the following abilities.
 - *12-16:* **24 + R psychic damage**
 - *17+:* **28 + R psychic damage**
 
-**Effect:** This ability ignores cover and concealment. **Strained:** The ability power roll is a critical hit on a natural 17 or higher. You receive half the damage the target takes. This damage ignores your immunities.
+**Effect:** This ability ignores cover and concealment. 
+
+**Strained:** The ability power roll is a critical hit on a natural 17 or higher. You receive half the damage the target takes. This damage ignores your immunities.
 
 ###### SYNAPTIC TERROR (11 CLARITY)
 
@@ -16370,7 +16382,7 @@ Choose one of the following abilities.
 
 **Effect:** Each target shifts up to 5 squares, and can shift vertically. Both targets must end this movement adjacent to each other and on solid ground. Each target can then make a melee free strike that deals additional damage equal to twice their highest characteristic score.
 
-#### EN GARDE!(5 DRAMA)
+#### EN GARDE! (5 DRAMA)
 
 *Wait it's ... Guard! Turn! Perry! Dodge! Spin! Thrust! Hah!*
 
@@ -17132,7 +17144,7 @@ Power Roll + Agility:
 
 Choose one of the following abilities.
 
-#### JAM SESSION(11 DRAMA)
+#### JAM SESSION (11 DRAMA)
 
 *Your jam session breeds new genres that compel everyone to get up and move.*
 
@@ -20766,10 +20778,6 @@ If you're unsure whether your hero and an ally are flanking a foe, imagine a lin
 
 You must have line of effect to the enemy and be able to take triggered actions in order to gain or grant the flanking benefit.
 
-![](_page_227_Picture_27.jpeg)
-
-![](_page_228_Picture_0.jpeg)
-
 ## COVER
 
 When you have line of effect to a creature or object but that target has at least half their form blocked by a solid obstruction such as a tree, wall, or overturned table, the target has cover. You take a bane on abilities that deal damage against creatures or objects that have cover from you.
@@ -21642,7 +21650,13 @@ Crafting projects enable heroes to create vehicles, magic items, and more. When 
 
 ### BUILD AIRSHIP
 
-**Item Prerequisites:** Wind Crystal of Quintessence **Project Source:** Texts or lore in Old Sky Elf **Project Roll Characteristic:** Might, Reason, or Presence **Project Goal:** 3,000
+**Item Prerequisites:** Wind Crystal of Quintessence 
+
+**Project Source:** Texts or lore in Old Sky Elf 
+
+**Project Roll Characteristic:** Might, Reason, or Presence 
+
+**Project Goal:** 3,000
 
 When you begin this project, you hire a crew of carpenters, mages, and shipwrights who work in the area where the project begins, with these artisans building the ship for you. You can make a project roll whenever you are overseeing the project, which you might be able to do remotely through the use of magic or psionics.
 
@@ -21656,7 +21670,9 @@ An airship is an object (giving it immunity all to poison and psychic damage), a
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Might, Reason, or Presence **Project Goal:** Varies
+**Project Roll Characteristic:** Might, Reason, or Presence 
+
+**Project Goal:** Varies
 
 When you begin this project, you hire a crew of masons, engineers, and guards who work in the starting location where the project began and build or repair the road for you. You can make a project roll whenever you are overseeing the project, which you may be able to do remotely through the use of magic or psionics, provided you have the means.
 
@@ -21691,7 +21707,13 @@ When you complete the project, you earn Renown with the people depending on the 
 
 ### CRAFT TELEPORTATION PLATFORM
 
-**Item Prerequisites:** 1 spatial navigator **Project Source:** Texts or lore in Voll **Project Roll Characteristic:** Reason **Project Goal:** 1,500
+**Item Prerequisites:** 1 spatial navigator 
+
+**Project Source:** Texts or lore in Voll 
+
+**Project Roll Characteristic:** Reason 
+
+**Project Goal:** 1,500
 
 When you complete this project, you end up with a 3 x 3 square teleportation platform with a magic password. The platform is permanently affixed to the ground where you create it. You can use the teleportation platform to instantly teleport any creatures or objects on the platform to a location or another teleportation platform with a magic password you know. Each time the teleportation platform is used, the chance of it malfunctioning and teleporting its contents to a random platform increases by 1% (to a maximum of 50%). When you have access to the platform, you can restore it back to its original condition as a respite activity.
 
@@ -21734,7 +21756,9 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition **Project Goal:** 150
+**Project Roll Characteristic:** Might, Reason, or Intuition 
+
+**Project Goal:** 150
 
 ##### 1ST-LEVEL ARMOR ENHANCEMENTS
 
@@ -21778,7 +21802,9 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition **Project Goal:** 150
+**Project Roll Characteristic:** Might, Reason, or Intuition 
+
+**Project Goal:** 150
 
 | Enhancement | Item Prerequisite | ProjectSourceLanguage |
 | --- | --- | --- |
@@ -21833,7 +21859,9 @@ Power Roll + Highest Characteristic:
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition **Project Goal:** 150
+**Project Roll Characteristic:** Might, Reason, or Intuition 
+
+**Project Goal:** 150
 
 ##### 9TH-LEVEL ARMOR ENHANCEMENTS
 
@@ -21899,7 +21927,9 @@ Implements are jewelry, orbs, staffs, tomes, wands, weapons, and other objects u
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Agility, Reason, or Intuition **Project Goal:** 150
+**Project Roll Characteristic:** Agility, Reason, or Intuition 
+
+**Project Goal:** 150
 
 | Enhancement | Item Prerequisite | Project Source Language |
 | --- | --- | --- |
@@ -21940,7 +21970,9 @@ Implements are jewelry, orbs, staffs, tomes, wands, weapons, and other objects u
 **Item Prerequisites:** An implement with a 1st-level enhancement; varies
 
 - **Project Source:** Texts or lore in a language determined by the enhancement
-**Project Roll Characteristic:** Agility, Reason, or Intuition **Project Goal:** 150
+**Project Roll Characteristic:** Agility, Reason, or Intuition 
+
+**Project Goal:** 150
 
 | Enhancement | Item Prerequisite | Project Source |
 | --- | --- | --- |
@@ -21979,7 +22011,9 @@ Implements are jewelry, orbs, staffs, tomes, wands, weapons, and other objects u
 - **Item Prerequisites:** An implement with a 5th-level enhancement; varies
 - **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Agility, Reason, or Intuition **Project Goal:** 150
+**Project Roll Characteristic:** Agility, Reason, or Intuition 
+
+**Project Goal:** 150
 
 | Enhancement | Item Prerequisite | Project Source |
 | --- | --- | --- |
@@ -22023,7 +22057,9 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition **Project Goal:** 150
+**Project Roll Characteristic:** Might, Reason, or Intuition 
+
+**Project Goal:** 150
 
 | Enhancement | Item Prerequisite | ProjectSourceLanguage |
 | --- | --- | --- |
@@ -22068,7 +22104,9 @@ properties
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition **Project Goal:** 150
+**Project Roll Characteristic:** Might, Reason, or Intuition 
+
+**Project Goal:** 150
 
 ##### 5TH-LEVEL WEAPON ENHANCEMENTS
 
@@ -22131,7 +22169,9 @@ properties
 - **Item Prerequisites:** A weapon with a 5th-level enhancement; varies
 - **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition **Project Goal:** 150
+**Project Roll Characteristic:** Might, Reason, or Intuition 
+
+**Project Goal:** 150
 
 ##### 9TH-LEVEL WEAPON ENHANCEMENTS
 
@@ -22174,7 +22214,9 @@ properties
 
 **Distance:** 3 burst
 
-**Target:** All enemies **Power Roll + Highest Characteristic:**
+**Target:** All enemies 
+
+**Power Roll + Highest Characteristic:**
 
 - *11 or lower:* **7 fire damage**
 - *12-16:* **11 fire damage**
@@ -22246,8 +22288,9 @@ bonus on the ability. This replaces the benefit of Vengeance III.
 
 **Item Prerequisite:** None
 
-- **Project Source:** Texts or knowledge related to the subject you wish to research
-**Project Roll Characteristic:** Reason **Project Goal:** Varies (see the table)
+**Project Source:** Texts or knowledge related to the subject you wish to research
+**Project Roll Characteristic:** Reason 
+**Project Goal:** Varies (see the table)
 
 If you want to track the location of a lost treasure, decipher a ritual, or trace the lineage of a royal family to find the next heir to the throne, you can start a project to delve into whatever mysteries you seek to unravel. You might start a project to discover lore because the information can't be discovered through a regular test, or you could do so because you failed a test to recall information and now want to learn it through research.
 
@@ -22396,9 +22439,9 @@ The recipes in the Recipes table detail the effects consuming a serving of the r
 | RECIPES |  |  |
 | --- | --- | --- |
 | Project | Item Prerequisites | Benefits |
-| Modern | Common Ingredients(examples: flour, carrots, beef) | Hearty |
+| Modern | Common Ingredients (examples: flour, carrots, beef) | Hearty |
 | Vintage orHome | Key Ingredients (examples:starfruit, kindleseeds, oarfish) | Comforting |
-| Ancient orLost | Rare/Extinct Ingredients(examples: honeylillies, steelapples) | SupernaturalPower |
+| Ancient orLost | Rare/Extinct Ingredients (examples: honeylillies, steelapples) | SupernaturalPower |
 
 ## OTHER PROJECTS
 
@@ -22593,7 +22636,13 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 **Keywords:** Potion, Psionic
 
-**Item Prerequisites:** A ruby purloined from a vampire **Project Source:** Texts or lore in Proto-Ctholl **Project Roll Characteristic:** Agility or Reason **Project Goal:** 45
+**Item Prerequisites:** A ruby purloined from a vampire 
+
+**Project Source:** Texts or lore in Proto-Ctholl 
+
+**Project Roll Characteristic:** Agility or Reason 
+
+**Project Goal:** 45
 
 **Effect:** When you damage an adjacent creature who has blood, you can capture the target's life essence in this vial (no action required). Record the damage you dealt. As a maneuver, you can drink the contents of the vial to regain Stamina equal to half the damage dealt. If you spend 1 Heroic Resource while you drink, you regain Stamina equal to the damage dealt. Once you drink from the vial, it crumbles to dust.
 
@@ -22603,7 +22652,13 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 **Keywords:** Magic
 
-**Item Prerequisites:** An ounce of witherite crystal **Project Source:** Texts or lore in Caelian **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 45
+**Item Prerequisites:** An ounce of witherite crystal 
+
+**Project Source:** Texts or lore in Caelian 
+
+**Project Roll Characteristic:** Reason or Intuition 
+
+**Project Goal:** 45
 
 **Effect:** Catapult Dust was developed as a cost-effective magical siege weapon. As an action, you pour the dust out in an adjacent unoccupied space to fill an area as large as a 2 cube. At the start of your next turn, the ground at the bottom of the area erupts violently upwards and in a direction of your choice. Any unattended objects in the area, or creatures who have entered the area since the dust was poured, are launched in an arc that is 6 + 1d6 squares long and 3 + 1d6 squares high.
 
@@ -22611,7 +22666,15 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 *A small pot is filled with a viscous, ochre oil that smells of sulfur and burnt hair.*
 
-**Keywords:** Magic, Oil **Item Prerequisites:** One vial of fire giant blood **Project Source:** Texts or lore in Caelian **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 45
+**Keywords:** Magic, Oil 
+
+**Item Prerequisites:** One vial of fire giant blood 
+
+**Project Source:** Texts or lore in Caelian 
+
+**Project Roll Characteristic:** Reason or Intuition 
+
+**Project Goal:** 45
 
 **Effect:** As a maneuver, you coat a weapon in this oil and ignite it. The weapon burns persistently and without harming itself until it is extinguished as a maneuver. Whenever you use a weapon that is ignited this way with a weapon ability, you deal an extra 2 fire damage with rolled damage.
 
@@ -22621,7 +22684,15 @@ Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating 
 
 *This thick, green liquid tastes of licorice and potatoes.*
 
-**Keywords:** Magic, Potion **Item Prerequisites:** Five ounces of seagrass **Project Source:** Texts or lore in Caelian **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 45
+**Keywords:** Magic, Potion 
+
+**Item Prerequisites:** Five ounces of seagrass 
+
+**Project Source:** Texts or lore in Caelian 
+
+**Project Roll Characteristic:** Reason or Intuition 
+
+**Project Goal:** 45
 
 **Effect:** As a maneuver, you can drink this potion or pour it over an object of size 2 or smaller, causing the target's size to increase by 1. If you are the target, your current Stamina and Stability are doubled, you gain an edge on Might tests, and your weapon abilities deal extra rolled damage equal to your highest characteristic score. You shrink back to your original size after 3 rounds, halving your current Stamina and Stability, and losing the potion's other benefits. Objects maintain their new size permanently.
 
@@ -22629,7 +22700,15 @@ Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating 
 
 *Thick and red, this liquid tastes of sour beer.*
 
-**Keywords:** Magic, Potion **Item Prerequisites:** One ounce of costmary leaves **Project Source:** Texts or lore in Caelian **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 45
+**Keywords:** Magic, Potion 
+
+**Item Prerequisites:** One ounce of costmary leaves 
+
+**Project Source:** Texts or lore in Caelian 
+
+**Project Roll Characteristic:** Reason or Intuition 
+
+**Project Goal:** 45
 
 **Effect:** When you drink this potion as a maneuver, you regain Stamina equal to your recovery value without spending a Recovery.
 
@@ -22637,7 +22716,15 @@ Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating 
 
 *The tongue of an imp has been dried and preserved. Yuck.*
 
-**Keywords:** Magic **Item Prerequisites:** One imp's tongue **Project Source:** Texts or lore in Caelian **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 45
+**Keywords:** Magic 
+
+**Item Prerequisites:** One imp's tongue 
+
+**Project Source:** Texts or lore in Caelian 
+
+**Project Roll Characteristic:** Reason or Intuition 
+
+**Project Goal:** 45
 
 **Effect:** As a maneuver, you place the imp's tongue on your own tongue, causing it to reconstitute and attach itself to your tongue. While attached, the Imp's Tongue allows you to speak any language and understand any language spoken to you. This benefit ends after 1 hour, when the tongue is absorbed into your body.
 
@@ -22647,7 +22734,13 @@ Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating 
 
 **Keywords:** Psionic
 
-**Item Prerequisites:** A leftover carcass of a lachomp meal **Project Source:** Texts or lore in Caelian **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 45 (yields 1d3 teeth)
+**Item Prerequisites:** A leftover carcass of a lachomp meal 
+
+**Project Source:** Texts or lore in Caelian 
+
+**Project Roll Characteristic:** Reason or Intuition 
+
+**Project Goal:** 45 (yields 1d3 teeth)
 
 **Effect:** As a maneuver, you attach a lachomp tooth to a weapon, allowing that weapon to supernaturally flicker in and out of reality. Your next strike that uses this weapon can tear through multiple targets in a line (for a ranged strike) or surrounding you (for a melee strike). The attack adds the following effects to the tier results of the power roll:
 
@@ -22663,7 +22756,11 @@ Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating 
 
 **Item Prerequisites:** Three sheets of glass, sunbaked gold dust
 
-**Project Source:** Texts or lore in Variac **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 45
+**Project Source:** Texts or lore in Variac 
+
+**Project Roll Characteristic:** Reason or Intuition 
+
+**Project Goal:** 45
 
 **Effect:** While the Mirror Token is on your person and you are targeted by a ranged strike, you can use a triggered action to crush the token and ignore the strike. Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the strike.
 
@@ -22691,7 +22788,11 @@ While you have line of effect to your homunculus, you can use a maneuver to issu
 **Keywords:** Magic
 
 - **Item Prerequisites:** Ten ounces of rainwater from a sacred fey grove, plus optional prerequisites (see below)
-**Project Source:** Texts or lore in Caelian **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 30 or 45 (see below)
+**Project Source:** Texts or lore in Caelian 
+
+**Project Roll Characteristic:** Reason or Intuition 
+
+**Project Goal:** 30 or 45 (see below)
 
 **Effect:** As a maneuver, you throw this delicate glass sphere up to 5 squares, breaking it and creating a 4 cube of fog. The fog dissipates after 10 minutes or if a strong gust of wind created by a storm or magic passes through the area.
 
@@ -22709,7 +22810,11 @@ Enterprising mages within various thieves' guilds have developed variations of t
 
 **Item Prerequisites:** The roots of a just-budded nightshade
 
-**Project Source:** Texts or lore in Caelian **Project Roll Characteristic:** Reason **Project Goal:** 45
+**Project Source:** Texts or lore in Caelian 
+
+**Project Roll Characteristic:** Reason 
+
+**Project Goal:** 45
 
 **Effect:** As a maneuver, you sprinkle a dose of this powder onto food or drink, or blow it at an adjacent creature who is grabbed, restrained, or unconscious. A creature who is exposed to blown powder (even if they hold their breath) or consumes a dose of the powder must speak only true statements for the next hour. Additionally, other creatures gain an edge on Presence and Intuition tests made to convince the target to speak or to read the target's emotions. Any such creature has a double edge on the test if the target doesn't realize they've been affected by the snuff.
 
@@ -22719,7 +22824,13 @@ Enterprising mages within various thieves' guilds have developed variations of t
 
 **Keywords:** Magic
 
-**Item Prerequisites:** Fifty snapdragon seeds **Project Source:** Texts or lore in Yllyric **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 45 (yields 1d6 + 1 snapdragons)
+**Item Prerequisites:** Fifty snapdragon seeds 
+
+**Project Source:** Texts or lore in Yllyric 
+
+**Project Roll Characteristic:** Reason or Intuition 
+
+**Project Goal:** 45 (yields 1d6 + 1 snapdragons)
 
 **Effect:** As a maneuver, you sniff a magical snapdragon blossom, causing it to whither and making your movements more forceful and explosive. The next damage-dealing ability you use deals 5 extra damage and gains a +2 bonus to the distance of any forced movement it imposes. If the ability does not impose forced movement, you can push each creature targeted by the ability up to 2 squares.
 
@@ -22735,7 +22846,11 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Item Prerequisites:** The breath of a mystic sage captured at sunrise
 
-**Project Source:** Texts or lore in Hyrallic **Project Roll Characteristic:** Intuition or Presence **Project Goal:** 90
+**Project Source:** Texts or lore in Hyrallic 
+
+**Project Roll Characteristic:** Intuition or Presence 
+
+**Project Goal:** 90
 
 **Effect:** As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the frightened, slowed, and taunted conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.
 
@@ -22745,7 +22860,13 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Keywords:** Magic, Potion
 
-**Item Prerequisites:** One vial of pure bovine essence **Project Source:** Texts or lore in Caelian **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 90
+**Item Prerequisites:** One vial of pure bovine essence 
+
+**Project Source:** Texts or lore in Caelian 
+
+**Project Roll Characteristic:** Reason or Intuition 
+
+**Project Goal:** 90
 
 **Effect:** When you drink this potion as a maneuver, you sprout three-foot sharpened horns from your forehead. Whenever you take the Charge action, the target of your strike is gored upon your horns and grabbed. While grabbed this way, the creature is bleeding. You can also grab another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
 
@@ -22757,7 +22878,11 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Item Prerequisites:** A chocolate made by a gnome confectioner
 
-**Project Source:** Texts or lore in Variac **Project Roll Characteristic:** Reason or Intuition **Project Goal:** 90
+**Project Source:** Texts or lore in Variac 
+
+**Project Roll Characteristic:** Reason or Intuition 
+
+**Project Goal:** 90
 
 **Effect:** When you consume this delicious piece of candy as a maneuver, you gain 15 temporary Stamina and a +10 bonus to stability. Additionally, if you don't use your movement during your turn, any strikes you make on that turn deal 5 bonus damage, and any strikes against you take a bane until the start of your next turn. This effect and the bonus to stability lasts until the end of the encounter, after which you are sleepy. If not reduced beforehand, the temporary Stamina lasts until the end of your next respite.
 
