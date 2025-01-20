@@ -3511,7 +3511,7 @@ Surges can be spent to increase the damage dealt by an ability or increase an ab
 
 Certain ability effects allow you to move and affect other creatures or objects during that move, such as the shadow's Blade Dance ability. For such abilities, the move begins in the space you first leave when you begin the move, and ends in the last space you move into.
 
-##### "ROLLED DAMAGE"
+## "ROLLED DAMAGE"
 
 Some treasures and other effects affected **rolled damage**, a term that refers to the variable damage that is determined by making an ability power roll. Some abilities or ability effects deal damage without requiring a power roll--that is not rolled damage.
 
@@ -12706,7 +12706,7 @@ Power Roll + Agility:
 
 **Effect:** If you are disguised as a creature the target knew with your I'm No Threat ability, this ability deals additional damage equal to three times your Agility score.
 
-### 10TH - LEVEL FEATURES
+#### 10TH - LEVEL FEATURES
 
 As a 10th -level shadow, you gain the following features.
 
@@ -12969,7 +12969,7 @@ In addition, you can spend 1 focus to take one of the following free triggered a
 
 Your skill at commanding your allies in combat grants you the following ability.
 
-#### "STRIKE NOW!"
+##### "STRIKE NOW!"
 
 *Your foe left an opening. You point this out to an ally!*
 
@@ -14369,7 +14369,7 @@ You know a range of heroic abilities all fueled by your clarity.
 
 Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* Nothing Exceeds My Grasp)
 
-###### AWE (3 CLARITY)
+#### AWE (3 CLARITY)
 
 *You project psionic energy out to a creature and take on a new visage in their mind.*
 **Keywords:** Psionic, Ranged, Strike, Telepathy
@@ -14639,7 +14639,7 @@ Choose one of the following abilities.
 
 **Strained:** You start crying. You can't take triggered actions or take [[Free Strike|free strikes]] until the end of the target's next turn.
 
-###### SYNAPTIC OVERRIDE (5 CLARITY)
+### SYNAPTIC OVERRIDE (5 CLARITY)
 
 *You gain control over an enemy's nervous system. How pleasant for them.*
 **Keywords:** Psionic, Ranged, Telepathy
@@ -25441,7 +25441,7 @@ Some of them take it more seriously than others though. People in the most dista
 
 Like all peoples of Orden, the people of Vasloria are well aware there are other gods and they do not particularly think their gods are *better*, just, "These are the local ones who matter to us." A priest of Cavall who journeyed far from Corwell and found themselves in the distant desert land Khemhara could still act as a Conduit of St. Llewellyn the Valiant, but they would look around the Heliopolis and see the animal-headed gods of the Khemharans and the astonishing feats of masonry and astronomy the Khemharans achieved and think "Well. Obviously the gods of Vasloria aren't that big a deal here, but these gods certainly are!" The peoples of each region of Orden tend to prefer their own gods because they understand them best, not because they think they are "more powerful."
 
-# ADUN
+### ADUN
 
 **Domains:** Creation, Life, Love, Protection
 

@@ -351,7 +351,7 @@ You know a range of heroic abilities all fueled by your clarity.
 
 Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* Nothing Exceeds My Grasp)
 
-##### Awe (3 Clarity)
+### Awe (3 Clarity)
 
 *You project psionic energy out to a creature and take on a new visage in their mind.* **Keywords:** Psionic, Ranged, Strike, Telepathy **Distance:** Ranged 10
 

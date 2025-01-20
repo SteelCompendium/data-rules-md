@@ -216,7 +216,7 @@ In addition, you can spend 1 focus to take one of the following free triggered a
 
 Your skill at commanding your allies in combat grants you the following ability.
 
-### "strike Now!"
+#### "strike Now!"
 
 *Your foe left an opening. You point this out to an ally!*
 
