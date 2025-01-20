@@ -5103,7 +5103,7 @@ Power Roll + Might:
 
 **Effect:** Until the end of the counter or you become dying, the target has damage weakness 10.
 
-### EDICT OF UNYIELDING RESOLVE (11 WRATH)
+###### EDICT OF UNYIELDING RESOLVE (11 WRATH)
 
 *You and your allies are clad in shimmering armor.*
 
