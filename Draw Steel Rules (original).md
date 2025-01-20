@@ -3852,15 +3852,14 @@ You gain the following ability.
 
 *You commune with the lingering soul of the recently dead.*
 
-**Keywords:** | Magic
+**Keywords:** Magic
 
-**Type:** | Maneuver |
+**Type:** Maneuver 
 | --- | --- | --- | ---
 
+**Distance:** Melee 1
 
-**Distance:** | Melee 1
-
-**Target:** | One dead creature |
+**Target:** One dead creature 
 
 **Effect:** You can speak to the target corpse (including just the head) of a creature who has died within the last 24 hours and who can speak a language you know. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of dying can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
 
@@ -3914,7 +3913,7 @@ You use a blend of martial techniques and divine magic to attack your foes and d
 
 Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Your Allies Cannot Save You)
 
-#### BACK, BLASPHEMER!
+###### BACK, BLASPHEMER!
 
 *You channel power through your weapon to repel foes.*
 
@@ -3932,7 +3931,7 @@ Choose one signature ability from the following options. Signature abilities can
 - *12-16:* **4 holy damage; push 2**
 - *17+:* **6 holy damage; push 3**
 
-#### EVERY STEP ... DEATH!
+###### EVERY STEP ... DEATH!
 
 *You show your foe a glimpse of their fate after death.*
 
@@ -3952,7 +3951,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** Each time the target willingly moves before the end of your next turn, they take 1 psychic damage for each square they move.
 
-#### HALT, MISCREANT!
+##### HALT, MISCREANT!
 
 *"Your race is run!"*
 
@@ -3969,7 +3968,7 @@ Power Roll + Might:
 - *12-16:* **5 + M holy damage;** P < average**, slowed (save ends)**
 - *17+:* **7 + M holy damage;** P < strong**, slowed (save ends)**
 
-#### YOUR ALLIES CANNOT SAVE YOU!
+###### YOUR ALLIES CANNOT SAVE YOU!
 
 *"See how they abandon you!"*
 
@@ -3997,7 +3996,7 @@ You call upon a number of heroic abilities, all of them bound to your wrath. (*Q
 
 Choose one heroic ability from the following options, each of which costs 3 wrath to use.
 
-### BEHOLD, A SHIELD OF FAITH!(3 WRATH)
+###### BEHOLD, A SHIELD OF FAITH! (3 WRATH)
 
 *"Allow me to intercede."*
 
@@ -4017,7 +4016,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 **Effect:** Until the start of your next turn, enemies have a bane on ability power rolls made against you and each ally adjacent to you.
 
-#### DRIVING ASSAULT (3 WRATH)
+###### DRIVING ASSAULT (3 WRATH)
 
 *As you force your enemy back with your weapon, you use your faith to stay close.*
 
@@ -4037,7 +4036,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 **Effect:** You can shift up to your speed and must end that shift within distance of the target.
 
-#### THE GODS PUNISH AND DEFEND (3 WRATH)
+###### THE GODS PUNISH AND DEFEND (3 WRATH)
 
 *You channel holy energy to smite a foe and heal an ally.*
 
@@ -4057,7 +4056,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 **Effect:** You can spend a Recovery to allow yourself or one ally within 10 squares of you to regain Stamina equal to your Recovery value.
 
-#### REPENT! (3 WRATH)
+###### REPENT! (3 WRATH)
 
 *You conjure memories of their sins.*
 
@@ -4079,7 +4078,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* Purifying Fire)
 
-#### ARREST (5 WRATH)
+###### ARREST (5 WRATH)
 
 *"I got you, you son of a bitch."*
 
@@ -4099,7 +4098,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 **Effect:** If the target makes a strike against a creature while grabbed by you, you can then spend 3 wrath to deal holy damage to them equal to your Presence score and change the target of the strike to another target within the strike's distance.
 
-### BEHOLD THE FACE OF EVIL!(5 WRATH)
+##### BEHOLD THE FACE OF EVIL!(5 WRATH)
 
 *You show your enemies a vision of the true nature of one of their companions.*
 
@@ -4118,7 +4117,7 @@ Power Roll + Might:
 
 **Effect:** Each enemy frightened by this ability is pushed 2 squares away from the target and takes psychic damage equal to your Presence score.
 
-### CENSORED (5 WRATH)
+##### CENSORED (5 WRATH)
 
 *Judged and sentenced.*
 
@@ -4137,7 +4136,7 @@ Power Roll + Might:
 
 **Effect**: If a target who is not a leader or a solo creature is winded after the damage is resolved, they die.
 
-## PURIFYING FIRE (5 WRATH)
+###### PURIFYING FIRE (5 WRATH)
 
 *The gods judge, fire cleanses.*
 
@@ -4228,7 +4227,7 @@ Choose one of the following abilities.
 
 **Effect:** If the target is already frightened of you or another creature when you use this ability and it would frighten them again, they take psychic damage equal to twice your Presence score instead.
 
-#### REVELATOR (5 WRATH)
+###### REVELATOR (5 WRATH)
 
 *You channel holy energy to harm unbelievers and reveal those hidden from your judgment.*
 
@@ -4246,7 +4245,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-## PRESCIENT GRACE (5 WRATH)
+###### PRESCIENT GRACE (5 WRATH)
 
 *"Hah! I see your plan. It will not work!"*
 
@@ -4262,7 +4261,7 @@ Choose one of the following abilities.
 
 **Effect:** You can spend a Recovery to allow the target to regain Stamina equal to your Recovery value. The target can then take their turn immediately before the triggering enemy.
 
-#### WITH MY BLESSING (5 WRATH)
+###### WITH MY BLESSING (5 WRATH)
 
 *A word in prayer, and the gods show the way.*
 
@@ -4339,7 +4338,7 @@ Choose one heroic ability from the following options, each of which costs 7 wrat
 
 **Effect:** Until the end of the encounter or you are dying, at the end of each of your turns, each target takes holy damage equal to your Presence score. Any target adjacent to one or more enemies takes an extra 2d6 holy damage if they are judged by you or adjacent to one of your enemies.
 
-#### EDICT OF PERFECT ORDER (7 WRATH)
+##### EDICT OF PERFECT ORDER (7 WRATH)
 
 *Use not the fell arts!*
 
@@ -4353,7 +4352,7 @@ Choose one heroic ability from the following options, each of which costs 7 wrat
 
 **Effect:** Until the end of the encounter or you are dying, whenever a target uses an ability that requires Malice, they take holy damage equal to three times your Presence score. A target judged by you takes an additional 2d6 holy damage.
 
-#### EDICT OF PURIFYING PACIFISM (7 WRATH)
+##### EDICT OF PURIFYING PACIFISM (7 WRATH)
 
 *Shed not the blood of innocents!*
 
@@ -4367,7 +4366,7 @@ Choose one heroic ability from the following options, each of which costs 7 wrat
 
 **Effect:** Until the end of the encounter or you are dying, whenever a target makes a strike, they take holy damage equal to twice your Presence score. A target judged by you takes an extra 2d6 holy damage.
 
-#### EDICT OF STILLNESS (7 WRATH)
+##### EDICT OF STILLNESS (7 WRATH)
 
 *Flee not from just punishment.*
 
@@ -4424,14 +4423,13 @@ You gain the following ability.
 
 *You project an illusory aura that makes you and allies harder to notice.*
 
-**Keywords:** | Magic
+**Keywords:** Magic
 
-**Type:** | Maneuver
+**Type:** Maneuver
 
+**Distance:** Self and 3 aura
 
-**Distance:** | Self and 3 aura
-
-**Target:** | Self and all allies |
+**Target:** Self and all allies
 
 **Effect:** Each creature in the aura has a double edge on tests made to hide and sneak. The aura lasts until you end it (no action required), or a creature affected by it harms or deals damage to an object or another creature.
 
@@ -4525,14 +4523,13 @@ Choose one heroic ability from the following options.
 
 *You channel divine force for movement that cannot be stopped.*
 
-**Keywords:** | Ranged
+**Keywords:** Ranged
 
-**Type:** | Action
+**Type:** Action
 
+**Distance:** Ranged 10
 
-**Distance:** | Ranged 10
-
-**Target:** | Self or 1 ally |
+**Target:** Self or 1 ally 
 
 **Effect:** The target ends any condition or effect affecting them with a duration of EoT or save ends. If the target is prone, they can stand up. Then the target gains two surges and can shift their speed, ignoring difficult terrain during the shift, and can make a signature strike as a free triggered action.
 
@@ -4540,14 +4537,13 @@ Choose one heroic ability from the following options.
 
 *You channel your god's will to overcome hardship and inflict pain.*
 
-**Keywords:** | Area
+**Keywords:** Area
 
-**Type:** | Maneuver
+**Type:** Maneuver
 
+**Distance:** 1 burst
 
-**Distance:** | 1 burst
-
-**Target:** | Self and all allies |
+**Target:** Self and all allies 
 
 Power Roll + Presence:
 - *11 or lower:* **the target gains one surge**
@@ -4661,15 +4657,14 @@ Choose one of the following abilities.
 
 *You anticipate your foes minor moves and deny them.*
 
-**Keywords:** | Aura, Magic
+**Keywords:** Aura, Magic
 
-**Type:** | Maneuver |
+**Type:** Maneuver 
 | --- | --- | --- | ---
 
+**Distance:** 3 aura
 
-**Distance:** | 3 aura
-
-**Target:** | All enemies |
+**Target:** All enemies 
 
 **Effect:** Until the end of the encounter or you are dying, whenever a target takes a triggered action or free triggered action, that action is canceled, and the target instead takes holy damage equal to your Presence score.
 
@@ -4677,15 +4672,14 @@ Choose one of the following abilities.
 
 *Using the power of prophecy you disrupt your enemy's plans.*
 
-**Keywords:** | Magic, Ranged
+**Keywords:** Magic, Ranged
 
-**Type:** | Maneuver |
+**Type:** Maneuver 
 | --- | --- | --- | ---
 
+**Distance:** Ranged 10
 
-**Distance:** | Ranged 10
-
-**Target:** | 3 enemies |
+**Target:** 3 enemies 
 
 Power Roll + Presence:
 - *11 or lower:* **slide 3; I < [weak] dazed (save ends)**
@@ -4896,15 +4890,14 @@ Choose one heroic ability from the following options.
 
 *You curse your foe to become a bane to their allies.*
 
-**Keywords:** | Melee, Strike, Weapon
+**Keywords:** Melee, Strike, Weapon
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Melee 1
 
-**Distance:** | Melee 1
-
-**Target:** | 1 creature |
+**Target:** 1 creature 
 
 Power Roll + Might:
 - *11 or lower:* **9 + M damage; I < [weak] weakened (save ends)**
@@ -4917,15 +4910,14 @@ Power Roll + Might:
 
 *You use your foe as a tool against your enemies.*
 
-**Keywords:** | Ranged, Strike, Weapon
+**Keywords:** Ranged, Strike, Weapon
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Ranged 10
 
-**Distance:** | Ranged 10
-
-**Target:** | 1 creature |
+**Target:** 1 creature 
 
 Power Roll + Might:
 - *11 or lower:* **10 + M damage**
@@ -4997,15 +4989,14 @@ Choose one of the following abilities.
 
 *You sever the target's tenuous connection to the world.*
 
-**Keywords:** | Melee, Strike, Weapon
+**Keywords:** Melee, Strike, Weapon
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Melee 1
 
-**Distance:** | Melee 1
-
-**Target:** | 1 creature |
+**Target:** 1 creature 
 
 Power Roll + Might:
 - *11 or lower:* **5 + M damage; P < [weak] suffer Effect (save ends)**
@@ -5351,15 +5342,14 @@ You gain the following ability.
 
 *An animal spirit is drawn to you, sharing their senses and serving you faithfully.*
 
-**Keywords:** | Magic
+**Keywords:** Magic
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Self
 
-**Distance:** | Self
-
-**Target:** | Self |
+**Target:** Self 
 
 **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal can't
 
@@ -5391,15 +5381,14 @@ You gain the following ability.
 
 *You can craft objects with the power of your mind!*
 
-**Keywords:** | Magic
+**Keywords:** Magic
 
-**Type:** | Maneuver |
+**Type:** Maneuver 
 | --- | --- | --- | ---
 
+**Distance:** Self
 
-**Distance:** | Self
-
-**Target:** | Self |
+**Target:** Self 
 
 **Effect:** You create a mundane object no larger than size 1S. You can maintain a number of objects created this way equal to your Intuition score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
 
@@ -5592,15 +5581,14 @@ Power Roll + Intuition:
 
 *You drain the energy from your target and revitalize yourself or an ally.*
 
-**Keywords:** | Magic, Melee, Strike
+**Keywords:** Magic, Melee, Strike
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Melee 1
 
-**Distance:** | Melee 1
-
-**Target:** | One creature |
+**Target:** One creature 
 
 Power Roll + Intuition:
 - *11 or lower:* **2 + I corruption damage**
@@ -5647,15 +5635,14 @@ Power Roll + Intuition:
 
 *Divine magic tears at your foe and defends a nearby friend.*
 
-**Keywords:** | Magic, Ranged, Strike
+**Keywords:** Magic, Ranged, Strike
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Ranged 10
 
-**Distance:** | Ranged 10
-
-**Target:** | One creature |
+**Target:** One creature 
 
 Power Roll + Intuition:
 - *11 or lower:* **2 + I corruption damage**
@@ -5957,15 +5944,14 @@ Choose one of your domains. You gain an ability from that domain as shown on the
 
 *You speak with the voice of your saint, commanding your enemies.*
 
-**Keywords:** | Magic, Ranged, Strike
+**Keywords:** Magic, Ranged, Strike
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Ranged 10
 
-**Distance:** | Ranged 10
-
-**Target:** | One creature |
+**Target:** One creature 
 
 **Power Roll + Intuition:**
 
@@ -6074,17 +6060,14 @@ Power Roll + Intuition:
 
 *A marble statue of your patron rises from the earth.*
 
-**Keywords:** | Magic, Ranged |
+**Keywords:** Magic, Ranged 
 | --- | ---
 
+**Distance:** Ranged 10
 
-**Distance:** | Ranged 10
+**Type:** Maneuver
 
-
-**Type:** | Maneuver
-
-
-**Target:** | Special |
+**Target:** Special 
 
 **Effect:** A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you and your allies each gains a surge at the start of their turns. The statue is destroyed if it takes 20 or more damage. It is immune to poison and psychic damage.
 
@@ -6418,13 +6401,12 @@ Choose one of your domains. You gain an ability from it as shown on the 6th-Leve
 
 **Keywords:** Area, Magic
 
-**Type:** Maneuver |
+**Type:** Maneuver 
 | --- | --- | --- | ---
-
 
 **Distance:** 4 Aura
 
-**Target:** All creatures |
+**Target:** All creatures 
 
 **Effect:** Until the end of the encounter or you start dying, whenever you end your turn, you can slide each creature in the aura a number of squares equal to your Intuition score. This forced movement ignores the Stability of allies.
 
@@ -6432,15 +6414,14 @@ Choose one of your domains. You gain an ability from it as shown on the 6th-Leve
 
 *A greatsword streams down from the sky, threatening to pin your foe.*
 
-**Keywords:** | Magic, Ranged, Strike
+**Keywords:** Magic, Ranged, Strike
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Ranged 5
 
-**Distance:** | Ranged 5
-
-**Target:** | 1 creature |
+**Target:** 1 creature 
 
 Power Roll + Intuition:
 - *11 or lower:* **8 + I damage; A < [weak] prone and restrained (save ends)**
@@ -6580,15 +6561,14 @@ Power Roll + Intuition:
 
 *Animal spirits run through the battlefield, trampling your foes.*
 
-**Keywords:** | Magic, Area, Ranged
+**Keywords:** Magic, Area, Ranged
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** 10 x 2 line within 5
 
-**Distance:** | 10 x 2 line within 5
-
-**Target:** | All enemies |
+**Target:** All enemies 
 
 Power Roll + Intuition:
 - *11 or lower:* **5 damage; M < [weak] prone and can't stand (save ends)**
@@ -6760,13 +6740,12 @@ Choose one heroic ability from the following options.
 
 **Keywords:** Magic, Ranged
 
-**Type:** Action |
+**Type:** Action 
 | --- | ---
-
 
 **Distance:** Self or Ranged 10
 
-**Target:** Self or 1 ally |
+**Target:** Self or 1 ally 
 
 **Effect:** The target can spend any number of Recoveries, end any effect that is ended by a saving throw or that ends at the end of their turn, and use the Stand Up maneuver as a free triggered action. Additionally, the target gains three surges at the start of each of their turns until the end of the encounter or they start dying.
 
@@ -6783,13 +6762,12 @@ Choose one heroic ability from the following options.
 
 **Keywords:** Area, Magic
 
-**Type:** Maneuver |
+**Type:** Maneuver 
 | --- | ---
-
 
 **Distance:** Self and 5 aura
 
-**Target:** Self and all allies |
+**Target:** Self and all allies 
 
 **Effect:** Until the end of the encounter or you are dying, ability power rolls against each target take a bane and each target has damage immunity 5.
 
@@ -7022,18 +7000,16 @@ Power Roll + Intuition:
 
 *Your death will fuel our victory.*
 
-**Keywords:** | Magic, Ranged
+**Keywords:** Magic, Ranged
 
-**Type:** | Free Triggered Action |
+**Type:** Free Triggered Action 
 | --- | --- | --- | ---
 
+**Distance:** Ranged 10
 
-**Distance:** | Ranged 10
+**Target:** 1 enemy
 
-**Target:** | 1 enemy
-
-
-**Trigger:** | The target dies. |  |  |
+**Trigger:** The target dies.  
 
 **Effect:** Before the target dies, you can look at their stat block and use one ability that is an action or maneuver. If the action normally costs a heroic resource or Malice, they can still use it without any cost. For the purposes of this ability, your allies and enemies are the target's allies and enemies, and you decide who their ability targets.
 
@@ -7316,15 +7292,14 @@ You gain the following ability.
 
 *With the merest touch, you cause an object to turn to slag or ash.*
 
-**Keywords:** | Fire, Magic, Melee
+**Keywords:** Fire, Magic, Melee
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Melee 1
 
-**Distance:** | Melee 1
-
-**Target:** | One mundane object |
+**Target:** One mundane object 
 
 **Effect:** You heat the target and cause it to combust and melt, destroying it. If the object is larger than 1 square, then only the square of the object that you touch is destroyed.
 
@@ -7363,18 +7338,16 @@ Your elemental specialization grants you a triggered action as shown on the Spec
 
 *You add a little magic to an ally's aggression at just the right time.*
 
-**Keywords:** | Fire, Magic, Ranged
+**Keywords:** Fire, Magic, Ranged
 
-**Type:** | Triggered |
+**Type:** Triggered 
 | --- | --- | --- | ---
 
+**Distance:** Ranged 10
 
-**Distance:** | Ranged 10
+**Target:** Self or one ally
 
-**Target:** | Self or one ally
-
-
-**Trigger:** | The target force moves a creature or object. |  |  |
+**Trigger:** The target force moves a creature or object.
 
 **Effect:** The forced movement distance gains a bonus equal to your Reason score.
 
@@ -8429,13 +8402,12 @@ You gain the following ability:
 
 **Keywords:** Earth, Magic, Persistent
 
-**Type:** Action |
+**Type:** Action 
 | --- | ---
-
 
 **Distance:** Ranged 10
 
-**Target:** Special |
+**Target:** Special 
 
 **Effect:** A **source of earth** emerges from an unoccupied space within distance. The source takes their turn immediately after you, moving up to their speed and either taking an action or a maneuver but not both. The source is dismissed at the start of your next turn.
 
@@ -8493,13 +8465,12 @@ Choose one heroic ability from the following options.
 
 **Keywords:** Area, Fire, Magic
 
-**Type:** Action |
+**Type:** Action 
 | --- | ---
-
 
 **Distance:** 5 cube within 10
 
-**Target:** All enemies |
+**Target:** All enemies 
 
 **Power Roll + Reason:**
 
@@ -8516,13 +8487,12 @@ o *11 or lower*: 7 **fire damage; Director loses 2 Malice**
 
 **Keywords:** Area, Magic, Ranged, Void
 
-**Type:** Action |
+**Type:** Action 
 | --- | ---
-
 
 **Distance:** Ranged 10
 
-**Target:** Special |
+**Target:** Special 
 
 **Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each round, all enemies within 5 of the affected area while it is unoccupied are vertical pulled 3 towards it. An enemy who enters the vortex or starts their turn there is knocked prone. A nonleader, non-solo enemy who is winded in the vortex at the end of the round is instantly destroyed.
 
@@ -8580,15 +8550,14 @@ Power Roll + Reason:
 
 *A luminous green shield that shows its true beauty the more it cracks.*
 
-**Keywords:** | Green, Magic, Ranged
+**Keywords:** Green, Magic, Ranged
 
-**Type:** | Maneuver |
+**Type:** Maneuver 
 | --- | --- | --- | ---
 
+**Distance:** Self or Ranged 10
 
-**Distance:** | Self or Ranged 10
-
-**Target:** | Self or 1 ally |
+**Target:** Self or 1 ally 
 
 **Effect:** You conjure an elemental shield that protects the target until the end of your next turn. While the ward is active, the target can take the Defend action as a maneuver on each of their turns. The target gains 30 temporary Stamina that lasts until depleted or the ward is no longer active. When this temporary Stamina disappears, the ward ends. When the ability ends, the ward explodes. Each enemy within 5 of the target takes 10 damage.
 
@@ -8598,15 +8567,14 @@ Power Roll + Reason:
 
 *In one act, you split your essence, allowing you to cast multiple effects at once.*
 
-**Keywords:** | Magic, Void
+**Keywords:** Magic, Void
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Self
 
-**Distance:** | Self
-
-**Target:** | Self |
+**Target:** Self 
 
 **Effect:** You use up to three heroic abilities whose cost totals 11 essence or less (other than spending essence to use this ability, you don't have to spend more essence to use those abilities). You can shift 2 between each ability.
 
@@ -8839,17 +8807,13 @@ Your primordial aspect grants you a triggered action as shown on the Aspect Trig
 
 **Keywords:** 
 
-**Type:** |
-| --- | ---
-
+**Type:** triggered
 
 **Distance:** 
 
 **Target:** 
 
-
-**Trigger:** |  |
-| You lose Stamina and are not dying. |  |
+**Trigger:** You lose Stamina and are not dying.
 
 **Effect:** After the triggering effect is resolved, you can use a free triggered action to enter your animal form or hybrid form. You gain temporary Stamina equal to your Might score.
 
@@ -8859,18 +8823,16 @@ Your primordial aspect grants you a triggered action as shown on the Aspect Trig
 
 *You redirect the energy of motion.*
 
-**Keywords:** | Magic, Melee
+**Keywords:** Magic, Melee
 
-**Type:** | Triggered |
+**Type:** Triggered 
 | --- | --- | --- | ---
 
+**Distance:** Melee 1
 
-**Distance:** | Melee 1
+**Target:** Self or one creature
 
-**Target:** | Self or one creature
-
-
-**Trigger:** | The target would be force moved. |  |  |
+**Trigger:** The target would be force moved.
 
 **Effect:** You can select a new target of the same size or smaller within distance to be force moved instead, and you can turn that forced movement into a push instead. You become the source of the forced movement and decide where the new target's destination. Additionally, the forced movement distance gains a bonus equal to your Might score.
 
@@ -9011,15 +8973,14 @@ Power Roll + Might:
 
 *Your enemies will get out of your way--whether they want to or not.*
 
-**Keywords:** | Melee, Strike, Weapon
+**Keywords:** Melee, Strike, Weapon
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Melee 1
 
-**Distance:** | Melee 1
-
-**Target:** | One creature |
+**Target:** One creature 
 
 Power Roll + Might:
 - *11 or lower:* **3 + M damage; slide 2**
@@ -9032,15 +8993,14 @@ Power Roll + Might:
 
 *Teach them the folly of lining up for you.*
 
-**Keywords:** | Melee, Weapon
+**Keywords:** Melee, Weapon
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Self
 
-**Distance:** | Self
-
-**Target:** | Self |
+**Target:** Self 
 
 **Effect:** You move up to your speed in a straight line, and you don't treat enemy squares as difficult terrain for this move. You can end this move in a creature's space and then move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.
 
@@ -9097,16 +9057,13 @@ Power Roll + Might:
 
 *Anger is an energy.*
 
-**Keywords:** 
+**Keywords:** --
 
-**Type:** |
-| --- | ---
+**Type:** Free maneuver
 
+**Distance:** Self
 
-**Distance:** 
-
-**Target:** |
-| Self | Self |
+**Target:** Self 
 
 **Effect:** The next ability roll you make this turn automatically achieves a tier 3 result. You gain one surge.
 
@@ -9133,15 +9090,14 @@ Power Roll + Might:
 
 *You spend your life force to ensure their death.*
 
-**Keywords:** | Melee, Strike, Weapon
+**Keywords:** Melee, Strike, Weapon
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Melee 1
 
-**Distance:** | Melee 1
-
-**Target:** | One creature |
+**Target:** One creature 
 
 Power Roll + Might:
 - *11 or lower:* **7 + M damage**
@@ -9252,15 +9208,14 @@ Power Roll + Might:
 
 *Death! Deeaaath!!*
 
-**Keywords:** | Melee, Strike, Weapon
+**Keywords:** Melee, Strike, Weapon
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Melee 1
 
-**Distance:** | Melee 1
-
-**Target:** | One creature |
+**Target:** One creature 
 
 **Power Roll + Might:**
 
@@ -9755,15 +9710,14 @@ Choose one heroic ability from the following options.
 
 *Your primordial energies make for instant retribution.*
 
-**Keywords:** | Magic
+**Keywords:** Magic
 
-**Type:** | Maneuver |
+**Type:** Maneuver 
 | --- | --- | --- | ---
 
+**Distance:** Self
 
-**Distance:** | Self
-
-**Target:** | Self |
+**Target:** Self 
 
 **Effect:** You gain 10 temporary Stamina. Select acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or you start dying, whenever an enemy damages you, they take 10 damage of the type selected. If this damage kills the enemy, you gain 10 Temporary Stamina.
 
@@ -9841,15 +9795,14 @@ Choose one of the following abilities.
 
 *You use your weapon to create a destructive shockwave.*
 
-**Keywords:** | Area, Magic, Weapon
+**Keywords:** Area, Magic, Weapon
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** 3 burst
 
-**Distance:** | 3 burst
-
-**Target:** | All enemies
+**Target:** All enemies
 
 **Distance:** 3 burst
 
@@ -10404,15 +10357,14 @@ You project a psionic field of order around your body, dampening the effects of 
 
 *You intuit where an incoming attack will strike, reducing its effects.*
 
-**Keywords:** | Psionic
+**Keywords:** Psionic
 
-**Type:** | Maneuver |
+**Type:** Maneuver 
 | --- | --- | --- | ---
 
+**Distance:** 1 aura
 
-**Distance:** | 1 aura
-
-**Target:** | All enemies |
+**Target:** All enemies 
 
 **Effect:** Each target reduces their potencies by 1.
 
@@ -10432,18 +10384,16 @@ Your instincts for danger let you predict attacks before they happen.
 
 *You intuit where an incoming attack will strike, reducing its effects.*
 
-**Keywords:** | Psionic
+**Keywords:** Psionic
 
-**Type:** | Triggered |
+**Type:** Triggered 
 | --- | --- | --- | ---
 
+**Distance:** Self
 
-**Distance:** | Self
+**Target:** Self
 
-**Target:** | Self
-
-
-**Trigger:** | You take damage. |  |  |
+**Trigger:** You take damage.  
 
 **Effect:** You halve the damage.
 
@@ -10973,15 +10923,14 @@ Power Roll + Agility:
 
 *You manifest a force barrier that absorbs incoming kinetic energy.*
 
-**Keywords:** | Psionic
+**Keywords:** Psionic
 
-**Type:** | Maneuver |
+**Type:** Maneuver 
 | --- | --- | --- | ---
 
+**Distance:** Self
 
-**Distance:** | Self
-
-**Target:** | Self |
+**Target:** Self 
 
 Power Roll + Intuition:
 - *11 or lower:* **You gain 10 temporary Stamina**
@@ -11224,9 +11173,8 @@ Choose one of the following abilities.
 
 **Keywords:** Psionic
 
-**Type:** Action |
+**Type:** Action 
 | --- | ---
-
 
 **Distance:** Self
 
@@ -11457,15 +11405,14 @@ Power Roll + Agility:
 
 *You use your null field to warp reality and make yourself larger for a single, devastating strike.*
 
-**Keywords:** | Area, Psionic
+**Keywords:** Area, Psionic
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** 3 cube within 1
 
-**Distance:** | 3 cube within 1
-
-**Target:** | All enemies |
+**Target:** All enemies 
 
 Power Roll + Agility:
 o *11 or lower:* **12 psychic damage; push 3**
@@ -11550,18 +11497,15 @@ Choose one of the following abilities.
 
 #### ABSOLUTE ZERO (11 DISCIPLINE)
 
-| You become the coldest thing in the timescape. |  |
-| --- | ---
-
+You become the coldest thing in the timescape.
 
 **Keywords:** Psionic
 
 **Type:** Maneuver
 
-
 **Distance:** Self
 
-**Target:** Self |
+**Target:** Self 
 
 **Power Roll + Intuition:**
 
@@ -11598,18 +11542,16 @@ Choose one of the following abilities.
 
 *You absorb an attack to empower your body.*
 
-**Keywords:** | Psionic
+**Keywords:** Psionic
 
-**Type:** | Free triggered |
+**Type:** Free triggered 
 | --- | --- | --- | ---
 
+**Distance:** Self
 
-**Distance:** | Self
+**Target:** Self
 
-**Target:** | Self
-
-
-**Trigger:** |  | Another creature damages you with an ability. |  |
+**Trigger:** Another creature damages you with an ability.
 
 **Effect:** You halve the damage, negate any effects on your associated with it, and gain three surges.
 
@@ -11867,19 +11809,16 @@ Your shadow college grants you a triggered action as shown on the College Trigge
 
 *You sow a moment of confusion in combat, to your enemy's peril.*
 
-**Keywords:** | Magic
+**Keywords:** Magic
 
-**Type:** | Triggered |
+**Type:** Triggered 
 | --- | --- | --- | ---
 
+**Distance:** Self
 
-**Distance:** | Self
+**Target:** Self
 
-**Target:** | Self
-
-
-**Trigger:** An enemy targets you with a strike |  |
-
+**Trigger:** An enemy targets you with a strike
 
 **Trigger:** An enemy targets you with a strike.
 
@@ -11889,19 +11828,13 @@ Your shadow college grants you a triggered action as shown on the College Trigge
 
 *When an enemy attacks, you roll with the impact to reduce the harm.*
 
-**Keywords:** 
+**Keywords:** --
 
-**Type:** |
-| --- | ---
+**Type:** Triggered
 
+**Distance:** Self
 
-**Distance:** 
-
-**Target:** 
-
-
-**Trigger:** Another creature damages you
-
+**Target:** Self
 
 **Trigger:** Another creature damages you.
 
@@ -11913,15 +11846,14 @@ Your shadow college grants you a triggered action as shown on the College Trigge
 
 *You vanish in a plume of black smoke to avoid danger.*
 
-**Keywords:** | Magic
+**Keywords:** Magic
 
-**Type:** | Triggered |
+**Type:** Triggered 
 | --- | --- | --- | ---
 
+**Distance:** Self
 
-**Distance:** | Self
-
-**Target:** | Self
+**Target:** Self
 
 **Trigger:** You take damage.
 
@@ -12049,15 +11981,14 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 *Your attack leaves them reeling, allowing you to follow up.*
 
-**Keywords:** | Melee, Strike, Weapon
+**Keywords:** Melee, Strike, Weapon
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Melee 1
 
-**Distance:** | Melee 1
-
-**Target:** | One creature |
+**Target:** One creature 
 
 Power Roll + Agility:
 - *11 or lower:* **4 + A damage; slide 2**
@@ -12087,15 +12018,14 @@ Power Roll + Agility:
 
 *Move unexpectedly, strike fast, and be gone!*
 
-**Keywords:** | Melee, Strike, Weapon
+**Keywords:** Melee, Strike, Weapon
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Melee 1
 
-**Distance:** | Melee 1
-
-**Target:** | One creature |
+**Target:** One creature 
 
 Power Roll + Agility:
 - *11 or lower:* **5 + A damage**
@@ -12182,15 +12112,14 @@ Power Roll + Agility:
 
 *They have no idea what the college taught you.*
 
-**Keywords:** | Magic, Melee, Ranged
+**Keywords:** Magic, Melee, Ranged
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Self; see below
 
-**Distance:** | Self; see below
-
-**Target:** | Self |
+**Target:** Self 
 
 **Effect:** You make two signature strikes.
 
@@ -12853,15 +12782,14 @@ Power Roll + Agility:
 
 *An advanced techique. Multiple strikes before they even notice they're dead.*
 
-**Keywords:** | Magic
+**Keywords:** Magic
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Self
 
-**Distance:** | Self
-
-**Target:** | Self |
+**Target:** Self 
 
 **Effect:** You make 4 signature strikes, 3 signature strikes with an edge, or 2 signature strikes with a double edge. You can shift up to 2 squares between each strike.
 
@@ -13179,18 +13107,16 @@ Your tactical doctrine grants you a triggered action as shown on the Doctrine Tr
 
 *Your leadership aids an ally.*
 
-**Keywords:** | Ranged
+**Keywords:** Ranged
 
-**Type:** | Triggered |
+**Type:** Triggered 
 | --- | --- | --- | ---
 
+**Distance:** Ranged 10
 
-**Distance:** | Ranged 10
+**Target:** Any creature
 
-**Target:** | Any creature
-
-
-**Trigger:** | The target deals damage to another creature. |  |  |
+**Trigger:** The target deals damage to another creature.
 
 **Effect:** The target gains two surges, which they can use on the triggering damage.
 
@@ -13373,16 +13299,13 @@ Power Roll + Might:
 
 *On your command, you and your allies force back the enemy line.*
 
-**Keywords:** 
+**Keywords:** Ranged
 
-**Type:** |
-| --- | --- |
-| Ranged | Maneuver
-
+**Type:** Maneuver
 
 **Distance:** Ranged 10
 
-**Target:** Self and two allies |
+**Target:** Self and two allies 
 
 **Effect:** Each target can move their speed.
 
@@ -13432,15 +13355,14 @@ Power Roll + Might:
 
 *Your allies wait for your command--then unleash death!*
 
-**Keywords:** | Ranged, Weapon
+**Keywords:** Ranged, Weapon
 
-**Type:** | Maneuver |
+**Type:** Maneuver 
 | --- | --- | --- | ---
 
+**Distance:** Ranged 5
 
-**Distance:** | Ranged 5
-
-**Target:** | Three allies |
+**Target:** Three allies 
 
 **Effect:** Each target can make a free strike.
 
@@ -13805,16 +13727,13 @@ Power Roll + Might:
 
 *You push an ally to use a heroic ability sooner than they normally would.*
 
-**Keywords:** 
+**Keywords:** Ranged
 
-**Type:** |
-| --- | --- |
-| Ranged | Action
-
+**Type:** Action
 
 **Distance:** Ranged 10
 
-**Target:** 1 ally |
+**Target:** 1 ally 
 
 **Effect:** The target makes a heroic strike as a free triggered action and deals extra damage equal to your Reason score. The target's heroic resource cost is reduced by your Reason score.
 
@@ -13881,16 +13800,13 @@ Choose one of the following abilities.
 
 *With new understanding of your foes, you create the perfect plan to win the encounter.*
 
-**Keywords:** 
+**Keywords:** Ranged
 
-**Type:** |
-| --- | --- |
-| Ranged | Maneuver
-
+**Type:** Maneuver
 
 **Distance:** Ranged 10
 
-**Target:** 3 creatures |
+**Target:** 3 creatures 
 
 **Effect:** Each target is marked by you. Immediately and for the rest of the encounter, the Director tells you if any marked enemies have damage immunity or weakness and what the value of either is. You and all allies within 3 squares of you gain two surges.
 
@@ -14074,16 +13990,13 @@ Choose one heroic ability from the following options.
 
 *You direct your squad to strike in unision and with devastating effect.*
 
-**Keywords:** 
+**Keywords:** Ranged
 
-**Type:** |
-| --- | --- |
-| Ranged | Action
-
+**Type:** Action
 
 **Distance:** Ranged 10
 
-**Target:** 3 allies |
+**Target:** 3 allies 
 
 **Effect:** Each target gains a surge and uses a signature ability that has an edge with increased effect potency of 1, if applicable.
 
@@ -14442,18 +14355,16 @@ You gain the following ability.
 
 *Creating a brief psychic link between a foe and their target gives that foe a taste of their own medicine.*
 
-**Keywords:** | Psionic, Ranged
+**Keywords:** Psionic, Ranged
 
-**Type:** | Triggered |
+**Type:** Triggered 
 | --- | --- | --- | ---
 
+**Distance:** Ranged 10
 
-**Distance:** | Ranged 10
+**Target:** One creature
 
-**Target:** | One creature
-
-
-**Trigger:** | The target deals damage to an ally. |  |  |
+**Trigger:** The target deals damage to an ally.
 
 **Effect:** The target takes psychic damage equal to half the triggering damage.
 
@@ -14579,14 +14490,12 @@ Select two signature abilities from the following options. Signature abilities c
 
 **Keywords:** Chronopathy, Psionic, Ranged, Strike
 
-**Type:** | Action |
+**Type:** Action 
 | --- | ---
 
+**Distance:** Ranged 10
 
-**Distance:** | Ranged 10
-
-
-**Target:** | One creature or object |
+**Target:** One creature or object 
 
 Power Roll + Presence:
 - *11 or lower:* **2 + P corruption damage;** P < weak**, slowed (save ends)**
@@ -14933,13 +14842,11 @@ Choose one of the following abilities.
 
 **Keywords:** Chronopathy, Psionic, Ranged
 
-**Type:** Maneuver |
-| ---
-
+**Type:** Maneuver
 
 **Distance:** Ranged 10
 
-**Target:** Special |
+**Target:** Special 
 
 **Power Roll + Presence:**
 
@@ -15556,15 +15463,14 @@ You have the following ability.
 
 *You manipulate the air around your allies so that they can move as freely through the sky as you can.*
 
-**Keywords:** | Area, Psionics
+**Keywords:** Area, Psionics
 
-**Type:** | Maneuver |
+**Type:** Maneuver 
 | --- | --- | --- | ---
 
+**Distance:** 3 burst
 
-**Distance:** | 3 burst
-
-**Target:** | All allies |
+**Target:** All allies 
 
 **Effect:** Each target adds the Flying keyword to their speed until the start of your next turn. You and each target can then shift up to their speed. While flying, the target's stability is reduced to 0 and can't be increased further. **Spend 5 Clarity:** The effects last for 1 hour instead.
 
@@ -16043,15 +15949,14 @@ You gain the following ability.
 
 *It doesn't need to make sense. Just say it with emotionality.*
 
-**Keywords:** | Magic, Ranged
+**Keywords:** Magic, Ranged
 
-**Type:** | Maneuver |
+**Type:** Maneuver 
 | --- | --- | --- | ---
 
+**Distance:** Ranged 10
 
-**Distance:** | Ranged 10
-
-**Target:** | Special |
+**Target:** Special 
 
 **Effect:** Choose one of the following effects:
 
@@ -16257,15 +16162,14 @@ Power Roll + Presence:
 
 *I didn't do it! What?*
 
-**Keywords:** | Melee, Strike, Weapon
+**Keywords:** Melee, Strike, Weapon
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Melee 1
 
-**Distance:** | Melee 1
-
-**Target:** | One creature |
+**Target:** One creature 
 
 Power Roll + Presence:
 - *11 or lower:* **3 + P damage**
@@ -16364,15 +16268,14 @@ Power Roll + Presence:
 
 *As you bob and weave through the crowd, you can't help but leave the audience wanting more.*
 
-**Keywords:** | Melee, Strike, Weapon
+**Keywords:** Melee, Strike, Weapon
 
-**Type:** | Maneuver |
+**Type:** Maneuver 
 | --- | --- | --- | ---
 
+**Distance:** Self; see below
 
-**Distance:** | Self; see below
-
-**Target:** | Self |
+**Target:** Self 
 
 **Effect:** You shift up to your speed. You make one power roll that targets each enemy who becomes adjacent to you during the shift.
 
@@ -16536,15 +16439,14 @@ Choose one of the following abilities.
 
 *We offered them a percentage of the gross. So they're working for free!*
 
-**Keywords:** | Magic, Ranged
+**Keywords:** Magic, Ranged
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Ranged 10
 
-**Distance:** | Ranged 10
-
-**Target:** | Special |
+**Target:** Special 
 
 **Effect:** Either a bystander within distance is uplifted by your magic, or a mysterious new hero appears in an unoccupied space to help out during the encounter. This guest star is controlled by you, has their own turn, shares your characteristics. Their stamina is maximum is half yours. They have no abilities other than your melee and ranged free strikes. When the target is reduced to 0 Stamina or at the end of the encounter, they retreat or revert to a bystander. An individual bystander can't be uplifted in this way more than once in an encounter.
 
@@ -16584,15 +16486,14 @@ Choose one of the following abilities.
 
 *Your fans don't seem to like the opening act ...*
 
-**Keywords:** | Area, Magic, Ranged
+**Keywords:** Area, Magic, Ranged
 
-**Type:** | Maneuver |
+**Type:** Maneuver 
 | --- | --- | --- | ---
 
+**Distance:** 3 cube within 10
 
-**Distance:** | 3 cube within 10
-
-**Target:** | Special |
+**Target:** Special 
 
 **Effect:** The affected area becomes haunted by a swirling horde of phantoms until the end of the encounter. Any ally can enter any square of the area without spending movement. At the end of each of your turns, you can make a power roll against each enemy in the area.
 
@@ -17152,15 +17053,14 @@ Choose one heroic ability from the following options.
 
 *A little stage trickery and where once stood a foe, now stands a friend!*
 
-**Keywords:** | Magic
+**Keywords:** Magic
 
-**Type:** | Maneuver |
+**Type:** Maneuver 
 | --- | --- | --- | ---
 
+**Distance:** Self
 
-**Distance:** | Self
-
-**Target:** | Self |
+**Target:** Self 
 
 **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina with an ability, you can use a free triggered action to teleport an ally within distance of the ability into the creature's space in a plume of rose petals and take a melee free strike.
 
@@ -18289,7 +18189,8 @@ Power Roll + Might or Agility:
 
 **Distance:** Melee
 
-**Distance:** Disengage |
+**Distance:** Disengage 
+
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |  |  |
 | ArcaneArcher | None | Bow | -- | +1 | -- | -- | +2/+2/+2 | +10 | -- | +1 |
@@ -18880,15 +18781,14 @@ Your mentor taught you everything, and you trusted them implicitly--until they w
 
 #### CORRUPT SPIRIT
 
-**Keywords:** | Magic
+**Keywords:** Magic
 
-**Type:** | Maneuver |
+**Type:** Maneuver 
 | --- | --- | --- | ---
 
+**Distance:** Self
 
-**Distance:** | Self
-
-**Target:** | Self |
+**Target:** Self 
 
 **Effect:** Until the end of your turn, when you use a heroic ability against a single target, you can weaken the target's life force, dealing extra corruption damage equal to your highest characteristic score.
 
@@ -19258,18 +19158,15 @@ You can see ghosts and spirits that others just don't sense. They're constantly 
 
 **Benefit and Drawback:** Incorporeal undead within 10 squares of you can communicate telepathically with you. Additionally, you can use the Contact Spirits ability.
 
-| CONTACT SPIRITS |  |
-| --- | ---
-
+#### CONTACT SPIRITS
 
 **Keywords:** Magic
 
 **Type:** Action
 
-
 **Distance:** Self
 
-**Target:** Self |
+**Target:** Self 
 
 Power Roll + Intuition or Presence:
 - *11 or lower:* **You take corruption damage equal to 5 + your level.**
@@ -25112,15 +25009,14 @@ Choose one of the following benefits:
 
 COSTS 5 HEROIC RESOURCES: KNIGHTLY CHALLENGE *Have at thee!*
 
-**Keywords:** | Melee, Strike, Weapon
+**Keywords:** Melee, Strike, Weapon
 
-**Type:** | Action |
+**Type:** Action 
 | --- | --- | --- | ---
 
+**Distance:** Melee 1
 
-**Distance:** | Melee 1
-
-**Target:** | 1 creature |
+**Target:** 1 creature 
 
 **Power Roll + Might or Agility:**
 

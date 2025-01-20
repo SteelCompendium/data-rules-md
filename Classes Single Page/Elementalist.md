@@ -208,9 +208,6 @@ You gain the following ability.
 
 *With the merest touch, you cause an object to turn to slag or ash.*
 
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
-
 **Effect:** You heat the target and cause it to combust and melt, destroying it. If the object is larger than 1 square, then only the square of the object that you touch is destroyed.
 
 ### Specialization Triggered Action
@@ -240,10 +237,7 @@ Your elemental specialization grants you a triggered action as shown on the Spec
 
 *You add a little magic to an ally's aggression at just the right time.*
 
-| **Type:** | Triggered |     |     |
-| --------- | --------- | --- | --- |
-
-**Trigger:** | The target force moves a creature or object. | | |
+**Trigger:** The target force moves a creature or object.
 
 **Effect:** The forced movement distance gains a bonus equal to your Reason score.
 
@@ -926,9 +920,6 @@ You gain the following ability:
 
 *The ground rumbles as they burst forth, ready to serve.*
 
-| **Type:** Action |     |
-| ---------------- | --- |
-
 **Effect:** A **source of earth** emerges from an unoccupied space within distance. The source takes their turn immediately after you, moving up to their speed and either taking an action or a maneuver but not both. The source is dismissed at the start of your next turn.
 
 The source starts an encounter at full Stamina, but maintains their current Stamina throughout the encounter, even if they are dismissed and you use this ability again. They can't regain Stamina during the encounter. When the source's Stamina is reduced to 0, you cannot use this ability again until you earn at least 1 Victory.
@@ -975,9 +966,6 @@ Choose one heroic ability from the following options.
 
 *The fire burns hot enough to sear the face of any god watching.*
 
-| **Type:** Action |     |
-| ---------------- | --- |
-
 **Power Roll + Reason:**
 
 o *11 or lower*: 7 **fire damage; Director loses 2 Malice**
@@ -990,9 +978,6 @@ o *11 or lower*: 7 **fire damage; Director loses 2 Malice**
 ### Return To Oblivion (11 Essence)
 
 *You create a tear in reality that could consume everything that slips inside of it.*
-
-| **Type:** Action |     |
-| ---------------- | --- |
 
 **Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each round, all enemies within 5 of the affected area while it is unoccupied are vertical pulled 3 towards it. An enemy who enters the vortex or starts their turn there is knocked prone. A nonleader, non-solo enemy who is winded in the vortex at the end of the round is instantly destroyed.
 
@@ -1036,9 +1021,6 @@ Power Roll + Reason: - *11 or lower:* **6 damage** - *12-16:* **9 damage** - *17
 
 *A luminous green shield that shows its true beauty the more it cracks.*
 
-| **Type:** | Maneuver |     |     |
-| --------- | -------- | --- | --- |
-
 **Effect:** You conjure an elemental shield that protects the target until the end of your next turn. While the ward is active, the target can take the Defend action as a maneuver on each of their turns. The target gains 30 temporary Stamina that lasts until depleted or the ward is no longer active. When this temporary Stamina disappears, the ward ends. When the ability ends, the ward explodes. Each enemy within 5 of the target takes 10 damage.
 
 **Persistent 2:** The effects persist until the start of your next turn.
@@ -1046,9 +1028,6 @@ Power Roll + Reason: - *11 or lower:* **6 damage** - *12-16:* **9 damage** - *17
 ### Prism (11 Essence)
 
 *In one act, you split your essence, allowing you to cast multiple effects at once.*
-
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
 
 **Effect:** You use up to three heroic abilities whose cost totals 11 essence or less (other than spending essence to use this ability, you don't have to spend more essence to use those abilities). You can shift 2 between each ability.
 
