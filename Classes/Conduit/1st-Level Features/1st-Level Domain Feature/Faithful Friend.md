@@ -9,7 +9,7 @@ kind: 1st-level features
 keywords: Magic
 keyword_list:
   - Magic
-ability_type: Action \| --- \| --- \| --- \| ---
+ability_type: Action
 distance: Self
 target: Self
 ---
@@ -18,10 +18,10 @@ target: Self
 
 *An animal spirit is drawn to you, sharing their senses and serving you faithfully.*
 
-|                     |                                              |
-| :------------------ | :------------------------------------------- |
-| **Keywords:** Magic | **Type:** Action \| --- \| --- \| --- \| --- |
-| **Distance:** Self  | **Target:** Self                             |
+|                     |                  |
+| :------------------ | :--------------- |
+| **Keywords:** Magic | **Type:** Action |
+| **Distance:** Self  | **Target:** Self |
 
 **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal can't
 

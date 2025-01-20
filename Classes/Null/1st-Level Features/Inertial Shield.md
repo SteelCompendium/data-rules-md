@@ -9,7 +9,7 @@ kind: 1st-level features
 keywords: Psionic
 keyword_list:
   - Psionic
-ability_type: Triggered \| --- \| --- \| --- \| ---
+ability_type: Triggered
 distance: Self
 target: Self
 trigger: You take damage.
@@ -19,10 +19,10 @@ trigger: You take damage.
 
 *You intuit where an incoming attack will strike, reducing its effects.*
 
-|                       |                                                 |
-| :-------------------- | :---------------------------------------------- |
-| **Keywords:** Psionic | **Type:** Triggered \| --- \| --- \| --- \| --- |
-| **Distance:** Self    | **Target:** Self                                |
+|                       |                     |
+| :-------------------- | :------------------ |
+| **Keywords:** Psionic | **Type:** Triggered |
+| **Distance:** Self    | **Target:** Self    |
 
 **Trigger:** You take damage.
 

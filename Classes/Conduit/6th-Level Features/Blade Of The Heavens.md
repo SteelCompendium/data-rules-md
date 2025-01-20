@@ -12,7 +12,7 @@ keyword_list:
   - Magic
   - Ranged
   - Strike
-ability_type: Action \| --- \| --- \| --- \| ---
+ability_type: Action
 distance: Ranged 5
 target: 1 creature
 ---
@@ -21,9 +21,9 @@ target: 1 creature
 
 *A greatsword streams down from the sky, threatening to pin your foe.*
 
-|                                     |                                              |
-| :---------------------------------- | :------------------------------------------- |
-| **Keywords:** Magic, Ranged, Strike | **Type:** Action \| --- \| --- \| --- \| --- |
-| **Distance:** Ranged 5              | **Target:** 1 creature                       |
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Magic, Ranged, Strike | **Type:** Action       |
+| **Distance:** Ranged 5              | **Target:** 1 creature |
 
 Power Roll + Intuition: - *11 or lower:* **8 + I damage; A \< \[weak\] prone and restrained (save ends)** - *12-16:* **12 + I damage; A \< \[average\] prone and restrained (save ends)** - *17+:* **16 + I damage; A \< \[strong\] prone and restrained (save ends)**

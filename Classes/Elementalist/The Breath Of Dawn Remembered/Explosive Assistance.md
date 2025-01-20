@@ -11,7 +11,7 @@ keyword_list:
   - Fire
   - Magic
   - Ranged
-ability_type: Triggered \| --- \| --- \| --- \| ---
+ability_type: Triggered
 distance: Ranged 10
 target: Self or one ally
 trigger: The target force moves a creature or object.
@@ -21,10 +21,10 @@ trigger: The target force moves a creature or object.
 
 *You add a little magic to an ally's aggression at just the right time.*
 
-|                                   |                                                 |
-| :-------------------------------- | :---------------------------------------------- |
-| **Keywords:** Fire, Magic, Ranged | **Type:** Triggered \| --- \| --- \| --- \| --- |
-| **Distance:** Ranged 10           | **Target:** Self or one ally                    |
+|                                   |                              |
+| :-------------------------------- | :--------------------------- |
+| **Keywords:** Fire, Magic, Ranged | **Type:** Triggered          |
+| **Distance:** Ranged 10           | **Target:** Self or one ally |
 
 **Trigger:** The target force moves a creature or object.
 

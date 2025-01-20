@@ -11,7 +11,7 @@ keywords: Magic, Void
 keyword_list:
   - Magic
   - Void
-ability_type: Action \| --- \| --- \| --- \| ---
+ability_type: Action
 distance: Self
 target: Self
 ---
@@ -20,9 +20,9 @@ target: Self
 
 *In one act, you split your essence, allowing you to cast multiple effects at once.*
 
-|                           |                                              |
-| :------------------------ | :------------------------------------------- |
-| **Keywords:** Magic, Void | **Type:** Action \| --- \| --- \| --- \| --- |
-| **Distance:** Self        | **Target:** Self                             |
+|                           |                  |
+| :------------------------ | :--------------- |
+| **Keywords:** Magic, Void | **Type:** Action |
+| **Distance:** Self        | **Target:** Self |
 
 **Effect:** You use up to three heroic abilities whose cost totals 11 essence or less (other than spending essence to use this ability, you don't have to spend more essence to use those abilities). You can shift 2 between each ability.

@@ -12,7 +12,7 @@ keyword_list:
   - Melee
   - Strike
   - Weapon
-ability_type: Action \| --- \| --- \| --- \| ---
+ability_type: Action
 distance: Melee 1
 target: 1 creature
 ---
@@ -21,10 +21,10 @@ target: 1 creature
 
 *You sever the target's tenuous connection to the world.*
 
-|                                     |                                              |
-| :---------------------------------- | :------------------------------------------- |
-| **Keywords:** Melee, Strike, Weapon | **Type:** Action \| --- \| --- \| --- \| --- |
-| **Distance:** Melee 1               | **Target:** 1 creature                       |
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action       |
+| **Distance:** Melee 1               | **Target:** 1 creature |
 
 Power Roll + Might: - *11 or lower:* **5 + M damage; P \< \[weak\] suffer Effect (save ends)** - *12-16:* **8 + M damage; P \< \[average\] suffer Effect (save ends)** - *17+:* **11 + M damage; P \< \[strong\] suffer Effect (save ends)**
 

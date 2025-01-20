@@ -12,7 +12,7 @@ keyword_list:
   - Ranged
   - Strike
   - Weapon
-ability_type: Action \| --- \| --- \| --- \| ---
+ability_type: Action
 distance: Ranged 10
 target: 1 creature
 ---
@@ -21,10 +21,10 @@ target: 1 creature
 
 *You use your foe as a tool against your enemies.*
 
-|                                      |                                              |
-| :----------------------------------- | :------------------------------------------- |
-| **Keywords:** Ranged, Strike, Weapon | **Type:** Action \| --- \| --- \| --- \| --- |
-| **Distance:** Ranged 10              | **Target:** 1 creature                       |
+|                                      |                        |
+| :----------------------------------- | :--------------------- |
+| **Keywords:** Ranged, Strike, Weapon | **Type:** Action       |
+| **Distance:** Ranged 10              | **Target:** 1 creature |
 
 Power Roll + Might: - *11 or lower:* **10 + M damage** - *12-16:* **15 + M damage** - *17+:* **21 + M damage**
 

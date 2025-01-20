@@ -10,7 +10,7 @@ keyword_list:
   - Magic
   - Melee
   - Ranged
-ability_type: Action \| --- \| --- \| --- \| ---
+ability_type: Action
 distance: Self; see below
 target: Self
 ---
@@ -25,10 +25,10 @@ As a shadow, you have abilities that deal a lot of damage, let you move swiftly 
 
 *They have no idea what the college taught you.*
 
-|                                    |                                              |
-| :--------------------------------- | :------------------------------------------- |
-| **Keywords:** Magic, Melee, Ranged | **Type:** Action \| --- \| --- \| --- \| --- |
-| **Distance:** Self; see below      | **Target:** Self                             |
+|                                    |                  |
+| :--------------------------------- | :--------------- |
+| **Keywords:** Magic, Melee, Ranged | **Type:** Action |
+| **Distance:** Self; see below      | **Target:** Self |
 
 **Effect:** You make two signature strikes.
 

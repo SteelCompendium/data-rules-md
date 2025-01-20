@@ -9,7 +9,7 @@ kind: 1st-level features
 keywords: Magic
 keyword_list:
   - Magic
-ability_type: Triggered \| --- \| --- \| --- \| ---
+ability_type: Triggered
 distance: Self
 target: Self
 trigger: You take damage.
@@ -19,10 +19,10 @@ trigger: You take damage.
 
 *You vanish in a plume of black smoke to avoid danger.*
 
-|                     |                                                 |
-| :------------------ | :---------------------------------------------- |
-| **Keywords:** Magic | **Type:** Triggered \| --- \| --- \| --- \| --- |
-| **Distance:** Self  | **Target:** Self                                |
+|                     |                     |
+| :------------------ | :------------------ |
+| **Keywords:** Magic | **Type:** Triggered |
+| **Distance:** Self  | **Target:** Self    |
 
 **Trigger:** You take damage.
 

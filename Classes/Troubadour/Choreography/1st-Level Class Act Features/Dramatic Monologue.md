@@ -10,7 +10,7 @@ keywords: Magic, Ranged
 keyword_list:
   - Magic
   - Ranged
-ability_type: Maneuver \| --- \| --- \| --- \| ---
+ability_type: Maneuver
 distance: Ranged 10
 target: Special
 ---
@@ -19,10 +19,10 @@ target: Special
 
 *It doesn't need to make sense. Just say it with emotionality.*
 
-|                             |                                                |
-| :-------------------------- | :--------------------------------------------- |
-| **Keywords:** Magic, Ranged | **Type:** Maneuver \| --- \| --- \| --- \| --- |
-| **Distance:** Ranged 10     | **Target:** Special                            |
+|                             |                     |
+| :-------------------------- | :------------------ |
+| **Keywords:** Magic, Ranged | **Type:** Maneuver  |
+| **Distance:** Ranged 10     | **Target:** Special |
 
 **Effect:** Choose one of the following effects:
 

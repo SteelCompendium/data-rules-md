@@ -12,7 +12,7 @@ keyword_list:
   - Melee
   - Strike
   - Weapon
-ability_type: Action \| --- \| --- \| --- \| ---
+ability_type: Action
 distance: Melee 1
 target: One creature
 ---
@@ -21,10 +21,10 @@ target: One creature
 
 *Move unexpectedly, strike fast, and be gone!*
 
-|                                     |                                              |
-| :---------------------------------- | :------------------------------------------- |
-| **Keywords:** Melee, Strike, Weapon | **Type:** Action \| --- \| --- \| --- \| --- |
-| **Distance:** Melee 1               | **Target:** One creature                     |
+|                                     |                          |
+| :---------------------------------- | :----------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action         |
+| **Distance:** Melee 1               | **Target:** One creature |
 
 Power Roll + Agility: - *11 or lower:* **5 + A damage** - *12-16:* **8 + A damage** - *17+:* **11 + A damage**
 

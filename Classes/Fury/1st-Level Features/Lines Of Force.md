@@ -10,7 +10,7 @@ keywords: Magic, Melee
 keyword_list:
   - Magic
   - Melee
-ability_type: Triggered \| --- \| --- \| --- \| ---
+ability_type: Triggered
 distance: Melee 1
 target: Self or one creature
 trigger: The target would be force moved.
@@ -20,10 +20,10 @@ trigger: The target would be force moved.
 
 *You redirect the energy of motion.*
 
-|                            |                                                 |
-| :------------------------- | :---------------------------------------------- |
-| **Keywords:** Magic, Melee | **Type:** Triggered \| --- \| --- \| --- \| --- |
-| **Distance:** Melee 1      | **Target:** Self or one creature                |
+|                            |                                  |
+| :------------------------- | :------------------------------- |
+| **Keywords:** Magic, Melee | **Type:** Triggered              |
+| **Distance:** Melee 1      | **Target:** Self or one creature |
 
 **Trigger:** The target would be force moved.
 

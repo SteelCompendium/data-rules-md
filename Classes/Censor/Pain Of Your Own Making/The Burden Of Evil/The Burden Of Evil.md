@@ -11,7 +11,7 @@ keywords: Magic, Ranged
 keyword_list:
   - Magic
   - Ranged
-ability_type: Maneuver \| --- \| --- \| --- \| ---
+ability_type: Maneuver
 distance: Ranged 10
 target: 3 enemies
 ---
@@ -20,10 +20,10 @@ target: 3 enemies
 
 *Using the power of prophecy you disrupt your enemy's plans.*
 
-|                             |                                                |
-| :-------------------------- | :--------------------------------------------- |
-| **Keywords:** Magic, Ranged | **Type:** Maneuver \| --- \| --- \| --- \| --- |
-| **Distance:** Ranged 10     | **Target:** 3 enemies                          |
+|                             |                       |
+| :-------------------------- | :-------------------- |
+| **Keywords:** Magic, Ranged | **Type:** Maneuver    |
+| **Distance:** Ranged 10     | **Target:** 3 enemies |
 
 Power Roll + Presence: - *11 or lower:* **slide 3; I \< \[weak\] dazed (save ends)** - *12-16:* **slide 5; I \< \[average\] dazed (save ends)** - *17+:* **slide 7; I \< \[strong\] dazed (save ends)**
 

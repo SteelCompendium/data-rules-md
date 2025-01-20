@@ -12,7 +12,7 @@ keyword_list:
   - Melee
   - Strike
   - Weapon
-ability_type: Action \| --- \| --- \| --- \| ---
+ability_type: Action
 distance: Melee 1
 target: 1 creature
 ---
@@ -21,10 +21,10 @@ target: 1 creature
 
 *You curse your foe to become a bane to their allies.*
 
-|                                     |                                              |
-| :---------------------------------- | :------------------------------------------- |
-| **Keywords:** Melee, Strike, Weapon | **Type:** Action \| --- \| --- \| --- \| --- |
-| **Distance:** Melee 1               | **Target:** 1 creature                       |
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action       |
+| **Distance:** Melee 1               | **Target:** 1 creature |
 
 Power Roll + Might: - *11 or lower:* **9 + M damage; I \< \[weak\] weakened (save ends)** - *12-16:* **13 + M damage; I \< \[average\] weakened (save ends)** - *17+:* **18 + M damage; I \< \[strong\] weakened (save ends)**
 

@@ -9,7 +9,7 @@ kind: 1st-level features
 keywords: Ranged
 keyword_list:
   - Ranged
-ability_type: Triggered \| --- \| --- \| --- \| ---
+ability_type: Triggered
 distance: Ranged 10
 target: Any creature
 trigger: The target deals damage to another creature.
@@ -19,10 +19,10 @@ trigger: The target deals damage to another creature.
 
 *Your leadership aids an ally.*
 
-|                         |                                                 |
-| :---------------------- | :---------------------------------------------- |
-| **Keywords:** Ranged    | **Type:** Triggered \| --- \| --- \| --- \| --- |
-| **Distance:** Ranged 10 | **Target:** Any creature                        |
+|                         |                          |
+| :---------------------- | :----------------------- |
+| **Keywords:** Ranged    | **Type:** Triggered      |
+| **Distance:** Ranged 10 | **Target:** Any creature |
 
 **Trigger:** The target deals damage to another creature.
 

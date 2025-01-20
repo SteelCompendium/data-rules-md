@@ -10,7 +10,7 @@ keyword_list:
   - Melee
   - Strike
   - Weapon
-ability_type: Action \| --- \| --- \| --- \| ---
+ability_type: Action
 distance: Melee 1
 target: 1 creature
 ---
@@ -31,10 +31,10 @@ Choose one of the following benefits:
 
 COSTS 5 HEROIC RESOURCES: KNIGHTLY CHALLENGE *Have at thee!*
 
-|                                     |                                              |
-| :---------------------------------- | :------------------------------------------- |
-| **Keywords:** Melee, Strike, Weapon | **Type:** Action \| --- \| --- \| --- \| --- |
-| **Distance:** Melee 1               | **Target:** 1 creature                       |
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action       |
+| **Distance:** Melee 1               | **Target:** 1 creature |
 
 **Power Roll + Might or Agility:**
 

@@ -12,7 +12,7 @@ keyword_list:
   - Melee
   - Strike
   - Weapon
-ability_type: Action \| --- \| --- \| --- \| ---
+ability_type: Action
 distance: Melee 1
 target: One creature
 ---
@@ -21,10 +21,10 @@ target: One creature
 
 *Death! Deeaaath!!*
 
-|                                     |                                              |
-| :---------------------------------- | :------------------------------------------- |
-| **Keywords:** Melee, Strike, Weapon | **Type:** Action \| --- \| --- \| --- \| --- |
-| **Distance:** Melee 1               | **Target:** One creature                     |
+|                                     |                          |
+| :---------------------------------- | :----------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action         |
+| **Distance:** Melee 1               | **Target:** One creature |
 
 **Power Roll + Might:**
 

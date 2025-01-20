@@ -12,7 +12,7 @@ keyword_list:
   - Melee
   - Strike
   - Weapon
-ability_type: Action \| --- \| --- \| --- \| ---
+ability_type: Action
 distance: Melee 1
 target: One creature
 ---
@@ -21,10 +21,10 @@ target: One creature
 
 *Your attack leaves them reeling, allowing you to follow up.*
 
-|                                     |                                              |
-| :---------------------------------- | :------------------------------------------- |
-| **Keywords:** Melee, Strike, Weapon | **Type:** Action \| --- \| --- \| --- \| --- |
-| **Distance:** Melee 1               | **Target:** One creature                     |
+|                                     |                          |
+| :---------------------------------- | :----------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action         |
+| **Distance:** Melee 1               | **Target:** One creature |
 
 Power Roll + Agility: - *11 or lower:* **4 + A damage; slide 2** - *12-16:* **6 + A damage; slide 3** - *17+:* **10 + A damage; slide 5**
 

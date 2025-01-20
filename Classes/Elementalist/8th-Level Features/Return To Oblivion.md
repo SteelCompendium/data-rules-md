@@ -13,7 +13,7 @@ keyword_list:
   - Magic
   - Ranged
   - Void
-ability_type: Action \| --- \| ---
+ability_type: Action
 distance: Ranged 10
 target: Special
 ---
@@ -22,9 +22,9 @@ target: Special
 
 *You create a tear in reality that could consume everything that slips inside of it.*
 
-|                                         |                                |
-| :-------------------------------------- | :----------------------------- |
-| **Keywords:** Area, Magic, Ranged, Void | **Type:** Action \| --- \| --- |
-| **Distance:** Ranged 10                 | **Target:** Special            |
+|                                         |                     |
+| :-------------------------------------- | :------------------ |
+| **Keywords:** Area, Magic, Ranged, Void | **Type:** Action    |
+| **Distance:** Ranged 10                 | **Target:** Special |
 
 **Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each round, all enemies within 5 of the affected area while it is unoccupied are vertical pulled 3 towards it. An enemy who enters the vortex or starts their turn there is knocked prone. A nonleader, non-solo enemy who is winded in the vortex at the end of the round is instantly destroyed.

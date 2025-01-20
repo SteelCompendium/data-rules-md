@@ -11,7 +11,7 @@ keywords: Melee, Weapon
 keyword_list:
   - Melee
   - Weapon
-ability_type: Action \| --- \| --- \| --- \| ---
+ability_type: Action
 distance: Self
 target: Self
 ---
@@ -20,10 +20,10 @@ target: Self
 
 *Teach them the folly of lining up for you.*
 
-|                             |                                              |
-| :-------------------------- | :------------------------------------------- |
-| **Keywords:** Melee, Weapon | **Type:** Action \| --- \| --- \| --- \| --- |
-| **Distance:** Self          | **Target:** Self                             |
+|                             |                  |
+| :-------------------------- | :--------------- |
+| **Keywords:** Melee, Weapon | **Type:** Action |
+| **Distance:** Self          | **Target:** Self |
 
 **Effect:** You move up to your speed in a straight line, and you don't treat enemy squares as difficult terrain for this move. You can end this move in a creature's space and then move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.
 

@@ -11,7 +11,7 @@ keywords: Ranged, Weapon
 keyword_list:
   - Ranged
   - Weapon
-ability_type: Maneuver \| --- \| --- \| --- \| ---
+ability_type: Maneuver
 distance: Ranged 5
 target: Three allies
 ---
@@ -20,9 +20,9 @@ target: Three allies
 
 *Your allies wait for your command--then unleash death!*
 
-|                              |                                                |
-| :--------------------------- | :--------------------------------------------- |
-| **Keywords:** Ranged, Weapon | **Type:** Maneuver \| --- \| --- \| --- \| --- |
-| **Distance:** Ranged 5       | **Target:** Three allies                       |
+|                              |                          |
+| :--------------------------- | :----------------------- |
+| **Keywords:** Ranged, Weapon | **Type:** Maneuver       |
+| **Distance:** Ranged 5       | **Target:** Three allies |
 
 **Effect:** Each target can make a free strike.

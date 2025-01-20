@@ -11,7 +11,7 @@ keyword_list:
   - Magic
   - Ranged
   - Strike
-ability_type: Action \| --- \| --- \| --- \| ---
+ability_type: Action
 distance: Ranged 10
 target: One creature
 ---
@@ -20,10 +20,10 @@ target: One creature
 
 *Divine magic tears at your foe and defends a nearby friend.*
 
-|                                     |                                              |
-| :---------------------------------- | :------------------------------------------- |
-| **Keywords:** Magic, Ranged, Strike | **Type:** Action \| --- \| --- \| --- \| --- |
-| **Distance:** Ranged 10             | **Target:** One creature                     |
+|                                     |                          |
+| :---------------------------------- | :----------------------- |
+| **Keywords:** Magic, Ranged, Strike | **Type:** Action         |
+| **Distance:** Ranged 10             | **Target:** One creature |
 
 Power Roll + Intuition: - *11 or lower:* **2 + I corruption damage** - *12-16:* **4 + IV corruption damage** - *17+:* **6 + I corruption damage**
 

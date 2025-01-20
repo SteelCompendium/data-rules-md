@@ -12,7 +12,7 @@ keyword_list:
   - Melee
   - Strike
   - Weapon
-ability_type: Maneuver \| --- \| --- \| --- \| ---
+ability_type: Maneuver
 distance: Self; see below
 target: Self
 ---
@@ -21,10 +21,10 @@ target: Self
 
 *As you bob and weave through the crowd, you can't help but leave the audience wanting more.*
 
-|                                     |                                                |
-| :---------------------------------- | :--------------------------------------------- |
-| **Keywords:** Melee, Strike, Weapon | **Type:** Maneuver \| --- \| --- \| --- \| --- |
-| **Distance:** Self; see below       | **Target:** Self                               |
+|                                     |                    |
+| :---------------------------------- | :----------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Maneuver |
+| **Distance:** Self; see below       | **Target:** Self   |
 
 **Effect:** You shift up to your speed. You make one power roll that targets each enemy who becomes adjacent to you during the shift.
 

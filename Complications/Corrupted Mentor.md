@@ -7,7 +7,7 @@ type: complications
 keywords: Magic
 keyword_list:
   - Magic
-ability_type: Maneuver \| --- \| --- \| --- \| ---
+ability_type: Maneuver
 distance: Self
 target: Self
 ---
@@ -20,10 +20,10 @@ Your mentor taught you everything, and you trusted them implicitly--until they w
 
 ## Corrupt Spirit
 
-|                     |                                                |
-| :------------------ | :--------------------------------------------- |
-| **Keywords:** Magic | **Type:** Maneuver \| --- \| --- \| --- \| --- |
-| **Distance:** Self  | **Target:** Self                               |
+|                     |                    |
+| :------------------ | :----------------- |
+| **Keywords:** Magic | **Type:** Maneuver |
+| **Distance:** Self  | **Target:** Self   |
 
 **Effect:** Until the end of your turn, when you use a heroic ability against a single target, you can weaken the target's life force, dealing extra corruption damage equal to your highest characteristic score.
 

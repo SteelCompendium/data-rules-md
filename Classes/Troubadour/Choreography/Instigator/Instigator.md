@@ -11,7 +11,7 @@ keyword_list:
   - Melee
   - Strike
   - Weapon
-ability_type: Action \| --- \| --- \| --- \| ---
+ability_type: Action
 distance: Melee 1
 target: One creature
 ---
@@ -20,10 +20,10 @@ target: One creature
 
 *I didn't do it! What?*
 
-|                                     |                                              |
-| :---------------------------------- | :------------------------------------------- |
-| **Keywords:** Melee, Strike, Weapon | **Type:** Action \| --- \| --- \| --- \| --- |
-| **Distance:** Melee 1               | **Target:** One creature                     |
+|                                     |                          |
+| :---------------------------------- | :----------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action         |
+| **Distance:** Melee 1               | **Target:** One creature |
 
 Power Roll + Presence: - *11 or lower:* **3 + P damage** - *12-16:* **6 + P damage** - *17+:* **9 + P damage**
 

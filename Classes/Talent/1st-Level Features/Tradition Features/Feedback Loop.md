@@ -10,7 +10,7 @@ keywords: Psionic, Ranged
 keyword_list:
   - Psionic
   - Ranged
-ability_type: Triggered \| --- \| --- \| --- \| ---
+ability_type: Triggered
 distance: Ranged 10
 target: One creature
 trigger: The target deals damage to an ally.
@@ -20,10 +20,10 @@ trigger: The target deals damage to an ally.
 
 *Creating a brief psychic link between a foe and their target gives that foe a taste of their own medicine.*
 
-|                               |                                                 |
-| :---------------------------- | :---------------------------------------------- |
-| **Keywords:** Psionic, Ranged | **Type:** Triggered \| --- \| --- \| --- \| --- |
-| **Distance:** Ranged 10       | **Target:** One creature                        |
+|                               |                          |
+| :---------------------------- | :----------------------- |
+| **Keywords:** Psionic, Ranged | **Type:** Triggered      |
+| **Distance:** Ranged 10       | **Target:** One creature |
 
 **Trigger:** The target deals damage to an ally.
 

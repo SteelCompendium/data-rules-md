@@ -11,7 +11,7 @@ keyword_list:
   - Fire
   - Magic
   - Melee
-ability_type: Action \| --- \| --- \| --- \| ---
+ability_type: Action
 distance: Melee 1
 target: One mundane object
 ---
@@ -20,9 +20,9 @@ target: One mundane object
 
 *With the merest touch, you cause an object to turn to slag or ash.*
 
-|                                  |                                              |
-| :------------------------------- | :------------------------------------------- |
-| **Keywords:** Fire, Magic, Melee | **Type:** Action \| --- \| --- \| --- \| --- |
-| **Distance:** Melee 1            | **Target:** One mundane object               |
+|                                  |                                |
+| :------------------------------- | :----------------------------- |
+| **Keywords:** Fire, Magic, Melee | **Type:** Action               |
+| **Distance:** Melee 1            | **Target:** One mundane object |
 
 **Effect:** You heat the target and cause it to combust and melt, destroying it. If the object is larger than 1 square, then only the square of the object that you touch is destroyed.

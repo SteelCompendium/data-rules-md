@@ -9,7 +9,7 @@ kind: 1st-level features
 keywords: Psionic
 keyword_list:
   - Psionic
-ability_type: Maneuver \| --- \| --- \| --- \| ---
+ability_type: Maneuver
 distance: 1 aura
 target: All enemies
 ---
@@ -18,10 +18,10 @@ target: All enemies
 
 *You intuit where an incoming attack will strike, reducing its effects.*
 
-|                       |                                                |
-| :-------------------- | :--------------------------------------------- |
-| **Keywords:** Psionic | **Type:** Maneuver \| --- \| --- \| --- \| --- |
-| **Distance:** 1 aura  | **Target:** All enemies                        |
+|                       |                         |
+| :-------------------- | :---------------------- |
+| **Keywords:** Psionic | **Type:** Maneuver      |
+| **Distance:** 1 aura  | **Target:** All enemies |
 
 **Effect:** Each target reduces their potencies by 1.
 
