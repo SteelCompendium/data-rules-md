@@ -17,14 +17,6 @@ As a tactician, you have abilities that heal your allies and grant them increase
 
 [1ST-LEVEL FEATURES](./1st-Level%20Features/1st-Level%20Features.md)
 
-[BATTLE CRY (3 FOCUS)](./Battle%20Cry/Battle%20Cry.md)
-
-[HAMMER AND ANVIL (5 FOCUS)](./Hammer%20And%20Anvil.md)
-
-[THE MIND GAME (5 FOCUS)](./The%20Mind%20Game.md)
-
-[NOW!(5 FOCUS)](<./NOW(5%20FOCUS)/NOW(5%20FOCUS).md>)
-
 [2ND-LEVEL FEATURES](./2nd-Level%20Features/2nd-Level%20Features.md)
 
 [I'VE GOT YOUR BACK (5 FOCUS)](./Ive%20Got%20Your%20Back.md)
@@ -44,10 +36,6 @@ As a tactician, you have abilities that heal your allies and grant them increase
 [YOU'VE STILL GOT SOMETHING LEFT (9 FOCUS)](./Youve%20Still%20Got%20Something%20Left.md)
 
 [6TH-LEVEL FEATURES](./6th-Level%20Features/6th-Level%20Features.md)
-
-[PANIC IN THEIR LINES (9 FOCUS)](./Panic%20In%20Their%20Lines/Panic%20In%20Their%20Lines.md)
-
-[HUSTLE, SQUAD! HUSTLE!(9 FOCUS)](<./Hustle%20Squad%20HUSTLE(9%20FOCUS)/Hustle%20Squad%20HUSTLE(9%20FOCUS).md>)
 
 [7TH-LEVEL FEATURES](./7th-Level%20Features/7th-Level%20Features.md)
 

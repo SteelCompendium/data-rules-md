@@ -19,3 +19,9 @@ Your tactical doctrine grants you a triggered action as shown on the Doctrine Tr
 | Insurgent  | Advanced Tactics |
 | Mastermind | Overwatch        |
 | Vanguard   | Parry            |
+
+[ADVANCED TACTICS](./Advanced%20Tactics.md)
+
+[OVERWATCH](./Overwatch.md)
+
+[PARRY](./Parry.md)

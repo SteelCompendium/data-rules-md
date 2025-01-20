@@ -24,5 +24,3 @@ target: \| Any creature \| **Trigger:** \| The target deals damage to another cr
 **Effect:** The target gains two surges, which they can use on the triggering damage.
 
 **Spend 1 Focus:** If any effect of the damage has a potency effect, you increase the potency by 1.
-
-[OVERWATCH](./Overwatch.md)

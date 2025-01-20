@@ -30,6 +30,4 @@ In addition, you can spend 1 focus to take one of the following free triggered a
 
 **Trigger:** - The ability deals additional damage equal to twice your Reason score. - The damage dealer can spend a Recovery.
 
-- The damage dealer can shift up to a number of squares equal to your Reason score. #### STRIKE NOW
-
-Your skill at commanding your allies in combat grants you the following ability.
+- The damage dealer can shift up to a number of squares equal to your Reason score.

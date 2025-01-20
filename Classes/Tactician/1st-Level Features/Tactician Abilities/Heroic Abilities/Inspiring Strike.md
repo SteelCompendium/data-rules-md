@@ -6,7 +6,7 @@ name: Inspiring Strike
 cost: 3 Focus
 type: classes
 subtype: tactician
-kind: battle cry
+kind: 1st-level features
 ability_type: Action
 distance: Melee 1 or ranged 5 **Target:** One creature or object
 ---

@@ -12866,7 +12866,7 @@ Your tactical doctrine grants you a triggered action as shown on the Doctrine Tr
 | Mastermind | Overwatch        |
 | Vanguard   | Parry            |
 
-#### ADVANCED TACTICS
+##### ADVANCED TACTICS
 
 *Your leadership aids an ally.*
 **Keywords:** | Ranged
@@ -12899,7 +12899,7 @@ Your tactical doctrine grants you a triggered action as shown on the Doctrine Tr
 
 **Spend 1 Focus:** If the target has R **\<** average, they are also [[Slowed|slowed]] (EoT).
 
-#### PARRY
+##### PARRY
 
 *Your quick reflexes cost an enemy the precision they seek.*
 **Keywords:** Melee, Weapon
@@ -13001,7 +13001,7 @@ Your heroic abilities cover a range of combat tactics, all of which require focu
 
 Choose one heroic ability from the following options, each of which costs 3 focus to use. (*Quick Build:* Inspiring Strike)
 
-### BATTLE CRY (3 FOCUS)
+###### BATTLE CRY (3 FOCUS)
 
 *You shout a phrase that galvanizes your team.*
 **Keywords:** Ranged
@@ -13018,7 +13018,7 @@ Power Roll + Reason:
 - *12-16:* **the target gains two surges**
 - *17+:* **the target gains three surges**
 
-#### CONCUSSIVE STRIKE (3 FOCUS)
+###### CONCUSSIVE STRIKE (3 FOCUS)
 
 *Your precise strike leaves your foe struggling to respond.*
 **Keywords:** Melee, Ranged, Strike, Weapon
@@ -13034,7 +13034,7 @@ Power Roll + Might:
 - *12-16:* **5 + M damage;** M \< average\*\*, [[Dazed|dazed]] (save ends)\*\*
 - *17+:* **8 + M damage;** M \< strong\*\*, [[Dazed|dazed]] (save ends)\*\*
 
-#### INSPIRING STRIKE (3 FOCUS)
+###### INSPIRING STRIKE (3 FOCUS)
 
 *Your attack gives an ally hope.*
 **Keywords:** Melee, Ranged, Strike, Weapon
@@ -13050,7 +13050,7 @@ Power Roll + Might:
 - *12-16:* **5 + M damage; you or one ally within 10 squares can spend a Recovery**
 - *17+:* **8 + M damage; you or one ally within 10 squares can spend a Recovery, and each of you gains an edge on the next ability power roll they make in the encounter**
 
-#### SQUAD! FORWARD!(3 FOCUS)
+###### SQUAD! FORWARD!(3 FOCUS)
 
 *On your command, you and your allies force back the enemy line.*
 **Keywords:**
@@ -13068,7 +13068,7 @@ Power Roll + Might:
 
 Choose one heroic ability from the following options, each of which costs 5 focus to use. (*Quick Build:* Hammer and Anvil)
 
-### HAMMER AND ANVIL (5 FOCUS)
+###### HAMMER AND ANVIL (5 FOCUS)
 
 *"Let's not argue about who's the hammer and who's the anvil!"*
 **Keywords:** Melee, Ranged, Strike, Weapon
@@ -13086,7 +13086,7 @@ Power Roll + Might:
 
 **Effect:** If the target is reduced to 0 Stamina and a strike granted by this ability hasn't been made, the striker can pick a different target.
 
-### THE MIND GAME (5 FOCUS)
+###### THE MIND GAME (5 FOCUS)
 
 *Your attack demoralizes your foe. Your allies begin to think you can win.*
 **Keywords:** Melee, Ranged, Strike, Weapon
@@ -13104,7 +13104,7 @@ Power Roll + Might:
 
 **Effect:** The first time any ally deals damage any target you've marked before the start of your next turn, that ally can spend a Recovery.
 
-### NOW!(5 FOCUS)
+###### NOW!(5 FOCUS)
 
 *Your allies wait for your command--then unleash death!*
 **Keywords:** | Ranged, Weapon
@@ -13117,7 +13117,7 @@ Power Roll + Might:
 
 **Effect:** Each target can make a [[Free Strike|free strike]].
 
-#### THIS IS WHAT WE PLANNED FOR (5 FOCUS)
+###### THIS IS WHAT WE PLANNED FOR (5 FOCUS)
 
 *All those coordination drills you made them do finally pay off.*
 **Keywords:** Ranged
@@ -13308,13 +13308,13 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 #### FRONTAL ASSAULT (7 FOCUS)
 
 *The purpose of a [[Charge|charge]] is to break their morale and force a retreat.*
-**Keywords:**
+**Keywords:** --
 
-**Type:** |
-| \--- | --- |
-**Distance:** Self | Maneuver
+**Type:** Maneuver
 
-**Target:** Self |
+**Distance:** Self
+
+**Target:** Self
 
 **Effect:** Until the end of the encounter or you are dying, whenever you or any ally deals damage a target marked by you, the damage dealer can push the target up to 2 squares, then shift up to 2 squares. Additionally, any ally using the [[Charge]] action to attack a target marked by you can use a signature or heroic ability in place of a melee [[Free Strike|free strike]].
 
@@ -13509,7 +13509,7 @@ Choose one of the following abilities.
 
 **Effect**: If the target of the ally's ability is a non-leader or non-solo creature, they are reduced to 0 Stamina. If the target of the ally's ability is a minion, the entire squad is killed. If the target is a leader or a solo creature, the ally's ability power roll automatically achieves tier 3.
 
-### PANIC IN THEIR LINES (9 FOCUS)
+##### PANIC IN THEIR LINES (9 FOCUS)
 
 *You confuse your foes, causing them to turn on each other.*
 **Keywords:** Melee, Ranged, Strike, Weapon
@@ -13548,7 +13548,7 @@ Choose one of the following abilities.
 
 **Mark Benefit:** For the rest of the encounter whenever you or an ally attacks a marked target, you can spend 2 focus to make the ability ignore damage immunity and deal additional damage equal to triple your Reason score.
 
-### HUSTLE, SQUAD! HUSTLE!(9 FOCUS)
+#### HUSTLE, SQUAD! HUSTLE!(9 FOCUS)
 
 *You and your allies coordinate to form a new battle line.*
 **Keywords:** Area
@@ -13565,7 +13565,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-#### INSTANT RETALIATION (9 FOCUS)
+##### INSTANT RETALIATION (9 FOCUS)
 
 *You parry with almost supernatural speed.*
 **Keywords:** Melee, Weapon

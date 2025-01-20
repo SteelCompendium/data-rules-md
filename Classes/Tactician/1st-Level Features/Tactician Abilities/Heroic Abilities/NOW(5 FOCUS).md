@@ -6,7 +6,7 @@ name: Now!
 cost: 5 Focus
 type: classes
 subtype: tactician
-kind: now(5 focus)
+kind: 1st-level features
 target: \| Three allies \|
 ---
 
@@ -23,5 +23,3 @@ target: \| Three allies \|
 | **Distance:**                        | **Target:** \| Three allies \|    |     |     |
 
 **Effect:** Each target can make a free strike.
-
-[THIS IS WHAT WE PLANNED FOR (5 FOCUS)](./This%20Is%20What%20We%20Planned%20For.md)

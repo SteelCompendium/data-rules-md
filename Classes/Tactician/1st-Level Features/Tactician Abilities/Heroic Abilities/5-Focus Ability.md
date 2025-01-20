@@ -5,7 +5,7 @@ name_raw: 5-focus Ability
 name: 5-Focus Ability
 type: classes
 subtype: tactician
-kind: battle cry
+kind: 1st-level features
 ---
 
 # 5-focus Ability

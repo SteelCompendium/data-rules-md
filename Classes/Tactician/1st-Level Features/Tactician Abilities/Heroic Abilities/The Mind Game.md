@@ -6,6 +6,7 @@ name: The Mind Game
 cost: 5 Focus
 type: classes
 subtype: tactician
+kind: 1st-level features
 ability_type: Action
 distance: Melee 1 or ranged 5 **Target:** One creature or object **Effect:** You mark the target.
 ---

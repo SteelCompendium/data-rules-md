@@ -135,7 +135,7 @@ Your tactical doctrine grants you a triggered action as shown on the Doctrine Tr
 | Mastermind | Overwatch        |
 | Vanguard   | Parry            |
 
-### Advanced Tactics
+#### Advanced Tactics
 
 *Your leadership aids an ally.* **Keywords:** | Ranged
 
@@ -161,7 +161,7 @@ Your tactical doctrine grants you a triggered action as shown on the Doctrine Tr
 
 **Spend 1 Focus:** If the target has R **\<** average, they are also slowed (EoT).
 
-### Parry
+#### Parry
 
 *Your quick reflexes cost an enemy the precision they seek.* **Keywords:** Melee, Weapon
 
@@ -210,7 +210,9 @@ In addition, you can spend 1 focus to take one of the following free triggered a
 
 **Trigger:** - The ability deals additional damage equal to twice your Reason score. - The damage dealer can spend a Recovery.
 
-- The damage dealer can shift up to a number of squares equal to your Reason score. #### STRIKE NOW
+- The damage dealer can shift up to a number of squares equal to your Reason score.
+
+### Strike Now
 
 Your skill at commanding your allies in combat grants you the following ability.
 
@@ -238,25 +240,25 @@ Your heroic abilities cover a range of combat tactics, all of which require focu
 
 Choose one heroic ability from the following options, each of which costs 3 focus to use. (*Quick Build:* Inspiring Strike)
 
-## Battle Cry (3 Focus)
+##### Battle Cry (3 Focus)
 
 *You shout a phrase that galvanizes your team.* **Keywords:** Ranged
 
 Power Roll + Reason: - *11 or lower:* **the target gains one surge** - *12-16:* **the target gains two surges** - *17+:* **the target gains three surges**
 
-### Concussive Strike (3 Focus)
+##### Concussive Strike (3 Focus)
 
 *Your precise strike leaves your foe struggling to respond.* **Keywords:** Melee, Ranged, Strike, Weapon
 
 Power Roll + Might: - *11 or lower:* **3 + M damage;** M \< weak\*\*, dazed (save ends)\*\* - *12-16:* **5 + M damage;** M \< average\*\*, dazed (save ends)\*\* - *17+:* **8 + M damage;** M \< strong\*\*, dazed (save ends)\*\*
 
-### Inspiring Strike (3 Focus)
+##### Inspiring Strike (3 Focus)
 
 *Your attack gives an ally hope.* **Keywords:** Melee, Ranged, Strike, Weapon
 
 Power Roll + Might: - *11 or lower:* **3 + M damage; you or one ally within 10 squares can spend a Recovery** - *12-16:* **5 + M damage; you or one ally within 10 squares can spend a Recovery** - *17+:* **8 + M damage; you or one ally within 10 squares can spend a Recovery, and each of you gains an edge on the next ability power roll they make in the encounter**
 
-### Squad! Forward!(3 Focus)
+##### Squad! Forward!(3 Focus)
 
 *On your command, you and your allies force back the enemy line.* **Keywords:**
 
@@ -270,7 +272,7 @@ Power Roll + Might: - *11 or lower:* **3 + M damage; you or one ally within 10 s
 
 Choose one heroic ability from the following options, each of which costs 5 focus to use. (*Quick Build:* Hammer and Anvil)
 
-## Hammer And Anvil (5 Focus)
+##### Hammer And Anvil (5 Focus)
 
 *"Let's not argue about who's the hammer and who's the anvil!"* **Keywords:** Melee, Ranged, Strike, Weapon
 
@@ -278,7 +280,7 @@ Power Roll + Might: - *11 or lower:* **5 + M damage; one ally within 10 squares 
 
 **Effect:** If the target is reduced to 0 Stamina and a strike granted by this ability hasn't been made, the striker can pick a different target.
 
-## The Mind Game (5 Focus)
+##### The Mind Game (5 Focus)
 
 *Your attack demoralizes your foe. Your allies begin to think you can win.* **Keywords:** Melee, Ranged, Strike, Weapon
 
@@ -286,7 +288,7 @@ Power Roll + Might: - *11 or lower:* **4 + M damage; R** \< weak\*\*, weakened (
 
 **Effect:** The first time any ally deals damage any target you've marked before the start of your next turn, that ally can spend a Recovery.
 
-## Now!(5 Focus)
+##### Now!(5 Focus)
 
 *Your allies wait for your command--then unleash death!* **Keywords:** | Ranged, Weapon
 
@@ -296,7 +298,7 @@ Power Roll + Might: - *11 or lower:* **4 + M damage; R** \< weak\*\*, weakened (
 
 **Effect:** Each target can make a free strike.
 
-### This Is What We Planned For (5 Focus)
+##### This Is What We Planned For (5 Focus)
 
 *All those coordination drills you made them do finally pay off.* **Keywords:** Ranged
 
@@ -424,11 +426,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 
 ### Frontal Assault (7 Focus)
 
-*The purpose of a charge is to break their morale and force a retreat.* **Keywords:**
-
-| **Type:**          |          |
-| ------------------ | -------- |
-| **Distance:** Self | Maneuver |
+*The purpose of a charge is to break their morale and force a retreat.* **Keywords:** --
 
 **Effect:** Until the end of the encounter or you are dying, whenever you or any ally deals damage a target marked by you, the damage dealer can push the target up to 2 squares, then shift up to 2 squares. Additionally, any ally using the Charge action to attack a target marked by you can use a signature or heroic ability in place of a melee free strike.
 
@@ -574,7 +572,7 @@ Choose one of the following abilities.
 
 **Effect**: If the target of the ally's ability is a non-leader or non-solo creature, they are reduced to 0 Stamina. If the target of the ally's ability is a minion, the entire squad is killed. If the target is a leader or a solo creature, the ally's ability power roll automatically achieves tier 3.
 
-## Panic In Their Lines (9 Focus)
+#### Panic In Their Lines (9 Focus)
 
 *You confuse your foes, causing them to turn on each other.* **Keywords:** Melee, Ranged, Strike, Weapon
 
@@ -598,7 +596,7 @@ Choose one of the following abilities.
 
 **Mark Benefit:** For the rest of the encounter whenever you or an ally attacks a marked target, you can spend 2 focus to make the ability ignore damage immunity and deal additional damage equal to triple your Reason score.
 
-## Hustle, Squad! Hustle!(9 Focus)
+### Hustle, Squad! Hustle!(9 Focus)
 
 *You and your allies coordinate to form a new battle line.* **Keywords:** Area
 
@@ -608,7 +606,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Instant Retaliation (9 Focus)
+#### Instant Retaliation (9 Focus)
 
 *You parry with almost supernatural speed.* **Keywords:** Melee, Weapon
 

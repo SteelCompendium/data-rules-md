@@ -18,17 +18,15 @@ As a tactician, you gain the following features.
 
 [1ST-LEVEL DOCTRINE FEATURE](./1st-Level%20Doctrine%20Feature/1st-Level%20Doctrine%20Feature.md)
 
-[DOCTRINE TRIGGERED ACTION](./Doctrine%20Triggered%20Action.md)
-
-[ADVANCED TACTICS](./Advanced%20Tactics/Advanced%20Tactics.md)
-
-[PARRY](./Parry.md)
+[DOCTRINE TRIGGERED ACTION](./Doctrine%20Triggered%20Action/Doctrine%20Triggered%20Action.md)
 
 [FIELD ARSENAL](./Field%20Arsenal.md)
 
 [MARK](./Mark.md)
 
 [MARK](./Mark.md)
+
+[STRIKE NOW](./Strike%20Now.md)
 
 ["STRIKE NOW!"](./Strike%20Now.md)
 

@@ -5,7 +5,7 @@ name_raw: 6th-level Vanguard Abilities
 name: 6th-Level Vanguard Abilities
 type: classes
 subtype: tactician
-kind: hustle squad hustle(9 focus)
+kind: 6th-level features
 ---
 
 # 6th-level Vanguard Abilities

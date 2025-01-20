@@ -17,3 +17,7 @@ As a 6th-level tactician, you gain the following features.
 [PERK](./Perk.md)
 
 [6TH-LEVEL DOCTRINE ABILITY](./6th-Level%20Doctrine%20Ability/6th-Level%20Doctrine%20Ability.md)
+
+[HUSTLE, SQUAD! HUSTLE!(9 FOCUS)](<./Hustle%20Squad%20HUSTLE(9%20FOCUS)/Hustle%20Squad%20HUSTLE(9%20FOCUS).md>)
+
+[TO ME, SQUAD!(9 FOCUS)](<./To%20Me%20SQUAD(9%20FOCUS).md>)
