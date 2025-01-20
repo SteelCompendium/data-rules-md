@@ -4,7 +4,7 @@ title: Reborn
 name_raw: Reborn
 name: Reborn
 type: titles
-subtype: 1st echelon
+subtype: 4th echelon
 ---
 
 # Reborn
@@ -27,7 +27,7 @@ Each hero chooses one of the following additional benefits.
 
 *"I've read about this tactic in books --it looks fairly straightforward."*
 
-**Prerequisites:** You have the Librarian title, and you complete a special Learn from a Master project with a project goal of 2,000.
+**Prerequisites:** You have the [[Librarian]] title, and you complete a special Learn from a Master project with a project goal of 2,000.
 
 Your choice of your Reason or Intuition score increases by 1, to a maximum of 6.
 

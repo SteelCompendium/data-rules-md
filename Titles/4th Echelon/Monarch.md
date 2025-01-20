@@ -4,7 +4,7 @@ title: Monarch
 name_raw: Monarch
 name: Monarch
 type: titles
-subtype: 1st echelon
+subtype: 4th echelon
 ---
 
 # Monarch

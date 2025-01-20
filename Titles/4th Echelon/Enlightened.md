@@ -4,7 +4,7 @@ title: Enlightened
 name_raw: Enlightened
 name: Enlightened
 type: titles
-subtype: 1st echelon
+subtype: 4th echelon
 ---
 
 # Enlightened

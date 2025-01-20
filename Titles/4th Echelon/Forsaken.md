@@ -4,7 +4,7 @@ title: Forsaken
 name_raw: Forsaken
 name: Forsaken
 type: titles
-subtype: 1st echelon
+subtype: 4th echelon
 ---
 
 # Forsaken

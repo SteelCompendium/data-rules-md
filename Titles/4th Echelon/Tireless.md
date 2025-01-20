@@ -4,7 +4,7 @@ title: Tireless
 name_raw: Tireless
 name: Tireless
 type: titles
-subtype: 1st echelon
+subtype: 4th echelon
 ---
 
 # Tireless

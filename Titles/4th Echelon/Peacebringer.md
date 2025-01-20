@@ -4,7 +4,7 @@ title: Peacebringer
 name_raw: Peacebringer
 name: Peacebringer
 type: titles
-subtype: 1st echelon
+subtype: 4th echelon
 ---
 
 # Peacebringer

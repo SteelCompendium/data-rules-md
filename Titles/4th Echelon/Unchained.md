@@ -4,14 +4,14 @@ title: Unchained
 name_raw: Unchained
 name: Unchained
 type: titles
-subtype: 1st echelon
+subtype: 4th echelon
 ---
 
 # Unchained
 
 *"'Never get away withit ? ' I already have."*
 
-**Prerequisite:** You have the Heist Hero title, and you have stolen a precious object or escaped from captivity while evading guards of at least level 8 .
+**Prerequisite:** You have the [[Heist Hero]] title, and you have stolen a precious object or escaped from captivity while evading guards of at least level 8 .
 
 Your choice of your Might or Agility score increases by 1, to a maximum of 6.
 

@@ -4,7 +4,7 @@ title: Champion Competitor
 name_raw: Champion Competitor
 name: Champion Competitor
 type: titles
-subtype: 1st echelon
+subtype: 4th echelon
 ---
 
 # Champion Competitor
