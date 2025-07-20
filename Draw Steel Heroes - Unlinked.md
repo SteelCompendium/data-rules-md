@@ -43,6 +43,11 @@ content
 
 #### 1st-Level Features
 
+###### This is a Feature
+
+You have a bonus to speed equal to your Agility score, and you ignore
+difficult terrain.
+
 **<span class="steel-compendium-ability">This is an H8 Header (8 Energy)</span>**
 
 *You warp reality to grow a header for just a moment and make a single devastating attack.*
