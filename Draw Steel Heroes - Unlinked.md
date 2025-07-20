@@ -56,9 +56,9 @@ You gain the following ability:
 
 *You warp reality to grow a header for just a moment and make a single devastating attack.*
 
-| Area, Psionic    |                   Main action |
-| :--------------- | ----------------------------: |
-| **📏 Ranged 10** | **🎯 One creature or object** |
+| **Area, Psionic** |               **Main action** |
+| :---------------- | ----------------------------: |
+| **📏 Ranged 10**  | **🎯 One creature or object** |
 
 **Power Roll + Agility:**
 
