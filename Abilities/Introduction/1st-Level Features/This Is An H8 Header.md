@@ -1,6 +1,8 @@
 ---
 class: introduction
 cost: 8 Energy
+cost_amount: 8
+cost_resource: Energy
 level: 1
 name: This Is An H8 Header
 type: ability
