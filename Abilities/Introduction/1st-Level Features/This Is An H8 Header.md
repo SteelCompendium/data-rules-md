@@ -5,6 +5,7 @@ cost_amount: 8
 cost_resource: Energy
 level: 1
 name: This Is An H8 Header
+taxonomy: introduction/1st-level-features/this-is-an-h8-header
 type: ability
 ---
 
