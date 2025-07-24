@@ -1,3 +1,11 @@
+---
+header_name: Introduction
+header_path: introduction
+name: Introduction
+taxonomy: introduction
+xpath: //section\[@id='introduction'\]
+---
+
 # Introduction
 
 ## What is this Game?
