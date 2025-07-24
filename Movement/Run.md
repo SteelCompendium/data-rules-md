@@ -1,5 +1,5 @@
 ---
-file_dpath: Combat
+file_dpath: Movement
 header_name: Movement Types
 header_path: combat/movement-types
 name: Movement Types
