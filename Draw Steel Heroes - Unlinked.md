@@ -65,3 +65,17 @@ You gain the following ability:
 - **≤11:** 12 psychic damage; push 3
 - **12-16:** 17 psychic damage; push 5
 - **17+:** 23 psychic damage; push 7
+
+# Combat
+
+## Movement
+
+##### Slide
+
+##### Hide and Sneak
+
+## Movement Types
+
+###### Run
+
+###### Walk
