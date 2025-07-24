@@ -4,6 +4,7 @@ header_name: Introduction
 header_path: introduction
 name: Introduction
 taxonomy: introduction
+type: chapter
 xpath: //section\[@id='introduction'\]
 ---
 

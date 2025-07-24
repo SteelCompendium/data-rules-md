@@ -4,6 +4,7 @@ header_name: Combat
 header_path: combat
 name: Combat
 taxonomy: combat
+type: chapter
 xpath: //section\[@id='combat'\]
 ---
 
