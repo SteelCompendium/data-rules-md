@@ -1,13 +1,11 @@
 ---
 file_dpath: Movement
-header_path: combat/movement-types
 item_id: walk
 item_name: Walk
 scc: mcdm.heroes.v1:movement:walk
-scdc: 1.1.1:2:07
+scdc: 1.1.1:2:11
 source: mcdm.heroes.v1
 type: movement
-xpath: //section\[@id='combat'\]//section\[@id='movement-types'\]//section\[@class='level6'\]
 ---
 
 ###### Walk

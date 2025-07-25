@@ -1,13 +1,11 @@
 ---
 file_dpath: Chapters
-header_path: introduction
 item_id: introduction
 item_name: Introduction
 scc: mcdm.heroes.v1:chapter:introduction
-scdc: 1.1.1:1:03
+scdc: 1.1.1:1:05
 source: mcdm.heroes.v1
 type: chapter
-xpath: //section\[@id='introduction'\]
 ---
 
 # Introduction
