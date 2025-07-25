@@ -7,8 +7,8 @@ cost: 8 Energy
 cost_amount: 8
 cost_resource: Energy
 level: 1
-class: Introduction
-type: ability
+class: introduction
+type: feature/ability/introduction/1st-level-feature
 ---
 
 ###### This is an H8 Header (8 Energy)

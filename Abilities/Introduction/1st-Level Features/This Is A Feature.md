@@ -4,8 +4,8 @@ header_name: This is a Feature
 name: This is a Feature
 taxonomy: introduction/1st-level-features/this-is-a-feature
 level: 1
-class: Introduction
-type: feature
+class: introduction
+type: feature/introduction/1st-level-feature
 ---
 
 ###### This is a Feature
