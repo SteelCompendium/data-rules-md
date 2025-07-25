@@ -1,11 +1,11 @@
 ---
 file_dpath: Movement
-header_name: Run
 header_path: combat/movement-types
-item_id: run
-name: Movement Types
-scc: mcdm.heroes.v1:movement:run
-scdc: 1.1.1:2:27
+item_id: walk
+item_name: Walk
+scc: mcdm.heroes.v1:movement:walk
+scdc: 1.1.1:2:67
+section_name: Movement Types
 source: mcdm.heroes.v1
 taxonomy: combat/movement-types
 type: movement

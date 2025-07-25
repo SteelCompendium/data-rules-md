@@ -1,11 +1,11 @@
 ---
 file_dpath: Chapters
-header_name: Combat
 header_path: combat
 item_id: combat
-name: Combat
+item_name: Combat
 scc: mcdm.heroes.v1:chapter:combat
-scdc: 1.1.1:1:14
+scdc: 1.1.1:1:34
+section_name: Combat
 source: mcdm.heroes.v1
 taxonomy: combat
 type: chapter

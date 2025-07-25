@@ -1,11 +1,11 @@
 ---
 file_dpath: Chapters
-header_name: Introduction
 header_path: introduction
 item_id: introduction
-name: Introduction
+item_name: Introduction
 scc: mcdm.heroes.v1:chapter:introduction
-scdc: 1.1.1:1:13
+scdc: 1.1.1:1:33
+section_name: Introduction
 source: mcdm.heroes.v1
 taxonomy: introduction
 type: chapter

@@ -1,11 +1,11 @@
 ---
 file_dpath: Movement
-header_name: Slide
 header_path: combat/movement
 item_id: slide
-name: Movement
+item_name: Slide
 scc: mcdm.heroes.v1:movement:slide
-scdc: 1.1.1:2:26
+scdc: 1.1.1:2:66
+section_name: Movement
 source: mcdm.heroes.v1
 taxonomy: combat/movement
 type: movement
