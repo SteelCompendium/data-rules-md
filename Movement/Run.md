@@ -4,8 +4,7 @@ header_path: combat/movement-types
 item_id: run
 item_name: Run
 scc: mcdm.heroes.v1:movement:run
-scdc: 1.1.1:2:04
-section_name: Movement Types
+scdc: 1.1.1:2:08
 source: mcdm.heroes.v1
 type: movement
 xpath: //section\[@id='combat'\]//section\[@id='movement-types'\]//section\[@class='level6'\]
