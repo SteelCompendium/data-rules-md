@@ -4,10 +4,9 @@ header_path: introduction
 item_id: introduction
 item_name: Introduction
 scc: mcdm.heroes.v1:chapter:introduction
-scdc: 1.1.1:1:33
+scdc: 1.1.1:1:01
 section_name: Introduction
 source: mcdm.heroes.v1
-taxonomy: introduction
 type: chapter
 xpath: //section\[@id='introduction'\]
 ---
