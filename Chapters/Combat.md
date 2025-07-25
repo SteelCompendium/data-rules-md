@@ -3,7 +3,7 @@ file_dpath: Chapters
 item_id: combat
 item_name: Combat
 scc: mcdm.heroes.v1:chapter:combat
-scdc: 1.1.1:1:06
+scdc: 1.1.1:1:02
 source: mcdm.heroes.v1
 type: chapter
 ---
