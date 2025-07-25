@@ -3,6 +3,7 @@ file_dpath: Chapters
 header_name: Introduction
 header_path: introduction
 name: Introduction
+source: mcdm.heroes.v1
 taxonomy: introduction
 type: chapter
 xpath: //section\[@id='introduction'\]
