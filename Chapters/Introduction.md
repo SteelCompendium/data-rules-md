@@ -1,4 +1,5 @@
 ---
+chapter_num: 1
 file_dpath: Chapters
 item_id: introduction
 item_index: '01'

@@ -1,4 +1,5 @@
 ---
+chapter_num: 2
 file_dpath: Chapters
 item_id: combat
 item_index: '02'
