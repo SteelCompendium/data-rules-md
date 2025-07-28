@@ -4,8 +4,10 @@ file_dpath: Chapters
 item_id: introduction
 item_index: '01'
 item_name: Introduction
-scc: mcdm.heroes.v1:chapter:introduction
-scdc: 1.1.1:1:01
+scc:
+  - mcdm.heroes.v1:chapter:introduction
+scdc:
+  - 1.1.1:1:01
 source: mcdm.heroes.v1
 type: chapter
 ---

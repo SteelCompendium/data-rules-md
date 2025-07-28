@@ -9,8 +9,10 @@ item_id: this-is-an-h8-header-8-energy
 item_index: '01'
 item_name: This is an H8 Header (8 Energy)
 level: 1
-scc: mcdm.heroes.v1:feature.ability.introduction.1st-level-feature:this-is-an-h8-header-8-energy
-scdc: 1.1.1:3.1.1.1:01
+scc:
+  - mcdm.heroes.v1:feature.ability.introduction.1st-level-feature:this-is-an-h8-header-8-energy
+scdc:
+  - 1.1.1:3.1.1.1:01
 source: mcdm.heroes.v1
 type: feature/ability/introduction/1st-level-feature
 ---
