@@ -1,5 +1,6 @@
 ---
 class: introduction
+feature_type: trait
 file_dpath: Introduction/1st-Level Features
 item_id: this-is-a-feature
 item_index: '01'
