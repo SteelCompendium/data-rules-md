@@ -100,7 +100,7 @@ We know that many folks are coming to this game having only experienced d20 fant
 - **We won't be able to point out every difference.** Beyond what's noted here, don't assume that these rules work like any d20 fantasy game you've played. We don't have the space to point out every exception. So if you're in doubt about how something works, put d20 fantasy out of your mind and read our rules without those assumptions, and you'll find that things make better sense. If you're still confused, stop by the *[MCDM Discord](https://mcdm.gg/Discord)* and ask. We've got tons of awesome community members ready to help!
 - **We don't expect you to do everything to the letter.** This is actually one thing *Draw Steel* does have in common with d20 fantasy. This is a big book of rules! Don't stress if you need to look something up or make a ruling about an edge case on the fly. If everyone's having fun, you're doing it right.
 
-## GLOSSARY INDEX
+## Glossary Index
 
 The following rules and game terms are fully defined and expanded upon in this book. This glossary is provided to give you a definition at a glance and make your life easier as a player or Director. The page numbers after each glossary entry tell you where you can read more about the subject.
 
@@ -179,8 +179,6 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 **Conduit:** A class for a hero who is the devoted spellcasting priest of a saint or god.
 
 **Consequence:** An impactful setback suffered by a creature when they make a test. A consequence can occur whether or not the creature making the test succeeds or fails.
-
-x
 
 **Consumable:** A treasure that can be used a limited number of times before it is expended.
 
@@ -8851,7 +8849,7 @@ You gain one crafting, lore, or supernatural perk of your choice.
 
 You gain one skill of your choice.
 
-# FURY
+## Fury
 
 You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the panther, the wolf, you channel unfettered anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
 

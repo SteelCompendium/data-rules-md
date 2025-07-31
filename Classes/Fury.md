@@ -11,7 +11,7 @@ source: mcdm.heroes.v1
 type: class
 ---
 
-# FURY
+## Fury
 
 You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the panther, the wolf, you channel unfettered anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
 
