@@ -43,27 +43,16 @@ type: index
 | [Sworn Hunter](../Sworn%20Hunter)                           |
 | [Undead Slain](../Undead%20Slain)                           |
 | [Unstoppable](../Unstoppable)                               |
-| [4Th-Echelon Titles](../4Th-Echelon%20Titles)               |
 | [Armed And Dangerous](../Armed%20And%20Dangerous)           |
 | [Back From The Grave](../Back%20From%20The%20Grave)         |
-| [Champion Competitor](../Champion%20Competitor)             |
-| [Demigod](../Demigod)                                       |
 | [Demon Slayer](../Demon%20Slayer)                           |
 | [Diabolist](../Diabolist)                                   |
 | [Dragon Blooded](../Dragon%20Blooded)                       |
-| [Enlightened](../Enlightened)                               |
 | [Fleet Admiral](../Fleet%20Admiral)                         |
-| [Forsaken](../Forsaken)                                     |
 | [Maestro](../Maestro)                                       |
 | [Master Crafter](../Master%20Crafter)                       |
-| [Monarch](../Monarch)                                       |
 | [Noble](../Noble)                                           |
-| [Peace Bringer](../Peace%20Bringer)                         |
 | [Planar Voyager](../Planar%20Voyager)                       |
-| [Reborn](../Reborn)                                         |
 | [Scarred](../Scarred)                                       |
 | [Siege Breaker](../Siege%20Breaker)                         |
 | [Teacher](../Teacher)                                       |
-| [Theoretical Warrior](../Theoretical%20Warrior)             |
-| [Tireless](../Tireless)                                     |
-| [Unchained](../Unchained)                                   |

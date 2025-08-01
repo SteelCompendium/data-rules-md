@@ -1,12 +1,12 @@
 ---
 file_dpath: Titles/3rd Echelon
 item_id: dragon-blooded
-item_index: '22'
+item_index: '12'
 item_name: Dragon Blooded
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:dragon-blooded
 scdc:
-  - 1.1.1:14.1:22
+  - 1.1.1:14.1:12
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

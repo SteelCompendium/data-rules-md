@@ -2639,7 +2639,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 - *Furious Attack:* Choose one signature ability from the fury class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend ferocity, you can't do so unless you have the Ferocity class feature.
 - *Furious Charge:* When you use the Charge action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the charge.
 
-## 3rd-Echelon Titles
+### 3rd-Echelon Titles
 
 Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
@@ -2815,7 +2815,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** You can travel with a student who shares your class. The student has the statistics of a 1st-level member of your class and has the same skills as you, but doesn't engage in combat. They can perform any out-of-combat tasks a 1st-level member of your class can perform. Whenever they make a test to assist you in a task, they can't obtain less than a tier 2 outcome on the test.
 
-#### 4th-Echelon Titles
+### 4th-Echelon Titles
 
 Titles suitable for 4th-echelon characters are presented in alphabetical order.
 
