@@ -1,12 +1,12 @@
 ---
 file_dpath: Titles/3rd Echelon
 item_id: forsaken
-item_index: '14'
+item_index: '15'
 item_name: Forsaken
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:forsaken
 scdc:
-  - 1.1.1:11.1:14
+  - 1.1.1:14.1:15
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

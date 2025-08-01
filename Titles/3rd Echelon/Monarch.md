@@ -1,12 +1,12 @@
 ---
 file_dpath: Titles/3rd Echelon
 item_id: monarch
-item_index: 09
+item_index: '10'
 item_name: Monarch
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:monarch
 scdc:
-  - 1.1.1:11.1:09
+  - 1.1.1:14.1:10
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

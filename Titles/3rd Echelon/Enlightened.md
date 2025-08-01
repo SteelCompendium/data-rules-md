@@ -6,7 +6,7 @@ item_name: Enlightened
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:enlightened
 scdc:
-  - 1.1.1:11.1:01
+  - 1.1.1:14.1:01
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

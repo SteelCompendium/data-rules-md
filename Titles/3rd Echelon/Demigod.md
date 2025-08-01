@@ -1,12 +1,12 @@
 ---
 file_dpath: Titles/3rd Echelon
 item_id: demigod
-item_index: '13'
+item_index: '14'
 item_name: Demigod
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:demigod
 scdc:
-  - 1.1.1:11.1:13
+  - 1.1.1:14.1:14
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

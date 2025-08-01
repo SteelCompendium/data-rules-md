@@ -1,12 +1,12 @@
 ---
 file_dpath: Titles/3rd Echelon
 item_id: unchained
-item_index: '22'
+item_index: '23'
 item_name: Unchained
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:unchained
 scdc:
-  - 1.1.1:11.1:22
+  - 1.1.1:14.1:23
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

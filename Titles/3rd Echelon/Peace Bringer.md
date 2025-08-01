@@ -1,12 +1,12 @@
 ---
 file_dpath: Titles/3rd Echelon
 item_id: peace-bringer
-item_index: '19'
+item_index: '20'
 item_name: Peace Bringer
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:peace-bringer
 scdc:
-  - 1.1.1:11.1:19
+  - 1.1.1:14.1:20
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

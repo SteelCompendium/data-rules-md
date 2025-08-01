@@ -6,7 +6,7 @@ item_name: Tireless
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:tireless
 scdc:
-  - 1.1.1:11.1:05
+  - 1.1.1:14.1:05
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

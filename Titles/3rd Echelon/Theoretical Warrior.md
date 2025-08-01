@@ -1,12 +1,12 @@
 ---
 file_dpath: Titles/3rd Echelon
 item_id: theoretical-warrior
-item_index: 08
+item_index: 09
 item_name: Theoretical Warrior
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:theoretical-warrior
 scdc:
-  - 1.1.1:11.1:08
+  - 1.1.1:14.1:09
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

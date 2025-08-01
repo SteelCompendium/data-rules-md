@@ -6,7 +6,7 @@ item_name: Teacher
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:teacher
 scdc:
-  - 1.1.1:11.1:03
+  - 1.1.1:14.1:03
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

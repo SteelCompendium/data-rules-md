@@ -43,6 +43,7 @@ type: index
 | [Sworn Hunter](../Sworn%20Hunter)                           |
 | [Undead Slain](../Undead%20Slain)                           |
 | [Unstoppable](../Unstoppable)                               |
+| [4Th-Echelon Titles](../4Th-Echelon%20Titles)               |
 | [Armed And Dangerous](../Armed%20And%20Dangerous)           |
 | [Back From The Grave](../Back%20From%20The%20Grave)         |
 | [Champion Competitor](../Champion%20Competitor)             |
