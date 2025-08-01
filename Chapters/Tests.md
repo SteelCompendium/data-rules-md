@@ -1,13 +1,13 @@
 ---
-chapter_num: 9
+chapter_num: 10
 file_dpath: Chapters
 item_id: tests
-item_index: 09
+item_index: '10'
 item_name: Tests
 scc:
   - mcdm.heroes.v1:chapter:tests
 scdc:
-  - 1.1.1:3:09
+  - 1.1.1:3:10
 source: mcdm.heroes.v1
 type: chapter
 ---
@@ -405,7 +405,7 @@ Rewards for tests made with lore skills typically include learning an extra piec
 
 Consequences for tests made with lore skills typically include learning an incorrect piece of information that seems useful, but which actually works against your interests or wastes time. (It's fun to roleplay these kinds of moments, so lean in!) Alternatively, the Director can make medium and hard tests with lore group skills for each hero in secret, then let the players know the narrative outcome without revealing the outcome of the power roll (see the [Optional Rule: Secret Reactive Tests](#page-267-3) sidebar earlier in this chapter).
 
-#### Lore Skills Table
+###### Lore Skills Table
 
 | Skill               | Use                                                                                        |
 | ------------------- | ------------------------------------------------------------------------------------------ |

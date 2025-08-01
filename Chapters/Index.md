@@ -10,6 +10,7 @@ type: index
 | [Ancestries](../Ancestries)           |
 | [Background](../Background)           |
 | [Classes](../Classes)                 |
+| [Combat](../Combat)                   |
 | [Complications](../Complications)     |
 | [Introduction](../Introduction)       |
 | [Kits](../Kits)                       |
