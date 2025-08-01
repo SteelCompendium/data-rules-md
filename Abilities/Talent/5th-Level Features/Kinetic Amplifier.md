@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.talent.5th-level-feature:kinetic-amplifier
 scdc:
-  - 1.1.1:5.1.1.4:06
+  - 1.1.1:5.1.1.5:06
 source: mcdm.heroes.v1
 type: feature/trait/talent/5th-level-feature
 ---

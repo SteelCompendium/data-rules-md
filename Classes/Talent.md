@@ -1138,3 +1138,265 @@ You have the following ability.
 **Effect:** Each target can fly until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While flying, a target's stability is reduced to 0 and can't be increased.
 
 **Spend 5 Clarity:** The effects last for 1 hour instead.
+
+##### Low Gravity
+
+Your mind can carry your body through tough times. You ignore difficult terrain and don't need to spend additional movement while prone.
+
+##### Mindlink
+
+During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your Telepathic Speech feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
+
+#### Stasis Shield
+
+You have the following ability.
+
+###### Stasis Shield (3 Clarity)
+
+*You freeze time just long enough to bring the victim to safety!*
+
+| **Psionic, Ranged** |                          **Triggered** |
+| ------------------- | -------------------------------------: |
+| **📏 Ranged 10**    | **🎯 Self, or one creature or object** |
+
+**Trigger:** The target takes damage.
+
+**Effect:** The target is teleported to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
+
+**Strained:** You can't target yourself, and you take the damage and any additional effects instead of the target.
+
+#### Universal Connection
+
+The range of your Telepathic Speech feature increases to anywhere on the same world.
+
+#### 11-Clarity Ability
+
+Choose one heroic ability from the following options, each of which costs 11 clarity to use.
+
+###### Doubt (11 Clarity)
+
+*You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive.*
+
+| **Animapathy, Psionic, Ranged**, **Strike** |               **Main action** |
+| ------------------------------------------- | ----------------------------: |
+| **📏 Ranged 10**                            | **🎯 One creature or object** |
+
+**Power Roll + Presence:**
+
+- **≤11:** 10 + P damage; P < WEAK, weakened (save ends)
+- **12-16:** 14 + P damage; P < AVERAGE, weakened (save ends)
+- **17+:** 20 + P damage; P < STRONG, weakened and slowed (save ends)
+
+**Effect:** This ability gains an edge against a target with a soul (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.
+
+**Strained:** You feel dispirited until you finish a respite. If you obtain a tier 3 outcome on the power roll, you and the target each have damage weakness 5 (save ends).
+
+###### Mindwipe (11 Clarity)
+
+*You attempt to make them forget all their training.*
+
+| **Melee, Psionic, Strike, Telepathy** |     **Main action** |
+| ------------------------------------- | ------------------: |
+| **📏 Melee 2**                        | **🎯 One creature** |
+
+**Power Roll + Reason**
+
+- **≤11:** 12 + R damage; R < WEAK, the target takes a bane on their next power roll
+- **12-16:** 17 + R damage; R < AVERAGE, the target takes a bane on power rolls (save ends)
+- **17+:** 23 + R damage; R < STRONG, the target has a double bane on power rolls (save ends)
+
+**Effect:** The target can't communicate with anyone until the end of the encounter.
+
+**Strained:** You take 3d6 damage.
+
+###### Rejuvenate (11 Clarity)
+
+*You reshape the flow of time in the target's body to return it to an earlier state.*
+
+| **Chronopathy, Psionic, Ranged** |            **Maneuver** |
+| -------------------------------- | ----------------------: |
+| **📏 Ranged 10**                 | **🎯 Self or one ally** |
+
+**Effect:** Choose two of the following effects: - The target can spend any number of Recoveries. - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn. - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.
+
+**Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 human years, to the minimum of an 18-yearold). Additionally, you are weakened and slowed (save ends).
+
+###### Steel (11 Clarity)
+
+*The target's skin becomes covered in tough metal.*
+
+| **Metamorphosis, Psionic, Ranged** |            **Maneuver** |
+| ---------------------------------- | ----------------------: |
+| **📏 Ranged 10**                   | **🎯 Self or one ally** |
+
+**Effect:** The target has damage immunity 5 and can't be made slowed or weakened until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the forced movement distance gains a +5 bonus.
+
+**Strained:** You can't use maneuvers (save ends).
+
+### 9th-Level Features
+
+As a 9th-level talent, you gain the following features.
+
+#### Fortress of Perfect Thought
+
+Your mind is an impenetrable palace that shields you from danger. You gain the following effects:
+
+- You can breathe even when there is no breathable air.
+- You have psychic immunity 10.
+- Creatures can't read your thoughts unless you allow them to.
+- Your Reason and Intuition are treated as 2 higher for the purpose of resisting the potency of abilities.
+- You can't be made taunted or frightened.
+
+#### 9th-Level Tradition Ability
+
+Your talent tradition grants your choice of one of two heroic abilities.
+
+##### 9th-Level Chronopathy Abilities
+
+Choose one of the following abilities.
+
+###### Acceleration Field (11 Clarity)
+
+*You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.*
+
+| **Chronopathy, Psionic, Ranged** |     **Main action** |
+| -------------------------------- | ------------------: |
+| **📏 Ranged 5**                  | **🎯 Three allies** |
+
+**Effect:** Each target can use any main action available to them as a free triggered action, but they lose their main action on their next turn.
+
+**Strained:** Make a power roll that targets you and each enemy within distance.
+
+**Power Roll + Presence:**
+
+- **≤11:** 4 corruption damage; slowed (save ends)
+- **12-16:** 6 corruption damage; slowed (save ends)
+- **17+:** 10 corruption damage; slowed (save ends)
+
+###### Borrow From the Future (11 Clarity)
+
+*You lean on future heroism to assist you in the now.*
+
+| **Area, Chronopathy, Psionic** |                 **Maneuver** |
+| ------------------------------ | ---------------------------: |
+| **📏 2 burst**                 | **🎯 Each ally in the area** |
+
+**Effect:** The targets share 6 of their Heroic Resource among themselves, as you determine. A target can't gain more than 3 of their Heroic Resource this way. After using this ability, you can't gain any clarity until the end of the next combat round.
+
+##### 9th-Level Telekinesis Abilities
+
+Choose one of the following abilities.
+
+###### Fulcrum (11 Clarity)
+
+*You precisely manipulate the creatures around you.*
+
+| **Area, Psionic, Telekinesis** |                          **Main action** |
+| ------------------------------ | ---------------------------------------: |
+| **📏 Special**                 | **🎯 Each enemy and object in the area** |
+
+**Effect:** Make a power roll to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of size 1L or smaller.
+
+**Power Roll + Reason:**
+
+- **≤11:** 2 burst
+- **12-16:** 3 burst
+- **17+:** 4 burst
+
+**Strained:** You can choose to reduce the size of the burst by 2 (to a minimum of 1 burst) to give the forced movement distance a +2 bonus. You take half the total damage all targets take from forced movement.
+
+###### Gravitic Nova (11 Clarity)
+
+*Unbridled psionic energy erupts from your body and flashes outward, hurling your foes back.*
+
+| **Area, Psionic, Telekinesis** |                          **Main action** |
+| ------------------------------ | ---------------------------------------: |
+| **📏 3 burst**                 | **🎯 Each enemy and object in the area** |
+
+**Power Roll + Reason:**
+
+- **≤11:** 6 damage; push 7
+- **12-16:** 9 damage; push 10
+- **17+:** 13 damage; push 15
+
+**Effect:** On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.
+
+**Strained:** You are weakened (save ends). If you scored a critical hit with this ability, you die.
+
+##### 9th-Level Telepathy Abilities
+
+Choose one of the following abilities.
+
+###### Resonant Mind Spike (11 Clarity)
+
+*You fire a telepathic bolt empowered by every consciousness within reach directly into your foe's mind.*
+
+| **Psionic, Ranged, Strike, Telepathy** |     **Main action** |
+| -------------------------------------- | ------------------: |
+| **📏 Ranged 10**                       | **🎯 One creature** |
+
+**Power Roll + Reason:**
+
+- **≤11:** 15 + R psychic damage
+- **12-16:** 24 + R psychic damage
+- **17+:** 28 + R psychic damage
+
+**Effect:** This ability ignores cover and concealment.
+
+**Strained:** The ability roll scores a critical hit on a natural 17 or higher. You take half the damage the target takes, and you can't reduce this damage in any way.
+
+###### Synaptic Terror (11 Clarity)
+
+*You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.*
+
+| **Area, Psionic, Telepathy** |                        **Main action** |
+| ---------------------------- | -------------------------------------: |
+| **📏 3 burst**               | **🎯 Each ally and enemy in the area** |
+
+**Effect:** You and each target ally can't obtain lower than a tier 2 outcome on power rolls until the start of your next turn. Each target enemy is affected by the ability's power roll.
+
+**Power Roll + Reason:**
+
+- **≤11:** R < WEAK, frightened (save ends)
+- **12-16:** R < AVERAGE, frightened (save ends)
+- **17+:** R < STRONG, frightened (save ends)
+
+**Strained:** You can't use this ability if doing so would cause you to have negative clarity.
+
+### 10th-Level Features
+
+As a 10th-level talent, you gain the following features.
+
+#### Characteristic Increase
+
+Your Reason and Presence scores each increase to 5.
+
+#### Clear Mind
+
+The first time each combat round that a creature is force moved, you gain 3 clarity instead of 2.
+
+#### Omnisensory
+
+You have a +10 bonus to the distance of your ranged abilities. Addition ally, you don't need line of effect to a target of a ranged ability if the target is a creature capable of thought who you have previously had line of effect to.
+
+#### Perk
+
+You gain one interpersonal, lore, or supernatural perk of your choice.
+
+#### Psion
+
+At the start of each of your turns during combat, you gain 1d3 + 2 clarity instead of 1d3 + 1.
+
+Additionally, you can choose to not take damage from having negative clarity. You can also choose to take on any ability's strained effect even if you're not strained.
+
+#### Skill
+
+You gain one skill of your choice.
+
+#### Vision
+
+You have an epic resource called vision. Each time you finish a respite, you gain vision equal to the XP you gain. You can spend vision on your abilities as if it were clarity.
+
+Additionally, you can spend vision to use one additional psionic ability on your turn, provided you pay the entire cost of the ability in vision. If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
+
+Vision remains until you spend it.

@@ -14752,11 +14752,11 @@ You have the following ability.
 
 **Spend 5 Clarity:** The effects last for 1 hour instead.
 
-## Low Gravity
+##### Low Gravity
 
 Your mind can carry your body through tough times. You ignore difficult terrain and don't need to spend additional movement while prone.
 
-## Mindlink
+##### Mindlink
 
 During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your Telepathic Speech feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
 

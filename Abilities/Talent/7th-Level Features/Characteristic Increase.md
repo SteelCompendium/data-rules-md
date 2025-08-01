@@ -9,11 +9,11 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.talent.7th-level-feature:characteristic-increase
 scdc:
-  - 1.1.1:5.1.1.7:04
+  - 1.1.1:5.1.1.9:04
 source: mcdm.heroes.v1
 type: feature/trait/talent/7th-level-feature
 ---
 
 #### Characteristic Increase
 
-Each of your characteristic scores increases by 1, to a maximum of 4.
+Your Reason and Presence scores each increase to 5.
