@@ -11,5 +11,6 @@ type: index
 | [Background](../Background)           |
 | [Classes](../Classes)                 |
 | [Introduction](../Introduction)       |
+| [Kits](../Kits)                       |
 | [Making A Hero](../Making%20A%20Hero) |
 | [The Basics](../The%20Basics)         |
