@@ -13,6 +13,7 @@ type: index
 | [Combat](../Combat)                         |
 | [Complications](../Complications)           |
 | [Downtime Projects](../Downtime%20Projects) |
+| [For The Director](../For%20The%20Director) |
 | [Introduction](../Introduction)             |
 | [Kits](../Kits)                             |
 | [Making A Hero](../Making%20A%20Hero)       |
