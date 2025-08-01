@@ -27,8 +27,8 @@ type: feature/ability/troubadour/8th-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 6damage; P < WEAK, the target can't willingly leave the area (EoT)
-- **12-16:** 8damage; P < AVERAGE, the target can't willingly leave the area (save ends)
+- **≤11:** 6 damage; P < WEAK, the target can't willingly leave the area (EoT)
+- **12-16:** 8 damage; P < AVERAGE, the target can't willingly leave the area (save ends)
 - **17+:** 12 damage; the target can't willingly leave the area (EoT); if P < STRONG, they can't willingly leave the area (save ends)
 
 **Effect:** Each ally within distance can't obtain lower than a tier 2 outcome on the next test they make before the start of your next turn.

@@ -26,6 +26,6 @@ type: feature/trait/elementalist/1st-level-feature
 
 - **≤11:** 2 + R damage
 - **12-16:** 4 + R damage
-- **17+:** 6 + Rdamage
+- **17+:** 6 + R damage
 
 **Effect:** When you make this strike, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.

@@ -16,7 +16,7 @@ type: feature/trait/troubadour/1st-level-feature
 
 ###### "Thunder Mother"
 
-*All for thunder motherrr!* N \*Run and hide for coverrr!\*N
+*All for thunder motherrr! ♪ Run and hide for coverrr!♪*
 
 | **Magic, Performance, Ranged, Strike** |       **No action** |
 | -------------------------------------- | ------------------: |

@@ -1505,9 +1505,9 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 *You summon a divine storm that remains under your control.*
 
-| \*\*\*\*Area, Magic, Ranged\*\*\*\* |               **Main action** |
-| ----------------------------------- | ----------------------------: |
-| **📏 5 cube within 5**              | **🎯 Each enemy in the area** |
+| **Area, Magic, Ranged** |               **Main action** |
+| ----------------------- | ----------------------------: |
+| **📏 5 cube within 5**  | **🎯 Each enemy in the area** |
 
 **Power Roll + Intuition:**
 

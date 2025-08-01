@@ -26,6 +26,6 @@ type: feature/trait/elementalist/1st-level-feature
 
 - **≤11:** 2 + R damage
 - **12-16:** 5 + R damage
-- **17+:** 7 + Rdamage
+- **17+:** 7 + R damage
 
 **Effect:** You slide one creature within 10 squares of the target up to 2 squares.

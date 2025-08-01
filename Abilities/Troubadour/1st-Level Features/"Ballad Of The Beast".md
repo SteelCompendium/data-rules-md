@@ -16,7 +16,7 @@ type: feature/trait/troubadour/1st-level-feature
 
 #### "Ballad of the Beast"
 
-*Teeth are bare! 𝅘𝅥𝅮 Eyes black! 𝅘𝅥𝅮 No escaping the beast! 𝅘𝅥𝅮*
+*Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪*
 
 | **Area, Magic, Performance** |                         **No action** |
 | ---------------------------- | ------------------------------------: |

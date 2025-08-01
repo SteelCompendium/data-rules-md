@@ -16,7 +16,7 @@ type: feature/trait/troubadour/3rd-level-feature
 
 ###### "Fire Up the Night"
 
-*Maybe you and I 𝅘𝅥𝅮 We can still bring the light! 𝅘𝅥𝅮*
+*Maybe you and I ♪ We can still bring the light!♪*
 
 | **Area, Magic, Performance** |                         **No action** |
 | ---------------------------- | ------------------------------------: |

@@ -26,6 +26,6 @@ type: feature/trait/null/1st-level-feature
 
 - \*\*≤11:\*\*4 + A damage; push 2
 - **12-16:** 6 + A damage; push 4
-- **17+:** 8 + Adamage; push 6
+- **17+:** 8 + A damage; push 6
 
 **Effect:** Before the push is resolved, you teleport the target to a square adjacent to you and opposite the one they started in. If the target can't be teleported this way, you can't push them.

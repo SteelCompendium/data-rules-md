@@ -3377,9 +3377,9 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 *You summon a divine storm that remains under your control.*
 
-| \*\*\*\*Area, Magic, Ranged\*\*\*\* |               **Main action** |
-| ----------------------------------- | ----------------------------: |
-| **📏 5 cube within 5**              | **🎯 Each enemy in the area** |
+| **Area, Magic, Ranged** |               **Main action** |
+| ----------------------- | ----------------------------: |
+| **📏 5 cube within 5**  | **🎯 Each enemy in the area** |
 
 **Power Roll + Intuition:**
 
@@ -3629,7 +3629,7 @@ You have the following ability, which can be used as a ranged free strike.
 
 - **≤11:** 2 + R damage
 - **12-16:** 4 + R damage
-- **17+:** 6 + Rdamage
+- **17+:** 6 + R damage
 
 **Effect:** When you make this strike, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.
 
@@ -3901,7 +3901,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 - **≤11:** 2 + R damage
 - **12-16:** 5 + R damage
-- **17+:** 7 + Rdamage
+- **17+:** 7 + R damage
 
 **Effect:** You slide one creature within 10 squares of the target up to 2 squares.
 
@@ -6871,7 +6871,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 - \*\*≤11:\*\*4 + A damage; push 2
 - **12-16:** 6 + A damage; push 4
-- **17+:** 8 + Adamage; push 6
+- **17+:** 8 + A damage; push 6
 
 **Effect:** Before the push is resolved, you teleport the target to a square adjacent to you and opposite the one they started in. If the target can't be teleported this way, you can't push them.
 
@@ -9297,7 +9297,7 @@ Choose one of the following abilities.
 
 - **≤11:** 2 + R damage; R < WEAK, frightened (save ends)
 - **12-16:** 3 + R damage; R < AVERAGE, frightened (save ends)
-- **17+:** 4 + Rdamage; R < STRONG, frightened (save ends)
+- **17+:** 4 + R damage; R < STRONG, frightened (save ends)
 
 ##### 2nd-Level Mastermind Ability
 
@@ -9315,7 +9315,7 @@ Choose one of the following abilities.
 
 - **≤11:** 5 + R damage; taunted (EoT)
 - **12-16:** 9 + R damage; taunted (EoT)
-- **17+:** 12 + Rdamage; taunted (EoT)
+- **17+:** 12 + R damage; taunted (EoT)
 
 **Effect:** One ally adjacent to the target can spend a Recovery.
 
@@ -10619,7 +10619,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 
 **Effect:** You create three size 1T orbs that orbit your body. Each orb gives you a cumulative damage immunity 1. Each time you take damage, you lose 1 orb. Once on each of your turns, you can use a free maneuver to fire an orb at a creature or object within 5 squares as a ranged strike, losing the orb after the strike.
 
-**Power Roll + Reason**:
+**Power Roll + Reason:**
 
 - **≤11:** 2 damage
 - **12-16:** 3 damage
@@ -10649,8 +10649,8 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 
 **Power Roll + Presence:**
 
-- **≤11:** 6 + Pdamage; P < WEAK, dazed (save ends)
-- **12-16:** 10 + Pdamage; P < AVERAGE, dazed (save ends)
+- **≤11:** 6 + P damage; P < WEAK, dazed (save ends)
+- **12-16:** 10 + P damage; P < AVERAGE, dazed (save ends)
 - **17+:** 14 + P damage; P < STRONG, dazed (save ends)
 
 **Effect:** The target takes a bane on Presence tests until the end of the encounter.
@@ -11515,7 +11515,7 @@ You have the following performance abilities, which are usable with your Routine
 
 ###### "Thunder Mother"
 
-*All for thunder motherrr!* N \*Run and hide for coverrr!\*N
+*All for thunder motherrr! ♪ Run and hide for coverrr!♪*
 
 | **Magic, Performance, Ranged, Strike** |       **No action** |
 | -------------------------------------- | ------------------: |
@@ -11531,7 +11531,7 @@ You have the following performance abilities, which are usable with your Routine
 
 #### "Ballad of the Beast"
 
-*Teeth are bare! 𝅘𝅥𝅮 Eyes black! 𝅘𝅥𝅮 No escaping the beast! 𝅘𝅥𝅮*
+*Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪*
 
 | **Area, Magic, Performance** |                         **No action** |
 | ---------------------------- | ------------------------------------: |
@@ -11945,7 +11945,7 @@ You have the following performance abilities, which are usable with your Routine
 
 ###### "Fire Up the Night"
 
-*Maybe you and I 𝅘𝅥𝅮 We can still bring the light! 𝅘𝅥𝅮*
+*Maybe you and I ♪ We can still bring the light!♪*
 
 | **Area, Magic, Performance** |                         **No action** |
 | ---------------------------- | ------------------------------------: |
@@ -11955,7 +11955,7 @@ You have the following performance abilities, which are usable with your Routine
 
 #### "Never-Ending Hero"
 
-*And toniiight we can truly say 𝅘𝅥𝅮 They will alllways find a way! 𝅘𝅥𝅮*
+*And toniiight we can truly say ♪ They will alllways find a way!♪*
 
 | **Area, Magic, Performance** |                         **No action** |
 | ---------------------------- | ------------------------------------: |
@@ -12361,7 +12361,7 @@ You have the following performance abilities, which are usable with your Routine
 
 ###### Radical Fantasia
 
-*𝅘𝅥𝅮 Viras, my Viras, will you hold their hands as they cryyy-aaaiigh? 𝅘𝅥𝅮*
+*𝅘𝅥𝅮♪Viras, my Viras, will you hold their hands as they cryyy-aaaiigh?♪*
 
 | **Area, Magic, Performance** |                         **No action** |
 | ---------------------------- | ------------------------------------: |
@@ -12423,8 +12423,8 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 
 **Power Roll + Presence:**
 
-- **≤11:** 6damage; P < WEAK, the target can't willingly leave the area (EoT)
-- **12-16:** 8damage; P < AVERAGE, the target can't willingly leave the area (save ends)
+- **≤11:** 6 damage; P < WEAK, the target can't willingly leave the area (EoT)
+- **12-16:** 8 damage; P < AVERAGE, the target can't willingly leave the area (save ends)
 - **17+:** 12 damage; the target can't willingly leave the area (EoT); if P < STRONG, they can't willingly leave the area (save ends)
 
 **Effect:** Each ally within distance can't obtain lower than a tier 2 outcome on the next test they make before the start of your next turn.
@@ -12533,9 +12533,9 @@ Choose one of the following abilities.
 
 *The power of music rips through the reality around the target and blows them away.*
 
-| \*\*\*\*Magic, Melee, Ranged, Strike\*\* |               **Main action** |
-| ---------------------------------------- | ----------------------------: |
-| **📏 Melee 1 or ranged 10**              | **🎯 One creature or object** |
+| **Magic, Melee, Ranged, Strike** |               **Main action** |
+| -------------------------------- | ----------------------------: |
+| **📏 Melee 1 or ranged 10**      | **🎯 One creature or object** |
 
 **Power Roll + Presence:**
 

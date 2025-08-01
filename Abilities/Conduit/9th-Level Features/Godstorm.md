@@ -21,9 +21,9 @@ type: feature/ability/conduit/9th-level-feature
 
 *You summon a divine storm that remains under your control.*
 
-| \*\*\*\*Area, Magic, Ranged\*\*\*\* |               **Main action** |
-| ----------------------------------- | ----------------------------: |
-| **📏 5 cube within 5**              | **🎯 Each enemy in the area** |
+| **Area, Magic, Ranged** |               **Main action** |
+| ----------------------- | ----------------------------: |
+| **📏 5 cube within 5**  | **🎯 Each enemy in the area** |
 
 **Power Roll + Intuition:**
 

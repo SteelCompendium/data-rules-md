@@ -21,9 +21,9 @@ type: feature/ability/troubadour/9th-level-feature
 
 *The power of music rips through the reality around the target and blows them away.*
 
-| \*\*\*\*Magic, Melee, Ranged, Strike\*\* |               **Main action** |
-| ---------------------------------------- | ----------------------------: |
-| **📏 Melee 1 or ranged 10**              | **🎯 One creature or object** |
+| **Magic, Melee, Ranged, Strike** |               **Main action** |
+| -------------------------------- | ----------------------------: |
+| **📏 Melee 1 or ranged 10**      | **🎯 One creature or object** |
 
 **Power Roll + Presence:**
 

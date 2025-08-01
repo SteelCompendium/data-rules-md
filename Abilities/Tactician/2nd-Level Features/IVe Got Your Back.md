@@ -29,6 +29,6 @@ type: feature/ability/tactician/2nd-level-feature
 
 - **≤11:** 5 + R damage; taunted (EoT)
 - **12-16:** 9 + R damage; taunted (EoT)
-- **17+:** 12 + Rdamage; taunted (EoT)
+- **17+:** 12 + R damage; taunted (EoT)
 
 **Effect:** One ally adjacent to the target can spend a Recovery.

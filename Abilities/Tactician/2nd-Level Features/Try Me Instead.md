@@ -31,4 +31,4 @@ type: feature/ability/tactician/2nd-level-feature
 
 - **≤11:** 2 + R damage; R < WEAK, frightened (save ends)
 - **12-16:** 3 + R damage; R < AVERAGE, frightened (save ends)
-- **17+:** 4 + Rdamage; R < STRONG, frightened (save ends)
+- **17+:** 4 + R damage; R < STRONG, frightened (save ends)

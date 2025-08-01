@@ -16,7 +16,7 @@ type: feature/trait/troubadour/3rd-level-feature
 
 #### "Never-Ending Hero"
 
-*And toniiight we can truly say 𝅘𝅥𝅮 They will alllways find a way! 𝅘𝅥𝅮*
+*And toniiight we can truly say ♪ They will alllways find a way!♪*
 
 | **Area, Magic, Performance** |                         **No action** |
 | ---------------------------- | ------------------------------------: |

@@ -239,7 +239,7 @@ You have the following performance abilities, which are usable with your Routine
 
 ###### "Thunder Mother"
 
-*All for thunder motherrr!* N \*Run and hide for coverrr!\*N
+*All for thunder motherrr! ♪ Run and hide for coverrr!♪*
 
 | **Magic, Performance, Ranged, Strike** |       **No action** |
 | -------------------------------------- | ------------------: |
@@ -255,7 +255,7 @@ You have the following performance abilities, which are usable with your Routine
 
 #### "Ballad of the Beast"
 
-*Teeth are bare! 𝅘𝅥𝅮 Eyes black! 𝅘𝅥𝅮 No escaping the beast! 𝅘𝅥𝅮*
+*Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪*
 
 | **Area, Magic, Performance** |                         **No action** |
 | ---------------------------- | ------------------------------------: |
@@ -669,7 +669,7 @@ You have the following performance abilities, which are usable with your Routine
 
 ###### "Fire Up the Night"
 
-*Maybe you and I 𝅘𝅥𝅮 We can still bring the light! 𝅘𝅥𝅮*
+*Maybe you and I ♪ We can still bring the light!♪*
 
 | **Area, Magic, Performance** |                         **No action** |
 | ---------------------------- | ------------------------------------: |
@@ -679,7 +679,7 @@ You have the following performance abilities, which are usable with your Routine
 
 #### "Never-Ending Hero"
 
-*And toniiight we can truly say 𝅘𝅥𝅮 They will alllways find a way! 𝅘𝅥𝅮*
+*And toniiight we can truly say ♪ They will alllways find a way!♪*
 
 | **Area, Magic, Performance** |                         **No action** |
 | ---------------------------- | ------------------------------------: |
@@ -1085,7 +1085,7 @@ You have the following performance abilities, which are usable with your Routine
 
 ###### Radical Fantasia
 
-*𝅘𝅥𝅮 Viras, my Viras, will you hold their hands as they cryyy-aaaiigh? 𝅘𝅥𝅮*
+*𝅘𝅥𝅮♪Viras, my Viras, will you hold their hands as they cryyy-aaaiigh?♪*
 
 | **Area, Magic, Performance** |                         **No action** |
 | ---------------------------- | ------------------------------------: |
@@ -1147,8 +1147,8 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 
 **Power Roll + Presence:**
 
-- **≤11:** 6damage; P < WEAK, the target can't willingly leave the area (EoT)
-- **12-16:** 8damage; P < AVERAGE, the target can't willingly leave the area (save ends)
+- **≤11:** 6 damage; P < WEAK, the target can't willingly leave the area (EoT)
+- **12-16:** 8 damage; P < AVERAGE, the target can't willingly leave the area (save ends)
 - **17+:** 12 damage; the target can't willingly leave the area (EoT); if P < STRONG, they can't willingly leave the area (save ends)
 
 **Effect:** Each ally within distance can't obtain lower than a tier 2 outcome on the next test they make before the start of your next turn.
@@ -1257,9 +1257,9 @@ Choose one of the following abilities.
 
 *The power of music rips through the reality around the target and blows them away.*
 
-| \*\*\*\*Magic, Melee, Ranged, Strike\*\* |               **Main action** |
-| ---------------------------------------- | ----------------------------: |
-| **📏 Melee 1 or ranged 10**              | **🎯 One creature or object** |
+| **Magic, Melee, Ranged, Strike** |               **Main action** |
+| -------------------------------- | ----------------------------: |
+| **📏 Melee 1 or ranged 10**      | **🎯 One creature or object** |
 
 **Power Roll + Presence:**
 
