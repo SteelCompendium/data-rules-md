@@ -15,4 +15,5 @@ type: index
 | [Kits](../Kits)                       |
 | [Making A Hero](../Making%20A%20Hero) |
 | [Perks](../Perks)                     |
+| [Tests](../Tests)                     |
 | [The Basics](../The%20Basics)         |
