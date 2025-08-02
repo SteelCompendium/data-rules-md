@@ -1,13 +1,13 @@
 ---
 class: combat
-file_dpath: Abilities/Main Actions
+file_dpath: Abilities/Common/Main Actions
 item_id: heal
 item_index: '02'
 item_name: Heal
 scc:
   - mcdm.heroes.v1:common\_ability.main\_action:heal
 scdc:
-  - 1.1.1:13.1:02
+  - 1.1.1:14.1:02
 source: mcdm.heroes.v1
 type: common\_ability/main\_action
 ---

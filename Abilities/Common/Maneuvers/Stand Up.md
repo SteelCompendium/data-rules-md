@@ -1,13 +1,13 @@
 ---
 class: combat
-file_dpath: Abilities/Maneuvers
+file_dpath: Abilities/Common/Maneuvers
 item_id: stand-up
 item_index: '04'
 item_name: Stand Up
 scc:
   - mcdm.heroes.v1:common\_ability.maneuver:stand-up
 scdc:
-  - 1.1.1:13.3:04
+  - 1.1.1:14.3:04
 source: mcdm.heroes.v1
 type: common\_ability/maneuver
 ---

@@ -1,13 +1,13 @@
 ---
 class: combat
-file_dpath: Abilities/Main Actions
+file_dpath: Abilities/Common/Main Actions
 item_id: defend
 item_index: '01'
 item_name: Defend
 scc:
   - mcdm.heroes.v1:common\_ability.main\_action:defend
 scdc:
-  - 1.1.1:13.1:01
+  - 1.1.1:14.1:01
 source: mcdm.heroes.v1
 type: common\_ability/main\_action
 ---

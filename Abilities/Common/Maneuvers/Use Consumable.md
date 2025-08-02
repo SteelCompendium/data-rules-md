@@ -1,13 +1,13 @@
 ---
 class: combat
-file_dpath: Abilities/Maneuvers
+file_dpath: Abilities/Common/Maneuvers
 item_id: use-consumable
 item_index: '07'
 item_name: Use Consumable
 scc:
   - mcdm.heroes.v1:common\_ability.maneuver:use-consumable
 scdc:
-  - 1.1.1:13.3:07
+  - 1.1.1:14.3:07
 source: mcdm.heroes.v1
 type: common\_ability/maneuver
 ---

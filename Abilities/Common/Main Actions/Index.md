@@ -3,7 +3,7 @@ title: 📑 Index
 type: index
 ---
 
-# Main Actions Index
+# Common: Main Actions Index
 
 | file_name                    | cost | level | feature_type |
 | ---------------------------- | ---- | ----- | ------------ |

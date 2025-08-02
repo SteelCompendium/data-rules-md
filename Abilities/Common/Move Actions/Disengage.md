@@ -1,13 +1,13 @@
 ---
 class: combat
-file_dpath: Abilities/Move Actions
+file_dpath: Abilities/Common/Move Actions
 item_id: disengage
 item_index: '01'
 item_name: Disengage
 scc:
   - mcdm.heroes.v1:common\_ability.move\_action:disengage
 scdc:
-  - 1.1.1:13.2:01
+  - 1.1.1:14.2:01
 source: mcdm.heroes.v1
 type: common\_ability/move\_action
 ---

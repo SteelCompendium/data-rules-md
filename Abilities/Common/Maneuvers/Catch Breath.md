@@ -1,13 +1,13 @@
 ---
 class: combat
-file_dpath: Abilities/Maneuvers
+file_dpath: Abilities/Common/Maneuvers
 item_id: catch-breath
 item_index: '01'
 item_name: Catch Breath
 scc:
   - mcdm.heroes.v1:common\_ability.maneuver:catch-breath
 scdc:
-  - 1.1.1:13.3:01
+  - 1.1.1:14.3:01
 source: mcdm.heroes.v1
 type: common\_ability/maneuver
 ---

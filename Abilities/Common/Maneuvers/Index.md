@@ -3,7 +3,7 @@ title: 📑 Index
 type: index
 ---
 
-# Maneuvers Index
+# Common: Maneuvers Index
 
 | file_name                                                        | cost | level | feature_type |
 | ---------------------------------------------------------------- | ---- | ----- | ------------ |

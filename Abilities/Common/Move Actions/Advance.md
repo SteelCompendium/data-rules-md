@@ -1,13 +1,13 @@
 ---
 class: combat
-file_dpath: Abilities/Move Actions
+file_dpath: Abilities/Common/Move Actions
 item_id: advance
 item_index: '02'
 item_name: Advance
 scc:
   - mcdm.heroes.v1:common\_ability.move\_action:advance
 scdc:
-  - 1.1.1:13.2:02
+  - 1.1.1:14.2:02
 source: mcdm.heroes.v1
 type: common\_ability/move\_action
 ---

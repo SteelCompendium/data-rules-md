@@ -1,13 +1,13 @@
 ---
 class: combat
-file_dpath: Abilities/Maneuvers
+file_dpath: Abilities/Common/Maneuvers
 item_id: grab
 item_index: '10'
 item_name: Grab
 scc:
   - mcdm.heroes.v1:common\_ability.maneuver:grab
 scdc:
-  - 1.1.1:13.3:10
+  - 1.1.1:14.3:10
 source: mcdm.heroes.v1
 type: common\_ability/maneuver
 ---
