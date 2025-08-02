@@ -12,10 +12,6 @@ source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---
 
-##### Faithful Friend
-
-You have the following ability.
-
 ###### Faithful Friend
 
 *An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.*
