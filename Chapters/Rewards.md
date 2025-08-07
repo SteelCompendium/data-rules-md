@@ -2532,8 +2532,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 ###### Timely Distraction
 
-*Coming through with hot soup!\
-I better watch out for that banana peel!*
+*Coming through with hot soup!<br/> I better watch out for that banana peel!*
 
 | **Ranged**       |       **Triggered** |
 | ---------------- | ------------------: |
