@@ -79,17 +79,10 @@ type: index
 | [Soulbound](../5th-Level%20Features/Soulbound)                                           | 9 Clarity  | 5     | ability      |
 | [Speed of Thought](../5th-Level%20Features/Speed%20of%20Thought)                         |            | 5     | trait        |
 | [Triangulate](../5th-Level%20Features/Triangulate)                                       |            | 5     | trait        |
-| [Dynamic Power](../6th-Level%20Features/Dynamic%20Power)                                 | 1 Clarity  | 6     | ability      |
-| [Expanded Power](../6th-Level%20Features/Expanded%20Power)                               | 3 Clarity  | 6     | ability      |
-| [Extended Power](../6th-Level%20Features/Extended%20Power)                               | 1 Clarity  | 6     | ability      |
 | [Fate](../6th-Level%20Features/Fate)                                                     | 9 Clarity  | 6     | ability      |
 | [Gravitic Well](../6th-Level%20Features/Gravitic%20Well)                                 | 9 Clarity  | 6     | ability      |
 | [Greater Kinetic Grip](../6th-Level%20Features/Greater%20Kinetic%20Grip)                 | 9 Clarity  | 6     | ability      |
-| [Heightened Power](../6th-Level%20Features/Heightened%20Power)                           | 1 Clarity  | 6     | ability      |
-| [Magnified Power](../6th-Level%20Features/Magnified%20Power)                             | 5 Clarity  | 6     | ability      |
 | [Perk](../6th-Level%20Features/Perk)                                                     |            | 6     | trait        |
-| [Shared Power](../6th-Level%20Features/Shared%20Power)                                   | 5 Clarity  | 6     | ability      |
-| [Sharpened Power](../6th-Level%20Features/Sharpened%20Power)                             | 1 Clarity  | 6     | ability      |
 | [Stasis Field](../6th-Level%20Features/Stasis%20Field)                                   | 9 Clarity  | 6     | ability      |
 | [Synaptic Conditioning](../6th-Level%20Features/Synaptic%20Conditioning)                 | 9 Clarity  | 6     | ability      |
 | [Synaptic Dissipation](../6th-Level%20Features/Synaptic%20Dissipation)                   | 9 Clarity  | 6     | ability      |

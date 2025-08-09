@@ -81,6 +81,7 @@ type: index
 | [Characteristic Increase](../7th-Level%20Features/Characteristic%20Increase)                  |               | 7     | trait        |
 | [Discipline Mastery Improvement](../7th-Level%20Features/Discipline%20Mastery%20Improvement)  |               | 7     | trait        |
 | [Improved Body](../7th-Level%20Features/Improved%20Body)                                      |               | 7     | trait        |
+| [Psi Boost](../7th-Level%20Features/Psi%20Boost)                                              |               | 7     | trait        |
 | [Skill](../7th-Level%20Features/Skill)                                                        |               | 7     | trait        |
 | [Arcane Purge](../8th-Level%20Features/Arcane%20Purge)                                        | 11 Discipline | 8     | ability      |
 | [Inertial Dampener](../8th-Level%20Features/Inertial%20Dampener)                              |               | 8     | trait        |

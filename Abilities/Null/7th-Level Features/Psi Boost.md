@@ -1,14 +1,16 @@
 ---
+class: 'null'
 feature_type: trait
 file_basename: Psi Boost
-file_dpath: Null/7th-Level Features
+file_dpath: Abilities/Null/7th-Level Features
 item_id: psi-boost
-item_index: '05'
+item_index: '04'
 item_name: Psi Boost
+level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.null.7th-level-feature:psi-boost
 scdc:
-  - 1.1.1:13.1.6.8:05
+  - 1.1.1:13.1.6.8:04
 source: mcdm.heroes.v1
 type: feature/trait/null/7th-level-feature
 ---
