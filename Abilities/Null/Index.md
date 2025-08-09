@@ -80,14 +80,7 @@ type: index
 | [Wall of Ice](../6th-Level%20Features/Wall%20of%20Ice)                                        | 9 Discipline  | 6     | ability      |
 | [Characteristic Increase](../7th-Level%20Features/Characteristic%20Increase)                  |               | 7     | trait        |
 | [Discipline Mastery Improvement](../7th-Level%20Features/Discipline%20Mastery%20Improvement)  |               | 7     | trait        |
-| [Dynamic Power](../7th-Level%20Features/Dynamic%20Power)                                      | 1 Discipline  | 7     | ability      |
-| [Expanded Power](../7th-Level%20Features/Expanded%20Power)                                    | 3 Discipline  | 7     | ability      |
-| [Extended Power](../7th-Level%20Features/Extended%20Power)                                    | 1 Discipline  | 7     | ability      |
-| [Heightened Power](../7th-Level%20Features/Heightened%20Power)                                | 1 Discipline  | 7     | ability      |
 | [Improved Body](../7th-Level%20Features/Improved%20Body)                                      |               | 7     | trait        |
-| [Magnified Power](../7th-Level%20Features/Magnified%20Power)                                  | 5 Discipline  | 7     | ability      |
-| [Shared Power](../7th-Level%20Features/Shared%20Power)                                        | 5 Discipline  | 7     | ability      |
-| [Sharpened Power](../7th-Level%20Features/Sharpened%20Power)                                  | 1 Discipline  | 7     | ability      |
 | [Skill](../7th-Level%20Features/Skill)                                                        |               | 7     | trait        |
 | [Arcane Purge](../8th-Level%20Features/Arcane%20Purge)                                        | 11 Discipline | 8     | ability      |
 | [Inertial Dampener](../8th-Level%20Features/Inertial%20Dampener)                              |               | 8     | trait        |

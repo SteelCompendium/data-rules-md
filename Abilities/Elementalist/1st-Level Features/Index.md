@@ -34,9 +34,9 @@ type: index
 | [No More Than a Breeze](../No%20More%20Than%20a%20Breeze)                             | 5 Essence | 1     | ability      |
 | [Persistent Magic](../Persistent%20Magic)                                             |           | 1     | trait        |
 | [Practical Magic](../Practical%20Magic)                                               |           | 1     | trait        |
+| [Ray of Agonizing Self Reflection](../Ray%20of%20Agonizing%20Self%20Reflection)       |           | 1     | trait        |
 | [Return to Formlessness](../Return%20to%20Formlessness)                               |           | 1     | trait        |
 | [Ripples in the Earth](../Ripples%20in%20the%20Earth)                                 | 3 Essence | 1     | ability      |
-| [Ry of Agonizing Self Reflection](../Ry%20of%20Agonizing%20Self%20Reflection)         |           | 1     | trait        |
 | [Shared Void Sense](../Shared%20Void%20Sense)                                         |           | 1     | trait        |
 | [Skin Like Castle Walls](../Skin%20Like%20Castle%20Walls)                             |           | 1     | trait        |
 | [Subtle Relocation](../Subtle%20Relocation)                                           |           | 1     | trait        |
