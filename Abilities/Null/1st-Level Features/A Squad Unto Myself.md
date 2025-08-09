@@ -1,5 +1,4 @@
 ---
----
 class: 'null'
 cost: 5 Discipline
 cost_amount: 5
