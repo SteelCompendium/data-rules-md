@@ -1,6 +1,6 @@
 ---
 class: elementalist
-feature_type: trait
+feature_type: ability
 file_basename: Ray of Agonizing Self Reflection
 file_dpath: Elementalist/1st-Level Features
 item_id: ray-of-agonizing-self-reflection
@@ -8,11 +8,11 @@ item_index: '01'
 item_name: Ray of Agonizing Self-Reflection
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:ray-of-agonizing-self-reflection
+  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:ray-of-agonizing-self-reflection
 scdc:
-  - 1.1.1:13.1.9.1:01
+  - 1.1.1:13.2.9.1:01
 source: mcdm.heroes.v1
-type: feature/trait/elementalist/1st-level-feature
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### Ray of Agonizing Self-Reflection

@@ -17,23 +17,23 @@ type: index
 | [Arcane Disruptor](../1st-Level%20Features/Arcane%20Disruptor)                                | 5 Discipline  | 1     | ability      |
 | [A Squad Unto Myself](../1st-Level%20Features/A%20Squad%20Unto%20Myself)                      | 5 Discipline  | 1     | ability      |
 | [Chronal Spike](../1st-Level%20Features/Chronal%20Spike)                                      | 3 Discipline  | 1     | ability      |
-| [Dance of Blows](../1st-Level%20Features/Dance%20of%20Blows)                                  |               | 1     | trait        |
+| [Dance of Blows](../1st-Level%20Features/Dance%20of%20Blows)                                  |               | 1     | ability      |
 | [Density Augmentation](../1st-Level%20Features/Density%20Augmentation)                        |               | 1     | trait        |
 | [Discipline Outside of Combat](../1st-Level%20Features/Discipline%20Outside%20of%20Combat)    |               | 1     | trait        |
-| [Faster Than the Eye](../1st-Level%20Features/Faster%20Than%20the%20Eye)                      |               | 1     | trait        |
+| [Faster Than the Eye](../1st-Level%20Features/Faster%20Than%20the%20Eye)                      |               | 1     | ability      |
 | [Force Augmentation](../1st-Level%20Features/Force%20Augmentation)                            |               | 1     | trait        |
 | [Impart Force](../1st-Level%20Features/Impart%20Force)                                        | 5 Discipline  | 1     | ability      |
-| [Inertial Shield](../1st-Level%20Features/Inertial%20Shield)                                  |               | 1     | trait        |
-| [Inertial Step](../1st-Level%20Features/Inertial%20Step)                                      |               | 1     | trait        |
-| [Joint Lock](../1st-Level%20Features/Joint%20Lock)                                            |               | 1     | trait        |
-| [Kinetic Strike](../1st-Level%20Features/Kinetic%20Strike)                                    |               | 1     | trait        |
-| [Magnetic Strike](../1st-Level%20Features/Magnetic%20Strike)                                  |               | 1     | trait        |
-| [Null Field](../1st-Level%20Features/Null%20Field)                                            |               | 1     | trait        |
+| [Inertial Shield](../1st-Level%20Features/Inertial%20Shield)                                  |               | 1     | ability      |
+| [Inertial Step](../1st-Level%20Features/Inertial%20Step)                                      |               | 1     | ability      |
+| [Joint Lock](../1st-Level%20Features/Joint%20Lock)                                            |               | 1     | ability      |
+| [Kinetic Strike](../1st-Level%20Features/Kinetic%20Strike)                                    |               | 1     | ability      |
+| [Magnetic Strike](../1st-Level%20Features/Magnetic%20Strike)                                  |               | 1     | ability      |
+| [Null Field](../1st-Level%20Features/Null%20Field)                                            |               | 1     | ability      |
 | [Null Speed](../1st-Level%20Features/Null%20Speed)                                            |               | 1     | trait        |
 | [Null Tradition](../1st-Level%20Features/Null%20Tradition)                                    |               | 1     | trait        |
-| [Phase Inversion Strike](../1st-Level%20Features/Phase%20Inversion%20Strike)                  |               | 1     | trait        |
+| [Phase Inversion Strike](../1st-Level%20Features/Phase%20Inversion%20Strike)                  |               | 1     | ability      |
 | [Phase Strike](../1st-Level%20Features/Phase%20Strike)                                        | 5 Discipline  | 1     | ability      |
-| [Pressure Points](../1st-Level%20Features/Pressure%20Points)                                  |               | 1     | trait        |
+| [Pressure Points](../1st-Level%20Features/Pressure%20Points)                                  |               | 1     | ability      |
 | [Psionic Martial Arts](../1st-Level%20Features/Psionic%20Martial%20Arts)                      |               | 1     | trait        |
 | [Psychic Pulse](../1st-Level%20Features/Psychic%20Pulse)                                      | 3 Discipline  | 1     | ability      |
 | [Relentless Nemesis](../1st-Level%20Features/Relentless%20Nemesis)                            | 3 Discipline  | 1     | ability      |
