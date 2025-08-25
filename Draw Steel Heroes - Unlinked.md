@@ -14044,7 +14044,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Strained:** The size of the burst increases by 2, and you are bleeding until the start of your next turn.
 
-#### Materialize
+**<span class="steel-compendium-ability">Materialize</span>**
 
 *You picture an object in your mind and give it form-directly above your opponent's head.*
 
