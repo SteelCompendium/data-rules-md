@@ -2,14 +2,14 @@
 file_basename: 7th Level Features
 file_dpath: Classes By Level/Conduit
 item_id: 7th-level-features
-item_index: '13'
+item_index: '02'
 item_name: 7th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:7th-level-features
+  - mcdm.heroes.v1:class.conduit.level:7th-level-features
 scdc:
-  - 1.1.1:2.1:13
+  - 1.1.1:2.2.1:02
 source: mcdm.heroes.v1
-type: class/level
+type: class/conduit/level
 ---
 
 ### 7th-Level Features
@@ -57,15 +57,16 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
 
-###### Guided to Your Side
-
-*You concentrate on a friend and teleport to them.*
-
-| **Magic, Ranged** |           **Main action** |
-| ----------------- | ------------------------: |
-| **📏 Ranged 10**  | **🎯 Self and each ally** |
-
-**Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
+<!-- -->
+> ###### Guided to Your Side
+>
+> *You concentrate on a friend and teleport to them.*
+>
+> | **Magic, Ranged** |           **Main action** |
+> | ----------------- | ------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and each ally** |
+>
+> **Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ##### Divine Quartermaster
 
@@ -103,15 +104,16 @@ Lightning and thunder infuse your body. Whenever you use an ability to deal ligh
 
 You have the following ability.
 
-###### Trinity of Trickery (9 Piety)
-
-*Hey! I'm over here. No, here, numbskull.*
-
-| **Magic, Ranged** |            **Maneuver** |
-| ----------------- | ----------------------: |
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
-
-**Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free triggered action to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
+<!-- -->
+> ###### Trinity of Trickery (9 Piety)
+>
+> *Hey! I'm over here. No, here, numbskull.*
+>
+> | **Magic, Ranged** |            **Maneuver** |
+> | ----------------- | ----------------------: |
+> | **📏 Ranged 10**  | **🎯 Self or one ally** |
+>
+> **Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free triggered action to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
 
 ##### Word of Death Deferred
 

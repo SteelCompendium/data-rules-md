@@ -2,14 +2,14 @@
 file_basename: 4th Level Features
 file_dpath: Classes By Level/Conduit
 item_id: 4th-level-features
-item_index: '17'
+item_index: '06'
 item_name: 4th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:4th-level-features
+  - mcdm.heroes.v1:class.conduit.level:4th-level-features
 scdc:
-  - 1.1.1:2.1:17
+  - 1.1.1:2.2.1:06
 source: mcdm.heroes.v1
-type: class/level
+type: class/conduit/level
 ---
 
 ### 4th-Level Features
@@ -18,7 +18,7 @@ As a 4th-level conduit, you gain the following features.
 
 #### Blessed Domain
 
-Whenever you gain piety from a domain feature, you gain 1 additional piety.
+Whenever you gain piety from a domain effect, you gain 1 additional piety.
 
 #### Characteristic Increase
 
@@ -61,15 +61,16 @@ Your divine presence causes those you deem worthy to recover quickly from a figh
 
 You have the following ability.
 
-###### Blessing of Secrets
-
-*You project an illusory aura that makes you and allies harder to notice.*
-
-| **Area, Magic** |                          **Maneuver** |
-| --------------- | ------------------------------------: |
-| **📏 3 aura**   | **🎯 Self and each ally in the area** |
-
-**Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+<!-- -->
+> ###### Blessing of Secrets
+>
+> *You project an illusory aura that makes you and allies harder to notice.*
+>
+> | **Area, Magic** |                          **Maneuver** |
+> | --------------- | ------------------------------------: |
+> | **📏 3 aura**   | **🎯 Self and each ally in the area** |
+>
+> **Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 
 ###### Impervious Touch
 

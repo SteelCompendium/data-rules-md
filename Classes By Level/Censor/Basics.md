@@ -2,14 +2,14 @@
 file_basename: Basics
 file_dpath: Classes By Level/Censor
 item_id: basics
-item_index: '32'
+item_index: '10'
 item_name: Basics
 scc:
-  - mcdm.heroes.v1:class.level:basics
+  - mcdm.heroes.v1:class.censor.level:basics
 scdc:
-  - 1.1.1:2.1:32
+  - 1.1.1:2.3.1:10
 source: mcdm.heroes.v1
-type: class/level
+type: class/censor/level
 ---
 
 ### Basics
@@ -33,3 +33,18 @@ type: class/level
 **Recoveries:** 12
 
 **Skills:** Choose any two skills from the interpersonal or lore skill groups (see [Skills](#page-268-0) in Chapter 9: Tests). (*Quick Build:* Intimidate, Religion.)
+
+###### Censor Advancement Table
+
+| Level | Features                                                                                                   | Abilities                 | Order<br/> Abilities |
+| ----- | ---------------------------------------------------------------------------------------------------------- | ------------------------- | -------------------- |
+| 1st   | Censor Order, Deity and Domains, Wrath, Judgment, Kit, My Life for Yours, Domain Feature, Censor Abilities | Signature, 3, 5           | -                    |
+| 2nd   | Perk, Order Features, Order Ability                                                                        | Signature, 3, 5           | 5                    |
+| 3rd   | Look On My Work and Despair, 7-Wrath Ability                                                               | Signature, 3, 5, 7        | 5                    |
+| 4th   | Characteristic Increase, Perk, Skill, Wrath Beyond Wrath, Domain Feature                                   | Signature, 3, 5, 7        | 5                    |
+| 5th   | Order Feature, 9-Wrath Ability                                                                             | Signature, 3, 5, 7, 9     | 5                    |
+| 6th   | Implement of Wrath, Perk, Order Ability                                                                    | Signature, 3, 5, 7, 9     | 5, 9                 |
+| 7th   | Characteristic Increase, Domain Feature, Focused Wrath, Skill                                              | Signature, 3, 5, 7, 9     | 5, 9                 |
+| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                      | Signature, 3, 5, 7, 9, 11 | 5, 9                 |
+| 9th   | Improved Implement of Wrath, Order Ability                                                                 | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
+| 10th  | Characteristic Increase, Perk, Skill, Templar, Virtue, Wrath of the Gods                                   | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |

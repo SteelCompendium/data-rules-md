@@ -2,14 +2,14 @@
 file_basename: 4th Level Features
 file_dpath: Classes By Level/Shadow
 item_id: 4th-level-features
-item_index: '85'
+item_index: '06'
 item_name: 4th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:4th-level-features
+  - mcdm.heroes.v1:class.shadow.level:4th-level-features
 scdc:
-  - 1.1.1:2.1:85
+  - 1.1.1:2.8.1:06
 source: mcdm.heroes.v1
-type: class/level
+type: class/shadow/level
 ---
 
 ### 4th-Level Features
@@ -30,17 +30,18 @@ Your sense for stealth shows those around you how to evade notice. While you are
 
 Additionally, you have the following ability.
 
-###### Night Watch
-
-*A steely dagger from out of the blue knocks another weapon off course.*
-
-| **Ranged, Weapon** |   **Triggered** |
-| ------------------ | --------------: |
-| **📏 Ranged 5**    | **🎯 One ally** |
-
-**Trigger:** The target takes damage from another creature's ability while you are hidden.
-
-**Effect:** The target takes half the damage. You remain hidden.
+<!-- -->
+> ###### Night Watch
+>
+> *A steely dagger from out of the blue knocks another weapon off course.*
+>
+> | **Ranged, Weapon** |   **Triggered** |
+> | ------------------ | --------------: |
+> | **📏 Ranged 5**    | **🎯 One ally** |
+>
+> **Trigger:** The target takes damage from another creature's ability while you are hidden.
+>
+> **Effect:** The target takes half the damage. You remain hidden.
 
 #### Perk
 

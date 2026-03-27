@@ -2,14 +2,14 @@
 file_basename: 1st Level Features
 file_dpath: Classes By Level/Tactician
 item_id: 1st-level-features
-item_index: '65'
+item_index: 08
 item_name: 1st-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:1st-level-features
+  - mcdm.heroes.v1:class.tactician.level:1st-level-features
 scdc:
-  - 1.1.1:2.1:65
+  - 1.1.1:2.6.1:08
 source: mcdm.heroes.v1
-type: class/level
+type: class/tactician/level
 ---
 
 ### 1st-Level Features
@@ -29,21 +29,6 @@ Your tactical doctrine is your subclass, and your choice of doctrine determines 
 #### Focus
 
 The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called focus.
-
-###### Tactician Advancement Table
-
-| Level | Features                                                                                                                    | Abilities      | Doctrine Abilities |
-| ----- | --------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------ |
-| 1st   | Tactical Doctrine, Focus, Doctrine Feature, Doctrine Triggered Action, Field Arsenal, Mark, Strike Now, Tactician Abilities | 3, 5           | -                  |
-| 2nd   | Perk, Doctrine Feature, Doctrine Ability                                                                                    | 3, 5           | 5                  |
-| 3rd   | Out of Position, 7-Focus Ability                                                                                            | 3, 5, 7        | 5                  |
-| 4th   | Characteristic Increase, Focus on Their Weakness, Improved Field Arsenal, Perk, Skill                                       | 3, 5, 7        | 5                  |
-| 5th   | Doctrine Feature, 9-Focus Ability                                                                                           | 3, 5, 7, 9     | 5                  |
-| 6th   | Master of Arms, Perk, Doctrine Ability                                                                                      | 3, 5, 7, 9     | 5, 9               |
-| 7th   | Characteristic Increase, Heightened Focus, Seize the Initiative, Skill, Doctrine Feature                                    | 3, 5, 7, 9     | 5, 9               |
-| 8th   | Perk, Doctrine Feature, 11-Focus Ability                                                                                    | 3, 5, 7, 9, 11 | 5, 9               |
-| 9th   | Grandmaster of Arms, Doctrine Ability                                                                                       | 3, 5, 7, 9, 11 | 5, 9, 11           |
-| 10th  | Characteristic Increase, Command, Perk, Skill, True Focus, Warmaster                                                        | 3, 5, 7, 9, 11 | 5, 9, 11           |
 
 ##### Focus in Combat
 
@@ -116,47 +101,50 @@ Your tactical doctrine grants you a triggered action, as shown on the Doctrine T
 | Mastermind | Overwatch        |
 | Vanguard   | Parry            |
 
-###### Advanced Tactics
+<!-- -->
+> ###### Advanced Tactics
+>
+> *Your leadership aids an ally.*
+>
+> | **Ranged**       |   **Triggered** |
+> | ---------------- | --------------: |
+> | **📏 Ranged 10** | **🎯 One ally** |
+>
+> **Trigger:** The target deals damage to another creature.
+>
+> **Effect:** The target gains 2 surges, which they can use on the triggering damage.
+>
+> **Spend 1 Focus:** If the damage has any potency effect associated with it, the potency is increased by 1.
 
-*Your leadership aids an ally.*
+<!-- -->
+> ###### Overwatch
+>
+> *Under your direction, an ally waits for just the right moment to strike.*
+>
+> | **Ranged**       |       **Triggered** |
+> | ---------------- | ------------------: |
+> | **📏 Ranged 10** | **🎯 One creature** |
+>
+> **Trigger:** The target moves.
+>
+> **Effect:** At any time during the target's movement, one ally can make a free strike against them.
+>
+> **Spend 1 Focus:** If the target has R < AVERAGE, they are slowed (EoT).
 
-| **Ranged**       |   **Triggered** |
-| ---------------- | --------------: |
-| **📏 Ranged 10** | **🎯 One ally** |
-
-**Trigger:** The target deals damage to another creature.
-
-**Effect:** The target gains 2 surges, which they can use on the triggering damage.
-
-**Spend 1 Focus:** If the damage has any potency effect associated with it, the potency is increased by 1.
-
-###### Overwatch
-
-*Under your direction, an ally waits for just the right moment to strike.*
-
-| **Ranged**       |       **Triggered** |
-| ---------------- | ------------------: |
-| **📏 Ranged 10** | **🎯 One creature** |
-
-**Trigger:** The target moves.
-
-**Effect:** At any time during the target's movement, one ally can make a free strike against them.
-
-**Spend 1 Focus:** If the target has R < AVERAGE, they are slowed (EoT).
-
-###### Parry
-
-*Your quick reflexes cost an enemy the precision they seek.*
-
-| **Melee, Weapon** |           **Triggered** |
-| ----------------- | ----------------------: |
-| **📏 Melee 2**    | **🎯 Self or one ally** |
-
-**Trigger:** A creature deals damage to the target.
-
-**Effect:** You can shift 1 square. If the target is you, or if you end this shift adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.
-
-**Spend 1 Focus:** This ability's distance becomes Melee 1 + your Reason score, and you can shift up to a number of squares equal to your Reason score instead of 1 square.
+<!-- -->
+> ###### Parry
+>
+> *Your quick reflexes cost an enemy the precision they seek.*
+>
+> | **Melee, Weapon** |           **Triggered** |
+> | ----------------- | ----------------------: |
+> | **📏 Melee 2**    | **🎯 Self or one ally** |
+>
+> **Trigger:** A creature deals damage to the target.
+>
+> **Effect:** You can shift 1 square. If the target is you, or if you end this shift adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.
+>
+> **Spend 1 Focus:** This ability's distance becomes Melee 1 + your Reason score, and you can shift up to a number of squares equal to your Reason score instead of 1 square.
 
 #### Field Arsenal
 
@@ -181,42 +169,44 @@ Kit signature abilities have their kit's bonuses already applied, which might re
 
 You know how to focus the attention of your allies as you push them toward victory. You have the following ability.
 
-###### Mark
-
-*You draw your allies' attention to a specific foe—with devastating effect.*
-
-| **Ranged**       |        **Maneuver** |
-| ---------------- | ------------------: |
-| **📏 Ranged 10** | **🎯 One creature** |
-
-**Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another tactician marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.
-
-You can initially mark only one creature using this ability, though other tactician abilities allow you to mark additional creatures at the same time. The mastermind tactical doctrine's Anticipation feature allows you to target additional creatures with this ability starting at 5th level.
-
-While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 focus to gain one of the following benefits as a free triggered action:
-
-- The ability deals extra damage equal to twice your Reason score.
-- The creature dealing the damage can spend a Recovery.
-- The creature dealing the damage can shift up to a number of squares equal to your Reason score.
-- If you damage a creature marked by you with a melee ability, the creature is taunted by you until the end of their next turn.
-
-You can't gain more than one benefit from the same trigger.
+<!-- -->
+> ###### Mark
+>
+> *You draw your allies' attention to a specific foe—with devastating effect.*
+>
+> | **Ranged**       |        **Maneuver** |
+> | ---------------- | ------------------: |
+> | **📏 Ranged 10** | **🎯 One creature** |
+>
+> **Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another tactician marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.
+>
+> You can initially mark only one creature using this ability, though other tactician abilities allow you to mark additional creatures at the same time. The mastermind tactical doctrine's Anticipation feature allows you to target additional creatures with this ability starting at 5th level.
+>
+> While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 focus to gain one of the following benefits as a free triggered action:
+>
+> - The ability deals extra damage equal to twice your Reason score.
+> - The creature dealing the damage can spend a Recovery.
+> - The creature dealing the damage can shift up to a number of squares equal to your Reason score.
+> - If you damage a creature marked by you with a melee ability, the creature is taunted by you until the end of their next turn.
+>
+> You can't gain more than one benefit from the same trigger.
 
 #### Strike Now
 
 You have the following ability.
 
-###### "Strike Now!"
-
-*Your foe left an opening. You point this out to an ally!*
-
-| **Ranged**       | **Main action** |
-| ---------------- | --------------: |
-| **📏 Ranged 10** | **🎯 One ally** |
-
-**Effect:** The target can use a signature ability as a free triggered action.
-
-**Spend 5 Focus:** You target two allies instead of one.
+<!-- -->
+> ###### "Strike Now!"
+>
+> *Your foe left an opening. You point this out to an ally!*
+>
+> | **Ranged**       | **Main action** |
+> | ---------------- | --------------: |
+> | **📏 Ranged 10** | **🎯 One ally** |
+>
+> **Effect:** The target can use a signature ability as a free triggered action.
+>
+> **Spend 5 Focus:** You target two allies instead of one.
 
 #### Tactician Abilities
 
@@ -234,112 +224,120 @@ Your heroic abilities cover a range of combat tactics, all of which require focu
 
 Choose one heroic ability from the following options, each of which costs 3 focus to use. (*Quick Build:* Inspiring Strike.)
 
-###### Battle Cry (3 Focus)
+<!-- -->
+> ###### Battle Cry (3 Focus)
+>
+> *You shout a phrase that galvanizes your team.*
+>
+> | **Ranged**       |        **Maneuver** |
+> | ---------------- | ------------------: |
+> | **📏 Ranged 10** | **🎯 Three allies** |
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** Each target gains 1 surge.
+> - **12-16:** Each target gains 2 surges.
+> - **17+:** Each target gains 3 surges.
 
-*You shout a phrase that galvanizes your team.*
+<!-- -->
+> ###### Concussive Strike (3 Focus)
+>
+> *Your precise strike leaves your foe struggling to respond.*
+>
+> | **Melee, Ranged, Strike, Weapon** |               **Main action** |
+> | --------------------------------- | ----------------------------: |
+> | **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 3 + M damage; M < WEAK, dazed (save ends)
+> - **12-16:** 5 + M damage; M < AVERAGE, dazed (save ends)
+> - **17+:** 8 + M damage; M < STRONG, dazed (save ends)
 
-| **Ranged**       |        **Maneuver** |
-| ---------------- | ------------------: |
-| **📏 Ranged 10** | **🎯 Three allies** |
+<!-- -->
+> ###### Inspiring Strike (3 Focus)
+>
+> *Your attack gives an ally hope.*
+>
+> | **Melee, Ranged, Strike, Weapon** |               **Main action** |
+> | --------------------------------- | ----------------------------: |
+> | **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 3 + M damage; you or one ally within 10 squares of you can spend a Recovery
+> - **12-16:** 5 + M damage; you or one ally within 10 squares of you can spend a Recovery
+> - **17+:** 8 + M damage; you and one ally within 10 squares of you can spend a Recovery, and each of you gains an edge on the next ability roll you make during the encounter
 
-**Power Roll + Reason:**
-
-- **≤11:** Each target gains 1 surge.
-- **12-16:** Each target gains 2 surges.
-- **17+:** Each target gains 3 surges.
-
-###### Concussive Strike (3 Focus)
-
-*Your precise strike leaves your foe struggling to respond.*
-
-| **Melee, Ranged, Strike, Weapon** |               **Main action** |
-| --------------------------------- | ----------------------------: |
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 3 + M damage; M < WEAK, dazed (save ends)
-- **12-16:** 5 + M damage; M < AVERAGE, dazed (save ends)
-- **17+:** 8 + M damage; M < STRONG, dazed (save ends)
-
-###### Inspiring Strike (3 Focus)
-
-*Your attack gives an ally hope.*
-
-| **Melee, Ranged, Strike, Weapon** |               **Main action** |
-| --------------------------------- | ----------------------------: |
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 3 + M damage; you or one ally within 10 squares of you can spend a Recovery
-- **12-16:** 5 + M damage; you or one ally within 10 squares of you can spend a Recovery
-- **17+:** 8 + M damage; you and one ally within 10 squares of you can spend a Recovery, and each of you gains an edge on the next ability roll you make during the encounter
-
-###### Squad! Forward! (3 Focus)
-
-*On your command, you and your allies force back the enemy line.*
-
-| **Ranged**       |               **Maneuver** |
-| ---------------- | -------------------------: |
-| **📏 Ranged 10** | **🎯 Self and two allies** |
-
-**Effect:** Each target can move up to their speed.
+<!-- -->
+> ###### Squad! Forward! (3 Focus)
+>
+> *On your command, you and your allies force back the enemy line.*
+>
+> | **Ranged**       |               **Maneuver** |
+> | ---------------- | -------------------------: |
+> | **📏 Ranged 10** | **🎯 Self and two allies** |
+>
+> **Effect:** Each target can move up to their speed.
 
 #### 5-Focus Ability
 
 Choose one heroic ability from the following options, each of which costs 5 focus to use. (*Quick Build:* Hammer and Anvil.)
 
-###### Hammer and Anvil (5 Focus)
+<!-- -->
+> ###### Hammer and Anvil (5 Focus)
+>
+> *"Let's not argue about who's the hammer and who's the anvil!"*
+>
+> | **Melee, Ranged, Strike, Weapon** |               **Main action** |
+> | --------------------------------- | ----------------------------: |
+> | **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 5 + M damage; one ally within 10 squares of you can use a strike signature ability against the target as a free triggered action
+> - **12-16:** 9 + M damage; one ally within 10 squares of you can use a strike signature ability that gains an edge against the target as a free triggered action
+> - **17+:** 12 + M damage; two allies within 10 squares of you can each use a strike signature ability that gains an edge against the target as a free triggered action
+>
+> **Effect:** If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target.
 
-*"Let's not argue about who's the hammer and who's the anvil!"*
+<!-- -->
+> ###### Mind Game (5 Focus)
+>
+> *Your attack demoralizes your foe. Your allies begin to think you can win.*
+>
+> | **Melee, Ranged, Strike, Weapon** |               **Main action** |
+> | --------------------------------- | ----------------------------: |
+> | **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+>
+> **Effect:** You mark the target.
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 4 + M damage; R < WEAK, weakened (save ends)
+> - **12-16:** 6 + M damage; R < AVERAGE, weakened (save ends)
+> - **17+:** 10 + M damage; R < STRONG, weakened (save ends)
+>
+> **Effect:** Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a Recovery.
 
-| **Melee, Ranged, Strike, Weapon** |               **Main action** |
-| --------------------------------- | ----------------------------: |
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+<!-- -->
+> ###### Now! (5 Focus)
+>
+> *Your allies wait for your command—then unleash death!*
+>
+> | **Ranged**       |        **Maneuver** |
+> | ---------------- | ------------------: |
+> | **📏 Ranged 10** | **🎯 Three allies** |
+>
+> **Effect:** Each target can make a free strike.
 
-**Power Roll + Might:**
-
-- **≤11:** 5 + M damage; one ally within 10 squares of you can use a strike signature ability against the target as a free triggered action
-- **12-16:** 9 + M damage; one ally within 10 squares of you can use a strike signature ability that gains an edge against the target as a free triggered action
-- **17+:** 12 + M damage; two allies within 10 squares of you can each use a strike signature ability that gains an edge against the target as a free triggered action
-
-**Effect:** If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target.
-
-###### Mind Game (5 Focus)
-
-*Your attack demoralizes your foe. Your allies begin to think you can win.*
-
-| **Melee, Ranged, Strike, Weapon** |               **Main action** |
-| --------------------------------- | ----------------------------: |
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
-
-**Effect:** You mark the target.
-
-**Power Roll + Might:**
-
-- **≤11:** 4 + M damage; R < WEAK, weakened (save ends)
-- **12-16:** 6 + M damage; R < AVERAGE, weakened (save ends)
-- **17+:** 10 + M damage; R < STRONG, weakened (save ends)
-
-**Effect:** Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a Recovery.
-
-###### Now! (5 Focus)
-
-*Your allies wait for your command—then unleash death!*
-
-| **Ranged**       |        **Maneuver** |
-| ---------------- | ------------------: |
-| **📏 Ranged 10** | **🎯 Three allies** |
-
-**Effect:** Each target can make a free strike.
-
-###### This Is What We Planned For (5 Focus)
-
-*All those coordination drills you made them do finally pay off.*
-
-| **Ranged**       |      **Maneuver** |
-| ---------------- | ----------------: |
-| **📏 Ranged 10** | **🎯 Two allies** |
-
-**Effect:** Each target who hasn't acted yet this combat round can take their turn in any order immediately after yours.
+<!-- -->
+> ###### This Is What We Planned For (5 Focus)
+>
+> *All those coordination drills you made them do finally pay off.*
+>
+> | **Ranged**       |      **Maneuver** |
+> | ---------------- | ----------------: |
+> | **📏 Ranged 10** | **🎯 Two allies** |
+>
+> **Effect:** Each target who hasn't acted yet this combat round can take their turn in any order immediately after yours.

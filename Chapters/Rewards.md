@@ -500,7 +500,7 @@ A creature with a willing soul returns to life at the end of the respite with fu
 - **Size 2:** vertical pull 3
 - **Size 3:** vertical pull 1
 
-If you pull a size 1T object adjacent to you, you can catch it.
+If you pull a size 1T object adjacent to you, you can catch it. This treasure can affect any target within line of effect.
 
 ##### Vial of Ethereal Attack
 
@@ -1132,15 +1132,16 @@ While the eyes circle your head, you can use a maneuver to launch up to three of
 
 Additionally, you have the following ability.
 
-###### Hallucination Field
-
-*A blanket of illusion twists around you and your allies, making you seem as if you belong wherever you are.*
-
-| **Psionic, Ranged** |             **Maneuver** |
-| ------------------- | -----------------------: |
-| **📏 Ranged 10**    | **🎯 Self and any ally** |
-
-**Effect:** Each target is covered by an illusion causing them to appear exactly as any creature (humanoid, animal, undead, and so forth) an observer most expects to see. The illusion ends for all targets if any creature under its effect harms or physically interacts with any creature not affected by the illusion, if you use this ability again, or if you choose to end the effect (no action required). The illusion also ends for any affected ally who moves more than the distance of this ability away from you.
+<!-- -->
+> ###### Hallucination Field
+>
+> *A blanket of illusion twists around you and your allies, making you seem as if you belong wherever you are.*
+>
+> | **Psionic, Ranged** |             **Maneuver** |
+> | ------------------- | -----------------------: |
+> | **📏 Ranged 10**    | **🎯 Self and any ally** |
+>
+> **Effect:** Each target is covered by an illusion causing them to appear exactly as any creature (humanoid, animal, undead, and so forth) an observer most expects to see. The illusion ends for all targets if any creature under its effect harms or physically interacts with any creature not affected by the illusion, if you use this ability again, or if you choose to end the effect (no action required). The illusion also ends for any affected ally who moves more than the distance of this ability away from you.
 
 ##### Nullfield Resonator Ring
 
@@ -1160,21 +1161,22 @@ Additionally, you have the following ability.
 
 Additionally, you have the following ability.
 
-###### Nullring Strike
-
-*Your punch delivers a devastating burst of psionic energy.*
-
-| **Melee, Psionic**, **Strike, Weapon** |               **Main action** |
-| -------------------------------------- | ----------------------------: |
-| **📏 Melee 1**                         | **🎯 One creature or object** |
-
-**Power Roll + Might or Agility:**
-
-- **≤11:** 3 psychic damage
-- **12-16:** 5 psychic damage; I < AVERAGE, slowed (save ends)
-- **17+:** 8 psychic damage; I < STRONG, slowed (save ends)
-
-**Effect:** While slowed in this way, the target takes a bane on magic or psionic abilities.
+<!-- -->
+> ###### Nullring Strike
+>
+> *Your punch delivers a devastating burst of psionic energy.*
+>
+> | **Melee, Psionic**, **Strike, Weapon** |               **Main action** |
+> | -------------------------------------- | ----------------------------: |
+> | **📏 Melee 1**                         | **🎯 One creature or object** |
+>
+> **Power Roll + Might or Agility:**
+>
+> - **≤11:** 3 psychic damage
+> - **12-16:** 5 psychic damage; I < AVERAGE, slowed (save ends)
+> - **17+:** 8 psychic damage; I < STRONG, slowed (save ends)
+>
+> **Effect:** While slowed in this way, the target takes a bane on magic or psionic abilities.
 
 ##### Shifting Ring
 
@@ -2057,9 +2059,10 @@ Although the Director gives out titles, if you want to earn a specific title, le
 
 Each title is assigned to an echelon of play where it is most likely to be earned. For instance, knighthood is something that can be typically earned by the 2nd echelon, but becoming a monarch can usually only be achieved in the 4th echelon. But don't let the rules get in the way of a good story! If the Director decides that your character somehow wins a knighthood at 1st level, bask in the glory of this great accomplishment.
 
-###### For the Director: Granting Titles Early
-
-Granting titles before characters reach the recommended echelon can be fun, but it's worth noting that doing so might have unwanted effects on the game. Higher-echelon titles often grant more significant benefits than lower-echelon titles. If a hero becomes queen at 1st level, her royal responsibilities might overshadow her other adventures. Don't grant a title more than one echelon early unless you know what you're getting yourself into!
+<!-- -->
+> For the Director: Granting Titles Early
+>
+> Granting titles before characters reach the recommended echelon can be fun, but it's worth noting that doing so might have unwanted effects on the game. Higher-echelon titles often grant more significant benefits than lower-echelon titles. If a hero becomes queen at 1st level, her royal responsibilities might overshadow her other adventures. Don't grant a title more than one echelon early unless you know what you're getting yourself into!
 
 ### Customizing Titles
 
@@ -2284,15 +2287,16 @@ At a dramatic moment determined by the Director, you rejoin your party with an e
 
 - *Come Out to Play:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
-###### Come Out to Play (1 Heroic Resource)
-
-*Come out to play—yay!*
-
-| **Area, Magic** |                                **Maneuver** |
-| --------------- | ------------------------------------------: |
-| **📏 5 burst**  | **🎯 Each enemy in the area hidden to you** |
-
-**Effect:** Each target who has P < AVERAGE is taunted by you until the end of their next turn, and you know the location of each creature taunted in this way.
+<!-- -->
+> ###### Come Out to Play (1 Heroic Resource)
+>
+> *Come out to play—yay!*
+>
+> | **Area, Magic** |                                **Maneuver** |
+> | --------------- | ------------------------------------------: |
+> | **📏 5 burst**  | **🎯 Each enemy in the area hidden to you** |
+>
+> **Effect:** Each target who has P < AVERAGE is taunted by you until the end of their next turn, and you know the location of each creature taunted in this way.
 
 - *Deadly and Big:* Your strikes gain a +3 damage bonus against creatures whose size is smaller than yours.
 - *Everybody Move!:* When you use the Knockback maneuver, you can target one additional creature of your size or two additional smaller creatures.
@@ -2362,15 +2366,16 @@ The Director chooses one of the following benefits, based on the fate your capto
 - *Divine Health:* You gain corruption immunity equal to your highest characteristic score. Additionally, you can't be turned into an undead creature.
 - *Holy Terror:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
-###### Holy Terror (3 Heroic Resource)
-
-*Return to your grave!*
-
-| **Area, Magic** |                         **Maneuver** |
-| --------------- | -----------------------------------: |
-| **📏 3 burst**  | **🎯 Each undead enemy in the area** |
-
-**Effect:** Each target takes holy damage equal to your Reason, Intuition, or Presence score (your choice). Additionally, each target who has P < STRONG is frightened (save ends).
+<!-- -->
+> ###### Holy Terror (3 Heroic Resource)
+>
+> *Return to your grave!*
+>
+> | **Area, Magic** |                         **Maneuver** |
+> | --------------- | -----------------------------------: |
+> | **📏 3 burst**  | **🎯 Each undead enemy in the area** |
+>
+> **Effect:** Each target takes holy damage equal to your Reason, Intuition, or Presence score (your choice). Additionally, each target who has P < STRONG is frightened (save ends).
 
 ### 2nd-Echelon Titles
 
@@ -2389,19 +2394,20 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 - *Instant Celebrity:* You earn 1 Renown.
 - *Showstopper:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
-###### Showstopper (5 Heroic Resource)
-
-| **Melee, Strike, Weapon** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might or Agility:**
-
-- **≤11:** 6 damage; I < WEAK, slowed (save ends)
-- **12-16:** 10 damage; I < AVERAGE, frightened (save ends)
-- **17+:** 14 damage; I < STRONG, dazed (save ends)
-
-**Effect:** If you kill a non-minion opponent using this ability, each enemy within 3 squares of you is frightened (save ends).
+<!-- -->
+> ###### Showstopper (5 Heroic Resource)
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Might or Agility:**
+>
+> - **≤11:** 6 damage; I < WEAK, slowed (save ends)
+> - **12-16:** 10 damage; I < AVERAGE, frightened (save ends)
+> - **17+:** 14 damage; I < STRONG, dazed (save ends)
+>
+> **Effect:** If you kill a non-minion opponent using this ability, each enemy within 3 squares of you is frightened (save ends).
 
 #### Awakened
 
@@ -2425,15 +2431,16 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 - *Charge!:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
-###### Charge! (9 Heroic Resource)
-
-*Follow me!*
-
-| **Area**       |                       **Main action** |
-| -------------- | ------------------------------------: |
-| **📏 3 burst** | **🎯 Self and each ally in the area** |
-
-**Effect:** Each target can use the Charge main action.
+<!-- -->
+> ###### Charge! (9 Heroic Resource)
+>
+> *Follow me!*
+>
+> | **Area**       |                       **Main action** |
+> | -------------- | ------------------------------------: |
+> | **📏 3 burst** | **🎯 Self and each ally in the area** |
+>
+> **Effect:** Each target can use the Charge main action.
 
 - *Renowned Warrior:* You earn 1 Renown.
 - *Student of War:* Choose a 1st-level doctrine feature from the tactician class. You gain that feature even if you don't have the Tactical Doctrine feature.
@@ -2497,19 +2504,20 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 - *Smallfolk Dodge:* Any creature of size 2 or larger takes a bane on strikes against you.
 - *The Harder They Fall:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
-###### The Harder They Fall (7 Heroic Resource)
-
-| **Melee, Strike, Weapon** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might or Agility:**
-
-- **≤11:** 7 damage; M < WEAK, prone and can't stand (save ends)
-- **12-16:** 11 damage; M < AVERAGE, prone and can't stand (save ends)
-- **17+:** 16 damage; M < STRONG, prone and can't stand (save ends)
-
-**Special:** If the target is size 2 or larger, you gain an edge on this ability.
+<!-- -->
+> ###### The Harder They Fall (7 Heroic Resource)
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Might or Agility:**
+>
+> - **≤11:** 7 damage; M < WEAK, prone and can't stand (save ends)
+> - **12-16:** 11 damage; M < AVERAGE, prone and can't stand (save ends)
+> - **17+:** 16 damage; M < STRONG, prone and can't stand (save ends)
+>
+> **Special:** If the target is size 2 or larger, you gain an edge on this ability.
 
 - *Up the Beanstalk:* You have the Climb skill. If you already have this skill, you instead gain an edge on tests made using the Climb skill. While you're climbing a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.
 
@@ -2537,17 +2545,18 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 - *Sneakers:* You gain the Sneak skill. If you already have this skill, you instead gain an edge on tests made using the Sneak skill. During group tests, you can both use the Sneak skill and assist another hero using the Sneak skill.
 - *Timely Distraction:* You have the following triggered action.
 
-###### Timely Distraction
-
-*Coming through with hot soup!<br/> I better watch out for that banana peel!*
-
-| **Ranged**       |       **Triggered** |
-| ---------------- | ------------------: |
-| **📏 Ranged 10** | **🎯 One creature** |
-
-**Trigger:** An ally makes a test to lie to, pick the pocket of, hide from, or sneak by the target and doesn't like the outcome.
-
-**Effect:** You momentarily attract the target's notice to let your ally reroll their test. Once you use this ability, you can't use it again against the same target for 1 hour.
+<!-- -->
+> ###### Timely Distraction
+>
+> *Coming through with hot soup!<br/> I better watch out for that banana peel!*
+>
+> | **Ranged**       |       **Triggered** |
+> | ---------------- | ------------------: |
+> | **📏 Ranged 10** | **🎯 One creature** |
+>
+> **Trigger:** An ally makes a test to lie to, pick the pocket of, hide from, or sneak by the target and doesn't like the outcome.
+>
+> **Effect:** You momentarily attract the target's notice to let your ally reroll their test. Once you use this ability, you can't use it again against the same target for 1 hour.
 
 #### Knight
 
@@ -2561,23 +2570,24 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 - *Knightly Aegis:* Your Stamina maximum increases by 6.
 - *Knightly Challenge:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
-###### Knightly Challenge (5 Heroic Resource)
-
-*Have at thee!*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might or Agility:**
-
-- **≤11:** 7 damage; taunted (save ends)
-- **12-16:** 11 damage; taunted (save ends)
-- **17+:** 16 damage; taunted (save ends)
-
-**Effect:** You can end the taunted condition on the target as a free maneuver.
-
-**Special:** If you take this title, you might occasionally be called upon to perform duties for the person who knighted you.
+<!-- -->
+> ###### Knightly Challenge (5 Heroic Resource)
+>
+> *Have at thee!*
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Might or Agility:**
+>
+> - **≤11:** 7 damage; taunted (save ends)
+> - **12-16:** 11 damage; taunted (save ends)
+> - **17+:** 16 damage; taunted (save ends)
+>
+> **Effect:** You can end the taunted condition on the target as a free maneuver.
+>
+> **Special:** If you take this title, you might occasionally be called upon to perform duties for the person who knighted you.
 
 #### Master Librarian
 
@@ -2738,23 +2748,24 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 - *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one class act triggered action from the troubadour class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend drama, you can gain or spend the Heroic Resource of your class in place of drama.
 - *Devil's Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
-###### The Devil's Chord (9 Heroic Resource)
+<!-- -->
+> ###### The Devil's Chord (9 Heroic Resource)
+>
+> *Helloooo Orden!*
+>
+> | **Area, Magic** |                  **Main action** |
+> | --------------- | -------------------------------: |
+> | **📏 5 burst**  | **🎯 Each creature in the area** |
+>
+> **Power Roll + Presence:**
+>
+> - **≤11:** You take 4 sonic damage unless you have the Performance skill.
+> - **12-16:** 6 sonic damage; M < AVERAGE, weakened (save ends)
+> - **17+:** 10 sonic damage; M < STRONG, weakened and bleeding (save ends)
+>
+> **Effect:** The soul of any creature killed by this ability is dragged to Hell.
 
-*Helloooo Orden!*
-
-| **Area, Magic** |                  **Main action** |
-| --------------- | -------------------------------: |
-| **📏 5 burst**  | **🎯 Each creature in the area** |
-
-**Power Roll + Presence:**
-
-- **≤11:** You take 4 sonic damage unless you have the Performance skill.
-- **12-16:** 6 sonic damage; M < AVERAGE, weakened (save ends)
-- **17+:** 10 sonic damage; M < STRONG, weakened and bleeding (save ends)
-
-**Effect:** The soul of any creature killed by this ability is dragged to Hell.
-
-*Music of the Spheres:* As a main action, you sing or play a note as delicate and sharp as glass—and just as easily shattered. Until the start of your next turn, whenever a creature within 10 squares makes a strike, they take 8 sonic damage. Whenever you make a strike during that same period, you also take 8 sonic damage.
+- *Music of the Spheres:* As a main action, you sing or play a note as delicate and sharp as glass—and just as easily shattered. Until the start of your next turn, whenever a creature within 10 squares makes a strike, they take 8 sonic damage. Whenever you make a strike during that same period, you also take 8 sonic damage.
 
 #### Master Crafter
 
@@ -2970,7 +2981,7 @@ Additionally, choose a heroic ability belonging to any class. You gain this hero
 
 As you accomplish heroic deeds, your fame allows you to influence NPCs and attract followers. Your infamy among your enemies also grows. Every hero has a Renown score that represents how they can use their reputation to influence others. The higher the score, the greater your impact with those who know of your legend.
 
-At the start of character creation, your Renown is 0. Some careers can increase your initial Renown score (see [Chapter 4: Background](#page-67-0)).
+At the start of character creation, your Renown is 0. Some careers can increase your initial Renown score (see Chapter 4: Background).
 
 ### Increasing Renown
 
@@ -3035,7 +3046,7 @@ Treasures such as magic swords, psionic crowns, and even healing potions are rar
 
 ### Earning Wealth
 
-Each hero starts with a Wealth score of 1 that can be improved by their choice of career during character creation (see [Chapter 4: Background](#page-67-0)). Your hero earns Wealth whenever you find and keep a massive amount of monetary treasure, such as a hoard of coins and gems from a dragon's lair, or several unique and valuable paintings gifted by a monarch as a reward for a job well done.
+Each hero starts with a Wealth score of 1 that can be improved by their choice of career during character creation (see Chapter 4: Background). Your hero earns Wealth whenever you find and keep a massive amount of monetary treasure, such as a hoard of coins and gems from a dragon's lair, or several unique and valuable paintings gifted by a monarch as a reward for a job well done.
 
 In general, a hero earns 1 wealth every second level of play. The Director can increase this rate if they wish.
 

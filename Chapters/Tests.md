@@ -64,7 +64,7 @@ You make an Intuition test whenever you attempt a risky task that requires the u
 
 ##### Presence Tests
 
-You make a Presence test whenever you attempt a risky task that requires the use of your force of personality. Presence tests are most often used to gain trust, project confidence, and influence and lead other creatures.hough it's easier than easy, then
+You make a Presence test whenever you attempt a risky task that requires the use of your force of personality. Presence tests are most often used to gain trust, project confidence, and influence and lead other creatures.
 
 <!-- -->
 > **Influencing Player Characters With Tests**
@@ -533,8 +533,6 @@ When you use the Hide maneuver to hide during combat while you have cover or con
 While you are hidden from another creature, the creature can't target you with abilities that don't have the Area keyword. This benefit ends as soon as you are no longer hidden from that creature.
 
 Additionally, while you are hidden from another creature, you gain an edge on ability rolls made against that creature. This benefit lasts until the end of the turn in which you are no longer hidden. This means you can be hidden from another creature at the start of your turn, move out of cover or concealment toward them and use an ability against them, and still gain an edge on ability rolls made against the creature as long as you use the ability before the end of that turn.
-
-Draw Steel
 
 You are no longer hidden from a creature if you don't have cover or concealment from them. If you use an ability, interact with an enemy, move without sneaking, or otherwise make noise or reveal yourself while hidden, you are no longer hidden once the activity that reveals you resolves. For instance, if you are hidden and then make a strike, you resolve the strike first, then are no longer hidden.
 

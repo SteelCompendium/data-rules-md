@@ -2,14 +2,14 @@
 file_basename: 5th Level Features
 file_dpath: Classes By Level/Tactician
 item_id: 5th-level-features
-item_index: '68'
+item_index: '11'
 item_name: 5th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:5th-level-features
+  - mcdm.heroes.v1:class.tactician.level:5th-level-features
 scdc:
-  - 1.1.1:2.1:68
+  - 1.1.1:2.6.1:11
 source: mcdm.heroes.v1
-type: class/level
+type: class/tactician/level
 ---
 
 ### 5th-Level Features
@@ -56,48 +56,52 @@ When you use the Charge main action to attack a creature marked by you, you can 
 
 Choose one heroic ability from the following options, each of which costs 9 focus to use.
 
-###### Squad! Gear Check! (9 Focus)
+<!-- -->
+> ###### Squad! Gear Check! (9 Focus)
+>
+> *You distract a foe while your allies secure their defensive gear.*
+>
+> | **Melee, Strike, Weapon** | **Main action**     |
+> | ------------------------- | ------------------- |
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 9 + M damage
+> - **12-16:** 13 + M damage
+> - **17+:** 18 + M damage
+>
+> **Effect:** You and each ally adjacent to the target gain 10 temporary Stamina.
 
-*You distract a foe while your allies secure their defensive gear.*
+<!-- -->
+> ###### Squad! Remember Your Training! (9 Focus)
+>
+> *You remind your allies how to best use their gear.*
+>
+> | **Ranged**       |            **Main action** |
+> | ---------------- | -------------------------: |
+> | **📏 Ranged 10** | **🎯 Self and two allies** |
+>
+> **Effect:** Each target gains 1 surge and can use a signature ability that has a double edge.
 
-| **Melee, Strike, Weapon** | **Main action**     |
-| ------------------------- | ------------------- |
-| **📏 Melee 1**            | **🎯 One creature** |
+<!-- -->
+> ###### Win This Day! (9 Focus)
+>
+> *You inspire your allies to recover and gather their strength.*
+>
+> | **Area**       |                       **Main action** |
+> | -------------- | ------------------------------------: |
+> | **📏 3 burst** | **🎯 Self and each ally in the area** |
+>
+> **Effect:** Each target gains 2 surges. Additionally, they can spend a Recovery, remove any conditions or effects on them, and stand up if they are prone.
 
-**Power Roll + Might:**
-
-- **≤11:** 9 + M damage
-- **12-16:** 13 + M damage
-- **17+:** 18 + M damage
-
-**Effect:** You and each ally adjacent to the target gain 10 temporary Stamina.
-
-###### Squad! Remember Your Training! (9 Focus)
-
-*You remind your allies how to best use their gear.*
-
-| **Ranged**       |            **Main action** |
-| ---------------- | -------------------------: |
-| **📏 Ranged 10** | **🎯 Self and two allies** |
-
-**Effect:** Each target gains 1 surge and can use a signature ability that has a double edge.
-
-###### Win This Day! (9 Focus)
-
-*You inspire your allies to recover and gather their strength.*
-
-| **Area**       |                       **Main action** |
-| -------------- | ------------------------------------: |
-| **📏 3 burst** | **🎯 Self and each ally in the area** |
-
-**Effect:** Each target gains 2 surges. Additionally, they can spend a Recovery, remove any conditions or effects on them, and stand up if they are prone.
-
-###### You've Still Got Something Left (9 Focus)
-
-*You push an ally to use a heroic ability sooner than they otherwise would.*
-
-| **Ranged**       | **Main action** |
-| ---------------- | --------------: |
-| **📏 Ranged 10** | **🎯 One ally** |
-
-**Effect:** The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its Heroic Resource cost reduced by 1 + your Reason score (minimum cost 0).
+<!-- -->
+> ###### You've Still Got Something Left (9 Focus)
+>
+> *You push an ally to use a heroic ability sooner than they otherwise would.*
+>
+> | **Ranged**       | **Main action** |
+> | ---------------- | --------------: |
+> | **📏 Ranged 10** | **🎯 One ally** |
+>
+> **Effect:** The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its Heroic Resource cost reduced by 1 + your Reason score (minimum cost 0).

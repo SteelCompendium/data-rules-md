@@ -2,14 +2,14 @@
 file_basename: 3rd Level Features
 file_dpath: Classes By Level/Fury
 item_id: 3rd-level-features
-item_index: '48'
+item_index: '04'
 item_name: 3rd-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:3rd-level-features
+  - mcdm.heroes.v1:class.fury.level:3rd-level-features
 scdc:
-  - 1.1.1:2.1:48
+  - 1.1.1:2.5.1:04
 source: mcdm.heroes.v1
-type: class/level
+type: class/fury/level
 ---
 
 ### 3rd-Level Features
@@ -48,42 +48,46 @@ You have a double edge on tests made to search for hidden creatures, discern hid
 
 Choose one heroic ability from the following options, each of which costs 7 ferocity to use.
 
-###### Demon Unleashed (7 Ferocity)
+<!-- -->
+> ###### Demon Unleashed (7 Ferocity)
+>
+> *Foes tremble at the sight of you.*
+>
+> | **Magic**   | **Maneuver** |
+> | ----------- | -----------: |
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is frightened until the end of their turn.
 
-*Foes tremble at the sight of you.*
+<!-- -->
+> ###### Face the Storm! (7 Ferocity)
+>
+> *Shocked in the face of your naked brutality, your enemy's instincts take over.*
+>
+> | **Magic**   | **Maneuver** |
+> | ----------- | -----------: |
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P < AVERAGE is taunted until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy taunted by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.
 
-| **Magic**   | **Maneuver** |
-| ----------- | -----------: |
-| **📏 Self** |  **🎯 Self** |
+<!-- -->
+> ###### Steelbreaker (7 Ferocity)
+>
+> *See how useless their weapons are!*
+>
+> | **Magic**   | **Maneuver** |
+> | ----------- | -----------: |
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** You gain 20 temporary Stamina.
 
-**Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is frightened until the end of their turn.
-
-###### Face the Storm! (7 Ferocity)
-
-*Shocked in the face of your naked brutality, your enemy's instincts take over.*
-
-| **Magic**   | **Maneuver** |
-| ----------- | -----------: |
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P < AVERAGE is taunted until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy taunted by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.
-
-###### Steelbreaker (7 Ferocity)
-
-*See how useless their weapons are!*
-
-| **Magic**   | **Maneuver** |
-| ----------- | -----------: |
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** You gain 20 temporary Stamina.
-
-###### You Are Already Dead (7 Ferocity)
-
-*Slash. Walk away.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Effect:** If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee free strike against them.
+<!-- -->
+> ###### You Are Already Dead (7 Ferocity)
+>
+> *Slash. Walk away.*
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Effect:** If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee free strike against them.

@@ -7,7 +7,7 @@ cost_resource: Discipline
 distance: Melee 1
 feature_type: ability
 file_basename: Relentless Nemesis
-file_dpath: Null/1st-Level Features
+file_dpath: Abilities/Null/1st-Level Features
 flavor: You strike, and for the next few moments, your enemy can't escape you.
 item_id: relentless-nemesis-3-discipline
 item_index: '03'
@@ -21,7 +21,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:relentless-nemesis-3-discipline
 scdc:
-  - 1.1.1:13.2.6.1:03
+  - 1.1.1:11.2.6.1:03
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/null/1st-level-feature
@@ -41,4 +41,4 @@ type: feature/ability/null/1st-level-feature
 - **12-16:** 8 + A damage
 - **17+:** 12 + A damage
 
-**Effect:** Until the start of your next turn, whenever the target moves or is force moved, you can use a free triggered action to shift up to your speed. You must end this shift adjacent to the target.
+**Effect:** Until the start of your next turn, whenever the target finishes moving or being force moved, you can use a free triggered action to shift up to your speed. You must end this shift adjacent to the target.

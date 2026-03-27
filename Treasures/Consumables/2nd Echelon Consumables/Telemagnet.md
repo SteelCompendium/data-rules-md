@@ -8,7 +8,7 @@ item_name: Telemagnet
 scc:
   - mcdm.heroes.v1:treasure.consumable.2nd-echelon:telemagnet
 scdc:
-  - 1.1.1:12.2.3:07
+  - 1.1.1:13.2.3:07
 source: mcdm.heroes.v1
 treasure_type: Consumable
 type: treasure/consumable/2nd-echelon
@@ -34,4 +34,4 @@ type: treasure/consumable/2nd-echelon
 - **Size 2:** vertical pull 3
 - **Size 3:** vertical pull 1
 
-If you pull a size 1T object adjacent to you, you can catch it.
+If you pull a size 1T object adjacent to you, you can catch it. This treasure can affect any target within line of effect.

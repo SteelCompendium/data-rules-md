@@ -2,14 +2,14 @@
 file_basename: 4th Level Features
 file_dpath: Classes By Level/Censor
 item_id: 4th-level-features
-item_index: '28'
+item_index: '06'
 item_name: 4th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:4th-level-features
+  - mcdm.heroes.v1:class.censor.level:4th-level-features
 scdc:
-  - 1.1.1:2.1:28
+  - 1.1.1:2.3.1:06
 source: mcdm.heroes.v1
-type: class/level
+type: class/censor/level
 ---
 
 ### 4th-Level Features
@@ -61,15 +61,16 @@ Your divine presence causes those you deem worthy to recover quickly from a figh
 
 You have the following ability.
 
-###### Blessing of Secrets
-
-*You project an illusory aura that makes you and allies harder to notice.*
-
-| **Area, Magic** |                          **Maneuver** |
-| --------------- | ------------------------------------: |
-| **📏 3 aura**   | **🎯 Self and each ally in the area** |
-
-**Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+<!-- -->
+> ###### Blessing of Secrets
+>
+> *You project an illusory aura that makes you and allies harder to notice.*
+>
+> | **Area, Magic** |                          **Maneuver** |
+> | --------------- | ------------------------------------: |
+> | **📏 3 aura**   | **🎯 Self and each ally in the area** |
+>
+> **Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 
 ##### Impervious Touch
 

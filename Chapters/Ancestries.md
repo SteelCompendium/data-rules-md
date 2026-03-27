@@ -20,7 +20,7 @@ Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are devils, dwa
 
 Your hero is one of these folks! The fantastic ancestry you choose bestows benefits that come from your anatomy and physiology. This choice doesn't grant you cultural benefits, such as crafting or lore skills, though. While many game settings have cultures made of mostly one ancestry, other cultures and worlds have a cosmopolitan mix of peoples.
 
-In *Draw Steel*, ancestry describes how you were born. Culture (part of [Chapter 4: Background](#page-67-0)) describes how you grew up. If you want to be a wode elf who was raised in a forest among other wode elves, you can do that! If you want to play a wode elf who was raised in an underground city of dwarves, humans, and orcs, you can do that too!
+In *Draw Steel*, ancestry describes how you were born. Culture (part of Chapter 4: Background) describes how you grew up. If you want to be a wode elf who was raised in a forest among other wode elves, you can do that! If you want to play a wode elf who was raised in an underground city of dwarves, humans, and orcs, you can do that too!
 
 This chapter details twelve ancestries for the game:
 
@@ -55,7 +55,7 @@ This chapter details twelve ancestries for the game:
 >
 > Edges and banes, Recoveries, respites: [Chapter 1: The Basics](#page-17-3)
 >
-> Languages: [Chapter 4: Background](#page-67-0)
+> Background Languages: Chapter 4: Background
 >
 > Abilities, conditions, potencies, saving throws, surges: [Chapter 5: Classes](#page-83-2)
 >
@@ -851,7 +851,7 @@ You have the following signature ability. Signature abilities can be used at wil
 
 - **≤11:** 2 + M or A damage; A < WEAK, slowed (save ends)
 - **12-16:** 3 + M or A damage; A < AVERAGE, slowed (save ends)
-- **17+:** 5 + M or A damage; A < STRONG, slowed (save ends)
+- **17+:** 5 + M or A damage; A < STRONG, restrained (save ends)
 
 ## High Elf
 
@@ -1375,9 +1375,7 @@ John smiled. "My sister liked fishing too."
 
 "Why not talk to my brother?"
 
-"Because we are not fools," Embers said, and Khorva locked eyes with her, standing a little straighter. The orc's brown eyes burned and it
-
-seemed the group rose somewhat in her estimation. She nodded once. "The folk of farm and field go to war," Dazar said, using the orcish term for humans. "A war against Lord Saxton and his priest."
+"Because we are not fools," Embers said, and Khorva locked eyes with her, standing a little straighter. The orc's brown eyes burned and it seemed the group rose somewhat in her estimation. She nodded once. "The folk of farm and field go to war," Dazar said, using the orcish term for humans. "A war against Lord Saxton and his priest."
 
 Khorva turned to John. "How is this your matter?"
 
@@ -1421,9 +1419,7 @@ Khorva shook her head. "Orcs have no great love for battle. We love trees and gr
 
 "It's about living with yourself. Sleeping at night."
 
-"Battles do not bring restful sleep," Khorva said. "The opposite, I find." "Battles bring glory! Battles make heroes!" Dazar insisted, and John
-
-felt like he learned something about the dwarf in that moment. He could hear that Dazar believed this to be true, and knew it was a lie. It was a test.
+"Battles do not bring restful sleep," Khorva said. "The opposite, I find." "Battles bring glory! Battles make heroes!" Dazar insisted, and John felt like he learned something about the dwarf in that moment. He could hear that Dazar believed this to be true, and knew it was a lie. It was a test.
 
 "War makes only one thing. Corpses." Khorva looked down at the high theochron, who nodded. Test passed.
 
@@ -1591,9 +1587,9 @@ You have the following ability.
 
 *You become an actual shadow.*
 
-| **Magic**   | **Main action** |
-| ----------- | --------------: |
-| **📏 Self** |     **🎯 Self** |
+| **Magic**   | **Maneuver** |
+| ----------- | -----------: |
+| **📏 Self** |  **🎯 Self** |
 
 **Effect:** You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, and strikes made against you and tests made to search for you take a bane. You can't move or be force moved, and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
 
@@ -1687,9 +1683,7 @@ The gray-skinned knight walked into the room. Metal heels rang out on the wooden
 
 "Come on." The braver of the three remaining thieves drew twin daggers. "She can't get all of us at-"
 
-Lady Filliamo made a broad gesture with her right hand and argent marks flared across the foreheads of all three thieves. A clatter of
-
-weapons hitting the floor. Three pairs of hands slowly rose in the air. "Good boys. Here, put these on." She tossed three pairs of manacles on the floor.
+Lady Filliamo made a broad gesture with her right hand and argent marks flared across the foreheads of all three thieves. A clatter of weapons hitting the floor. Three pairs of hands slowly rose in the air. "Good boys. Here, put these on." She tossed three pairs of manacles on the floor.
 
 "Hang on, you can't arrest us," one of the thieves, unarmed and still holding his hands up, said. "This isn't Capital. You don't have jurisdiction!"
 
@@ -1845,7 +1839,7 @@ The hakaan burst into action and sped past him like a blur.
 
 At the same instant, a call—a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in his heart—the clarion call of the last Storm Knight!
 
-At the sound, the orc dashed forward into a knot of wardog commandos, her axe already hewing about her.
+At the sound, the orc dashed forward into a knot of war dog commandos, her axe already hewing about her.
 
 John hadn't hesitated, he'd already drawn his sword and falchion. "All right, you patchwork son of a bitch." He charged Lycaon who fumbled with the shortsword on his belt.
 
