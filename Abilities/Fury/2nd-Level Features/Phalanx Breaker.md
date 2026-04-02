@@ -17,7 +17,7 @@ keywords:
   - Weapon
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.fury.2nd-level-feature:phalanx-breaker-5-ferocity
+  - mcdm.heroes.v1:feature.ability.fury.2nd-level-feature:phalanx-breaker
 scdc:
   - 1.1.1:11.3.5.5:05
 source: mcdm.heroes.v1

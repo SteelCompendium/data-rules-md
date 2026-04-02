@@ -17,7 +17,7 @@ keywords:
   - Ranged
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:bend-fate-11-piety
+  - mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:bend-fate
 scdc:
   - 1.1.1:11.3.8.7:03
 source: mcdm.heroes.v1

@@ -17,7 +17,7 @@ keywords:
   - Magic
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:divine-comedy-5-piety
+  - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:divine-comedy
 scdc:
   - 1.1.1:11.3.8.5:06
 source: mcdm.heroes.v1

@@ -19,7 +19,7 @@ keywords:
   - Ranged
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:storm-of-sands-9-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:storm-of-sands
 scdc:
   - 1.1.1:11.3.9.4:07
 source: mcdm.heroes.v1

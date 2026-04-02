@@ -16,7 +16,7 @@ keywords:
   - Ranged
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:squad-hit-and-run-11-focus
+  - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:squad-hit-and-run
 scdc:
   - 1.1.1:11.3.4.7:06
 source: mcdm.heroes.v1

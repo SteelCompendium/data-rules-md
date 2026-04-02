@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.ability.shadow.8th-level-feature:assassinate-11-insight
+  - mcdm.heroes.v1:feature.ability.shadow.8th-level-feature:assassinate
 scdc:
   - 1.1.1:11.3.2.2:04
 source: mcdm.heroes.v1

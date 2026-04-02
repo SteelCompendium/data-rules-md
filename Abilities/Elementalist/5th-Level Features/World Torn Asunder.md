@@ -18,7 +18,7 @@ keywords:
   - Magic
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:world-torn-asunder-11-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:world-torn-asunder
 scdc:
   - 1.1.1:11.3.9.4:11
 source: mcdm.heroes.v1

@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 6
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.6th-level-feature:to-me-squad-9-focus
+  - mcdm.heroes.v1:feature.ability.tactician.6th-level-feature:to-me-squad
 scdc:
   - 1.1.1:11.3.4.3:06
 source: mcdm.heroes.v1

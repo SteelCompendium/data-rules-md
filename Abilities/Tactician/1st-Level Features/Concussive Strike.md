@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:concussive-strike-3-focus
+  - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:concussive-strike
 scdc:
   - 1.1.1:11.3.4.1:10
 source: mcdm.heroes.v1

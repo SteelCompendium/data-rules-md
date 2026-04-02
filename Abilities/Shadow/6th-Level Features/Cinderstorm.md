@@ -16,7 +16,7 @@ keywords:
   - Magic
 level: 6
 scc:
-  - mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:cinderstorm-9-insight
+  - mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:cinderstorm
 scdc:
   - 1.1.1:11.3.2.3:02
 source: mcdm.heroes.v1

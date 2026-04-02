@@ -19,7 +19,7 @@ keywords:
   - Strike
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:combustion-deferred-9-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:combustion-deferred
 scdc:
   - 1.1.1:11.3.9.4:05
 source: mcdm.heroes.v1

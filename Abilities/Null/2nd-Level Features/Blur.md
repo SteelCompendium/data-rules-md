@@ -16,7 +16,7 @@ keywords:
   - Psionic
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.null.2nd-level-feature:blur-5-discipline
+  - mcdm.heroes.v1:feature.ability.null.2nd-level-feature:blur
 scdc:
   - 1.1.1:11.3.6.5:01
 source: mcdm.heroes.v1

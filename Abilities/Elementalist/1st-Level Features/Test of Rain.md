@@ -19,7 +19,7 @@ keywords:
   - Ranged
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:test-of-rain-5-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:test-of-rain
 scdc:
   - 1.1.1:11.3.9.1:15
 source: mcdm.heroes.v1

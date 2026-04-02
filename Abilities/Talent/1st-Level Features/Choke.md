@@ -19,7 +19,7 @@ keywords:
   - Telekinesis
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:choke-3-clarity
+  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:choke
 scdc:
   - 1.1.1:11.3.1.1:23
 source: mcdm.heroes.v1

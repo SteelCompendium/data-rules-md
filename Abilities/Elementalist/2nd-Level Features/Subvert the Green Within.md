@@ -20,7 +20,7 @@ keywords:
   - Void
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:subvert-the-green-within-5-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:subvert-the-green-within
 scdc:
   - 1.1.1:11.3.9.5:02
 source: mcdm.heroes.v1

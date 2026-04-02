@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.null.1st-level-feature:stunning-blow-3-discipline
+  - mcdm.heroes.v1:feature.ability.null.1st-level-feature:stunning-blow
 scdc:
   - 1.1.1:11.3.6.1:07
 source: mcdm.heroes.v1

@@ -19,7 +19,7 @@ keywords:
   - Telepathy
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.5th-level-feature:mind-snare-9-clarity
+  - mcdm.heroes.v1:feature.ability.talent.5th-level-feature:mind-snare
 scdc:
   - 1.1.1:11.3.1.4:01
 source: mcdm.heroes.v1

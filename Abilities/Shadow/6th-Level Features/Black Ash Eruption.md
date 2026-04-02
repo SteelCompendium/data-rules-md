@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 6
 scc:
-  - mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:black-ash-eruption-9-insight
+  - mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:black-ash-eruption
 scdc:
   - 1.1.1:11.3.2.3:01
 source: mcdm.heroes.v1

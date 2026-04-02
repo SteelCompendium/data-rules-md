@@ -17,7 +17,7 @@ keywords:
   - Ranged
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:statue-of-power-5-piety
+  - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:statue-of-power
 scdc:
   - 1.1.1:11.3.8.5:03
 source: mcdm.heroes.v1

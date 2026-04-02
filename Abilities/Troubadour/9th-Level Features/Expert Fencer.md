@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:expert-fencer-11-drama
+  - mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:expert-fencer
 scdc:
   - 1.1.1:11.3.3.7:02
 source: mcdm.heroes.v1

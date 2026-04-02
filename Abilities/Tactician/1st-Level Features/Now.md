@@ -16,7 +16,7 @@ keywords:
   - Ranged
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:now-5-focus
+  - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:now
 scdc:
   - 1.1.1:11.3.4.1:08
 source: mcdm.heroes.v1

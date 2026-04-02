@@ -19,7 +19,7 @@ keywords:
   - Ranged
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:wall-of-fire-7-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:wall-of-fire
 scdc:
   - 1.1.1:11.3.9.6:02
 source: mcdm.heroes.v1

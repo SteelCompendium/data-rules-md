@@ -17,7 +17,7 @@ keywords:
   - Ranged
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:blessing-of-fate-and-destiny-5-piety
+  - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:blessing-of-fate-and-destiny
 scdc:
   - 1.1.1:11.3.8.5:02
 source: mcdm.heroes.v1

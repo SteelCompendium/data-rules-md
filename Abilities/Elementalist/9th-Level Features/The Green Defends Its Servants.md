@@ -18,7 +18,7 @@ keywords:
   - Ranged
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.9th-level-feature:the-green-defends-its-servants-11-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.9th-level-feature:the-green-defends-its-servants
 scdc:
   - 1.1.1:11.3.9.7:03
 source: mcdm.heroes.v1

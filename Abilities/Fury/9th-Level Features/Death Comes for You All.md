@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.fury.9th-level-feature:death-comes-for-you-all-11-ferocity
+  - mcdm.heroes.v1:feature.ability.fury.9th-level-feature:death-comes-for-you-all
 scdc:
   - 1.1.1:11.3.5.7:02
 source: mcdm.heroes.v1

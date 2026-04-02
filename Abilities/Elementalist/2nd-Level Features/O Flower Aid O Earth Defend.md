@@ -20,7 +20,7 @@ keywords:
   - Ranged
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:o-flower-aid-o-earth-defend-5-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:o-flower-aid-o-earth-defend
 scdc:
   - 1.1.1:11.3.9.5:01
 source: mcdm.heroes.v1

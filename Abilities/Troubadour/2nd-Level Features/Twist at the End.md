@@ -17,7 +17,7 @@ keywords:
   - Ranged
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:twist-at-the-end-5-drama
+  - mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:twist-at-the-end
 scdc:
   - 1.1.1:11.3.3.5:01
 source: mcdm.heroes.v1

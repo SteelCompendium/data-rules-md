@@ -17,7 +17,7 @@ keywords:
   - Ranged
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.conduit.5th-level-feature:sanctuary-9-piety
+  - mcdm.heroes.v1:feature.ability.conduit.5th-level-feature:sanctuary
 scdc:
   - 1.1.1:11.3.8.4:03
 source: mcdm.heroes.v1

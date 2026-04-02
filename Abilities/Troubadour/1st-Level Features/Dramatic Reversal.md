@@ -17,7 +17,7 @@ keywords:
   - Magic
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:dramatic-reversal-5-drama
+  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:dramatic-reversal
 scdc:
   - 1.1.1:11.3.3.1:07
 source: mcdm.heroes.v1

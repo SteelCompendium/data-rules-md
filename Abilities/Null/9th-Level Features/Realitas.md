@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.null.9th-level-feature:realitas-11-discipline
+  - mcdm.heroes.v1:feature.ability.null.9th-level-feature:realitas
 scdc:
   - 1.1.1:11.3.6.7:06
 source: mcdm.heroes.v1

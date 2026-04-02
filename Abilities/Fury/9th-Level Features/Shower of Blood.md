@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.fury.9th-level-feature:shower-of-blood-11-ferocity
+  - mcdm.heroes.v1:feature.ability.fury.9th-level-feature:shower-of-blood
 scdc:
   - 1.1.1:11.3.5.7:03
 source: mcdm.heroes.v1

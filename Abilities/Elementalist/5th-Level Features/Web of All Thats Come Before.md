@@ -19,7 +19,7 @@ keywords:
   - Ranged
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:web-of-all-thats-come-before-9-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:web-of-all-thats-come-before
 scdc:
   - 1.1.1:11.3.9.4:13
 source: mcdm.heroes.v1

@@ -18,7 +18,7 @@ keywords:
   - Strike
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:judgments-hammer-3-piety
+  - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:judgments-hammer
 scdc:
   - 1.1.1:11.3.8.1:17
 source: mcdm.heroes.v1

@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:classic-chandelier-stunt-5-drama
+  - mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:classic-chandelier-stunt
 scdc:
   - 1.1.1:11.3.3.5:06
 source: mcdm.heroes.v1

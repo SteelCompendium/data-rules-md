@@ -19,7 +19,7 @@ keywords:
   - Strike
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.5th-level-feature:soulbound-9-clarity
+  - mcdm.heroes.v1:feature.ability.talent.5th-level-feature:soulbound
 scdc:
   - 1.1.1:11.3.1.4:03
 source: mcdm.heroes.v1

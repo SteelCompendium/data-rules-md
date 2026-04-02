@@ -16,7 +16,7 @@ keywords:
   - Magic
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.ability.fury.8th-level-feature:elemental-ferocity-11-ferocity
+  - mcdm.heroes.v1:feature.ability.fury.8th-level-feature:elemental-ferocity
 scdc:
   - 1.1.1:11.3.5.2:04
 source: mcdm.heroes.v1

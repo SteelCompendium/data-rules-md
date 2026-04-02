@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:pinning-shot-7-insight
+  - mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:pinning-shot
 scdc:
   - 1.1.1:11.3.2.6:02
 source: mcdm.heroes.v1

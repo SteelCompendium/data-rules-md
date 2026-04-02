@@ -19,7 +19,7 @@ keywords:
   - Telepathy
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:mindwipe-11-clarity
+  - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:mindwipe
 scdc:
   - 1.1.1:11.3.1.2:03
 source: mcdm.heroes.v1

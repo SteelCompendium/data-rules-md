@@ -16,7 +16,7 @@ keywords:
   - Psionic
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.ability.null.3rd-level-feature:synapse-field-7-discipline
+  - mcdm.heroes.v1:feature.ability.null.3rd-level-feature:synapse-field
 scdc:
   - 1.1.1:11.3.6.6:02
 source: mcdm.heroes.v1

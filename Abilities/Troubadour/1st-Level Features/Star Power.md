@@ -16,7 +16,7 @@ keywords:
   - '-'
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:star-power-1-drama
+  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:star-power
 scdc:
   - 1.1.1:11.3.3.1:21
 source: mcdm.heroes.v1

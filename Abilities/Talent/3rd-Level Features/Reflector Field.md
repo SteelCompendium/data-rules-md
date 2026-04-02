@@ -18,7 +18,7 @@ keywords:
   - Telepathy
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:reflector-field-7-clarity
+  - mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:reflector-field
 scdc:
   - 1.1.1:11.3.1.6:04
 source: mcdm.heroes.v1

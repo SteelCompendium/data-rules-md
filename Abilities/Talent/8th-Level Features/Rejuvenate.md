@@ -18,7 +18,7 @@ keywords:
   - Ranged
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:rejuvenate-11-clarity
+  - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:rejuvenate
 scdc:
   - 1.1.1:11.3.1.2:06
 source: mcdm.heroes.v1

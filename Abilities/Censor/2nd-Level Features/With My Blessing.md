@@ -17,7 +17,7 @@ keywords:
   - Ranged
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:with-my-blessing-5-wrath
+  - mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:with-my-blessing
 scdc:
   - 1.1.1:11.3.7.5:03
 source: mcdm.heroes.v1

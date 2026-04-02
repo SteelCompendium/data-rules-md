@@ -18,7 +18,7 @@ keywords:
   - Ranged
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:heart-of-the-wode-11-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:heart-of-the-wode
 scdc:
   - 1.1.1:11.3.9.2:02
 source: mcdm.heroes.v1

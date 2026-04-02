@@ -19,7 +19,7 @@ keywords:
   - Strike
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:fling-through-time-7-clarity
+  - mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:fling-through-time
 scdc:
   - 1.1.1:11.3.1.6:03
 source: mcdm.heroes.v1

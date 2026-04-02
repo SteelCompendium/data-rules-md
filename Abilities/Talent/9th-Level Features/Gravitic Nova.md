@@ -18,7 +18,7 @@ keywords:
   - Telekinesis
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.9th-level-feature:gravitic-nova-11-clarity
+  - mcdm.heroes.v1:feature.ability.talent.9th-level-feature:gravitic-nova
 scdc:
   - 1.1.1:11.3.1.7:05
 source: mcdm.heroes.v1

@@ -18,7 +18,7 @@ keywords:
   - Telekinesis
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:inertia-soak-5-clarity
+  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:inertia-soak
 scdc:
   - 1.1.1:11.3.1.1:13
 source: mcdm.heroes.v1

@@ -18,7 +18,7 @@ keywords:
   - Strike
 level: 7
 scc:
-  - mcdm.heroes.v1:feature.ability.conduit.7th-level-feature:drag-the-unworthy-11-piety
+  - mcdm.heroes.v1:feature.ability.conduit.7th-level-feature:drag-the-unworthy
 scdc:
   - 1.1.1:11.3.8.8:04
 source: mcdm.heroes.v1

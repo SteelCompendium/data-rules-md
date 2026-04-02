@@ -16,7 +16,7 @@ keywords:
   - Ranged
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.5th-level-feature:youve-still-got-something-left-9-focus
+  - mcdm.heroes.v1:feature.ability.tactician.5th-level-feature:youve-still-got-something-left
 scdc:
   - 1.1.1:11.3.4.4:02
 source: mcdm.heroes.v1

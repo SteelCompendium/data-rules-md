@@ -19,7 +19,7 @@ keywords:
   - Void
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:subverted-perception-of-space-9-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:subverted-perception-of-space
 scdc:
   - 1.1.1:11.3.9.4:03
 source: mcdm.heroes.v1

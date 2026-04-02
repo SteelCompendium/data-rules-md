@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:behold-a-shield-of-faith-3-wrath
+  - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:behold-a-shield-of-faith
 scdc:
   - 1.1.1:11.3.7.1:08
 source: mcdm.heroes.v1

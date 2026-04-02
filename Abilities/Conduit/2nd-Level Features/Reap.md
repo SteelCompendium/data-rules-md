@@ -17,7 +17,7 @@ keywords:
   - Ranged
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:reap-5-piety
+  - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:reap
 scdc:
   - 1.1.1:11.3.8.5:10
 source: mcdm.heroes.v1

@@ -19,7 +19,7 @@ keywords:
   - Strike
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:soul-burn-7-clarity
+  - mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:soul-burn
 scdc:
   - 1.1.1:11.3.1.6:02
 source: mcdm.heroes.v1

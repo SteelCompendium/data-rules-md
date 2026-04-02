@@ -17,7 +17,7 @@ keywords:
   - Ranged
 level: 6
 scc:
-  - mcdm.heroes.v1:feature.ability.censor.6th-level-feature:intercede-9-wrath
+  - mcdm.heroes.v1:feature.ability.censor.6th-level-feature:intercede
 scdc:
   - 1.1.1:11.3.7.3:02
 source: mcdm.heroes.v1

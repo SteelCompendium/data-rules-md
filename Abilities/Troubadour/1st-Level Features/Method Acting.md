@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:method-acting-5-drama
+  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:method-acting
 scdc:
   - 1.1.1:11.3.3.1:16
 source: mcdm.heroes.v1

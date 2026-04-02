@@ -16,7 +16,7 @@ keywords:
   - Magic
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:so-gullible-5-insight
+  - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:so-gullible
 scdc:
   - 1.1.1:11.3.2.5:04
 source: mcdm.heroes.v1

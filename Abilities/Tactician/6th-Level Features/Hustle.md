@@ -16,7 +16,7 @@ keywords:
   - Area
 level: 6
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.6th-level-feature:hustle-9-focus
+  - mcdm.heroes.v1:feature.ability.tactician.6th-level-feature:hustle
 scdc:
   - 1.1.1:11.3.4.3:02
 source: mcdm.heroes.v1

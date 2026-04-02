@@ -17,7 +17,7 @@ keywords:
   - Magic
 level: 6
 scc:
-  - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:youre-all-my-understudies-9-drama
+  - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:youre-all-my-understudies
 scdc:
   - 1.1.1:11.3.3.3:03
 source: mcdm.heroes.v1

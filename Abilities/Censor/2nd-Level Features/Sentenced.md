@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:sentenced-5-wrath
+  - mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:sentenced
 scdc:
   - 1.1.1:11.3.7.5:02
 source: mcdm.heroes.v1

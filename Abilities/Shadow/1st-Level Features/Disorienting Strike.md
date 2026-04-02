@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:disorienting-strike-3-insight
+  - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:disorienting-strike
 scdc:
   - 1.1.1:11.3.2.1:16
 source: mcdm.heroes.v1

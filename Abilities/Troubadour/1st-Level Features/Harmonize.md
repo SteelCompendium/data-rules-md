@@ -16,7 +16,7 @@ keywords:
   - Ranged
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:harmonize-3-drama
+  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:harmonize
 scdc:
   - 1.1.1:11.3.3.1:23
 source: mcdm.heroes.v1

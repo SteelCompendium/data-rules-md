@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.shadow.5th-level-feature:shadowfall-9-insight
+  - mcdm.heroes.v1:feature.ability.shadow.5th-level-feature:shadowfall
 scdc:
   - 1.1.1:11.3.2.4:01
 source: mcdm.heroes.v1

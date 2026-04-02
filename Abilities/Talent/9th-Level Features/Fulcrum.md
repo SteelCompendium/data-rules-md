@@ -18,7 +18,7 @@ keywords:
   - Telekinesis
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.9th-level-feature:fulcrum-11-clarity
+  - mcdm.heroes.v1:feature.ability.talent.9th-level-feature:fulcrum
 scdc:
   - 1.1.1:11.3.1.7:04
 source: mcdm.heroes.v1

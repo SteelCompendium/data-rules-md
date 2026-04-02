@@ -18,7 +18,7 @@ keywords:
   - Ranged
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.ability.conduit.3rd-level-feature:fear-of-the-gods-7-piety
+  - mcdm.heroes.v1:feature.ability.conduit.3rd-level-feature:fear-of-the-gods
 scdc:
   - 1.1.1:11.3.8.6:03
 source: mcdm.heroes.v1

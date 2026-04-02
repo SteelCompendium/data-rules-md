@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.shadow.9th-level-feature:demon-door-11-insight
+  - mcdm.heroes.v1:feature.ability.shadow.9th-level-feature:demon-door
 scdc:
   - 1.1.1:11.3.2.7:06
 source: mcdm.heroes.v1

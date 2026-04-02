@@ -17,7 +17,7 @@ keywords:
   - Ranged
 level: 6
 scc:
-  - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:lauded-by-god-9-piety
+  - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:lauded-by-god
 scdc:
   - 1.1.1:11.3.8.3:11
 source: mcdm.heroes.v1

@@ -17,7 +17,7 @@ keywords:
   - Void
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:prism-11-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:prism
 scdc:
   - 1.1.1:11.3.9.2:05
 source: mcdm.heroes.v1

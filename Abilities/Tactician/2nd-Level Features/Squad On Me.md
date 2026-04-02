@@ -16,7 +16,7 @@ keywords:
   - Area
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:squad-on-me-5-focus
+  - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:squad-on-me
 scdc:
   - 1.1.1:11.3.4.5:04
 source: mcdm.heroes.v1

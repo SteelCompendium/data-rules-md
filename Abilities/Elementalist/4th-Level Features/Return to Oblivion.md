@@ -19,7 +19,7 @@ keywords:
   - Void
 level: 4
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.4th-level-feature:return-to-oblivion-11-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.4th-level-feature:return-to-oblivion
 scdc:
   - 1.1.1:11.3.9.8:05
 source: mcdm.heroes.v1

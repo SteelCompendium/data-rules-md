@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.fury.5th-level-feature:rebounding-storm-9-ferocity
+  - mcdm.heroes.v1:feature.ability.fury.5th-level-feature:rebounding-storm
 scdc:
   - 1.1.1:11.3.5.4:02
 source: mcdm.heroes.v1

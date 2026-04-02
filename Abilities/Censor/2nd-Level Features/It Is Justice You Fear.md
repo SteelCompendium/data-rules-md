@@ -18,7 +18,7 @@ keywords:
   - Strike
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:it-is-justice-you-fear-5-wrath
+  - mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:it-is-justice-you-fear
 scdc:
   - 1.1.1:11.3.7.5:05
 source: mcdm.heroes.v1

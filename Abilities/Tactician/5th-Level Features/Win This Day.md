@@ -16,7 +16,7 @@ keywords:
   - Area
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.5th-level-feature:win-this-day-9-focus
+  - mcdm.heroes.v1:feature.ability.tactician.5th-level-feature:win-this-day
 scdc:
   - 1.1.1:11.3.4.4:04
 source: mcdm.heroes.v1

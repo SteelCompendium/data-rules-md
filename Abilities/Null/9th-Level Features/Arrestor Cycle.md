@@ -17,7 +17,7 @@ keywords:
   - Ranged
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.null.9th-level-feature:arrestor-cycle-11-discipline
+  - mcdm.heroes.v1:feature.ability.null.9th-level-feature:arrestor-cycle
 scdc:
   - 1.1.1:11.3.6.7:03
 source: mcdm.heroes.v1

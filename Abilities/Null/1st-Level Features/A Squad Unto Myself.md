@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.null.1st-level-feature:a-squad-unto-myself-5-discipline
+  - mcdm.heroes.v1:feature.ability.null.1st-level-feature:a-squad-unto-myself
 scdc:
   - 1.1.1:11.3.6.1:18
 source: mcdm.heroes.v1

@@ -19,7 +19,7 @@ keywords:
   - Ranged
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:muse-of-fire-11-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:muse-of-fire
 scdc:
   - 1.1.1:11.3.9.4:02
 source: mcdm.heroes.v1

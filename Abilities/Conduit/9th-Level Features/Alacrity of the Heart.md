@@ -17,7 +17,7 @@ keywords:
   - Ranged
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:alacrity-of-the-heart-11-piety
+  - mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:alacrity-of-the-heart
 scdc:
   - 1.1.1:11.3.8.7:01
 source: mcdm.heroes.v1

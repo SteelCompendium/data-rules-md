@@ -17,7 +17,7 @@ keywords:
   - Magic
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.fury.2nd-level-feature:visceral-roar-5-ferocity
+  - mcdm.heroes.v1:feature.ability.fury.2nd-level-feature:visceral-roar
 scdc:
   - 1.1.1:11.3.5.5:06
 source: mcdm.heroes.v1

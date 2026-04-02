@@ -18,7 +18,7 @@ keywords:
   - Ranged
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:slow-5-clarity
+  - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:slow
 scdc:
   - 1.1.1:11.3.1.5:06
 source: mcdm.heroes.v1

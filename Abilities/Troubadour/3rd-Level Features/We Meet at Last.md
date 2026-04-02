@@ -17,7 +17,7 @@ keywords:
   - Ranged
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.ability.troubadour.3rd-level-feature:we-meet-at-last-7-drama
+  - mcdm.heroes.v1:feature.ability.troubadour.3rd-level-feature:we-meet-at-last
 scdc:
   - 1.1.1:11.3.3.6:06
 source: mcdm.heroes.v1

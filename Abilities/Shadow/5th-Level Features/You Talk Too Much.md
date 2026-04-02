@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.shadow.5th-level-feature:you-talk-too-much-9-insight
+  - mcdm.heroes.v1:feature.ability.shadow.5th-level-feature:you-talk-too-much
 scdc:
   - 1.1.1:11.3.2.4:03
 source: mcdm.heroes.v1

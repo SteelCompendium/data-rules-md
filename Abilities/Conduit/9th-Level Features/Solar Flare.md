@@ -18,7 +18,7 @@ keywords:
   - Ranged
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:solar-flare-11-piety
+  - mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:solar-flare
 scdc:
   - 1.1.1:11.3.8.7:10
 source: mcdm.heroes.v1

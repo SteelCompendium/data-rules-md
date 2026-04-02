@@ -17,7 +17,7 @@ keywords:
   - Magic
 level: 6
 scc:
-  - mcdm.heroes.v1:feature.ability.censor.6th-level-feature:begone-9-wrath
+  - mcdm.heroes.v1:feature.ability.censor.6th-level-feature:begone
 scdc:
   - 1.1.1:11.3.7.3:01
 source: mcdm.heroes.v1

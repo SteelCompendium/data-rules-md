@@ -16,7 +16,7 @@ keywords:
   - Ranged
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:battle-cry-3-focus
+  - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:battle-cry
 scdc:
   - 1.1.1:11.3.4.1:07
 source: mcdm.heroes.v1

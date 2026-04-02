@@ -16,7 +16,7 @@ keywords:
   - Ranged
 level: 6
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.6th-level-feature:battle-plan-9-focus
+  - mcdm.heroes.v1:feature.ability.tactician.6th-level-feature:battle-plan
 scdc:
   - 1.1.1:11.3.4.3:01
 source: mcdm.heroes.v1

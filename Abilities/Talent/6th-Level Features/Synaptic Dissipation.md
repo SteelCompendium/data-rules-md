@@ -19,7 +19,7 @@ keywords:
   - Telepathy
 level: 6
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.6th-level-feature:synaptic-dissipation-9-clarity
+  - mcdm.heroes.v1:feature.ability.talent.6th-level-feature:synaptic-dissipation
 scdc:
   - 1.1.1:11.3.1.3:01
 source: mcdm.heroes.v1

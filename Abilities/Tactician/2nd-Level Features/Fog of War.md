@@ -16,7 +16,7 @@ keywords:
   - Ranged
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:fog-of-war-5-focus
+  - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:fog-of-war
 scdc:
   - 1.1.1:11.3.4.5:05
 source: mcdm.heroes.v1

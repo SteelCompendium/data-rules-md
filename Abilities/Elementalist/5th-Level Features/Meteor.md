@@ -20,7 +20,7 @@ keywords:
   - Void
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:meteor-9-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:meteor
 scdc:
   - 1.1.1:11.3.9.4:01
 source: mcdm.heroes.v1

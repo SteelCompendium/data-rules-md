@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:to-the-uttermost-end-5-ferocity
+  - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:to-the-uttermost-end
 scdc:
   - 1.1.1:11.3.5.1:06
 source: mcdm.heroes.v1

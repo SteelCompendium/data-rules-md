@@ -18,7 +18,7 @@ keywords:
   - Ranged
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:flashback-5-clarity
+  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:flashback
 scdc:
   - 1.1.1:11.3.1.1:04
 source: mcdm.heroes.v1

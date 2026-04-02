@@ -17,7 +17,7 @@ keywords:
   - Magic
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.fury.9th-level-feature:death-rattle-11-ferocity
+  - mcdm.heroes.v1:feature.ability.fury.9th-level-feature:death-rattle
 scdc:
   - 1.1.1:11.3.5.7:05
 source: mcdm.heroes.v1

@@ -17,7 +17,7 @@ keywords:
   - Magic
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:blessing-of-the-faithful-5-wrath
+  - mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:blessing-of-the-faithful
 scdc:
   - 1.1.1:11.3.7.5:04
 source: mcdm.heroes.v1

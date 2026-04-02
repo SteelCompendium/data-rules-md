@@ -17,7 +17,7 @@ keywords:
   - Magic
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.ability.censor.3rd-level-feature:edict-of-disruptive-isolation-7-wrath
+  - mcdm.heroes.v1:feature.ability.censor.3rd-level-feature:edict-of-disruptive-isolation
 scdc:
   - 1.1.1:11.3.7.6:03
 source: mcdm.heroes.v1

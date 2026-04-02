@@ -16,7 +16,7 @@ keywords:
   - Ranged
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.8th-level-feature:floodgates-open-11-focus
+  - mcdm.heroes.v1:feature.ability.tactician.8th-level-feature:floodgates-open
 scdc:
   - 1.1.1:11.3.4.2:02
 source: mcdm.heroes.v1

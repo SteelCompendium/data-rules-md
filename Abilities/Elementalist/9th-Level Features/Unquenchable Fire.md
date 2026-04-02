@@ -19,7 +19,7 @@ keywords:
   - Strike
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.9th-level-feature:unquenchable-fire-11-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.9th-level-feature:unquenchable-fire
 scdc:
   - 1.1.1:11.3.9.7:04
 source: mcdm.heroes.v1

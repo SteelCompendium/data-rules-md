@@ -16,7 +16,7 @@ keywords:
   - Ranged
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.8th-level-feature:go-now-and-speed-well-11-focus
+  - mcdm.heroes.v1:feature.ability.tactician.8th-level-feature:go-now-and-speed-well
 scdc:
   - 1.1.1:11.3.4.2:01
 source: mcdm.heroes.v1

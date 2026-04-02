@@ -19,7 +19,7 @@ keywords:
   - Void
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:behold-the-mystery-3-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:behold-the-mystery
 scdc:
   - 1.1.1:11.3.9.1:17
 source: mcdm.heroes.v1

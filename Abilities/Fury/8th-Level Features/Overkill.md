@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.ability.fury.8th-level-feature:overkill-11-ferocity
+  - mcdm.heroes.v1:feature.ability.fury.8th-level-feature:overkill
 scdc:
   - 1.1.1:11.3.5.2:02
 source: mcdm.heroes.v1

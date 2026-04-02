@@ -18,7 +18,7 @@ keywords:
   - Void
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:no-more-than-a-breeze-5-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:no-more-than-a-breeze
 scdc:
   - 1.1.1:11.3.9.1:07
 source: mcdm.heroes.v1

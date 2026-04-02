@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.null.1st-level-feature:relentless-nemesis-3-discipline
+  - mcdm.heroes.v1:feature.ability.null.1st-level-feature:relentless-nemesis
 scdc:
   - 1.1.1:11.3.6.1:03
 source: mcdm.heroes.v1

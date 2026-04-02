@@ -20,7 +20,7 @@ keywords:
   - Ranged
 level: 6
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.6th-level-feature:magma-titan-9-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.6th-level-feature:magma-titan
 scdc:
   - 1.1.1:11.3.9.3:02
 source: mcdm.heroes.v1

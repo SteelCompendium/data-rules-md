@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:action-hero-9-drama
+  - mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:action-hero
 scdc:
   - 1.1.1:11.3.3.4:01
 source: mcdm.heroes.v1

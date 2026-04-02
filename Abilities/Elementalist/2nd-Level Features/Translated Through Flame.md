@@ -19,7 +19,7 @@ keywords:
   - Void
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:translated-through-flame-5-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:translated-through-flame
 scdc:
   - 1.1.1:11.3.9.5:03
 source: mcdm.heroes.v1

@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 6
 scc:
-  - mcdm.heroes.v1:feature.ability.fury.6th-level-feature:pounce-9-ferocity
+  - mcdm.heroes.v1:feature.ability.fury.6th-level-feature:pounce
 scdc:
   - 1.1.1:11.3.5.3:03
 source: mcdm.heroes.v1

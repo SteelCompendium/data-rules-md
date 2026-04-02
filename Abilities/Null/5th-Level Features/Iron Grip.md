@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.null.5th-level-feature:iron-grip-9-discipline
+  - mcdm.heroes.v1:feature.ability.null.5th-level-feature:iron-grip
 scdc:
   - 1.1.1:11.3.6.4:03
 source: mcdm.heroes.v1

@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.censor.9th-level-feature:banish-11-wrath
+  - mcdm.heroes.v1:feature.ability.censor.9th-level-feature:banish
 scdc:
   - 1.1.1:11.3.7.7:05
 source: mcdm.heroes.v1

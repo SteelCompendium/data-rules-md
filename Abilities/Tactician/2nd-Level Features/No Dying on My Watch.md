@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:no-dying-on-my-watch-5-focus
+  - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:no-dying-on-my-watch
 scdc:
   - 1.1.1:11.3.4.5:02
 source: mcdm.heroes.v1

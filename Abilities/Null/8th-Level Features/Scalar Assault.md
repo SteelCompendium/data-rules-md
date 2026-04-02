@@ -17,7 +17,7 @@ keywords:
   - Psionic
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.ability.null.8th-level-feature:scalar-assault-11-discipline
+  - mcdm.heroes.v1:feature.ability.null.8th-level-feature:scalar-assault
 scdc:
   - 1.1.1:11.3.6.2:02
 source: mcdm.heroes.v1

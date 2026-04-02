@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:misdirecting-strike-7-insight
+  - mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:misdirecting-strike
 scdc:
   - 1.1.1:11.3.2.6:03
 source: mcdm.heroes.v1

@@ -17,7 +17,7 @@ keywords:
   - Magic
 level: 6
 scc:
-  - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:blessing-of-the-midday-sun-9-piety
+  - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:blessing-of-the-midday-sun
 scdc:
   - 1.1.1:11.3.8.3:07
 source: mcdm.heroes.v1

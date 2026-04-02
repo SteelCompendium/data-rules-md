@@ -16,7 +16,7 @@ keywords:
   - Ranged
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:sticky-bomb-5-insight
+  - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:sticky-bomb
 scdc:
   - 1.1.1:11.3.2.5:01
 source: mcdm.heroes.v1

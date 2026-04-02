@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.ability.fury.3rd-level-feature:you-are-already-dead-7-ferocity
+  - mcdm.heroes.v1:feature.ability.fury.3rd-level-feature:you-are-already-dead
 scdc:
   - 1.1.1:11.3.5.6:04
 source: mcdm.heroes.v1

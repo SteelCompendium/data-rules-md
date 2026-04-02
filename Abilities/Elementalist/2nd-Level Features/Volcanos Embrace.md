@@ -20,7 +20,7 @@ keywords:
   - Strike
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:volcanos-embrace-5-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:volcanos-embrace
 scdc:
   - 1.1.1:11.3.9.5:05
 source: mcdm.heroes.v1

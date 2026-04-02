@@ -19,7 +19,7 @@ keywords:
   - Strike
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:doubt-11-clarity
+  - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:doubt
 scdc:
   - 1.1.1:11.3.1.2:05
 source: mcdm.heroes.v1

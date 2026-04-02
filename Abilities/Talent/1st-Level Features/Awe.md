@@ -19,7 +19,7 @@ keywords:
   - Telepathy
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:awe-3-clarity
+  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:awe
 scdc:
   - 1.1.1:11.3.1.1:17
 source: mcdm.heroes.v1

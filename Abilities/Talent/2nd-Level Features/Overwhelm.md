@@ -19,7 +19,7 @@ keywords:
   - Telepathy
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:overwhelm-5-clarity
+  - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:overwhelm
 scdc:
   - 1.1.1:11.3.1.5:02
 source: mcdm.heroes.v1

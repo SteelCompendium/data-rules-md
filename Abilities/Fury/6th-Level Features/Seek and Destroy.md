@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 6
 scc:
-  - mcdm.heroes.v1:feature.ability.fury.6th-level-feature:seek-and-destroy-9-ferocity
+  - mcdm.heroes.v1:feature.ability.fury.6th-level-feature:seek-and-destroy
 scdc:
   - 1.1.1:11.3.5.3:06
 source: mcdm.heroes.v1

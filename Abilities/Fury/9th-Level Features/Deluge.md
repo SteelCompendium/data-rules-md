@@ -18,7 +18,7 @@ keywords:
   - Ranged
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.fury.9th-level-feature:deluge-11-ferocity
+  - mcdm.heroes.v1:feature.ability.fury.9th-level-feature:deluge
 scdc:
   - 1.1.1:11.3.5.7:01
 source: mcdm.heroes.v1

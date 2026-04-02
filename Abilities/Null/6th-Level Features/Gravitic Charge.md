@@ -16,7 +16,7 @@ keywords:
   - Psionic
 level: 6
 scc:
-  - mcdm.heroes.v1:feature.ability.null.6th-level-feature:gravitic-charge-9-discipline
+  - mcdm.heroes.v1:feature.ability.null.6th-level-feature:gravitic-charge
 scdc:
   - 1.1.1:11.3.6.3:02
 source: mcdm.heroes.v1

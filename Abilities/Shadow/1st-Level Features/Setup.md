@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:setup-5-insight
+  - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:setup
 scdc:
   - 1.1.1:11.3.2.1:08
 source: mcdm.heroes.v1

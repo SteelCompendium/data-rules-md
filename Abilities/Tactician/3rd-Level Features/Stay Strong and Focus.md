@@ -16,7 +16,7 @@ keywords:
   - '-'
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.3rd-level-feature:stay-strong-and-focus-7-focus
+  - mcdm.heroes.v1:feature.ability.tactician.3rd-level-feature:stay-strong-and-focus
 scdc:
   - 1.1.1:11.3.4.6:01
 source: mcdm.heroes.v1

@@ -19,7 +19,7 @@ keywords:
   - Strike
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:smolder-3-clarity
+  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:smolder
 scdc:
   - 1.1.1:11.3.1.1:09
 source: mcdm.heroes.v1

@@ -19,7 +19,7 @@ keywords:
   - Strike
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:harsh-critic-3-drama
+  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:harsh-critic
 scdc:
   - 1.1.1:11.3.3.1:20
 source: mcdm.heroes.v1

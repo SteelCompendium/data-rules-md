@@ -18,7 +18,7 @@ keywords:
   - Strike
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:repent-3-wrath
+  - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:repent
 scdc:
   - 1.1.1:11.3.7.1:05
 source: mcdm.heroes.v1

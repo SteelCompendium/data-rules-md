@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.ability.censor.8th-level-feature:pillar-of-holy-fire-11-wrath
+  - mcdm.heroes.v1:feature.ability.censor.8th-level-feature:pillar-of-holy-fire
 scdc:
   - 1.1.1:11.3.7.2:01
 source: mcdm.heroes.v1

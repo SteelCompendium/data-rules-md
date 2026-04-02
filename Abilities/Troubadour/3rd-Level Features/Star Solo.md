@@ -20,7 +20,7 @@ keywords:
   - Weapon
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.ability.troubadour.3rd-level-feature:star-solo-7-drama
+  - mcdm.heroes.v1:feature.ability.troubadour.3rd-level-feature:star-solo
 scdc:
   - 1.1.1:11.3.3.6:01
 source: mcdm.heroes.v1

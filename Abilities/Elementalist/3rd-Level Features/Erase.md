@@ -19,7 +19,7 @@ keywords:
   - Void
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:erase-7-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:erase
 scdc:
   - 1.1.1:11.3.9.6:06
 source: mcdm.heroes.v1

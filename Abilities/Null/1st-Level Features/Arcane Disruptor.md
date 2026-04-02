@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.null.1st-level-feature:arcane-disruptor-5-discipline
+  - mcdm.heroes.v1:feature.ability.null.1st-level-feature:arcane-disruptor
 scdc:
   - 1.1.1:11.3.6.1:15
 source: mcdm.heroes.v1

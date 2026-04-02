@@ -17,7 +17,7 @@ keywords:
   - Ranged
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.ability.conduit.8th-level-feature:arise-11-piety
+  - mcdm.heroes.v1:feature.ability.conduit.8th-level-feature:arise
 scdc:
   - 1.1.1:11.3.8.2:02
 source: mcdm.heroes.v1

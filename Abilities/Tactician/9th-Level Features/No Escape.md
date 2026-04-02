@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:no-escape-11-focus
+  - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:no-escape
 scdc:
   - 1.1.1:11.3.4.7:03
 source: mcdm.heroes.v1

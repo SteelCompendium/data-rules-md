@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:get-in-get-out-3-insight
+  - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:get-in-get-out
 scdc:
   - 1.1.1:11.3.2.1:10
 source: mcdm.heroes.v1

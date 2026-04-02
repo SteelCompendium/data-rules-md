@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.null.1st-level-feature:phase-strike-5-discipline
+  - mcdm.heroes.v1:feature.ability.null.1st-level-feature:phase-strike
 scdc:
   - 1.1.1:11.3.6.1:02
 source: mcdm.heroes.v1

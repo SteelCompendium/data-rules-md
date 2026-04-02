@@ -18,7 +18,7 @@ keywords:
   - Ranged
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.talent.9th-level-feature:acceleration-field-11-clarity
+  - mcdm.heroes.v1:feature.ability.talent.9th-level-feature:acceleration-field
 scdc:
   - 1.1.1:11.3.1.7:03
 source: mcdm.heroes.v1

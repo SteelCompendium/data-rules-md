@@ -16,7 +16,7 @@ keywords:
   - Area
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.censor.5th-level-feature:orison-of-victory-9-wrath
+  - mcdm.heroes.v1:feature.ability.censor.5th-level-feature:orison-of-victory
 scdc:
   - 1.1.1:11.3.7.4:02
 source: mcdm.heroes.v1

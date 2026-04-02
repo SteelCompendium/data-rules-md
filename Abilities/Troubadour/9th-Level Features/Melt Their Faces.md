@@ -19,7 +19,7 @@ keywords:
   - Strike
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:melt-their-faces-11-drama
+  - mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:melt-their-faces
 scdc:
   - 1.1.1:11.3.3.7:04
 source: mcdm.heroes.v1

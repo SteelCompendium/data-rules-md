@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:your-entrails-are-your-extrails-3-ferocity
+  - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:your-entrails-are-your-extrails
 scdc:
   - 1.1.1:11.3.5.1:03
 source: mcdm.heroes.v1

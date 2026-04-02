@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.8th-level-feature:ill-open-and-youll-close-11-focus
+  - mcdm.heroes.v1:feature.ability.tactician.8th-level-feature:ill-open-and-youll-close
 scdc:
   - 1.1.1:11.3.4.2:03
 source: mcdm.heroes.v1

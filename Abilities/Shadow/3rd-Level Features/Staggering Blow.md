@@ -19,7 +19,7 @@ keywords:
   - Weapon
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:staggering-blow-7-insight
+  - mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:staggering-blow
 scdc:
   - 1.1.1:11.3.2.6:01
 source: mcdm.heroes.v1

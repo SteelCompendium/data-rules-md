@@ -18,7 +18,7 @@ keywords:
   - Strike
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:violence-will-not-aid-thee-3-piety
+  - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:violence-will-not-aid-thee
 scdc:
   - 1.1.1:11.3.8.1:21
 source: mcdm.heroes.v1

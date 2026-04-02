@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.censor.5th-level-feature:shield-of-the-righteous-9-wrath
+  - mcdm.heroes.v1:feature.ability.censor.5th-level-feature:shield-of-the-righteous
 scdc:
   - 1.1.1:11.3.7.4:03
 source: mcdm.heroes.v1

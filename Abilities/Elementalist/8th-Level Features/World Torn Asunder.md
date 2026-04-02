@@ -18,7 +18,7 @@ keywords:
   - Magic
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:world-torn-asunder-11-essence
+  - mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:world-torn-asunder
 scdc:
   - 1.1.1:11.3.9.2:06
 source: mcdm.heroes.v1

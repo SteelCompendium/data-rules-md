@@ -17,7 +17,7 @@ keywords:
   - Ranged
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.ability.conduit.5th-level-feature:vessel-of-retribution-9-piety
+  - mcdm.heroes.v1:feature.ability.conduit.5th-level-feature:vessel-of-retribution
 scdc:
   - 1.1.1:11.3.8.4:02
 source: mcdm.heroes.v1

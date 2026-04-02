@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:ive-got-your-back-5-focus
+  - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:ive-got-your-back
 scdc:
   - 1.1.1:11.3.4.5:03
 source: mcdm.heroes.v1

@@ -16,7 +16,7 @@ keywords:
   - '-'
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:dancer-7-insight
+  - mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:dancer
 scdc:
   - 1.1.1:11.3.2.6:05
 source: mcdm.heroes.v1

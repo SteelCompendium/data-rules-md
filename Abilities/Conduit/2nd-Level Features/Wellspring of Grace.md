@@ -17,7 +17,7 @@ keywords:
   - Magic
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:wellspring-of-grace-5-piety
+  - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:wellspring-of-grace
 scdc:
   - 1.1.1:11.3.8.5:08
 source: mcdm.heroes.v1

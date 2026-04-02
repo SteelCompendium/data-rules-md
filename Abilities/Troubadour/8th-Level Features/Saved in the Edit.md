@@ -16,7 +16,7 @@ keywords:
   - Magic
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.ability.troubadour.8th-level-feature:saved-in-the-edit-11-drama
+  - mcdm.heroes.v1:feature.ability.troubadour.8th-level-feature:saved-in-the-edit
 scdc:
   - 1.1.1:11.3.3.2:01
 source: mcdm.heroes.v1

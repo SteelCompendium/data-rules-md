@@ -18,7 +18,7 @@ keywords:
   - Weapon
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:renegotiated-contract-11-drama
+  - mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:renegotiated-contract
 scdc:
   - 1.1.1:11.3.3.7:03
 source: mcdm.heroes.v1

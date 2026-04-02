@@ -16,7 +16,7 @@ keywords:
   - Area
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:blot-out-the-sun-11-focus
+  - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:blot-out-the-sun
 scdc:
   - 1.1.1:11.3.4.7:02
 source: mcdm.heroes.v1
