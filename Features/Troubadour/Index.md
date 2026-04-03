@@ -7,12 +7,6 @@ type: index
 
 | File Name                                                                                                                      | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [Applause](10th-Level%20Features/Applause)                                                                                     |          |      | 10    | trait        | feature     |          |        |
-| [Characteristic Increase](10th-Level%20Features/Characteristic%20Increase)                                                     |          |      | 10    | trait        | feature     |          |        |
-| [Dramaturgy](10th-Level%20Features/Dramaturgy)                                                                                 |          |      | 10    | trait        | feature     |          |        |
-| [Greatest of All Time](10th-Level%20Features/Greatest%20of%20All%20Time)                                                       |          |      | 10    | trait        | feature     |          |        |
-| [Perk](10th-Level%20Features/Perk)                                                                                             |          |      | 10    | trait        | feature     |          |        |
-| [Skill](10th-Level%20Features/Skill)                                                                                           |          |      | 10    | trait        | feature     |          |        |
 | [1st Level Class Act Features](1st-Level%20Features/1st%20Level%20Class%20Act%20Features)                                      |          |      | 1     | trait        | feature     |          |        |
 | └── [Acrobatics](1st-Level%20Features/1st-Level%20Class%20Act%20Features/Acrobatics)                                           |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Blocking](1st-Level%20Features/1st-Level%20Class%20Act%20Features/Blocking)                                               |          |      | 1     | subtrait     | feature     |          |        |
@@ -22,8 +16,8 @@ type: index
 | └── [Virtuoso Performances](1st-Level%20Features/1st-Level%20Class%20Act%20Features/Virtuoso%20Performances)                   |          |      | 1     | subtrait     | feature     |          |        |
 | [Class Act Triggered Action](1st-Level%20Features/Class%20Act%20Triggered%20Action)                                            |          |      | 1     | trait        | feature     |          |        |
 | [Drama](1st-Level%20Features/Drama)                                                                                            |          |      | 1     | trait        | feature     |          |        |
-| └── [Drama in Combat](1st-Level%20Features/Drama/Drama%20in%20Combat)                                                          |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Drama Outside of Combat](1st-Level%20Features/Drama/Drama%20Outside%20of%20Combat)                                        |          |      | 1     | subtrait     | feature     |          |        |
+| └── [Drama in Combat](1st-Level%20Features/Drama/Drama%20in%20Combat)                                                          |          |      | 1     | subtrait     | feature     |          |        |
 | [Kit](1st-Level%20Features/Kit)                                                                                                |          |      | 1     | trait        | feature     |          |        |
 | [Routines](1st-Level%20Features/Routines)                                                                                      |          |      | 1     | trait        | feature     |          |        |
 | [Scene Partner](1st-Level%20Features/Scene%20Partner)                                                                          |          |      | 1     | trait        | feature     |          |        |
@@ -83,3 +77,9 @@ type: index
 | └── [9th Level Duelist Abilities](9th-Level%20Features/9th-Level%20Class%20Act%20Ability/9th%20Level%20Duelist%20Abilities)    |          |      | 9     | subtrait     | feature     |          |        |
 | └── [9th Level Virtuoso Abilities](9th-Level%20Features/9th-Level%20Class%20Act%20Ability/9th%20Level%20Virtuoso%20Abilities)  |          |      | 9     | subtrait     | feature     |          |        |
 | [Roar of the Crowd](9th-Level%20Features/Roar%20of%20the%20Crowd)                                                              |          |      | 9     | trait        | feature     |          |        |
+| [Applause](10th-Level%20Features/Applause)                                                                                     |          |      | 10    | trait        | feature     |          |        |
+| [Characteristic Increase](10th-Level%20Features/Characteristic%20Increase)                                                     |          |      | 10    | trait        | feature     |          |        |
+| [Dramaturgy](10th-Level%20Features/Dramaturgy)                                                                                 |          |      | 10    | trait        | feature     |          |        |
+| [Greatest of All Time](10th-Level%20Features/Greatest%20of%20All%20Time)                                                       |          |      | 10    | trait        | feature     |          |        |
+| [Perk](10th-Level%20Features/Perk)                                                                                             |          |      | 10    | trait        | feature     |          |        |
+| [Skill](10th-Level%20Features/Skill)                                                                                           |          |      | 10    | trait        | feature     |          |        |

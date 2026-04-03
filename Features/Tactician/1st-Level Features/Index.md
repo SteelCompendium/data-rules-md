@@ -14,8 +14,8 @@ type: index
 | [Doctrine Triggered Action](Doctrine%20Triggered%20Action)                      |          |      | 1     | trait        | feature     |          |        |
 | [Field Arsenal](Field%20Arsenal)                                                |          |      | 1     | trait        | feature     |          |        |
 | [Focus](Focus)                                                                  |          |      | 1     | trait        | feature     |          |        |
-| └── [Focus in Combat](Focus/Focus%20in%20Combat)                                |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Focus Outside of Combat](Focus/Focus%20Outside%20of%20Combat)              |          |      | 1     | subtrait     | feature     |          |        |
+| └── [Focus in Combat](Focus/Focus%20in%20Combat)                                |          |      | 1     | subtrait     | feature     |          |        |
 | [Mark](Mark)                                                                    |          |      | 1     | trait        | feature     |          |        |
 | [Strike Now](Strike%20Now)                                                      |          |      | 1     | trait        | feature     |          |        |
 | [Tactical Doctrine](Tactical%20Doctrine)                                        |          |      | 1     | trait        | feature     |          |        |

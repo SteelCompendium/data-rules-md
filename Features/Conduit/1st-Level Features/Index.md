@@ -44,8 +44,8 @@ type: index
 | └── [Sun Domain Piety and Effect](Piety/Domain%20Piety%20And%20Effects/Sun%20Domain%20Piety%20and%20Effect)               |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Trickery Domain Piety and Effect](Piety/Domain%20Piety%20And%20Effects/Trickery%20Domain%20Piety%20and%20Effect)     |          |      | 1     | subtrait     | feature     |          |        |
 | └── [War Domain Piety and Effect](Piety/Domain%20Piety%20And%20Effects/War%20Domain%20Piety%20and%20Effect)               |          |      | 1     | subtrait     | feature     |          |        |
-| └── [Piety in Combat](Piety/Piety%20in%20Combat)                                                                          |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Piety Outside of Combat](Piety/Piety%20Outside%20of%20Combat)                                                        |          |      | 1     | subtrait     | feature     |          |        |
+| └── [Piety in Combat](Piety/Piety%20in%20Combat)                                                                          |          |      | 1     | subtrait     | feature     |          |        |
 | [Prayer](Prayer)                                                                                                          |          |      | 1     | trait        | feature     |          |        |
 | └── [Prayer of Destruction](Prayer/Prayer%20of%20Destruction)                                                             |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Prayer of Distance](Prayer/Prayer%20of%20Distance)                                                                   |          |      | 1     | subtrait     | feature     |          |        |

@@ -15,8 +15,8 @@ type: index
 | └── [Relentless Hunter](1st-Level%20Aspect%20Features/Relentless%20Hunter)     |          |      | 1     | subtrait     | feature     |          |        |
 | [Aspect Triggered Action](Aspect%20Triggered%20Action)                         |          |      | 1     | trait        | feature     |          |        |
 | [Ferocity](Ferocity)                                                           |          |      | 1     | trait        | feature     |          |        |
-| └── [Ferocity in Combat](Ferocity/Ferocity%20in%20Combat)                      |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Ferocity Outside of Combat](Ferocity/Ferocity%20Outside%20of%20Combat)    |          |      | 1     | subtrait     | feature     |          |        |
+| └── [Ferocity in Combat](Ferocity/Ferocity%20in%20Combat)                      |          |      | 1     | subtrait     | feature     |          |        |
 | [Fury Abilities](Fury%20Abilities)                                             |          |      | 1     | trait        | feature     |          |        |
 | └── [Heroic Abilities](Fury%20Abilities/Heroic%20Abilities)                    |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Signature Ability](Fury%20Abilities/Signature%20Ability)                  |          |      | 1     | subtrait     | feature     |          |        |

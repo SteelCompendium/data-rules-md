@@ -7,12 +7,6 @@ type: index
 
 | File Name                                                                                                                  | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
 | -------------------------------------------------------------------------------------------------------------------------- | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [Characteristic Increase](10th-Level%20Features/Characteristic%20Increase)                                                 |          |      | 10    | trait        | feature     |          |        |
-| [Perk](10th-Level%20Features/Perk)                                                                                         |          |      | 10    | trait        | feature     |          |        |
-| [Skill](10th-Level%20Features/Skill)                                                                                       |          |      | 10    | trait        | feature     |          |        |
-| [Templar](10th-Level%20Features/Templar)                                                                                   |          |      | 10    | trait        | feature     |          |        |
-| [Virtue](10th-Level%20Features/Virtue)                                                                                     |          |      | 10    | trait        | feature     |          |        |
-| [Wrath of the Gods](10th-Level%20Features/Wrath%20of%20the%20Gods)                                                         |          |      | 10    | trait        | feature     |          |        |
 | [1st Level Domain Feature](1st-Level%20Features/1st%20Level%20Domain%20Feature)                                            |          |      | 1     | trait        | feature     |          |        |
 | └── [Blessing of Compassion](1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Compassion)                 |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Blessing of Comprehension](1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Comprehension)           |          |      | 1     | subtrait     | feature     |          |        |
@@ -36,8 +30,8 @@ type: index
 | [Kit](1st-Level%20Features/Kit)                                                                                            |          |      | 1     | trait        | feature     |          |        |
 | [My Life for Yours](1st-Level%20Features/My%20Life%20for%20Yours)                                                          |          |      | 1     | trait        | feature     |          |        |
 | [Wrath](1st-Level%20Features/Wrath)                                                                                        |          |      | 1     | trait        | feature     |          |        |
-| └── [Wrath in Combat](1st-Level%20Features/Wrath/Wrath%20in%20Combat)                                                      |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Wrath Outside of Combat](1st-Level%20Features/Wrath/Wrath%20Outside%20of%20Combat)                                    |          |      | 1     | subtrait     | feature     |          |        |
+| └── [Wrath in Combat](1st-Level%20Features/Wrath/Wrath%20in%20Combat)                                                      |          |      | 1     | subtrait     | feature     |          |        |
 | [2nd Level Order Ability](2nd-Level%20Features/2nd%20Level%20Order%20Ability)                                              |          |      | 2     | trait        | feature     |          |        |
 | └── [2nd Level Exorcist Ability](2nd-Level%20Features/2nd-Level%20Order%20Ability/2nd%20Level%20Exorcist%20Ability)        |          |      | 2     | subtrait     | feature     |          |        |
 | └── [2nd Level Oracle Ability](2nd-Level%20Features/2nd-Level%20Order%20Ability/2nd%20Level%20Oracle%20Ability)            |          |      | 2     | subtrait     | feature     |          |        |
@@ -104,3 +98,9 @@ type: index
 | └── [9th Level Oracle Abilities](9th-Level%20Features/9th-Level%20Order%20Ability/9th%20Level%20Oracle%20Abilities)        |          |      | 9     | subtrait     | feature     |          |        |
 | └── [9th Level Paragon Abilities](9th-Level%20Features/9th-Level%20Order%20Ability/9th%20Level%20Paragon%20Abilities)      |          |      | 9     | subtrait     | feature     |          |        |
 | [Improved Implement of Wrath](9th-Level%20Features/Improved%20Implement%20of%20Wrath)                                      |          |      | 9     | trait        | feature     |          |        |
+| [Characteristic Increase](10th-Level%20Features/Characteristic%20Increase)                                                 |          |      | 10    | trait        | feature     |          |        |
+| [Perk](10th-Level%20Features/Perk)                                                                                         |          |      | 10    | trait        | feature     |          |        |
+| [Skill](10th-Level%20Features/Skill)                                                                                       |          |      | 10    | trait        | feature     |          |        |
+| [Templar](10th-Level%20Features/Templar)                                                                                   |          |      | 10    | trait        | feature     |          |        |
+| [Virtue](10th-Level%20Features/Virtue)                                                                                     |          |      | 10    | trait        | feature     |          |        |
+| [Wrath of the Gods](10th-Level%20Features/Wrath%20of%20the%20Gods)                                                         |          |      | 10    | trait        | feature     |          |        |

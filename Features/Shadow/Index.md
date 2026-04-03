@@ -7,13 +7,6 @@ type: index
 
 | File Name                                                                                                                                 | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [Careful Observation Improvement](10th-Level%20Features/Careful%20Observation%20Improvement)                                              |          |      | 10    | trait        | feature     |          |        |
-| [Characteristic Increase](10th-Level%20Features/Characteristic%20Increase)                                                                |          |      | 10    | trait        | feature     |          |        |
-| [Death Pool](10th-Level%20Features/Death%20Pool)                                                                                          |          |      | 10    | trait        | feature     |          |        |
-| [Improved Umbral Form](10th-Level%20Features/Improved%20Umbral%20Form)                                                                    |          |      | 10    | trait        | feature     |          |        |
-| [Perk](10th-Level%20Features/Perk)                                                                                                        |          |      | 10    | trait        | feature     |          |        |
-| [Skill](10th-Level%20Features/Skill)                                                                                                      |          |      | 10    | trait        | feature     |          |        |
-| [Subterfuge](10th-Level%20Features/Subterfuge)                                                                                            |          |      | 10    | trait        | feature     |          |        |
 | [1st Level College Features](1st-Level%20Features/1st%20Level%20College%20Features)                                                       |          |      | 1     | trait        | feature     |          |        |
 | └── [Black Ash Teleport](1st-Level%20Features/1st-Level%20College%20Features/Black%20Ash%20Teleport)                                      |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Coat the Blade](1st-Level%20Features/1st-Level%20College%20Features/Coat%20the%20Blade)                                              |          |      | 1     | subtrait     | feature     |          |        |
@@ -22,8 +15,8 @@ type: index
 | [College Triggered Action](1st-Level%20Features/College%20Triggered%20Action)                                                             |          |      | 1     | trait        | feature     |          |        |
 | [Hesitation Is Weakness](1st-Level%20Features/Hesitation%20Is%20Weakness)                                                                 |          |      | 1     | trait        | feature     |          |        |
 | [Insight](1st-Level%20Features/Insight)                                                                                                   |          |      | 1     | trait        | feature     |          |        |
-| └── [Insight in Combat](1st-Level%20Features/Insight/Insight%20in%20Combat)                                                               |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Insight Outside of Combat](1st-Level%20Features/Insight/Insight%20Outside%20of%20Combat)                                             |          |      | 1     | subtrait     | feature     |          |        |
+| └── [Insight in Combat](1st-Level%20Features/Insight/Insight%20in%20Combat)                                                               |          |      | 1     | subtrait     | feature     |          |        |
 | [Kit](1st-Level%20Features/Kit)                                                                                                           |          |      | 1     | trait        | feature     |          |        |
 | [Shadow Abilities](1st-Level%20Features/Shadow%20Abilities)                                                                               |          |      | 1     | trait        | feature     |          |        |
 | └── [Heroic Abilities](1st-Level%20Features/Shadow%20Abilities/Heroic%20Abilities)                                                        |          |      | 1     | subtrait     | feature     |          |        |
@@ -70,3 +63,10 @@ type: index
 | └── [9th Level Caustic Alchemy Abilities](9th-Level%20Features/9th-Level%20College%20Ability/9th%20Level%20Caustic%20Alchemy%20Abilities) |          |      | 9     | subtrait     | feature     |          |        |
 | └── [9th Level Harlequin Mask Abilities](9th-Level%20Features/9th-Level%20College%20Ability/9th%20Level%20Harlequin%20Mask%20Abilities)   |          |      | 9     | subtrait     | feature     |          |        |
 | [Gloom Squad](9th-Level%20Features/Gloom%20Squad)                                                                                         |          |      | 9     | trait        | feature     |          |        |
+| [Careful Observation Improvement](10th-Level%20Features/Careful%20Observation%20Improvement)                                              |          |      | 10    | trait        | feature     |          |        |
+| [Characteristic Increase](10th-Level%20Features/Characteristic%20Increase)                                                                |          |      | 10    | trait        | feature     |          |        |
+| [Death Pool](10th-Level%20Features/Death%20Pool)                                                                                          |          |      | 10    | trait        | feature     |          |        |
+| [Improved Umbral Form](10th-Level%20Features/Improved%20Umbral%20Form)                                                                    |          |      | 10    | trait        | feature     |          |        |
+| [Perk](10th-Level%20Features/Perk)                                                                                                        |          |      | 10    | trait        | feature     |          |        |
+| [Skill](10th-Level%20Features/Skill)                                                                                                      |          |      | 10    | trait        | feature     |          |        |
+| [Subterfuge](10th-Level%20Features/Subterfuge)                                                                                            |          |      | 10    | trait        | feature     |          |        |

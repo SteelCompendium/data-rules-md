@@ -16,8 +16,8 @@ type: index
 | └── [Virtuoso Performances](1st-Level%20Class%20Act%20Features/Virtuoso%20Performances) |          |      | 1     | subtrait     | feature     |          |        |
 | [Class Act Triggered Action](Class%20Act%20Triggered%20Action)                          |          |      | 1     | trait        | feature     |          |        |
 | [Drama](Drama)                                                                          |          |      | 1     | trait        | feature     |          |        |
-| └── [Drama in Combat](Drama/Drama%20in%20Combat)                                        |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Drama Outside of Combat](Drama/Drama%20Outside%20of%20Combat)                      |          |      | 1     | subtrait     | feature     |          |        |
+| └── [Drama in Combat](Drama/Drama%20in%20Combat)                                        |          |      | 1     | subtrait     | feature     |          |        |
 | [Kit](Kit)                                                                              |          |      | 1     | trait        | feature     |          |        |
 | [Routines](Routines)                                                                    |          |      | 1     | trait        | feature     |          |        |
 | [Scene Partner](Scene%20Partner)                                                        |          |      | 1     | trait        | feature     |          |        |

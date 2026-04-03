@@ -52,14 +52,14 @@ type: index
 | [Hunted](Hunted)                                                         |
 | [Hunter](Hunter)                                                         |
 | [Indebted](Indebted)                                                     |
-| [Infernal Contract But Like Bad](Infernal%20Contract%20But%20Like%20Bad) |
 | [Infernal Contract](Infernal%20Contract)                                 |
+| [Infernal Contract But Like Bad](Infernal%20Contract%20But%20Like%20Bad) |
 | [Ivory Tower](Ivory%20Tower)                                             |
 | [Lifebonded](Lifebonded)                                                 |
 | [Lightning Soul](Lightning%20Soul)                                       |
 | [Loner](Loner)                                                           |
-| [Lost in Time](Lost%20in%20Time)                                         |
 | [Lost Your Head](Lost%20Your%20Head)                                     |
+| [Lost in Time](Lost%20in%20Time)                                         |
 | [Lucky](Lucky)                                                           |
 | [Master Chef](Master%20Chef)                                             |
 | [Meddling Butler](Meddling%20Butler)                                     |

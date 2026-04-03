@@ -32,8 +32,8 @@ type: index
 | └── [Enchantment of Distance](Enchantment/Enchantment%20of%20Distance)                                      |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Enchantment of Permanence](Enchantment/Enchantment%20of%20Permanence)                                  |          |      | 1     | subtrait     | feature     |          |        |
 | [Essence](Essence)                                                                                          |          |      | 1     | trait        | feature     |          |        |
-| └── [Essence in Combat](Essence/Essence%20in%20Combat)                                                      |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Essence Outside of Combat](Essence/Essence%20Outside%20of%20Combat)                                    |          |      | 1     | subtrait     | feature     |          |        |
+| └── [Essence in Combat](Essence/Essence%20in%20Combat)                                                      |          |      | 1     | subtrait     | feature     |          |        |
 | [Hurl Element](Hurl%20Element)                                                                              |          |      | 1     | trait        | feature     |          |        |
 | [Persistent Magic](Persistent%20Magic)                                                                      |          |      | 1     | trait        | feature     |          |        |
 | [Practical Magic](Practical%20Magic)                                                                        |          |      | 1     | trait        | feature     |          |        |

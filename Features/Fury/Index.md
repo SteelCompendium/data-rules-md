@@ -7,13 +7,6 @@ type: index
 
 | File Name                                                                                                                    | Subclass   | Cost | Level | Feature Type | Action Type | Distance | Target |
 | ---------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [Chaos Incarnate](10th-Level%20Features/Chaos%20Incarnate)                                                                   |            |      | 10    | trait        | feature     |          |        |
-| [Characteristic Increase](10th-Level%20Features/Characteristic%20Increase)                                                   |            |      | 10    | trait        | feature     |          |        |
-| [Growing Ferocity Improvement](10th-Level%20Features/Growing%20Ferocity%20Improvement)                                       |            |      | 10    | trait        | feature     |          |        |
-| [Perk](10th-Level%20Features/Perk)                                                                                           |            |      | 10    | trait        | feature     |          |        |
-| [Primordial Ferocity](10th-Level%20Features/Primordial%20Ferocity)                                                           |            |      | 10    | trait        | feature     |          |        |
-| [Primordial Power](10th-Level%20Features/Primordial%20Power)                                                                 |            |      | 10    | trait        | feature     |          |        |
-| [Skill](10th-Level%20Features/Skill)                                                                                         |            |      | 10    | trait        | feature     |          |        |
 | [1st Level Aspect Features](1st-Level%20Features/1st%20Level%20Aspect%20Features)                                            |            |      | 1     | trait        | feature     |          |        |
 | └── [Beast Shape](1st-Level%20Features/1st-Level%20Aspect%20Features/Beast%20Shape)                                          |            |      | 1     | subtrait     | feature     |          |        |
 | └── [Kit](1st-Level%20Features/1st-Level%20Aspect%20Features/Kit)                                                            |            |      | 1     | subtrait     | feature     |          |        |
@@ -22,8 +15,8 @@ type: index
 | └── [Relentless Hunter](1st-Level%20Features/1st-Level%20Aspect%20Features/Relentless%20Hunter)                              |            |      | 1     | subtrait     | feature     |          |        |
 | [Aspect Triggered Action](1st-Level%20Features/Aspect%20Triggered%20Action)                                                  |            |      | 1     | trait        | feature     |          |        |
 | [Ferocity](1st-Level%20Features/Ferocity)                                                                                    |            |      | 1     | trait        | feature     |          |        |
-| └── [Ferocity in Combat](1st-Level%20Features/Ferocity/Ferocity%20in%20Combat)                                               |            |      | 1     | subtrait     | feature     |          |        |
 | └── [Ferocity Outside of Combat](1st-Level%20Features/Ferocity/Ferocity%20Outside%20of%20Combat)                             |            |      | 1     | subtrait     | feature     |          |        |
+| └── [Ferocity in Combat](1st-Level%20Features/Ferocity/Ferocity%20in%20Combat)                                               |            |      | 1     | subtrait     | feature     |          |        |
 | [Fury Abilities](1st-Level%20Features/Fury%20Abilities)                                                                      |            |      | 1     | trait        | feature     |          |        |
 | └── [Heroic Abilities](1st-Level%20Features/Fury%20Abilities/Heroic%20Abilities)                                             |            |      | 1     | subtrait     | feature     |          |        |
 | └── [Signature Ability](1st-Level%20Features/Fury%20Abilities/Signature%20Ability)                                           |            |      | 1     | subtrait     | feature     |          |        |
@@ -76,3 +69,10 @@ type: index
 | └── [9th Level Reaver Abilities](9th-Level%20Features/9th-Level%20Aspect%20Ability/9th%20Level%20Reaver%20Abilities)         |            |      | 9     | subtrait     | feature     |          |        |
 | └── [9th Level Stormwight Abilities](9th-Level%20Features/9th-Level%20Aspect%20Ability/9th%20Level%20Stormwight%20Abilities) |            |      | 9     | subtrait     | feature     |          |        |
 | [Harbinger of the Primordial Chaos](9th-Level%20Features/Harbinger%20of%20the%20Primordial%20Chaos)                          |            |      | 9     | trait        | feature     |          |        |
+| [Chaos Incarnate](10th-Level%20Features/Chaos%20Incarnate)                                                                   |            |      | 10    | trait        | feature     |          |        |
+| [Characteristic Increase](10th-Level%20Features/Characteristic%20Increase)                                                   |            |      | 10    | trait        | feature     |          |        |
+| [Growing Ferocity Improvement](10th-Level%20Features/Growing%20Ferocity%20Improvement)                                       |            |      | 10    | trait        | feature     |          |        |
+| [Perk](10th-Level%20Features/Perk)                                                                                           |            |      | 10    | trait        | feature     |          |        |
+| [Primordial Ferocity](10th-Level%20Features/Primordial%20Ferocity)                                                           |            |      | 10    | trait        | feature     |          |        |
+| [Primordial Power](10th-Level%20Features/Primordial%20Power)                                                                 |            |      | 10    | trait        | feature     |          |        |
+| [Skill](10th-Level%20Features/Skill)                                                                                         |            |      | 10    | trait        | feature     |          |        |

@@ -20,8 +20,8 @@ type: index
 | [Ive Got You](Exploration%20Perks/Ive%20Got%20You)                          |
 | [Monster Whisperer](Exploration%20Perks/Monster%20Whisperer)                |
 | [Put Your Back Into It](Exploration%20Perks/Put%20Your%20Back%20Into%20It)  |
-| [Team Leader](Exploration%20Perks/Team%20Leader)                            |
 | [Teamwork](Exploration%20Perks/Teamwork)                                    |
+| [Team Leader](Exploration%20Perks/Team%20Leader)                            |
 | [Wood Wise](Exploration%20Perks/Wood%20Wise)                                |
 | [Charming Liar](Interpersonal%20Perks/Charming%20Liar)                      |
 | [Dazzler](Interpersonal%20Perks/Dazzler)                                    |

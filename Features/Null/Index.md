@@ -7,16 +7,9 @@ type: index
 
 | File Name                                                                                                                             | Subclass      | Cost | Level | Feature Type | Action Type | Distance | Target |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [Characteristic Increase](10th-Level%20Features/Characteristic%20Increase)                                                            |               |      | 10    | trait        | feature     |          |        |
-| [Discipline Mastery Improvement](10th-Level%20Features/Discipline%20Mastery%20Improvement)                                            |               |      | 10    | trait        | feature     |          |        |
-| [Manifold Body](10th-Level%20Features/Manifold%20Body)                                                                                |               |      | 10    | trait        | feature     |          |        |
-| [Manifold Resonance](10th-Level%20Features/Manifold%20Resonance)                                                                      |               |      | 10    | trait        | feature     |          |        |
-| [Order](10th-Level%20Features/Order)                                                                                                  |               |      | 10    | trait        | feature     |          |        |
-| [Perk](10th-Level%20Features/Perk)                                                                                                    |               |      | 10    | trait        | feature     |          |        |
-| [Skill](10th-Level%20Features/Skill)                                                                                                  |               |      | 10    | trait        | feature     |          |        |
 | [Discipline](1st-Level%20Features/Discipline)                                                                                         |               |      | 1     | trait        | feature     |          |        |
-| └── [Discipline in Combat](1st-Level%20Features/Discipline/Discipline%20in%20Combat)                                                  |               |      | 1     | subtrait     | feature     |          |        |
 | └── [Discipline Outside of Combat](1st-Level%20Features/Discipline/Discipline%20Outside%20of%20Combat)                                |               |      | 1     | subtrait     | feature     |          |        |
+| └── [Discipline in Combat](1st-Level%20Features/Discipline/Discipline%20in%20Combat)                                                  |               |      | 1     | subtrait     | feature     |          |        |
 | [Discipline Mastery](1st-Level%20Features/Discipline%20Mastery)                                                                       |               |      | 1     | trait        | feature     |          |        |
 | └── [Chronokinetic Mastery](1st-Level%20Features/Discipline%20Mastery/Chronokinetic%20Mastery)                                        |               |      | 1     | subtrait     | feature     |          |        |
 | └── [Cryokinetic Mastery](1st-Level%20Features/Discipline%20Mastery/Cryokinetic%20Mastery)                                            |               |      | 1     | subtrait     | feature     |          |        |
@@ -76,3 +69,10 @@ type: index
 | └── [9th Level Cryokinetic Abilities](9th-Level%20Features/9th-Level%20Tradition%20Ability/9th%20Level%20Cryokinetic%20Abilities)     |               |      | 9     | subtrait     | feature     |          |        |
 | └── [9th Level Metakinetic Abilities](9th-Level%20Features/9th-Level%20Tradition%20Ability/9th%20Level%20Metakinetic%20Abilities)     |               |      | 9     | subtrait     | feature     |          |        |
 | [I Am the Weapon](9th-Level%20Features/I%20Am%20the%20Weapon)                                                                         |               |      | 9     | trait        | feature     |          |        |
+| [Characteristic Increase](10th-Level%20Features/Characteristic%20Increase)                                                            |               |      | 10    | trait        | feature     |          |        |
+| [Discipline Mastery Improvement](10th-Level%20Features/Discipline%20Mastery%20Improvement)                                            |               |      | 10    | trait        | feature     |          |        |
+| [Manifold Body](10th-Level%20Features/Manifold%20Body)                                                                                |               |      | 10    | trait        | feature     |          |        |
+| [Manifold Resonance](10th-Level%20Features/Manifold%20Resonance)                                                                      |               |      | 10    | trait        | feature     |          |        |
+| [Order](10th-Level%20Features/Order)                                                                                                  |               |      | 10    | trait        | feature     |          |        |
+| [Perk](10th-Level%20Features/Perk)                                                                                                    |               |      | 10    | trait        | feature     |          |        |
+| [Skill](10th-Level%20Features/Skill)                                                                                                  |               |      | 10    | trait        | feature     |          |        |

@@ -7,13 +7,6 @@ type: index
 
 | File Name                                                                                                                         | Subclass  | Cost | Level | Feature Type | Action Type | Distance | Target |
 | --------------------------------------------------------------------------------------------------------------------------------- | --------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [Characteristic Increase](10th-Level%20Features/Characteristic%20Increase)                                                        |           |      | 10    | trait        | feature     |          |        |
-| [Clear Mind](10th-Level%20Features/Clear%20Mind)                                                                                  |           |      | 10    | trait        | feature     |          |        |
-| [Omnisensory](10th-Level%20Features/Omnisensory)                                                                                  |           |      | 10    | trait        | feature     |          |        |
-| [Perk](10th-Level%20Features/Perk)                                                                                                |           |      | 10    | trait        | feature     |          |        |
-| [Psion](10th-Level%20Features/Psion)                                                                                              |           |      | 10    | trait        | feature     |          |        |
-| [Skill](10th-Level%20Features/Skill)                                                                                              |           |      | 10    | trait        | feature     |          |        |
-| [Vision](10th-Level%20Features/Vision)                                                                                            |           |      | 10    | trait        | feature     |          |        |
 | [1st Level Tradition Features](1st-Level%20Features/1st%20Level%20Tradition%20Features)                                           |           |      | 1     | trait        | feature     |          |        |
 | └── [Accelerate](1st-Level%20Features/1st-Level%20Tradition%20Features/Accelerate)                                                |           |      | 1     | subtrait     | feature     |          |        |
 | └── [Again](1st-Level%20Features/1st-Level%20Tradition%20Features/Again)                                                          |           |      | 1     | subtrait     | feature     |          |        |
@@ -21,8 +14,8 @@ type: index
 | └── [Minor Telekinesis](1st-Level%20Features/1st-Level%20Tradition%20Features/Minor%20Telekinesis)                                |           |      | 1     | subtrait     | feature     |          |        |
 | └── [Remote Assistance](1st-Level%20Features/1st-Level%20Tradition%20Features/Remote%20Assistance)                                |           |      | 1     | subtrait     | feature     |          |        |
 | [Clarity and Strain](1st-Level%20Features/Clarity%20and%20Strain)                                                                 |           |      | 1     | trait        | feature     |          |        |
-| └── [Clarity in Combat](1st-Level%20Features/Clarity%20And%20Strain/Clarity%20in%20Combat)                                        |           |      | 1     | subtrait     | feature     |          |        |
 | └── [Clarity Outside of Combat](1st-Level%20Features/Clarity%20And%20Strain/Clarity%20Outside%20of%20Combat)                      |           |      | 1     | subtrait     | feature     |          |        |
+| └── [Clarity in Combat](1st-Level%20Features/Clarity%20And%20Strain/Clarity%20in%20Combat)                                        |           |      | 1     | subtrait     | feature     |          |        |
 | [Mind Spike](1st-Level%20Features/Mind%20Spike)                                                                                   |           |      | 1     | trait        | feature     |          |        |
 | [Psionic Augmentation](1st-Level%20Features/Psionic%20Augmentation)                                                               |           |      | 1     | trait        | feature     |          |        |
 | └── [Battle Augmentation](1st-Level%20Features/Psionic%20Augmentation/Battle%20Augmentation)                                      |           |      | 1     | subtrait     | feature     |          |        |
@@ -46,8 +39,8 @@ type: index
 | └── [2nd Level Telekinesis Ability](2nd-Level%20Features/2nd-Level%20Tradition%20Ability/2nd%20Level%20Telekinesis%20Ability)     |           |      | 2     | subtrait     | feature     |          |        |
 | └── [2nd Level Telepathy Ability](2nd-Level%20Features/2nd-Level%20Tradition%20Ability/2nd%20Level%20Telepathy%20Ability)         |           |      | 2     | subtrait     | feature     |          |        |
 | [2nd Level Tradition Feature](2nd-Level%20Features/2nd%20Level%20Tradition%20Feature)                                             |           |      | 2     | trait        | feature     |          |        |
-| └── [Ease the Hours](2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Hours)                                     |           |      | 2     | subtrait     | feature     |          |        |
 | └── [Ease Their Fall](2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20Their%20Fall)                                   |           |      | 2     | subtrait     | feature     |          |        |
+| └── [Ease the Hours](2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Hours)                                     |           |      | 2     | subtrait     | feature     |          |        |
 | └── [Ease the Mind](2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Mind)                                       |           |      | 2     | subtrait     | feature     |          |        |
 | [Perk](2nd-Level%20Features/Perk)                                                                                                 |           |      | 2     | trait        | feature     |          |        |
 | [Scan](3rd-Level%20Features/Scan)                                                                                                 |           |      | 3     | trait        | feature     |          |        |
@@ -88,3 +81,10 @@ type: index
 | └── [9th Level Telekinesis Abilities](9th-Level%20Features/9th-Level%20Tradition%20Ability/9th%20Level%20Telekinesis%20Abilities) |           |      | 9     | subtrait     | feature     |          |        |
 | └── [9th Level Telepathy Abilities](9th-Level%20Features/9th-Level%20Tradition%20Ability/9th%20Level%20Telepathy%20Abilities)     |           |      | 9     | subtrait     | feature     |          |        |
 | [Fortress of Perfect Thought](9th-Level%20Features/Fortress%20of%20Perfect%20Thought)                                             |           |      | 9     | trait        | feature     |          |        |
+| [Characteristic Increase](10th-Level%20Features/Characteristic%20Increase)                                                        |           |      | 10    | trait        | feature     |          |        |
+| [Clear Mind](10th-Level%20Features/Clear%20Mind)                                                                                  |           |      | 10    | trait        | feature     |          |        |
+| [Omnisensory](10th-Level%20Features/Omnisensory)                                                                                  |           |      | 10    | trait        | feature     |          |        |
+| [Perk](10th-Level%20Features/Perk)                                                                                                |           |      | 10    | trait        | feature     |          |        |
+| [Psion](10th-Level%20Features/Psion)                                                                                              |           |      | 10    | trait        | feature     |          |        |
+| [Skill](10th-Level%20Features/Skill)                                                                                              |           |      | 10    | trait        | feature     |          |        |
+| [Vision](10th-Level%20Features/Vision)                                                                                            |           |      | 10    | trait        | feature     |          |        |

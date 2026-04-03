@@ -7,12 +7,6 @@ type: index
 
 | File Name                                                                                                                                  | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [Characteristic Increase](10th-Level%20Features/Characteristic%20Increase)                                                                 |          |      | 10    | trait        | feature     |          |        |
-| [Command](10th-Level%20Features/Command)                                                                                                   |          |      | 10    | trait        | feature     |          |        |
-| [Perk](10th-Level%20Features/Perk)                                                                                                         |          |      | 10    | trait        | feature     |          |        |
-| [Skill](10th-Level%20Features/Skill)                                                                                                       |          |      | 10    | trait        | feature     |          |        |
-| [True Focus](10th-Level%20Features/True%20Focus)                                                                                           |          |      | 10    | trait        | feature     |          |        |
-| [Warmaster](10th-Level%20Features/Warmaster)                                                                                               |          |      | 10    | trait        | feature     |          |        |
 | [1st Level Doctrine Feature](1st-Level%20Features/1st%20Level%20Doctrine%20Feature)                                                        |          |      | 1     | trait        | feature     |          |        |
 | └── [Commanding Presence](1st-Level%20Features/1st-Level%20Doctrine%20Feature/Commanding%20Presence)                                       |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Covert Operations](1st-Level%20Features/1st-Level%20Doctrine%20Feature/Covert%20Operations)                                           |          |      | 1     | subtrait     | feature     |          |        |
@@ -20,8 +14,8 @@ type: index
 | [Doctrine Triggered Action](1st-Level%20Features/Doctrine%20Triggered%20Action)                                                            |          |      | 1     | trait        | feature     |          |        |
 | [Field Arsenal](1st-Level%20Features/Field%20Arsenal)                                                                                      |          |      | 1     | trait        | feature     |          |        |
 | [Focus](1st-Level%20Features/Focus)                                                                                                        |          |      | 1     | trait        | feature     |          |        |
-| └── [Focus in Combat](1st-Level%20Features/Focus/Focus%20in%20Combat)                                                                      |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Focus Outside of Combat](1st-Level%20Features/Focus/Focus%20Outside%20of%20Combat)                                                    |          |      | 1     | subtrait     | feature     |          |        |
+| └── [Focus in Combat](1st-Level%20Features/Focus/Focus%20in%20Combat)                                                                      |          |      | 1     | subtrait     | feature     |          |        |
 | [Mark](1st-Level%20Features/Mark)                                                                                                          |          |      | 1     | trait        | feature     |          |        |
 | [Strike Now](1st-Level%20Features/Strike%20Now)                                                                                            |          |      | 1     | trait        | feature     |          |        |
 | [Tactical Doctrine](1st-Level%20Features/Tactical%20Doctrine)                                                                              |          |      | 1     | trait        | feature     |          |        |
@@ -74,3 +68,9 @@ type: index
 | └── [9th Level Mastermind Abilities](9th-Level%20Features/9th-Level%20Doctrine%20Ability/9th%20Level%20Mastermind%20Abilities)             |          |      | 9     | subtrait     | feature     |          |        |
 | └── [9th Level Vanguard Abilities](9th-Level%20Features/9th-Level%20Doctrine%20Ability/9th%20Level%20Vanguard%20Abilities)                 |          |      | 9     | subtrait     | feature     |          |        |
 | [Grandmaster of Arms](9th-Level%20Features/Grandmaster%20of%20Arms)                                                                        |          |      | 9     | trait        | feature     |          |        |
+| [Characteristic Increase](10th-Level%20Features/Characteristic%20Increase)                                                                 |          |      | 10    | trait        | feature     |          |        |
+| [Command](10th-Level%20Features/Command)                                                                                                   |          |      | 10    | trait        | feature     |          |        |
+| [Perk](10th-Level%20Features/Perk)                                                                                                         |          |      | 10    | trait        | feature     |          |        |
+| [Skill](10th-Level%20Features/Skill)                                                                                                       |          |      | 10    | trait        | feature     |          |        |
+| [True Focus](10th-Level%20Features/True%20Focus)                                                                                           |          |      | 10    | trait        | feature     |          |        |
+| [Warmaster](10th-Level%20Features/Warmaster)                                                                                               |          |      | 10    | trait        | feature     |          |        |

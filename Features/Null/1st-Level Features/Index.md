@@ -8,8 +8,8 @@ type: index
 | File Name                                                                         | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
 | --------------------------------------------------------------------------------- | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
 | [Discipline](Discipline)                                                          |          |      | 1     | trait        | feature     |          |        |
-| └── [Discipline in Combat](Discipline/Discipline%20in%20Combat)                   |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Discipline Outside of Combat](Discipline/Discipline%20Outside%20of%20Combat) |          |      | 1     | subtrait     | feature     |          |        |
+| └── [Discipline in Combat](Discipline/Discipline%20in%20Combat)                   |          |      | 1     | subtrait     | feature     |          |        |
 | [Discipline Mastery](Discipline%20Mastery)                                        |          |      | 1     | trait        | feature     |          |        |
 | └── [Chronokinetic Mastery](Discipline%20Mastery/Chronokinetic%20Mastery)         |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Cryokinetic Mastery](Discipline%20Mastery/Cryokinetic%20Mastery)             |          |      | 1     | subtrait     | feature     |          |        |

@@ -7,12 +7,6 @@ type: index
 
 | File Name                                                                                                                                      | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [Avatar](10th-Level%20Features/Avatar)                                                                                                         |          |      | 10    | trait        | feature     |          |        |
-| [Characteristic Increase](10th-Level%20Features/Characteristic%20Increase)                                                                     |          |      | 10    | trait        | feature     |          |        |
-| [Divine Power](10th-Level%20Features/Divine%20Power)                                                                                           |          |      | 10    | trait        | feature     |          |        |
-| [Most Pious](10th-Level%20Features/Most%20Pious)                                                                                               |          |      | 10    | trait        | feature     |          |        |
-| [Perk](10th-Level%20Features/Perk)                                                                                                             |          |      | 10    | trait        | feature     |          |        |
-| [Skill](10th-Level%20Features/Skill)                                                                                                           |          |      | 10    | trait        | feature     |          |        |
 | [1st Level Domain Feature](1st-Level%20Features/1st%20Level%20Domain%20Feature)                                                                |          |      | 1     | trait        | feature     |          |        |
 | └── [Blessing of Compassion](1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Compassion)                                     |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Blessing of Comprehension](1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Comprehension)                               |          |      | 1     | subtrait     | feature     |          |        |
@@ -50,8 +44,8 @@ type: index
 | └── [Sun Domain Piety and Effect](1st-Level%20Features/Piety/Domain%20Piety%20And%20Effects/Sun%20Domain%20Piety%20and%20Effect)               |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Trickery Domain Piety and Effect](1st-Level%20Features/Piety/Domain%20Piety%20And%20Effects/Trickery%20Domain%20Piety%20and%20Effect)     |          |      | 1     | subtrait     | feature     |          |        |
 | └── [War Domain Piety and Effect](1st-Level%20Features/Piety/Domain%20Piety%20And%20Effects/War%20Domain%20Piety%20and%20Effect)               |          |      | 1     | subtrait     | feature     |          |        |
-| └── [Piety in Combat](1st-Level%20Features/Piety/Piety%20in%20Combat)                                                                          |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Piety Outside of Combat](1st-Level%20Features/Piety/Piety%20Outside%20of%20Combat)                                                        |          |      | 1     | subtrait     | feature     |          |        |
+| └── [Piety in Combat](1st-Level%20Features/Piety/Piety%20in%20Combat)                                                                          |          |      | 1     | subtrait     | feature     |          |        |
 | [Prayer](1st-Level%20Features/Prayer)                                                                                                          |          |      | 1     | trait        | feature     |          |        |
 | └── [Prayer of Destruction](1st-Level%20Features/Prayer/Prayer%20of%20Destruction)                                                             |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Prayer of Distance](1st-Level%20Features/Prayer/Prayer%20of%20Distance)                                                                   |          |      | 1     | subtrait     | feature     |          |        |
@@ -107,3 +101,9 @@ type: index
 | [9th Level Domain Ability](9th-Level%20Features/9th%20Level%20Domain%20Ability)                                                                |          |      | 9     | trait        | feature     |          |        |
 | [Faiths Sword](9th-Level%20Features/Faiths%20Sword)                                                                                            |          |      | 9     | trait        | feature     |          |        |
 | [Ordained](9th-Level%20Features/Ordained)                                                                                                      |          |      | 9     | trait        | feature     |          |        |
+| [Avatar](10th-Level%20Features/Avatar)                                                                                                         |          |      | 10    | trait        | feature     |          |        |
+| [Characteristic Increase](10th-Level%20Features/Characteristic%20Increase)                                                                     |          |      | 10    | trait        | feature     |          |        |
+| [Divine Power](10th-Level%20Features/Divine%20Power)                                                                                           |          |      | 10    | trait        | feature     |          |        |
+| [Most Pious](10th-Level%20Features/Most%20Pious)                                                                                               |          |      | 10    | trait        | feature     |          |        |
+| [Perk](10th-Level%20Features/Perk)                                                                                                             |          |      | 10    | trait        | feature     |          |        |
+| [Skill](10th-Level%20Features/Skill)                                                                                                           |          |      | 10    | trait        | feature     |          |        |

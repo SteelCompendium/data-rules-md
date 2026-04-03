@@ -15,8 +15,8 @@ type: index
 | [College Triggered Action](College%20Triggered%20Action)                        |          |      | 1     | trait        | feature     |          |        |
 | [Hesitation Is Weakness](Hesitation%20Is%20Weakness)                            |          |      | 1     | trait        | feature     |          |        |
 | [Insight](Insight)                                                              |          |      | 1     | trait        | feature     |          |        |
-| └── [Insight in Combat](Insight/Insight%20in%20Combat)                          |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Insight Outside of Combat](Insight/Insight%20Outside%20of%20Combat)        |          |      | 1     | subtrait     | feature     |          |        |
+| └── [Insight in Combat](Insight/Insight%20in%20Combat)                          |          |      | 1     | subtrait     | feature     |          |        |
 | [Kit](Kit)                                                                      |          |      | 1     | trait        | feature     |          |        |
 | [Shadow Abilities](Shadow%20Abilities)                                          |          |      | 1     | trait        | feature     |          |        |
 | └── [Heroic Abilities](Shadow%20Abilities/Heroic%20Abilities)                   |          |      | 1     | subtrait     | feature     |          |        |

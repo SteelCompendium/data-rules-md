@@ -14,8 +14,8 @@ type: index
 | └── [Minor Telekinesis](1st-Level%20Tradition%20Features/Minor%20Telekinesis)           |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Remote Assistance](1st-Level%20Tradition%20Features/Remote%20Assistance)           |          |      | 1     | subtrait     | feature     |          |        |
 | [Clarity and Strain](Clarity%20and%20Strain)                                            |          |      | 1     | trait        | feature     |          |        |
-| └── [Clarity in Combat](Clarity%20And%20Strain/Clarity%20in%20Combat)                   |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Clarity Outside of Combat](Clarity%20And%20Strain/Clarity%20Outside%20of%20Combat) |          |      | 1     | subtrait     | feature     |          |        |
+| └── [Clarity in Combat](Clarity%20And%20Strain/Clarity%20in%20Combat)                   |          |      | 1     | subtrait     | feature     |          |        |
 | [Mind Spike](Mind%20Spike)                                                              |          |      | 1     | trait        | feature     |          |        |
 | [Psionic Augmentation](Psionic%20Augmentation)                                          |          |      | 1     | trait        | feature     |          |        |
 | └── [Battle Augmentation](Psionic%20Augmentation/Battle%20Augmentation)                 |          |      | 1     | subtrait     | feature     |          |        |

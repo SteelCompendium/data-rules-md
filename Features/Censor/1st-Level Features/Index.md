@@ -30,5 +30,5 @@ type: index
 | [Kit](Kit)                                                                                            |          |      | 1     | trait        | feature     |          |        |
 | [My Life for Yours](My%20Life%20for%20Yours)                                                          |          |      | 1     | trait        | feature     |          |        |
 | [Wrath](Wrath)                                                                                        |          |      | 1     | trait        | feature     |          |        |
-| └── [Wrath in Combat](Wrath/Wrath%20in%20Combat)                                                      |          |      | 1     | subtrait     | feature     |          |        |
 | └── [Wrath Outside of Combat](Wrath/Wrath%20Outside%20of%20Combat)                                    |          |      | 1     | subtrait     | feature     |          |        |
+| └── [Wrath in Combat](Wrath/Wrath%20in%20Combat)                                                      |          |      | 1     | subtrait     | feature     |          |        |
